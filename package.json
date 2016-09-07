@@ -17,5 +17,11 @@
     "gui"
   ],
   "author": "Christoph Minixhofer <christoph.minixhofer@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^4.0.0-alpha.4",
+    "css-loader": "^0.25.0",
+    "style-loader": "^0.13.1",
+    "webpack": "^1.13.2"
+  }
 }
