@@ -1,0 +1,21 @@
+{
+  "name": "frix-gui",
+  "version": "0.0.1",
+  "description": "A gui for frix.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MEH-Design/frix-gui.git"
+  },
+  "keywords": [
+    "atomic",
+    "design",
+    "frix",
+    "gui"
+  ],
+  "author": "Christoph Minixhofer <christoph.minixhofer@gmail.com>",
+  "license": "MIT"
+}
