@@ -18,10 +18,16 @@
   ],
   "author": "Christoph Minixhofer <christoph.minixhofer@gmail.com>",
   "license": "MIT",
-  "dependencies": {
-    "bootstrap": "^4.0.0-alpha.4",
-    "css-loader": "^0.25.0",
-    "style-loader": "^0.13.1",
-    "webpack": "^1.13.2"
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-connect": "^5.0.0",
+    "gulp-postcss": "^6.1.1",
+    "gulp-posthtml": "^1.5.2",
+    "keva": "^1.0.0",
+    "postcss-autoreset": "^1.1.5",
+    "postcss-cssnext": "^2.8.0",
+    "postcss-initial": "^1.5.2",
+    "posthtml-bem": "^0.2.2"
   }
 }
