@@ -14,8 +14,8 @@ gulp.task('html', function () {
     .pipe(posthtml([
         require('posthtml-bem')({
             elemPrefix: '__',
-            modPrefix: '_',
-            modDlmtr: '--'
+            modPrefix: '--',
+            modDlmtr: '_'
         })
     ]))
     .pipe(gulp.dest('build/'))

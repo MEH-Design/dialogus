@@ -1,3 +1,61 @@
+
 :root {
-  --mainColor: red;
+  /* namethatcolor */
+  --viking: #65c9d4;
+  --primrose: #ece09a;
+  /* brand */
+  --primary: var(--viking);
+  --secondary: var(--primrose);
+  --primary-gradient: linear-gradient(to bottom, var(--primary), rgba(0, 0, 0, 0)) 1 20%;
+  --secondary-gradient: linear-gradient(to top, var(--secondary), var(--primary)) 1 100%;
+  --border: .1rem;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+html {
+  height: 100%;
+  box-sizing: border-box;
+}
+
+body {
+  min-height: 100%;
+}
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  min-width: 100%;
+  min-height: 100%;
+  background: #eee;
+}
+
+.container__tab {
+  flex-grow: 1;
+  border-width: var(--border);
+  border-style: solid;
+  border-image: var(--secondary-gradient);
+  margin: calc(var(--border) * 4);
+  background: white;
+  min-height: 97vh;
+}
+
+.container__head {
+  border: var(--border) solid var(--primary);
+  border-left: none;
+  border-right: none;
+  width: 100%;
+  margin-top: -var(--border);
+  display: block;
+  text-align: center;
+}
+
+.container__head h1 {
+  padding: var(--border);
+  font-family: 'Abel', sans-serif;
+  font-weight: 100;
+  font-size: 2rem;
+  color: var(--primary);
 }
