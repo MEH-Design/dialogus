@@ -6,7 +6,7 @@
   /* brand */
   --primary: var(--viking);
   --secondary: var(--primrose);
-  --primary-gradient: linear-gradient(to bottom, var(--primary), rgba(0, 0, 0, 0)) 1 20%;
+  --primary-gradient: linear-gradient(to top, var(--primary), rgba(0, 0, 0, 0));
   --secondary-gradient: linear-gradient(to top, var(--secondary), var(--primary)) 1 100%;
   --border: .1rem;
 }
@@ -22,6 +22,8 @@ html {
 
 body {
   min-height: 100%;
+  margin: 0;
+  background: #eee;
 }
 
 .container {
@@ -29,7 +31,6 @@ body {
   flex-wrap: wrap;
   min-width: 100%;
   min-height: 100%;
-  background: #eee;
 }
 
 .container__tab {
@@ -38,8 +39,7 @@ body {
   border-style: solid;
   border-image: var(--secondary-gradient);
   margin: calc(var(--border) * 4);
-  background: white;
-  min-height: 97vh;
+  background: rgba(255,255,255,0.8);
 }
 
 .container__head {
@@ -49,13 +49,38 @@ body {
   width: 100%;
   margin-top: -var(--border);
   display: block;
-  text-align: center;
+  position: relative;
 }
 
 .container__head h1 {
   padding: var(--border);
   font-family: 'Abel', sans-serif;
-  font-weight: 100;
   font-size: 2rem;
   color: var(--primary);
+  margin: 0;
+  padding-right: calc(2.97rem +.5rem);
+  padding-left: .5rem;
+}
+
+.container__head h1:last-of-type {
+  position: absolute;
+  color: white;
+  font-family: 'Abel', sans-serif;
+  top: 0;
+  right: 0;
+  text-align: center;
+  width: 2.97rem;
+  height: 2.97rem;
+  margin-top: -var(--border);
+  margin-right: -var(--border);
+  border: var(--border) solid;
+  border-image: var(--primary-gradient) 1 100%;
+  display: block;
+  background-image: var(--primary-gradient);
+  padding-left: initial;
+  padding-right: initial;
+}
+
+.container__tab li {
+  list-style: none;
 }

@@ -27,12 +27,6 @@ gulp.task('css', () => {
         .pipe(postcss([
           require('postcss-cssnext')
         ]))
-        .pipe(postcss([
-          require('postcss-initial')
-        ]))
-        .pipe(postcss([
-          require('postcss-autoreset')
-        ]))
         .pipe(gulp.dest('build/'))
         .pipe(connect.reload());
 });
