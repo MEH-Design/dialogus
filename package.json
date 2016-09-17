@@ -24,6 +24,9 @@
     "gulp": "^3.9.1",
     "gulp-compile-handlebars": "^0.6.1",
     "gulp-connect": "^5.0.0",
+    "gulp-imagemin": "^3.0.3",
+    "gulp-inline": "^0.1.1",
+    "gulp-inline-svg": "^1.0.3",
     "gulp-postcss": "^6.1.1",
     "gulp-posthtml": "^1.5.2",
     "gulp-rename": "^1.2.2",
@@ -31,6 +34,7 @@
     "postcss-autoreset": "^1.1.5",
     "postcss-cssnext": "^2.8.0",
     "postcss-initial": "^1.5.2",
-    "posthtml-bem": "^0.2.2"
+    "posthtml-bem": "^0.2.2",
+    "posthtml-inline-assets": "^1.0.2"
   }
 }

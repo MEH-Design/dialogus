@@ -10,32 +10,56 @@
     <div block="container">
       <div elem="tab">
         <div elem="head">
-          <h1>Page</h1>
-          <h1>+</h1>
+          <h1 elem="heading">Page</h1>
+          <h1 elem="button" class="link">+</h1>
+          <img src="/monitor.svg" elem="button" mods="device selected" class="link" data-type="monitor"/>
+          <img src="/laptop.svg" elem="button" mods="device" class="link" data-type="laptop"/>
+          <img src="/tablet.svg" elem="button" mods="device" class="link" data-type="tablet"/>
+          <img src="/phone.svg" elem="button" mods="device" class="link" data-type="phone"/>
         </div>
         <ul block="page-list">
           {{#each page}}
             <li elem="item">
               <p elem="side">default</p>
-              <img src="http://placehold.it/100x200">
+              <div elem="screen" mods="monitor">
+                <iframe scrolling="no" src="https://css-tricks.com/">
+                </iframe>
+              </div>
               <p elem="side" mods="right">/home</p>
-              <h1 elem="edit">edit</h1>
+              <h1 elem="edit" class="link">edit</h1>
             </li>
           {{/each}}
         </ul>
       </div>
       <div elem="tab">
         <div elem="head">
-          <h1>Content</h1>
-          <h1>+</h1>
+          <h1 elem="heading">Content</h1>
+          <h1 elem="button" class="link">+</h1>
         </div>
       </div>
       <div elem="tab">
         <div elem="head">
-          <h1>Site</h1>
-          <h1>+</h1>
+          <h1 elem="heading">Site</h1>
+          <h1 elem="button" class="link">+</h1>
         </div>
       </div>
     </div>
+    <script>
+      let buttons = document.querySelectorAll('.container__button--device');
+      buttons.forEach((element) => {
+          element.addEventListener('click', (event) => {
+            buttons.forEach((element) => {
+              element.classList.remove('container__button--selected');
+            });
+            document
+              .querySelectorAll('.page-list__screen')
+              .forEach((element) => {
+                element.className = 'page-list__screen';
+                element.classList.add('page-list__screen--'+event.target.getAttribute('data-type'));
+              });
+            event.target.classList.add('container__button--selected');
+          });
+        })
+    </script>
   </body>
 </html>

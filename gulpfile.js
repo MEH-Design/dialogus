@@ -9,7 +9,9 @@ const postcss = require('gulp-postcss');
 const connect = require('gulp-connect');
 const handlebars = require('gulp-compile-handlebars');
 const rename = require('gulp-rename');
+const imagemin = require('gulp-imagemin');
 const posthtml = require('gulp-posthtml');
+const inline = require('gulp-inline');
 const watch = {
   css: 'src/style/**/*.css',
   html: 'src/markup/**/*.hbs'
@@ -27,7 +29,7 @@ gulp.task('html', function () {
         elemPrefix: '__',
         modPrefix: '--',
         modDlmtr: '_'
-    };
+  };
 
   return gulp.src(watch.html)
     .pipe(posthtml([
@@ -37,17 +39,20 @@ gulp.task('html', function () {
     .pipe(rename({
       extname: '.html'
     }))
+    .pipe(inline({
+      base: 'src/images'
+    }))
     .pipe(gulp.dest('build'))
     .pipe(connect.reload());
 });
 
 gulp.task('css', () => {
-    return gulp.src('src/style/main.css')
-        .pipe(postcss([
-          require('postcss-cssnext')
-        ]))
-        .pipe(gulp.dest('build/'))
-        .pipe(connect.reload());
+  gulp.src('src/style/main.css')
+    .pipe(postcss([
+      require('postcss-cssnext')
+    ]))
+    .pipe(gulp.dest('build'))
+    .pipe(connect.reload());
 });
 
 gulp.task('connect', () => {
@@ -64,6 +69,6 @@ gulp.task('watch', () => {
   }
 });
 
-gulp.task('dev', ['connect'], () => {
+gulp.task('default', ['connect'], () => {
   gulp.start('css', 'html', 'watch');
 });
