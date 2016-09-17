@@ -1,24 +1,43 @@
-const path = require("path");
-const gulp = require("gulp");
-const keva = require("keva");
-const posthtml = require('gulp-posthtml');
+const path = require('path');
+const gulp = require('gulp');
+const keva = require('keva');
+const decb = require('decb');
+const fs = decb(require('fs'), {
+  use: ['readFile', 'writeFile']
+});
 const postcss = require('gulp-postcss');
 const connect = require('gulp-connect');
+const handlebars = require('gulp-compile-handlebars');
+const rename = require('gulp-rename');
+const posthtml = require('gulp-posthtml');
 const watch = {
   css: 'src/style/**/*.css',
-  html: 'src/markup/**/*.html'
+  html: 'src/markup/**/*.hbs'
 }
 
 gulp.task('html', function () {
+  let templateData = {
+    page: [
+      'P1', 'P2'
+    ]
+  };
+
+
+  let bemData = {
+        elemPrefix: '__',
+        modPrefix: '--',
+        modDlmtr: '_'
+    };
+
   return gulp.src(watch.html)
     .pipe(posthtml([
-        require('posthtml-bem')({
-            elemPrefix: '__',
-            modPrefix: '--',
-            modDlmtr: '_'
-        })
+          require('posthtml-bem')(bemData)
     ]))
-    .pipe(gulp.dest('build/'))
+    .pipe(handlebars(templateData))
+    .pipe(rename({
+      extname: '.html'
+    }))
+    .pipe(gulp.dest('build'))
     .pipe(connect.reload());
 });
 

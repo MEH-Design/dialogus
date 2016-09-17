@@ -13,8 +13,16 @@
           <h1>Page</h1>
           <h1>+</h1>
         </div>
-        <li>
-        </li>
+        <ul block="page-list">
+          {{#each page}}
+            <li elem="item">
+              <p elem="side">default</p>
+              <img src="http://placehold.it/100x200">
+              <p elem="side" mods="right">/home</p>
+              <h1 elem="edit">edit</h1>
+            </li>
+          {{/each}}
+        </ul>
       </div>
       <div elem="tab">
         <div elem="head">
