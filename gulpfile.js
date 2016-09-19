@@ -1,3 +1,9 @@
+require('./mock-frix');
+/*
+delete this as soon as
+https://github.com/MEH-Design/frix/issues/48 is resolved
+*/
+
 const path = require('path');
 const gulp = require('gulp');
 const keva = require('keva');
@@ -16,14 +22,11 @@ const watch = {
   css: 'src/style/**/*.css',
   html: 'src/markup/**/*.hbs'
 }
+const frix = require('frix');
 
 gulp.task('html', function () {
-  let templateData = {
-    page: [
-      'P1', 'P2'
-    ]
-  };
-
+  let data = {};
+  data.page = frix.gui.getAllPages();
 
   let bemData = {
         elemPrefix: '__',
@@ -35,7 +38,7 @@ gulp.task('html', function () {
     .pipe(posthtml([
           require('posthtml-bem')(bemData)
     ]))
-    .pipe(handlebars(templateData))
+    .pipe(handlebars(data))
     .pipe(rename({
       extname: '.html'
     }))

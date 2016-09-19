@@ -20,12 +20,12 @@
         <ul block="page-list">
           {{#each page}}
             <li elem="item">
-              <p elem="side">default</p>
+              <p elem="side">{{this.name}}</p>
               <div elem="screen" mods="monitor">
-                <iframe scrolling="no" src="https://css-tricks.com/">
+                <iframe scrolling="no" srcdoc="{{this.html}}">
                 </iframe>
               </div>
-              <p elem="side" mods="right">/home</p>
+              <p elem="side" mods="right">{{@key}}</p>
               <h1 elem="edit" class="link">edit</h1>
             </li>
           {{/each}}
