@@ -1,9 +1,3 @@
-require('./mock-frix');
-/*
-delete this as soon as
-https://github.com/MEH-Design/frix/issues/48 is resolved
-*/
-
 const path = require('path');
 const gulp = require('gulp');
 const keva = require('keva');
@@ -24,6 +18,11 @@ const watch = {
   html: 'src/markup/**/*.hbs'
 }
 const frix = require('frix');
+
+let app = express();
+frix.render().then(() => {
+  console.log(frix);
+});
 
 Handlebars.registerHelper('tree', (context, options) => {
   return '<ul class="tree">' +tree(context, 'ul');
