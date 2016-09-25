@@ -19,7 +19,6 @@ const watch = {
 }
 const frix = require('frix');
 
-let app = express();
 frix.render().then(() => {
   console.log(frix);
 });
