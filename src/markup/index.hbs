@@ -18,12 +18,11 @@
           <img src="/phone.svg" elem="button" mods="device" class="link" data-type="phone"/>
         </div>
         <ul block="page-list">
-          {{#each page}}
+          {{#each pages}}
             <li elem="item">
-              <p elem="side">{{this.name}}</p>
+              <p elem="side">{{name}}</p>
               <div elem="screen" mods="monitor">
-                <iframe scrolling="no" srcdoc="{{this.html}}">
-                </iframe>
+                <iframe scrolling="no" srcdoc="{{this.html}}"></iframe>
               </div>
               <p elem="side" mods="right">{{@key}}</p>
               <h1 elem="edit" class="link">edit</h1>
@@ -36,6 +35,9 @@
           <h1 elem="heading">Content</h1>
           <h1 elem="button" class="link">+</h1>
         </div>
+        {{#tree content}}
+        {{@key}}
+        {{/tree}}
       </div>
       <div elem="tab">
         <div elem="head">

@@ -8,6 +8,7 @@
   --secondary: var(--primrose);
   --primary-gradient: linear-gradient(to top, var(--primary), rgba(0, 0, 0, 0));
   --secondary-gradient: linear-gradient(to top, var(--secondary), var(--primary));
+  --tertiary-gradient: linear-gradient(to right, var(--primary), rgba(0, 0, 0, 0));
   --border: .1rem;
 }
 
@@ -83,7 +84,6 @@ body {
 
 .container__button:hover {
   opacity: 1;
-  cursor: pointer;
 }
 
 .container__button--device {
@@ -203,12 +203,67 @@ body {
 }
 
 .link {
+  color: var(--secondary);
   margin-left: -1px;
   text-shadow: 1px 1px 0 var(--primary), 2px 2px 0 rgba(255, 255, 255, .3);
+  cursor: pointer;
 }
 
 .link:hover {
   margin-left: 0;
   bottom: -1px;
   text-shadow: 1px 1px 0 var(--primary), 0 0 0 #fff;
+}
+
+/* tree framework -> http://cssdeck.com/labs/pure-css-tree-menu-framework */
+.tree,
+.tree ul {
+  margin:0 0 0 1em; /* indentation */
+  padding:0;
+  list-style:none;
+  color: var(--primary);
+  position:relative;
+}
+
+.tree ul {margin-left:.5em} /* (indentation/2) */
+
+.tree:before,
+.tree ul:before {
+  content:"";
+  display:block;
+  width:0;
+  position:absolute;
+  top:0;
+  bottom:0;
+  left:0;
+  border-left: var(--border) solid;
+  border-image: var(--secondary-gradient) 1 190%;
+}
+
+.tree li {
+  margin:0;
+  padding:0 1.5em; /* indentation + .5em */
+  line-height:2em; /* default list item's `line-height` */
+  font-weight:bold;
+  position:relative;
+}
+
+.tree li:before {
+  content:"";
+  display:block;
+  width:10px; /* same with indentation */
+  height:0;
+  border-top: var(--border) solid;
+  border-image: var(--tertiary-gradient) 1 20%;
+  margin-top:-1px; /* border top width */
+  position:absolute;
+  top:1em; /* (line-height/2) */
+  left:0;
+}
+
+.tree li:last-child:before {
+  background:nones; /* same with body background */
+  height:auto;
+  top:1em; /* (line-height/2) */
+  bottom:0;
 }

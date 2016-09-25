@@ -13,6 +13,7 @@ const fs = decb(require('fs'), {
 });
 const postcss = require('gulp-postcss');
 const connect = require('gulp-connect');
+const Handlebars = require('handlebars');
 const handlebars = require('gulp-compile-handlebars');
 const rename = require('gulp-rename');
 const imagemin = require('gulp-imagemin');
@@ -24,9 +25,29 @@ const watch = {
 }
 const frix = require('frix');
 
+Handlebars.registerHelper('tree', (context, options) => {
+  return '<ul class="tree">' +tree(context, 'ul');
+});
+
+function tree(context, ...closeTags) {
+  let ret = '';
+
+  for (let [key, val] of keva(context)) {
+    if(val.value) {
+      ret += `<li class="link" data-value="${val.value}" data-type="${val.type}">${key}</li>`;
+    } else {
+      ret += `<li>${key}<ul>`;
+      ret += tree(val, 'li', 'ul');
+    }
+  }
+  ret += closeTags.map(tag => `</${tag}>`).join('');
+  return ret;
+}
+
 gulp.task('html', function () {
   let data = {};
-  data.page = frix.gui.getAllPages();
+  data.pages = frix.gui.getAllPages();
+  data.content = frix.gui.getContentStructure();
 
   let bemData = {
         elemPrefix: '__',
@@ -34,11 +55,13 @@ gulp.task('html', function () {
         modDlmtr: '_'
   };
 
-  return gulp.src(watch.html)
+  gulp.src(watch.html)
     .pipe(posthtml([
           require('posthtml-bem')(bemData)
     ]))
-    .pipe(handlebars(data))
+    .pipe(handlebars(data, {
+      ignorePartials: true
+    }))
     .pipe(rename({
       extname: '.html'
     }))
