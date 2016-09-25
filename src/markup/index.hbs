@@ -61,7 +61,20 @@
               });
             event.target.classList.add('container__button--selected');
           });
-        })
+      });
+
+      let treeGroups = document.querySelectorAll('.tree li:not(.link)');
+      treeGroups.forEach((element) => {
+        element.addEventListener('click', (event) => {
+          console.log(event.target);
+          if(event.target.classList.contains('selected')) {
+            event.target.classList.remove('selected');
+          } else {
+            event.target.classList.add('selected');
+          }
+        });
+        event.stopPropagation();
+      });
     </script>
   </body>
 </html>
