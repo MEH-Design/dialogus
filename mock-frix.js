@@ -1,7 +1,7 @@
 const mock = require('mock-require');
 
 mock('frix', {
-  gui: {
+  api: {
     getAllPages: () => new Object({
       '/page1': {
         html: `
@@ -40,6 +40,26 @@ mock('frix', {
           value: "A tree is a tall plant with a trunk and branches made of wood."
         },
         "header": {
+          "heading-en": {
+            type: "text",
+            value: "Tree"
+          },
+          "heading-de": {
+            type: "text",
+            value: "Baum"
+          },
+          "author": {
+            "name": {
+              type: "text",
+              value: "Wikipedia"
+            },
+            "link": {
+              type: "url",
+              value: "https://simple.wikipedia.org/wiki/Tree"
+            }
+          }
+        },
+        "header1": {
           "heading-en": {
             type: "text",
             value: "Tree"

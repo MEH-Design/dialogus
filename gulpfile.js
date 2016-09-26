@@ -1,3 +1,5 @@
+require('./mock-frix.js');
+
 const path = require('path');
 const gulp = require('gulp');
 const keva = require('keva');
@@ -19,10 +21,6 @@ const watch = {
 }
 const frix = require('frix');
 
-frix.render().then(() => {
-  console.log(frix);
-});
-
 Handlebars.registerHelper('tree', (context, options) => {
   return '<ul class="tree">' +tree(context, 'ul');
 });
@@ -35,7 +33,7 @@ function tree(context, ...closeTags) {
       ret += `<li class="link" data-value="${val.value}" data-type="${val.type}">${key}</li>`;
     } else {
       ret += `<li>${key}<ul>`;
-      ret += tree(val, 'li', 'ul');
+      ret += tree(val, 'ul', 'li');
     }
   }
   ret += closeTags.map(tag => `</${tag}>`).join('');
@@ -44,8 +42,8 @@ function tree(context, ...closeTags) {
 
 gulp.task('html', function () {
   let data = {};
-  data.pages = frix.gui.getAllPages();
-  data.content = frix.gui.getContentStructure();
+  data.pages = frix.api.getAllPages();
+  data.content = frix.api.getContentStructure();
 
   let bemData = {
         elemPrefix: '__',
