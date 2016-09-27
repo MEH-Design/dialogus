@@ -22,7 +22,7 @@
             <li elem="item">
               <p elem="side">{{name}}</p>
               <div elem="screen" mods="monitor">
-                <iframe scrolling="no" srcdoc="{{this.html}}"></iframe>
+                <iframe scrolling="no" srcdoc="{{html}}"></iframe>
               </div>
               <p elem="side" mods="right">{{@key}}</p>
               <h1 elem="edit" class="link">edit</h1>
@@ -36,7 +36,6 @@
           <h1 elem="button" class="link">+</h1>
         </div>
         {{#tree content}}
-        {{@key}}
         {{/tree}}
       </div>
       <div elem="tab">
@@ -66,7 +65,6 @@
       let treeGroups = document.querySelectorAll('.tree li:not(.link)');
       treeGroups.forEach((element) => {
         element.addEventListener('click', (event) => {
-          console.log(event.target);
           if(event.target.classList.contains('selected')) {
             event.target.classList.remove('selected');
           } else {

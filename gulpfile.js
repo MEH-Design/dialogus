@@ -1,9 +1,10 @@
-require('./mock-frix.js');
+//require('./mock-frix.js');
 
 const path = require('path');
 const gulp = require('gulp');
 const keva = require('keva');
 const decb = require('decb');
+const escape = require('escape-html');
 const fs = decb(require('fs'), {
   use: ['readFile', 'writeFile']
 });
@@ -20,6 +21,8 @@ const watch = {
   html: 'src/markup/**/*.hbs'
 }
 const frix = require('frix');
+
+frix.api.getOpt().root += 'frix/';
 
 Handlebars.registerHelper('tree', (context, options) => {
   return '<ul class="tree">' +tree(context, 'ul');
@@ -40,32 +43,48 @@ function tree(context, ...closeTags) {
   return ret;
 }
 
-gulp.task('html', function () {
+gulp.task('html', function (done) {
   let data = {};
-  data.pages = frix.api.getAllPages();
-  data.content = frix.api.getContentStructure();
+  frix.render().then(() => {
+    let promises = [];
+    data.pages = frix.api.getAllPages();
+    for ([key, val] of keva(data.pages)) {
+      (function(key, val) {
+        promises.push(fs.readFile(val.filename).then((file) => {
+          data.pages[key].html = file.toString();
+        }));
+      })(key, val);
+    }
 
-  let bemData = {
-        elemPrefix: '__',
-        modPrefix: '--',
-        modDlmtr: '_'
-  };
+    data.content = frix.api.getContentStructure('/page1');
 
-  gulp.src(watch.html)
-    .pipe(posthtml([
-          require('posthtml-bem')(bemData)
-    ]))
-    .pipe(handlebars(data, {
-      ignorePartials: true
-    }))
-    .pipe(rename({
-      extname: '.html'
-    }))
-    .pipe(inline({
-      base: 'src/images'
-    }))
-    .pipe(gulp.dest('build'))
-    .pipe(connect.reload());
+    Promise.all(promises).then(() => {
+
+      let bemData = {
+            elemPrefix: '__',
+            modPrefix: '--',
+            modDlmtr: '_'
+      };
+
+      gulp.src(watch.html)
+        .pipe(posthtml([
+              require('posthtml-bem')(bemData)
+        ]))
+        .pipe(handlebars(data, {
+          ignorePartials: true
+        }))
+        .pipe(rename({
+          extname: '.html'
+        }))
+        .pipe(inline({
+          base: 'src/images'
+        }))
+        .pipe(gulp.dest('build'))
+        .pipe(connect.reload());
+
+      done();
+    });
+  });
 });
 
 gulp.task('css', () => {
