@@ -17,7 +17,7 @@
           <img src="/tablet.svg" elem="button" mods="device" class="link" data-type="tablet"/>
           <img src="/phone.svg" elem="button" mods="device" class="link" data-type="phone"/>
         </div>
-        <ul block="page-list">
+        <ul block="page-list" id="page">
           {{#each pages}}
             <li elem="item">
               <p elem="side">{{name}}</p>
@@ -47,6 +47,7 @@
           <h1 elem="heading">Site</h1>
           <h1 elem="button" class="link">+</h1>
         </div>
+        <iframe id="preview"></iframe>
       </div>
     </div>
     <script>
@@ -66,13 +67,14 @@
           });
       });
 
-      let treeGroups = document.querySelectorAll('.tree li:not(.link)');
+      let treeGroups = document.querySelectorAll('.tree li span');
       treeGroups.forEach((element) => {
         element.addEventListener('click', (event) => {
-          if(event.target.classList.contains('selected')) {
-            event.target.classList.remove('selected');
+          let node = event.target.parentElement;
+          if(node.classList.contains('selected')) {
+            node.classList.remove('selected');
           } else {
-            event.target.classList.add('selected');
+            node.classList.add('selected');
           }
         });
         if(event) event.stopPropagation();
@@ -94,6 +96,7 @@
           document.querySelector(
             `.wrapper-tree[data-url='${event.target.dataset.url}']`
           ).classList.remove('hidden-tree');
+          document.querySelector('#preview').srcdoc = event.target.parentElement.querySelector('iframe').srcdoc;
         });
       });
     </script>

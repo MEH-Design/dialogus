@@ -33,9 +33,9 @@ function tree(context, ...closeTags) {
 
   for (let [key, val] of keva(context)) {
     if(val.value) {
-      ret += `<li class="link" data-value="${val.value}" data-type="${val.type}">${key}</li>`;
+      ret += `<li class="link" data-value="${val.value}" data-type="${val.type}"><span>${key}</span></li>`;
     } else {
-      ret += `<li>${key}<ul>`;
+      ret += `<li><span>${key}</span><ul>`;
       ret += tree(val, 'ul', 'li');
     }
   }

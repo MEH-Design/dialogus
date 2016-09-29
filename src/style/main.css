@@ -349,3 +349,14 @@ body {
   opacity: 0.5;
   filter: grayscale(1);
 }
+
+#preview {
+  width: 100%;
+  height: 100%;
+  border: none;
+}
+
+.tree li.link:not(.selected) {
+  opacity: 0.5;
+  filter: grayscale(1);
+}
