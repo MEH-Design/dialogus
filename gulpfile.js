@@ -48,15 +48,15 @@ gulp.task('html', function (done) {
   frix.render().then(() => {
     let promises = [];
     data.pages = frix.api.getAllPages();
+    data.content = {};
     for ([key, val] of keva(data.pages)) {
       (function(key, val) {
         promises.push(fs.readFile(val.filename).then((file) => {
           data.pages[key].html = file.toString();
+          data.content[key] = frix.api.getContentStructure(key);
         }));
       })(key, val);
     }
-
-    data.content = frix.api.getContentStructure('/page1');
 
     Promise.all(promises).then(() => {
 

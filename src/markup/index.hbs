@@ -25,7 +25,7 @@
                 <iframe scrolling="no" srcdoc="{{html}}"></iframe>
               </div>
               <p elem="side" mods="right">{{@key}}</p>
-              <h1 elem="edit" class="link">edit</h1>
+              <h1 elem="edit" class="link" data-url="{{@key}}">edit</h1>
             </li>
           {{/each}}
         </ul>
@@ -35,8 +35,12 @@
           <h1 elem="heading">Content</h1>
           <h1 elem="button" class="link">+</h1>
         </div>
-        {{#tree content}}
-        {{/tree}}
+        {{#each content}}
+          <span data-url="{{@key}}" class="wrapper-tree hidden-tree">
+          {{#tree this}}
+          {{/tree}}
+          </span>
+        {{/each}}
       </div>
       <div elem="tab">
         <div elem="head">
@@ -71,7 +75,26 @@
             event.target.classList.add('selected');
           }
         });
-        event.stopPropagation();
+        if(event) event.stopPropagation();
+      });
+
+      let trees = document.querySelectorAll('.wrapper-tree');
+      let editPage = document.querySelectorAll('.page-list__edit');
+      editPage.forEach((element) => {
+        element.addEventListener('click', (event) => {
+          trees.forEach((tree) => {
+            if(!tree.classList.contains('hidden-tree'))
+              tree.classList.add('hidden-tree');
+          });
+          document.querySelectorAll('.page-list__item').forEach((page) => {
+            if(page.classList.contains('selected'))
+              page.classList.remove('selected');
+          });
+          event.target.parentElement.classList.add('selected');
+          document.querySelector(
+            `.wrapper-tree[data-url='${event.target.dataset.url}']`
+          ).classList.remove('hidden-tree');
+        });
       });
     </script>
   </body>
