@@ -18,8 +18,9 @@ const posthtml = require('gulp-posthtml');
 const inline = require('gulp-inline');
 const watch = {
   css: 'src/style/**/*.css',
-  html: 'src/markup/**/*.hbs'
-}
+  html: 'src/markup/**/*.hbs',
+  js: 'src/script/**/*.js'
+};
 const frix = require('frix');
 
 frix.api.getOpt().root += 'frix/';
@@ -88,12 +89,19 @@ gulp.task('html', function (done) {
 });
 
 gulp.task('css', () => {
-  gulp.src('src/style/main.css')
+  gulp.src(watch.css)
     .pipe(postcss([
       require('postcss-cssnext')
     ]))
     .pipe(gulp.dest('build'))
     .pipe(connect.reload());
+});
+
+gulp.task('js', () => {
+  gulp.src(watch.js)
+    .pipe(gulp.dest('build'))
+    .pipe(connect.reload());
+  console.log('js task run');
 });
 
 gulp.task('connect', () => {
@@ -111,5 +119,5 @@ gulp.task('watch', () => {
 });
 
 gulp.task('default', ['connect'], () => {
-  gulp.start('css', 'html', 'watch');
+  gulp.start('css', 'html', 'js', 'watch');
 });
