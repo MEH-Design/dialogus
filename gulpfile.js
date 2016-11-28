@@ -46,7 +46,7 @@ function tree(context, ...closeTags) {
 
 gulp.task('html', function (done) {
   let data = {};
-  frix.render().then(() => {
+  frix.render({dev: true}).then(() => {
     let promises = [];
     data.pages = frix.api.getAllPages();
     data.content = {};
