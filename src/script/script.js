@@ -23,6 +23,17 @@ treeGroups.forEach(element => {
     } else {
       treeGroups.forEach(element => element.parentElement.classList.remove('selected'));
       node.classList.add('selected');
+      let dev = node.dataset.dev.trim();
+      let iframeDoc = document.querySelector('#preview').contentWindow.document;
+      let element = iframeDoc.querySelector(`*[dev="${dev}"]`);
+      iframeDoc.querySelectorAll('*').forEach(item => {
+        item.removeAttribute('contenteditable');
+      });
+      element.setAttribute('contenteditable', true);
+
+      console.log(dev);
+      console.log(document.querySelector('#preview').srcdoc);
+      console.log(document.querySelector('#preview').contentWindow.document.querySelector(`*[dev="${dev}"]`));
     }
   });
   if(event) event.stopPropagation();
