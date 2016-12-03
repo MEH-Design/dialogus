@@ -22,7 +22,7 @@
   "devDependencies": {
     "decb": "^1.3.2",
     "escape-html": "^1.0.3",
-    "frix": "^0.3.3",
+    "frix": "^0.3.4",
     "gulp": "^3.9.1",
     "gulp-compile-handlebars": "^0.6.1",
     "gulp-connect": "^5.0.0",
