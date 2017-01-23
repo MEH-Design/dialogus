@@ -25,15 +25,62 @@ treeGroups.forEach(element => {
       node.classList.add('selected');
       let dev = node.dataset.dev.trim();
       let iframeDoc = document.querySelector('#preview').contentWindow.document;
-      let element = iframeDoc.querySelector(`*[dev="${dev}"]`);
       iframeDoc.querySelectorAll('*').forEach(item => {
         item.removeAttribute('contenteditable');
+        item.removeAttribute('attributeeditable');
       });
-      element.setAttribute('contenteditable', true);
+      let fullDev = dev;
+      dev = dev.split(' ');
+      let jsonName = dev.splice(-1,1)[0];
+      dev = dev.reduce((a, b) => {
+        return `${a} ${b}`;
+      });
 
-      console.log(dev);
-      console.log(document.querySelector('#preview').srcdoc);
-      console.log(document.querySelector('#preview').contentWindow.document.querySelector(`*[dev="${dev}"]`));
+      let fullElement = iframeDoc.querySelector(`[data-dev="${fullDev}"]`);
+      let elements = iframeDoc.querySelectorAll(`[data-dev="${dev}"]`);
+      if(fullElement && elements.length === 0) {
+        elements = [fullElement];
+      }
+      elements.forEach(element => {
+        let targets = element.dataset.devTargets.trim();
+        let attributeeditable = [];
+        if(targets.includes(':')) {
+          if(targets.includes(' ')) {
+            targets = targets.split(' ');
+          } else {
+            targets = [targets];
+          }
+          targets.forEach(target => {
+            let type, nameInHtml, nameInJson;
+            let values = target.split(':');
+            values[0] = values[0].split('-');
+            [[type, nameInHtml], nameInJson] = values;
+            if(nameInJson === jsonName) {
+              attributeeditable.push(nameInHtml);
+            }
+          });
+        } else {
+          let type, nameInHtml;
+          let nameInJson = jsonName;
+          [type, nameInHtml] = targets.split('-');
+          if(nameInJson === jsonName) {
+            attributeeditable.push(nameInHtml);
+          }
+        }
+        // TODO: use type for validating input
+        attributeeditable.forEach(attribute => {
+          if(attributeeditable.includes('content')) {
+            element.setAttribute('contenteditable', true);
+            attributeeditable.splice(attributeeditable.indexOf('content'), 1);
+          }
+          if(attributeeditable.length > 0) {
+            element.setAttribute(
+              'attributeeditable',
+              attributeeditable.reduce((a, b) => `${a} ${b}`)
+            );
+          }
+        });
+      });
     }
   });
   if(event) event.stopPropagation();
@@ -55,6 +102,13 @@ editPage.forEach(element => {
     document.querySelector(
       `.wrapper-tree[data-url='${event.target.dataset.url}']`
     ).classList.remove('hidden-tree');
-    document.querySelector('#preview').srcdoc = event.target.parentElement.querySelector('iframe').srcdoc;
+    document.querySelector('#preview').srcdoc =
+      `
+        ${event.target.parentElement.querySelector('iframe').srcdoc}
+        <!-- attributeeditable.js -->
+        <script src="attributeeditable.js">
+
+        </script>
+      `;
   });
 });
