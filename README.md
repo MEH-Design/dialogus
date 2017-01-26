@@ -1,2 +1,2 @@
-# frix-gui
-A gui for frix.
+# dialogus
+The first website using frix.
