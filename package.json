@@ -21,6 +21,7 @@
   "dependencies": {
     "decb": "^1.3.2",
     "escape-html": "^1.0.3",
+    "frix": "^0.3.5",
     "gulp": "^3.9.1",
     "gulp-compile-handlebars": "^0.6.1",
     "gulp-connect": "^5.0.0",
@@ -35,7 +36,6 @@
     "postcss-cssnext": "^2.8.0",
     "postcss-initial": "^1.5.2",
     "posthtml-bem": "^0.2.2",
-    "posthtml-inline-assets": "^1.0.2",
-    "frix": "^0.3.5"
+    "posthtml-inline-assets": "^1.0.2"
   }
 }

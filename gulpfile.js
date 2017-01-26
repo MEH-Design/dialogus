@@ -45,7 +45,9 @@ function tree(context, dev, ...closeTags) {
 
 gulp.task('html', function (done) {
   let data = {};
+
   frix.render({dev: true}).then(() => {
+
     let promises = [];
     data.pages = frix.api.getAllPages();
     data.content = {};
@@ -80,6 +82,10 @@ gulp.task('html', function (done) {
           base: 'src/images'
         }))
         .pipe(gulp.dest('build'))
+        .pipe(connect.reload());
+
+      gulp.src('frix/bin/**/*.*')
+        .pipe(gulp.dest('build/bin'))
         .pipe(connect.reload());
 
       done();
