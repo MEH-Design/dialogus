@@ -17,7 +17,9 @@ const inline = require('gulp-inline');
 const watch = {
   css: 'src/style/**/*.css',
   html: 'src/markup/**/*.hbs',
-  js: 'src/script/**/*.js'
+  js: 'src/script/**/*.js',
+  content: 'frix/content/**/*.json',
+  templates: 'frix/content/**/*.*'
 };
 const frix = require('frix');
 
@@ -98,8 +100,10 @@ gulp.task('js', () => {
   gulp.src(watch.js)
     .pipe(gulp.dest('build'))
     .pipe(connect.reload());
-  console.log('js task run');
 });
+
+gulp.task('content', ['html']);
+gulp.task('templates', ['html']);
 
 gulp.task('connect', () => {
   connect.server({
