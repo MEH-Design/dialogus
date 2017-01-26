@@ -107,7 +107,18 @@ editPage.forEach(element => {
         ${event.target.parentElement.querySelector('iframe').srcdoc}
         <!-- attributeeditable.js -->
         <script src="attributeeditable.js">
-
+        </script>
+        <script>
+          document.querySelector('body').onclick = function() {
+            parent.document.querySelector('#preview').className = 'fullscreen';
+          };
+          document.onkeydown = function(evt) {
+              evt = evt || window.event;
+              console.log(evt);
+              if (evt.keyCode == 27) {
+                parent.document.querySelector('#preview').className = '';
+              }
+          };
         </script>
       `;
   });
