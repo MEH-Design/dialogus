@@ -26,11 +26,12 @@ const frix = require('frix');
 frix.api.getOpt().root += 'frix/';
 
 Handlebars.registerHelper('tree', (context, options) => {
-  return '<ul class="tree">' +tree(context, '', 'ul');
+  return '<ul class="tree">' + tree(context, '', 'ul');
 });
 
 function tree(context, dev, ...closeTags) {
   let ret = '';
+  // console.log(keva(context));
   for (let [key, val] of keva(context)) {
     if(val.value) {
       ret += `<li class="link" data-value="${val.value}" data-type="${val.type}" data-dev="${dev} ${key}"><span>${key}</span></li>`;
@@ -47,7 +48,6 @@ gulp.task('html', function (done) {
   let data = {};
 
   frix.render({dev: true}).then(() => {
-
     let promises = [];
     data.pages = frix.api.getAllPages();
     data.content = {};
@@ -56,10 +56,9 @@ gulp.task('html', function (done) {
         promises.push(fs.readFile(val.filename).then((file) => {
           data.pages[key].html = file.toString();
           data.content[key] = frix.api.getContentStructure(key);
-        }));
+        }, (err) => console.log(err)));
       })(key, val);
     }
-
     Promise.all(promises).then(() => {
 
       let bemData = {
@@ -73,8 +72,9 @@ gulp.task('html', function (done) {
               require('posthtml-bem')(bemData)
         ]))
         .pipe(handlebars(data, {
-          ignorePartials: true
+           ignorePartials: true
         }))
+        .on('error', (err) => console.log(err))
         .pipe(rename({
           extname: '.html'
         }))
@@ -89,8 +89,8 @@ gulp.task('html', function (done) {
         .pipe(connect.reload());
 
       done();
-    });
-  });
+    }, (err) => console.log(err));
+  }, (err) => console.log(err));
 });
 
 gulp.task('css', () => {
