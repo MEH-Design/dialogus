@@ -2,15 +2,23 @@
   "title": "Christine Minixhofer, MSc",
   "header": {
     "headline": {
-      "title": "Christine Minixhofer, Msc",
-      "services": "Training | Coaching | Supervision | Psychologische Beratung"
+      "heading": "Christine Minixhofer, Msc",
+      "subheading": "Training | Coaching | Supervision | Psychologische Beratung"
     },
-    "quote": {
-      "left": {
-        "quote": "Denn Zeit ist Leben.<br>Und das Leben wohnt im Herzen.",
-        "author": "Michael Ende, Momo"
-      },
-      "right": "resources/igel.png"
+    "hero": {
+      "items": [
+        {
+          "type": "quote",
+          "data": {
+            "quote": "Denn Zeit ist Leben.<br>Und das Leben wohnt im Herzen.",
+            "author": "Michael Ende, Momo"
+          }
+        },
+        {
+          "type": "image",
+          "data": "resources/igel.png"
+        }
+      ]
     },
     "navigation": {
       "links": [{
@@ -56,5 +64,24 @@
       }]
     }
   },
-  "content": []
+  "lines": [
+    {
+      "type": "contentline",
+      "data": {
+        "modules": [
+          {
+            "type": "calltoaction",
+            "data": {
+              "borderimage": "resources/portrait.jpg",
+              "heading": "Herzlich Willkommen!",
+              "text": "Meine Angebote sind sehr vielfältig und doch haben sie alle eines gemeinsam - <br><strong>Achtsam mit sich selbst und anderen.</strong>",
+              "button": {
+                "text": "Mehr über mich erfahren..."
+              }
+            }
+          }
+        ]
+      }
+    }
+  ]
 }

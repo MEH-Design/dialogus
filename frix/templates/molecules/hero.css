@@ -7,3 +7,7 @@ molecule {
   width: 100%;
   background-color: #EBE5DE;
 }
+
+molecule > img {
+  width: 21rem;
+}

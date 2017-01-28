@@ -1,0 +1,15 @@
+molecule {
+  display: flex;
+  align-items: flex-end;
+  padding-bottom: 3em;
+  height: 12em;
+}
+
+molecule > * {
+  margin-left: 3em;
+}
+
+molecule > img {
+  max-height:80%;
+  margin-bottom: -.8em;
+}

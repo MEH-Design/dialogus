@@ -1,7 +1,6 @@
 atom {
   font-weight: normal;
   cursor: pointer;
-  font-size: 1.3em;
   margin: 1em;
   transition: all 0.4s;
   text-shadow:  .01em  .01em 0 rgba(158, 195, 70, 0),
@@ -11,7 +10,6 @@ atom {
 }
 
 atom:hover {
-  /* font-weight: 600; */
   color: #9EC346;
   letter-spacing: .01em;
   text-shadow:  .01em  .01em 0 rgba(158, 195, 70, 1),

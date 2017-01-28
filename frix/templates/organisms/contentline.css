@@ -1,0 +1,7 @@
+organism {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #EBE5DE;
+  width: 100%;
+}
