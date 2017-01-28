@@ -18,8 +18,7 @@ const watch = {
   css: 'src/style/**/*.css',
   html: 'src/markup/**/*.hbs',
   js: 'src/script/**/*.js',
-  content: 'frix/content/**/*.json',
-  templates: 'frix/content/**/*.*'
+  frix: 'frix/**/*.*'
 };
 const frix = require('frix');
 
@@ -43,7 +42,7 @@ function tree(context, dev, ...closeTags) {
   */return ret;
 }
 
-gulp.task('html', function (done) {
+gulp.task('frix', function (done) {
   let data = {};
 
   frix.render({dev: true}).then(() => {
@@ -111,9 +110,6 @@ gulp.task('js', () => {
     .pipe(connect.reload());
 });
 
-gulp.task('content', ['html']);
-gulp.task('templates', ['html']);
-
 gulp.task('connect', () => {
   connect.server({
     port: 8080,
@@ -129,5 +125,5 @@ gulp.task('watch', () => {
 });
 
 gulp.task('default', ['connect'], () => {
-  gulp.start('css', 'html', 'js', 'watch');
+  gulp.start('css', 'frix', 'js', 'watch');
 });
