@@ -31,8 +31,7 @@ Handlebars.registerHelper('tree', (context, options) => {
 
 function tree(context, dev, ...closeTags) {
   let ret = '';
-  // console.log(keva(context));
-  for (let [key, val] of keva(context)) {
+  /*for (let [key, val] of keva(context)) {
     if(val.value) {
       ret += `<li class="link" data-value="${val.value}" data-type="${val.type}" data-dev="${dev} ${key}"><span>${key}</span></li>`;
     } else {
@@ -41,7 +40,7 @@ function tree(context, dev, ...closeTags) {
     }
   }
   ret += closeTags.map(tag => `</${tag}>`).join('');
-  return ret;
+  */return ret;
 }
 
 gulp.task('html', function (done) {

@@ -1,8 +1,9 @@
 molecule {
   display: flex;
-  align-items: center;
+  align-items: flex-end;
   justify-content: space-around;
-  height: 15em;
+  padding-bottom: 3em;
+  height: 12em;
   width: 100%;
   background-color: #EBE5DE;
 }

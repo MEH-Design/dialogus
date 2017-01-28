@@ -1,0 +1,7 @@
+organism > * {
+  box-shadow: inset 0 .15rem 0 0 #e2dfdd;
+}
+
+organism > *:first-child {
+  box-shadow: none;
+}

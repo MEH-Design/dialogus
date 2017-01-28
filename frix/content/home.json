@@ -6,10 +6,55 @@
       "services": {}
     },
     "quote": {
-      "left": "https://placeholdit.imgix.net/~text?txtsize=33&txt=350%C3%97150&w=350&h=150",
-      "right": "https://placeholdit.imgix.net/~text?txtsize=33&txt=350%C3%97150&w=350&h=150"
+      "left": {
+        "quote": "Denn Zeit ist Leben.<br>Und das Leben wohnt im Herzen.",
+        "author": "Michael Ende, Momo"
+      },
+      "right": "resources/igel.png"
     },
-    "navigation": {}
+    "navigation": {
+      "links": [{
+        "type": "link",
+        "data": {
+          "text": "Home"
+        }
+      }, {
+        "type": "link",
+        "data": {
+          "text": "Über mich"
+        }
+      }, {
+        "type": "link",
+        "data": {
+          "text": "Methoden"
+        }
+      }, {
+        "type": "link",
+        "data": {
+          "text": "Angebote"
+        }
+      }, {
+        "type": "link",
+        "data": {
+          "text": "Zum Schmökern"
+        }
+      }, {
+        "type": "link",
+        "data": {
+          "text": "Kontakt"
+        }
+      }, {
+        "type": "link",
+        "data": {
+          "text": "Newsletter"
+        }
+      }, {
+        "type": "link",
+        "data": {
+          "text": "Impressum"
+        }
+      }]
+    }
   },
   "content": []
 }

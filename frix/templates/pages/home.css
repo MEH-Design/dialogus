@@ -1,0 +1,9 @@
+@font-face {
+    font-family: cnl;
+    src: url(resources/cnl.ttf);
+}
+
+body {
+    font-family: "Open Sans";
+    color: #A4A4A4;
+}
