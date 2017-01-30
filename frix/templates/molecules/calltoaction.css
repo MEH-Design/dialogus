@@ -5,6 +5,12 @@ molecule {
   height: 12em;
 }
 
+molecule .heading {
+  font-size: 1.4em;
+  font-family: "Open Sans";
+  font-weight: 600;
+}
+
 molecule > * {
   margin-left: 3em;
 }

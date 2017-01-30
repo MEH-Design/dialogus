@@ -71,6 +71,22 @@
         "color": "green",
         "modules": [
           {
+            "type": "titledbox",
+            "data": {
+              "heading": "Einzelberatung",
+              "text": "Coaching und Lebensberatung in einem vertraulichen Rahmen.",
+              "image": "https://cdn4.iconfinder.com/data/icons/file-extensions-1/64/pdfs-512.png"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "contentline",
+      "data": {
+        "color": "beige",
+        "modules": [
+          {
             "type": "calltoaction",
             "data": {
               "borderimage": "resources/portrait.jpg",
