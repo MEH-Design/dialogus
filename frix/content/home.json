@@ -68,6 +68,7 @@
     {
       "type": "contentline",
       "data": {
+        "color": "green",
         "modules": [
           {
             "type": "calltoaction",
@@ -79,6 +80,10 @@
                 "text": "Mehr über mich erfahren..."
               }
             }
+          },
+          {
+            "type": "review",
+            "data": {}
           }
         ]
       }

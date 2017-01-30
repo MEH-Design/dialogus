@@ -2,6 +2,15 @@ organism {
   display: flex;
   align-items: center;
   justify-content: center;
+  width: 100%
+  max-width: 100%;
+  padding: 0 10vw;
+}
+
+organism[dataColor="green"] {
+  background-color: #e1e9d7;
+}
+
+organism[dataColor="beige"] {
   background-color: #EBE5DE;
-  width: 100%;
 }
