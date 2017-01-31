@@ -75,7 +75,52 @@
             "data": {
               "heading": "Einzelberatung",
               "text": "Coaching und Lebensberatung in einem vertraulichen Rahmen.",
-              "image": "https://cdn4.iconfinder.com/data/icons/file-extensions-1/64/pdfs-512.png"
+              "image": "resources/pdf.png"
+            }
+          },
+          {
+            "type": "threecircles",
+            "data": {
+              "headings": [
+                {
+                  "type": "heading",
+                  "data": "Vorträge"
+                },
+                {
+                  "type": "heading",
+                  "data": "Workshops"
+                },
+                {
+                  "type": "heading",
+                  "data": "Seminare"
+                }
+              ],
+              "circles": [
+                {
+                  "type": "circle",
+                  "data": {
+                    "text": "Was die Seele stark macht.",
+                    "heading": "Achtsamkeit",
+                    "image": "resources/lotus.jpg"
+                  }
+                },
+                {
+                  "type": "circle",
+                  "data": {
+                    "text": "Achtsamer und gewaltfreier Dialog.",
+                    "heading": "Kommunikation",
+                    "image": "resources/whisper.jpg"
+                  }
+                },
+                {
+                  "type": "circle",
+                  "data": {
+                    "text": "Prävention von Aggression und Gewalt.",
+                    "heading": "Deeskalation",
+                    "image": "resources/leaf.jpg"
+                  }
+                }
+              ]
             }
           }
         ]

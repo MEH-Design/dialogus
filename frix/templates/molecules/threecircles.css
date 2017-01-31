@@ -1,0 +1,16 @@
+molecule > div {
+  display: flex;
+  align-items: center;;
+  justify-content: center;
+}
+
+molecule .heading {
+  margin: .4em;
+}
+
+molecule .circle {
+  height: 14em;
+  width: 14em;
+  margin-right: 1em;
+  margin-bottom: 2em;
+}

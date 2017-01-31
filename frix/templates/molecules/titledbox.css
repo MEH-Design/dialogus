@@ -16,6 +16,7 @@ molecule > .heading {
 
 molecule {
   max-width: 25rem;
+  margin: 2em;
 }
 
 molecule img {

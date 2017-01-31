@@ -1,0 +1,42 @@
+atom {
+  border-radius: 300%;
+  box-shadow: 0 .3rem 0 0 rgba(118, 118, 123, .3);
+  background: white;
+  overflow: hidden;
+  position: relative;
+}
+
+atom > * {
+  text-align: center;
+  height: 10%;
+}
+
+atom > img {
+  transform: translateY(-100%);
+  margin-top: 7rem;
+  width: 100%;
+  height: auto;
+  position: absolute;
+  box-shadow: 0 .3rem 0 0 rgba(118, 118, 123, .3);
+  opacity: .8;
+}
+
+atom > p {
+  margin-top: 8.2rem;
+  margin-bottom: 0;
+  font-size: .9em;
+  padding: 0 .5em;
+  width: 90%;
+  display: inline-block;
+}
+
+atom > h2 {
+  font-size: 1.7em;
+  font-family: "cnl";
+  font-weight: 300;
+  color: #4C7F98;
+  position: absolute;
+  bottom: .4em;
+  left: 50%;
+  transform: translateX(-50%);
+}
