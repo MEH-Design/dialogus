@@ -68,6 +68,29 @@
     {
       "type": "contentline",
       "data": {
+        "color": "beige",
+        "modules": [
+          {
+            "type": "calltoaction",
+            "data": {
+              "borderimage": "resources/portrait.jpg",
+              "heading": "Herzlich Willkommen!",
+              "text": "Meine Angebote sind sehr vielfältig und doch haben sie alle eines gemeinsam - <br><strong>Achtsam mit sich selbst und anderen.</strong>",
+              "button": {
+                "text": "Mehr über mich erfahren..."
+              }
+            }
+          },
+          {
+            "type": "review",
+            "data": {}
+          }
+        ]
+      }
+    },
+    {
+      "type": "contentline",
+      "data": {
         "color": "green",
         "modules": [
           {
@@ -122,29 +145,6 @@
                 }
               ]
             }
-          }
-        ]
-      }
-    },
-    {
-      "type": "contentline",
-      "data": {
-        "color": "beige",
-        "modules": [
-          {
-            "type": "calltoaction",
-            "data": {
-              "borderimage": "resources/portrait.jpg",
-              "heading": "Herzlich Willkommen!",
-              "text": "Meine Angebote sind sehr vielfältig und doch haben sie alle eines gemeinsam - <br><strong>Achtsam mit sich selbst und anderen.</strong>",
-              "button": {
-                "text": "Mehr über mich erfahren..."
-              }
-            }
-          },
-          {
-            "type": "review",
-            "data": {}
           }
         ]
       }
