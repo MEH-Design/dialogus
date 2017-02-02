@@ -9,7 +9,7 @@ body {
     margin: 0;
 }
 
-.header > *, .contentline {
+.header > *, .contentline, .footer {
   box-shadow: inset 0 .15rem 0 0 #e2dfdd;
 }
 

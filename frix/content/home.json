@@ -149,5 +149,23 @@
         ]
       }
     }
-  ]
+  ],
+  "foot": {
+      "modules": [
+        {
+          "type": "socialtitle",
+          "data": {
+            "heading": "Christine Minixhofer, MSc",
+            "socials": [
+              {
+                "type": "urlicon",
+                "data": {
+                  "url": "https://www.facebook.com/christineminixhofer"
+                }
+              }
+            ]
+          }
+        }
+      ]
+  }
 }

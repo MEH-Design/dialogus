@@ -1,0 +1,11 @@
+<div>
+  <atom type="heading"></atom>
+  <loop name="socials" types="urlicon">
+    <target/>
+  </loop>
+  <script>
+    document.querySelectorAll('[datasrc]').forEach((element) => {
+      element.src = `https://www.google.com/s2/favicons?domain=${element.parentElement.getAttribute('href')}`
+    });
+  </script>
+</div>

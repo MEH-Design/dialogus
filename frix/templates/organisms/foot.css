@@ -1,0 +1,14 @@
+organism {
+  background: #88b714;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%
+  max-width: 100%;
+  padding: 0 10vw;
+}
+
+organism .socialtitle .heading {
+  color: white;
+  font-size: 2em;
+}
