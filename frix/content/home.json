@@ -97,7 +97,7 @@
             "type": "titledbox",
             "data": {
               "heading": "Einzelberatung",
-              "text": "Coaching und Lebensberatung in einem vertraulichen Rahmen.",
+              "text": "Coaching und psychologische Beratung in einem vertraulichen Rahmen.",
               "image": "resources/pdf.png"
             }
           },
@@ -153,6 +153,13 @@
   "foot": {
       "modules": [
         {
+          "type": "twolines",
+          "data": {
+            "firstline": "+43 699 88 46 75 44",
+            "secondline": "christine.minixhofer(at)dialogus.at"
+          }
+        },
+        {
           "type": "socialtitle",
           "data": {
             "heading": "Christine Minixhofer, MSc",
@@ -160,10 +167,74 @@
               {
                 "type": "urlicon",
                 "data": {
-                  "url": "https://www.facebook.com/christineminixhofer"
+                  "url": "https://www.facebook.com/christineminixhofer",
+                  "title": "Facebook"
+                }
+              },
+              {
+                "type": "urlicon",
+                "data": {
+                  "url": "http://www.arbor-seminare.de/christine-minixhofer",
+                  "title": "Arbor Seminare"
+                }
+              },
+              {
+                "type": "urlicon",
+                "data": {
+                  "url": "http://centerformsc.org/msc-teacher/christine-minixhofer",
+                  "title": "Center for Mindful Self-Compassion"
+                }
+              },
+              {
+                "type": "urlicon",
+                "data": {
+                  "url": "http://www.gewaltfrei.at/profile/christineminixhofer",
+                  "title": "Gewaltfreie Kommunikation Austria"
+                }
+              },
+              {
+                "type": "urlicon",
+                "data": {
+                  "url": "http://www.gewaltfrei-dach.eu/wissenschaftliche-arbeiten",
+                  "title": "DACH e.V. - Gewaltfreie Kommunikation"
+                }
+              },
+              {
+                "type": "urlicon",
+                "data": {
+                  "url": "http://www.steigls.org/index.php?id=praxisadresse_detail&lebensberater=163",
+                  "title": "Steirische Gesellschaft für Lebens- und Sozialberatung"
+                }
+              },
+              {
+                "type": "urlicon",
+                "data": {
+                  "url": "https://www.xing.com/profile/Christine_Minixhofer/web_profiles",
+                  "title": "Xing"
+                }
+              },
+              {
+                "type": "urlicon",
+                "data": {
+                  "url": "http://www.bestnet.com/go.asp?personen_id=144740&sektion=personen&rkarte=infodet",
+                  "title": "bestNET"
+                }
+              },
+              {
+                "type": "urlicon",
+                "data": {
+                  "url": "http://christine-minixhofer.stadtausstellung.at",
+                  "title": "Stadtausstellung"
                 }
               }
             ]
+          }
+        },
+        {
+          "type": "twolines",
+          "data": {
+            "firstline": "Mitterstraße 128/11",
+            "secondline": "8055 Seiersberg bei Graz"
           }
         }
       ]

@@ -11,6 +11,6 @@ molecule .heading {
 molecule .circle {
   height: 14em;
   width: 14em;
-  margin-right: 1em;
+  margin: .5em;
   margin-bottom: 2em;
 }

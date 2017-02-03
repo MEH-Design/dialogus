@@ -1,8 +1,8 @@
 organism {
   background: #88b714;
   display: flex;
-  align-items: center;
-  justify-content: center;
+  align-items: flex-end;
+  justify-content: space-around;
   width: 100%
   max-width: 100%;
   padding: 0 10vw;
@@ -11,4 +11,12 @@ organism {
 organism .socialtitle .heading {
   color: white;
   font-size: 2em;
+}
+
+organism .twolines:last-of-type {
+  text-align: right;
+}
+
+organism .twolines {
+  margin-bottom: .4rem;
 }

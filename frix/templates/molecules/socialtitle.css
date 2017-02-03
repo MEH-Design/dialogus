@@ -1,0 +1,23 @@
+molecule img {
+  transform: scale(1.2);
+  opacity: .7;
+  transition: all .3s;
+}
+
+molecule img:hover {
+  transform: scale(1.2);
+  opacity: 1;
+}
+
+molecule .socials {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: white;
+  padding: .4em;
+  padding-bottom: .1em;
+  border-radius: .4em;
+  opacity: .8;
+  margin: 1em 0;
+  margin: 1rem 0;
+}
