@@ -75,6 +75,7 @@
           {
             "type": "verticaltitle",
             "data": {
+              "align": "right",
               "heading": "Ausbildung",
               "callouts": [
                 {

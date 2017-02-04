@@ -42,7 +42,7 @@ atom::after {
   border-top: 0;
   border-bottom: 1.2em solid transparent;
   border-left: 1.2em solid white;
-  border-right: 1.2em solid transparent;
+  border-right: 1.2em solid white;
 }
 
 atom::before {
@@ -57,5 +57,5 @@ atom::before {
   border-top: 0;
   border-bottom: 1.2em solid transparent;
   border-left: 1.2em solid #C1C7BB;
-  border-right: 1.2em solid transparent;
+  border-right: 1.2em solid #C1C7BB;
 }

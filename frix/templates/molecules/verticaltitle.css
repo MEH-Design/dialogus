@@ -2,6 +2,21 @@ molecule .heading {
   margin-bottom: .4em;
 }
 
-molecule {
+molecule[dataalign="right"] {
   text-align: right;
+}
+
+molecule[dataalign="left"] {
+  text-align: left;
+}
+
+molecule[dataalign="right"] .callout::before, molecule[dataalign="right"] .callout::after {
+  border-right: 1.2em solid transparent;
+}
+
+
+molecule[dataalign="left"] .callout::before, molecule[dataalign="left"] .callout::after {
+  border-left: 1.2em solid transparent;
+  transform: translateX(-95%);
+  left: 0%;
 }
