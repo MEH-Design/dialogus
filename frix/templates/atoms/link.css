@@ -7,9 +7,11 @@ atom {
                   .01em -.01em 0 rgba(158, 195, 70, 0),
                  -.01em  .01em 0 rgba(158, 195, 70, 0),
                  -.01em -.01em 0 rgba(158, 195, 70, 0);
+  color: inherit;
+  text-decoration: inherit;
 }
 
-atom:hover {
+atom:hover, atom div[dataselected] {
   color: #9EC346;
   letter-spacing: .01em;
   text-shadow:  .01em  .01em 0 rgba(158, 195, 70, 1),

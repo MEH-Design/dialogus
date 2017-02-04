@@ -1,0 +1,7 @@
+molecule .heading {
+  margin-bottom: .4em;
+}
+
+molecule {
+  text-align: right;
+}

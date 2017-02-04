@@ -1,3 +1,7 @@
 {
-  "/home": "home"
+  "/home": "home",
+  "/ueber-mich": {
+    "template": "home.html",
+    "content": "ueber-mich.json"
+  }
 }
