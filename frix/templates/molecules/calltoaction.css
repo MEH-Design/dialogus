@@ -3,6 +3,8 @@ molecule {
   align-items: flex-end;
   padding-bottom: 3em;
   height: 12em;
+  min-width: 32rem;
+  flex: 1 1 32rem;
 }
 
 molecule .heading {

@@ -6,6 +6,7 @@ molecule {
   max-height: 260px;
   min-width: 240px;
   background-color: #f8f8f8;
+  flex: 1 1 28em;
 }
 
 molecule > div {

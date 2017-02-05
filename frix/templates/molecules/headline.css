@@ -2,6 +2,7 @@ molecule {
     display: flex;
     align-items: flex-end;
     justify-content: space-around;
-    height: 4em;
+    flex-flow: row wrap;
+    height: auto;
     width: 100%;
 }

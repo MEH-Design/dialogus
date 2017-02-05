@@ -1,7 +1,8 @@
 organism {
   display: flex;
-  align-items: center;
+  align-items: flex-start;
   justify-content: center;
+  flex-flow: row wrap;
   width: 100%
   max-width: 100%;
   padding: 0 10vw;
@@ -9,10 +10,26 @@ organism {
   z-index: 1;
 }
 
-organism[dataColor="green"] {
+organism:nth-child(even) {
   background-color: #e1e9d7;
 }
 
-organism[dataColor="beige"] {
+organism:nth-child(odd) {
   background-color: #EBE5DE;
+}
+
+organism > *:nth-child(odd) .heading {
+  color: #4C7F98;
+}
+
+organism > *:nth-child(odd) h2 {
+  color: #9EC346;
+}
+
+organism > *:nth-child(even) .heading {
+  color: #9EC346;
+}
+
+organism > *:nth-child(even) h2 {
+  color: #4C7F98;
 }

@@ -1,5 +1,17 @@
+molecule {
+  margin: 0 2em;
+}
+
 molecule .heading {
   margin-bottom: .4em;
+}
+
+molecule[dataalign="center"] .callouts {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  flex-wrap: wrap;
 }
 
 molecule[dataalign="right"] {
@@ -8,6 +20,14 @@ molecule[dataalign="right"] {
 
 molecule[dataalign="left"] {
   text-align: left;
+}
+
+molecule[dataalign="center"] {
+  text-align: center;
+}
+
+molecule[dataalign="center"] br {
+  display: none;
 }
 
 molecule[dataalign="right"] .callout::before, molecule[dataalign="right"] .callout::after {

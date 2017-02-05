@@ -4,15 +4,21 @@ atom {
   padding: 0 1.5em;
   position: relative;
   box-shadow: 0 .3rem 0 0 #C1C7BB;
-  margin-bottom: 1em;
   display: inline-block;
 }
 
 atom div {
   display: flex;
   align-items: baseline;
-  justify-content: flex-end;
   vertical-align: bottom;
+}
+
+[dataalign="right"] atom div {
+  justify-content: flex-end;
+}
+
+[dataalign="left"] atom div {
+  justify-content: flex-end;
 }
 
 atom div h2 {

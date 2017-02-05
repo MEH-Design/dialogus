@@ -70,7 +70,6 @@
     {
       "type": "contentline",
       "data": {
-        "color": "beige",
         "modules": [
           {
             "type": "calltoaction",
@@ -93,7 +92,6 @@
     {
       "type": "contentline",
       "data": {
-        "color": "green",
         "modules": [
           {
             "type": "titledbox",

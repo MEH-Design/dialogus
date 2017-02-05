@@ -3,6 +3,7 @@ organism {
   display: flex;
   align-items: flex-end;
   justify-content: space-around;
+  flex-flow: row wrap;
   width: 100%
   max-width: 100%;
   padding: 0 10vw;

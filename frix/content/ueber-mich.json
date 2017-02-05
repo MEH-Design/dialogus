@@ -70,54 +70,122 @@
     {
       "type": "contentline",
       "data": {
-        "color": "green",
         "modules": [
           {
             "type": "verticaltitle",
             "data": {
-              "align": "right",
-              "heading": "Ausbildung",
+              "align": "center",
+              "heading": "Qualifikationen",
+              "callouts": [
+                {
+                  "type": "simplecallout",
+                  "data": {
+                    "name": "Trained Teacher MSC"
+                  }
+                },
+                {
+                  "type": "simplecallout",
+                  "data": {
+                    "name": "Achtsamkeitslehrerin",
+                    "description": "Grundausbildung <strong>Achtsamkeit leben - Achtsamkeit lehren</strong> - Veranstalter: Arbor Seminare Freiburg."
+                  }
+                },
+                {
+                  "type": "simplecallout",
+                  "data": {
+                    "name": "Supervisorin",
+                    "description": "WKO Expertenpool"
+                  }
+                },
+                {
+                  "type": "simplecallout",
+                  "data": {
+                    "name": "Burnout Coach",
+                    "description": "WKO Expertenpool"
+                  }
+                },
+                {
+                  "type": "simplecallout",
+                  "data": {
+                    "name": "Dipl. Lebensberaterin",
+                    "description": "Selbständige Unternehmerin als Dipl. Lebensberaterin und Coach für Unternehmen und Privatpersonen."
+                  }
+                },
+                {
+                  "type": "simplecallout",
+                  "data": {
+                    "name": "Akademische Kommunikationstrainerin",
+                    "description": "Selbständige Tätigkeit als akademische Kommunikationstrainerin und Gesundheits- und Pflegepädagogin in der Erwachsenenbildung."
+                  }
+                },
+                {
+                  "type": "simplecallout",
+                  "data": {
+                    "name": "Gesundheits- und Pflegepädagogin"
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "contentline",
+      "data": {
+        "modules": [
+          {
+            "type": "verticaltitle",
+            "data": {
+              "align": "left",
+              "heading": "Weitere berufliche Stationen",
               "callouts": [
                 {
                   "type": "callout",
                   "data": {
-                    "year": "2016",
-                    "name": "Achtsamkeitslehrerin"
+                    "name": "Leitung von Jahresselbsterfahrungsgruppen",
+                    "year": "2007 - 2008",
+                    "description": " für Eltern/PädagogInnen in der Methode der Gewaltfreien Kommunikation nach Rosenberg in Graz"
                   }
                 },
                 {
                   "type": "callout",
                   "data": {
-                    "year": "2011",
-                    "name": "MSc Psychosoziale Beratung"
+                    "name": "IGW - Integrative Gewaltpräventionswerkstatt",
+                    "year": "2006",
+                    "description": "<strong>Projektentwicklung und Durchführung</strong><br/>IGW – Integrative Gewaltpräventionswerkstatt für Grundschulen, Förderung durch das BM/Abteilung Schulpsychologie.<br/><a href='www.gemeinsam-gegen-gewalt.at' class='button'>Gemeinsam für Fairness und gegen Gewalt</a>"
                   }
                 },
                 {
                   "type": "callout",
                   "data": {
-                    "year": "2009",
-                    "name": "Dipl. Lebensberatung"
+                    "name": "Lehrtätigkeit am BFI Deutschlandsberg",
+                    "year": "1999 - 2000",
+                    "description": "PflegehelferInnenausbildung"
                   }
                 },
                 {
                   "type": "callout",
                   "data": {
-                    "year": "2004",
-                    "name": "Kommunikation und Trainingsdesign"
+                    "name": "Lehrtätigkeit am LSF Graz",
+                    "year": "1993 - 2006",
+                    "description": "<strong>Schwerpunkte</strong> - Kommunikation, Gesprächsführung, Konfliktmanagement, Allgemeine Gesundheits- und Krankenpflege, Pflegemodelle.<br/>Leitung von PflegehelferInnenlehrgängen, Praxisbegleitung"
                   }
                 },
                 {
                   "type": "callout",
                   "data": {
-                    "year": "1994",
-                    "name": "Gesundheits- und Pflegepädagogik"
+                    "name": "Diplomkrankenschwester",
+                    "year": "1992 - 1993",
+                    "description": "...am Landessonderkrankenhaus Sigmund Freud in Graz."
                   }
                 },
                 {
                   "type": "callout",
                   "data": {
-                    "year": "1986",
-                    "name": "Matura"
+                    "name": "Diplomkrankenschwester",
+                    "year": "1989 - 1992",
+                    "description": "...am LKH Salzburg<br/>Mentorin für KrankenpflegeschülerInnen<br/>Geringfügige Lehrtätigkeit an der Landeskrankenpflegeschule Salzburg"
                   }
                 }
               ]
