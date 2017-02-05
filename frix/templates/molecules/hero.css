@@ -4,8 +4,14 @@ molecule {
   justify-content: space-around;
   flex-flow: row wrap;
   padding: 3em;
-  width: 100%;
+  max-width: 100%;
   background-color: #EBE5DE;
+}
+
+@media (max-width: 975px) {
+  .quote {
+    display: none;
+  }
 }
 
 molecule > img {

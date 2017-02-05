@@ -2,7 +2,6 @@ molecule {
   display: flex;
   align-items: flex-end;
   padding-bottom: 3em;
-  height: 12em;
   min-width: 32rem;
   flex: 1 1 32rem;
 }
@@ -18,6 +17,14 @@ molecule > * {
 }
 
 molecule > img {
-  max-height:80%;
-  margin-bottom: -.8em;
+  max-height:10em;
+}
+
+@media (max-width: 530px) {
+  .calltoaction img {
+    display: none;
+  }
+  .calltoaction {
+    min-width: inherit;
+  }
 }

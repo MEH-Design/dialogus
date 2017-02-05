@@ -1,7 +1,8 @@
 molecule > div {
   display: flex;
-  align-items: center;;
+  align-items: center;
   justify-content: center;
+  flex-flow: row wrap;
 }
 
 molecule .heading {
