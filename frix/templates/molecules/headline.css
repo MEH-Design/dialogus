@@ -3,6 +3,7 @@ molecule {
     align-items: flex-end;
     justify-content: space-around;
     flex-flow: row wrap;
+    text-align: center;
     height: auto;
     width: 100%;
 }

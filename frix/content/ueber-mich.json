@@ -132,6 +132,37 @@
     },
     {
       "type": "contentline",
+      "data":  {
+        "modules": [
+          {
+            "type": "timeline",
+            "data": {
+              "heading": "Fort- und Weiterbildungen",
+              "callouts": [
+                {
+                  "type": "callout",
+                  "data": {
+                    "name": "Mit Kindern wachsen",
+                    "year": "2016",
+                    "description": "Tagesseminar 'Mit Kindern wachsen - Achtsamkeit in der Familie', Jon und Myla Kabat-Zinn (Salzburg, Bildungshaus St. Virgil)"
+                  }
+                },
+                {
+                  "type": "callout",
+                  "data": {
+                    "name": "Stressmanagement und Burnoutprävention",
+                    "year": "2016",
+                    "description": "Fortbildungslehrgang Stressmanagement und Burnoutprävention EALP Akademie Graz"
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "contentline",
       "data": {
         "modules": [
           {

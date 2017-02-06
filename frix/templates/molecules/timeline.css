@@ -1,0 +1,64 @@
+molecule {
+  text-align: center;
+}
+
+molecule::after {
+  content:"";
+  position: absolute;
+  z-index: -1;
+  bottom: 0;
+  left: 50%;
+  border-left: .2em solid rgba(118, 118, 123, .2);
+  height: calc(100% - 6em);
+}
+
+molecule .callout {
+  margin: 1.5em 0;
+  width: 40%;
+  display: inline-block;
+}
+
+molecule .callout:nth-child(odd) {
+  text-align: left;
+  margin-left: 55%;
+  position: relative;
+  left: 2.5em;
+}
+
+molecule .callout:nth-child(odd)::before, molecule .callout:nth-child(odd)::after {
+  border-left: 1.2em solid transparent;
+  transform: translateX(-95%);
+  left: 0%;
+}
+
+molecule .callout:nth-child(even) {
+  text-align: right;
+  margin-right: 55%;
+  position: relative;
+  right: 2.5em;
+}
+
+molecule .callout:nth-child(even)::before, molecule .callout:nth-child(even)::after {
+  border-right: 1.2em solid transparent;
+}
+
+molecule .callout > div > p {
+  position: absolute;
+  margin-top: .5em;
+}
+
+molecule .callout:nth-child(odd) > div > p {
+  right: 135%;
+}
+
+
+molecule .callout:nth-child(even) > div > p {
+  left: 135%;
+}
+
+molecule > div > div > h2 {
+  width: 100%;
+  font-size: 1.4em;
+  margin-left: 0;
+  margin-top: .4em;
+}
