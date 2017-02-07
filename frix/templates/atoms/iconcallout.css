@@ -1,0 +1,99 @@
+atom {
+  background: white;
+  border-radius: 1.5em;
+  padding: 0 1.5em;
+  position: relative;
+  box-shadow: 0 .3rem 0 0 #C1C7BB;
+  display: inline-block;
+}
+
+atom div {
+  display: flex;
+  align-items: baseline;
+  vertical-align: bottom;
+}
+
+atom div h2 {
+  margin: 0;
+  margin-left: 1em;
+  color: #9EC346;
+}
+
+.iconcallout:nth-child(odd) atom div h2 {
+  color: #4C7F98;
+}
+
+atom div p {
+  width: 10em;
+}
+
+.iconcallout:nth-child(even) atom div p {
+  text-align: left;
+}
+
+.iconcallout:nth-child(odd) atom div p {
+  text-align: right;
+}
+
+atom > p {
+  margin: 0;
+  padding-bottom: 1rem;
+}
+
+atom p:empty {
+  display: none;
+}
+
+atom::after {
+  content: "";
+  width: 0;
+  height: 0;
+  left: 100%;
+  top: 1em;
+  position: absolute;
+  transform: translateX(-.2em);
+  z-index: -1;
+  border-top: 0;
+  border-bottom: 1.2em solid transparent;
+  border-left: 1.2em solid white;
+  border-right: 1.2em solid white;
+}
+
+atom::before {
+  content: "";
+  width: 0;
+  height: 0;
+  left: 100%;
+  top: 1.3em;
+  position: absolute;
+  transform: translateX(-.2em);
+  z-index: -1;
+  border-top: 0;
+  border-bottom: 1.2em solid transparent;
+  border-left: 1.2em solid #C1C7BB;
+  border-right: 1.2em solid #C1C7BB;
+}
+
+atom .img-container {
+  height: 2.6em;
+  padding: 1em;
+  border-radius: 99em;
+  position: absolute;
+  bottom: 49%;
+  box-shadow: 0 .3rem 0 0 #C1C7BB;
+  overflow: visible;
+}
+
+atom img {
+  height: 100%;
+}
+
+atom:nth-child(even) .img-container {
+  background: #9EC346;
+  left: 39.4vw;
+}
+
+atom:nth-child(odd) .img-container {
+  background: #4C7F98;
+  right: 39.2vw;
+}

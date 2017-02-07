@@ -135,24 +135,219 @@
       "data":  {
         "modules": [
           {
+            "type": "bigquote",
+            "data": {
+              "heading": "Man kann einem Menschen nichts lehren, man kann ihm nur helfen, es in sich selbst zu entdecken."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "contentline",
+      "data":  {
+        "modules": [
+          {
             "type": "timeline",
             "data": {
               "heading": "Fort- und Weiterbildungen",
               "callouts": [
                 {
-                  "type": "callout",
+                  "type": "iconcallout",
                   "data": {
                     "name": "Mit Kindern wachsen",
                     "year": "2016",
-                    "description": "Tagesseminar 'Mit Kindern wachsen - Achtsamkeit in der Familie', Jon und Myla Kabat-Zinn (Salzburg, Bildungshaus St. Virgil)"
+                    "description": "Tagesseminar 'Mit Kindern wachsen - Achtsamkeit in der Familie', Jon und Myla Kabat-Zinn (Salzburg, Bildungshaus St. Virgil)",
+                    "icon": "resources/kids.svg"
                   }
                 },
                 {
-                  "type": "callout",
+                  "type": "iconcallout",
                   "data": {
                     "name": "Stressmanagement und Burnoutprävention",
                     "year": "2016",
-                    "description": "Fortbildungslehrgang Stressmanagement und Burnoutprävention EALP Akademie Graz"
+                    "description": "Fortbildungslehrgang Stressmanagement und Burnoutprävention EALP Akademie Graz",
+                    "icon": "resources/fire.svg"
+                  }
+                },
+                {
+                  "type": "iconcallout",
+                  "data": {
+                    "name": "Supervisionslehrgang ",
+                    "year": "2015 - 2016",
+                    "description": "Supervisionslehrgang Institut SISFO (Salzburger Impulse für systemische Supervision)",
+                    "icon": "resources/eye.svg"
+                  }
+                },
+                {
+                  "type": "iconcallout",
+                  "data": {
+                    "name": "Potentialentfaltung",
+                    "year": "2015",
+                    "description": "Potentialentfaltung durch Selbstliebe (Siegfried Essen, Graz)",
+                    "icon": "resources/butterfly.svg"
+                  }
+                },
+                {
+                  "type": "iconcallout",
+                  "data": {
+                    "name": "Achtsames Selbstmitgefühl",
+                    "year": "2015",
+                    "description": "Achtsames Selbstmitgefühl Intensivkurs (Christopher Germer, Lienhard Valentin, Geras NÖ)",
+                    "icon": "resources/flower.svg"
+                  }
+                },
+                {
+                  "type": "iconcallout",
+                  "data": {
+                    "name": "Positive Psychologie",
+                    "year": "2014",
+                    "description": "Positive Psychologie: Die Macht der guten Gefühle und der Liebe (Barbara Fredrickson, Graz)",
+                    "icon": "resources/smile.svg"
+                  }
+                },
+                {
+                  "type": "iconcallout",
+                  "data": {
+                    "name": "Orientierungswochenende",
+                    "year": "2013",
+                    "description": "Orientierungswochenende Achtsamkeit leben - Achtsamkeit lehren (Lienhard Valentin, Mirijam Fink, Graz)",
+                    "icon": "resources/compass.svg"
+                  }
+                },
+                {
+                  "type": "iconcallout",
+                  "data": {
+                    "name": "Krisenintervention",
+                    "year": "2013",
+                    "description": "Weiterbildung Krisenintervention - GesundheitsManagement Steiermärkische Sparkasse (Dr.Manfred Krampl, Graz)",
+                    "icon": "resources/chart.svg"
+                  }
+                },
+                {
+                  "type": "iconcallout",
+                  "data": {
+                    "name": "MBSR",
+                    "year": "2013",
+                    "description": "MBSR Training (Mag. Jörg Trettler, Graz)",
+                    "icon": "resources/rainbow.svg"
+                  }
+                },
+                {
+                  "type": "iconcallout",
+                  "data": {
+                    "name": "Gewaltfreie Kommunikation",
+                    "year": "2013",
+                    "description": "Lehrgang Gewaltfreie Kommunikation nach Dr. Marshall Rosenberg (Dr. Karoline Bitschnau, Salzburg)",
+                    "icon": "resources/giraffe.svg"
+                  }
+                },
+                {
+                  "type": "iconcallout",
+                  "data": {
+                    "name": "Selbstermächtigung",
+                    "year": "2012",
+                    "description": "Weiterbildung Von ohnmächtiger Wut und wütender Ohnmacht zur Selbstermächtigung - Fortgeschrittenenseminar in Gewaltfreier Kommunikation nach Dr. Marshall Rosenberg (Dipl-Psych. Gerlinde R. Fritsch, Hamburg)",
+                    "icon": "resources/wolf.svg"
+                  }
+                },
+                {
+                  "type": "iconcallout",
+                  "data": {
+                    "name": "Positiv Psychologische Interventionen",
+                    "year": "2012",
+                    "description": "Weiterbildung Positiv Psychologische Interventionen für Beratung, Coaching und Therapie (Institut für Positive Psychologie und Mentalcoaching, Dr. Philipp Streit, Graz)",
+                    "icon": "resources/silhouette.svg"
+                  }
+                },
+                {
+                  "type": "iconcallout",
+                  "data": {
+                    "name": "Systemischen Strukturaufstellung",
+                    "year": "2011",
+                    "description": "Weiterbildung Methodik und Praxis der Systemischen Strukturaufstellung (Prof. Dr. Matthias Varga von Kibed, Institut für Kind und Familie Graz)",
+                    "icon": "resources/atoms.svg"
+                  }
+                },
+                {
+                  "type": "iconcallout",
+                  "data": {
+                    "name": "GFK Aikido",
+                    "year": "2007",
+                    "description": "Weiterbildung GFK Aikido (Ingrid Holler, München)",
+                    "icon": "resources/japanese.svg"
+                  }
+                },
+                {
+                  "type": "iconcallout",
+                  "data": {
+                    "name": "Grundlehrgang GFK",
+                    "year": "2007",
+                    "description": "Grundlehrgang in dem Modell der Gewaltfreien Kommunikation nach Dr. Marshall Rosenberg CNVC® (Mag. Christian Rüther, Wien)",
+                    "icon": "resources/rose.svg"
+                  }
+                },
+                {
+                  "type": "iconcallout",
+                  "data": {
+                    "name": "Couching",
+                    "year": "2006",
+                    "description": "Coaching - Lehrgang (Balance Akademie Graz)",
+                    "icon": "resources/couch.svg"
+                  }
+                },
+                {
+                  "type": "iconcallout",
+                  "data": {
+                    "name": "Pflegediagnostik",
+                    "year": "1999",
+                    "description": "Weiterbildung in Pflegediagnostik in der Psychiatrie (Niederösterreich)",
+                    "icon": "resources/heart.svg"
+                  }
+                },
+                {
+                  "type": "iconcallout",
+                  "data": {
+                    "name": "Kinästhetik",
+                    "year": "1995",
+                    "description": "Grundkurs Kinästhetik in der Pflege (ÖKV Wien)",
+                    "icon": "resources/dancing.svg"
+                  }
+                },
+                {
+                  "type": "iconcallout",
+                  "data": {
+                    "name": "Basale Stimulation",
+                    "year": "1995",
+                    "description": "Grundkurs Basale Stimulation in der Pflege (ÖKV Wien)",
+                    "icon": "resources/peace.svg"
+                  }
+                },
+                {
+                  "type": "iconcallout",
+                  "data": {
+                    "name": "Vorlesungen und Seminare",
+                    "year": "1992",
+                    "description": "Ausgewählte Vorlesungen und Seminare an der Uni Graz (Allgemeine Psychologie, Interpersonelle Kommunikation, Spielpädagogik und kreative Medien, Gerontopsychologie, pädagogische Psychologie, Entwicklungspsychologie)",
+                    "icon": "resources/book.svg"
+                  }
+                },
+                {
+                  "type": "iconcallout",
+                  "data": {
+                    "name": "Pflege nach dem Bobathkonzept",
+                    "year": "1991",
+                    "description": "Weiterbildung in der Pflege nach dem Bobathkonzept (ÖKV Graz)",
+                    "icon": "resources/hand.svg"
+                  }
+                },
+                {
+                  "type": "iconcallout",
+                  "data": {
+                    "name": "Mentorin",
+                    "year": "1990",
+                    "description": "Weiterbildung zur Mentorin für KrankenpflegeschülerInnen (Salzburg)",
+                    "icon": "resources/teacher.svg"
                   }
                 }
               ]

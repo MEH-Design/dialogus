@@ -1,0 +1,6 @@
+molecule .heading {
+  color: #A4A4A4 !important;
+  text-align: center;
+  font-size: 2.2vw;
+  margin: 1em 0;
+}
