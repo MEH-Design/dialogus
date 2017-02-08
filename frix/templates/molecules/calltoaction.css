@@ -2,6 +2,7 @@ molecule {
   display: flex;
   align-items: flex-end;
   padding-bottom: 3em;
+  padding-top: 1.5em;
   min-width: 32rem;
   flex: 1 1 32rem;
 }

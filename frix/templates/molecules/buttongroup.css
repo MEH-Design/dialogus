@@ -1,0 +1,12 @@
+molecule {
+  display: flex;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  max-width: 40%;
+  margin: 1.3em;
+}
+
+molecule .button {
+  margin: .4em;
+  font-size: .8em;
+}

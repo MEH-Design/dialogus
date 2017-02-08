@@ -26,10 +26,18 @@ organism > *:nth-child(odd) h2 {
   color: #9EC346;
 }
 
+organism > *:nth-child(odd) strong {
+  color: #9EC346;
+}
+
 organism > *:nth-child(even) .heading {
   color: #9EC346;
 }
 
 organism > *:nth-child(even) h2 {
+  color: #4C7F98;
+}
+
+organism > *:nth-child(even) strong {
   color: #4C7F98;
 }

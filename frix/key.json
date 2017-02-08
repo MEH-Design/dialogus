@@ -3,5 +3,9 @@
   "/ueber-mich": {
     "template": "home.html",
     "content": "ueber-mich.json"
+  },
+  "/methoden": {
+    "template": "home.html",
+    "content": "methoden.json"
   }
 }

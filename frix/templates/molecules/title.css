@@ -1,0 +1,8 @@
+molecule {
+  width: 100%;
+}
+
+molecule .heading {
+  margin: .5em;
+  text-align: center;
+}

@@ -36,32 +36,38 @@
       }, {
         "type": "link",
         "data": {
-          "text": "Methoden"
+          "text": "Methoden",
+          "link": "methoden.html"
         }
       }, {
         "type": "link",
         "data": {
-          "text": "Angebote"
+          "text": "Angebote",
+          "link": "angebote.html"
         }
       }, {
         "type": "link",
         "data": {
-          "text": "Zum Schmökern"
+          "text": "Zum Schmökern",
+          "link": "zum-schmoekern.html"
         }
       }, {
         "type": "link",
         "data": {
-          "text": "Kontakt"
+          "text": "Kontakt",
+          "link": "kontakt.html"
         }
       }, {
         "type": "link",
         "data": {
-          "text": "Newsletter"
+          "text": "Newsletter",
+          "link": "newsletter.html"
         }
       }, {
         "type": "link",
         "data": {
-          "text": "Impressum"
+          "text": "Impressum",
+          "link": "Impressum.html"
         }
       }]
     }
@@ -137,7 +143,8 @@
           {
             "type": "bigquote",
             "data": {
-              "heading": "Man kann einem Menschen nichts lehren, man kann ihm nur helfen, es in sich selbst zu entdecken."
+              "heading": "Man kann einen Menschen nichts lehren, man kann ihm nur helfen, es in sich selbst zu entdecken.",
+              "author": "Galileo Galilei"
             }
           }
         ]
@@ -290,7 +297,7 @@
                 {
                   "type": "iconcallout",
                   "data": {
-                    "name": "Couching",
+                    "name": "Coaching",
                     "year": "2006",
                     "description": "Coaching - Lehrgang (Balance Akademie Graz)",
                     "icon": "resources/couch.svg"

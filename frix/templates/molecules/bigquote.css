@@ -2,5 +2,12 @@ molecule .heading {
   color: #A4A4A4 !important;
   text-align: center;
   font-size: 2.2vw;
-  margin: 1em 0;
+  margin-top: 1em;
+}
+
+molecule h2 {
+  font-size: 1em;
+  margin-top: 0;
+  margin-bottom: 1em;
+  text-align: center;
 }

@@ -1,0 +1,459 @@
+{
+  "title": "Christine Minixhofer, MSc",
+  "header": {
+    "headline": {
+      "heading": "Christine Minixhofer, Msc",
+      "subheading": "Training | Coaching | Supervision | Psychologische Beratung"
+    },
+    "hero": {
+      "items": [
+        {
+          "type": "quote",
+          "data": {
+            "quote": "Denn Zeit ist Leben.<br>Und das Leben wohnt im Herzen.",
+            "author": "Michael Ende, Momo"
+          }
+        },
+        {
+          "type": "image",
+          "data": "resources/igel.png"
+        }
+      ]
+    },
+    "navigation": {
+      "links": [{
+        "type": "link",
+        "data": {
+          "text": "Home",
+          "link": "home.html"
+        }
+      }, {
+        "type": "link",
+        "data": {
+          "text": "Über mich",
+          "link": "ueber-mich.html"
+        }
+      }, {
+        "type": "link",
+        "data": {
+          "text": "Methoden",
+          "selected": "true"
+        }
+      }, {
+        "type": "link",
+        "data": {
+          "text": "Angebote",
+          "link": "angebote.html"
+        }
+      }, {
+        "type": "link",
+        "data": {
+          "text": "Zum Schmökern",
+          "link": "zum-schmoekern.html"
+        }
+      }, {
+        "type": "link",
+        "data": {
+          "text": "Kontakt",
+          "link": "kontakt.html"
+        }
+      }, {
+        "type": "link",
+        "data": {
+          "text": "Newsletter",
+          "link": "newsletter.html"
+        }
+      }, {
+        "type": "link",
+        "data": {
+          "text": "Impressum",
+          "link": "Impressum.html"
+        }
+      }]
+    }
+  },
+  "lines": [
+    {
+      "type": "contentline",
+      "data": {
+        "modules": [
+          {
+            "type": "title",
+            "data": {
+              "heading": "Integrative Gestaltberatung"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "contentline",
+      "data": {
+        "modules": [
+          {
+            "type": "textblock",
+            "data": "Im Vordergrund stehen für mich immer die individuellen Anliegen der TeilnehmerInnen und KlientInnen und der Transfer in den Alltag. Den theoretischen Hintergrund meiner Arbeit bilden wissenschaftliche anerkannte Methoden.<br/><br/>Ich bin in der Methode der integrativen Gestaltberatung ausgebildet. Durch zusätzliche Aus- und Weiterbildungen integriere ich in meine Arbeit als Treinerin und Beraterin insbesondere die <strong>Gewaltfreie Kommunikation</strong>, die personzentrierte Gesprächsführung, die <strong>positive Psychologie</strong> und die <strong>Achstamkeitslehre</strong>."
+          },
+          {
+            "type": "buttongroup",
+            "data": {
+              "buttons": [
+                {
+                  "type": "button",
+                  "data": {
+                    "link": "#main",
+                    "text": "Integrative Gestaltberatung auf Grundlage der Gestalttherapie"
+                  }
+                },
+                {
+                  "type": "button",
+                  "data": {
+                    "link": "#gestalt",
+                    "text": "Gestalt"
+                  }
+                },
+                {
+                  "type": "button",
+                  "data": {
+                    "link": "#leiblichkeit",
+                    "text": "Leiblichkeit"
+                  }
+                },
+                {
+                  "type": "button",
+                  "data": {
+                    "link": "#awareness",
+                    "text": "Awareness"
+                  }
+                },
+                {
+                  "type": "button",
+                  "data": {
+                    "link": "#integrativegestaltberatung",
+                    "text": "Integrative Gestaltberatung"
+                  }
+                },
+                {
+                  "type": "button",
+                  "data": {
+                    "link": "#gewaltfreiekommunikation",
+                    "text": "Gewaltfreie Kommunikation"
+                  }
+                },
+                {
+                  "type": "button",
+                  "data": {
+                    "link": "#positivepsychologie",
+                    "text": "Positive Psychologie"
+                  }
+                },
+                {
+                  "type": "button",
+                  "data": {
+                    "link": "#achtsamesselbstmitgefuehl",
+                    "text": "Achstames Selbstmitgefühl"
+                  }
+                },
+                {
+                  "type": "button",
+                  "data": {
+                    "link": "#verstaendnismeinerarbeit",
+                    "text": "Verständnis meiner Arbeit"
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "contentline",
+      "data": {
+        "modules": [
+          {
+            "type": "title",
+            "data": {
+              "heading": "Integrative Gestaltberatung auf Grundlage der Gestalttherapie",
+              "id": "main"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "contentline",
+      "data": {
+        "modules": [
+          {
+            "type": "textblock",
+            "data": "Als Begründer der Gestalttherapie gelten <strong>Fritz Perls</strong>, <strong>Laura Perls</strong> und <strong>Paul Goodman</strong>."
+          }
+        ]
+      }
+    },
+    {
+      "type": "contentline",
+      "data": {
+        "modules": [
+          {
+            "type": "borderimagetext",
+            "data": {
+              "borderimage": "resources/clay.jpg",
+              "simplecallout": {
+                "id": "gestalt",
+                "name": "Gestalt",
+                "description": "Die Gestalttherapie beschreibt in Anlehnung an die Gestaltpsychologie die Wahrnehmung als einen ganzheitlichen Prozess, mit dem ein Mensch seine Umwelt für sich strukturiert. Gestalten formen sich im Vordergrund vor einem Hintergrund. Ein wichtiges Bedürfnis tritt aus dem Hintergrund in den Vordergrund und wird so zur offenen Gestalt. Diese kann durch bewusste Wahrnehmung und Aktivierung von persönlichen Ressourcen geschlossen werden und so  wieder in den Hintergrund treten. Der Mensch trägt zahlreiche Fähigkeiten zur Selbstregulation in sich."
+              }
+            }
+          },
+          {
+            "type": "borderimagetext",
+            "data": {
+              "borderimage": "resources/beach.jpg",
+              "simplecallout": {
+                "id": "leiblichkeit",
+                "name": "Leiblichkeit",
+                "description": "Im Mittelpunkt der Gestalttherapie steht der ganze Mensch in seiner Leiblichkeit. Das Konzept Leiblichkeit hebt die Trennung von Körper, Geist und Seele auf. Der Mensch wird als personales System verstanden, als ganzheitliches Leib-Geist-Seele-Subjekt und nicht als Objekt. Menschen sind in ihre jeweilige soziale und ökologische Lebenswelt eingebettet. Jeder Mensch hat seine individuelle Biographie mit einem übergeordneten, geschichtlichen Zusammenhang. Der Mensch hat viele Fähigkeiten sein <strong>Selbst</strong> zu erhalten und zu verwirklichen, seine <strong>Identität</strong> zu entwickeln und zu wahren. Der Mensch ist fähig zu lernen und sich zu verändern."
+              }
+            }
+          },
+          {
+            "type": "bigquote",
+            "data": {
+              "heading": "Learning is the discovery that something is possible.",
+              "author": "Fritz Perls"
+            }
+          },
+          {
+            "type": "borderimagetext",
+            "data": {
+              "borderimage": "resources/sunflower.jpg",
+              "simplecallout": {
+                "id": "awareness",
+                "name": "Awareness",
+                "description": "Von Anbeginn der Entwicklung der Gestalttherapie (20iger Jahre 20. Jhdt.) ist die AWARENESS in Theorie und Praxis ein grundlegendes Element. Awareness kann mit Gewahrsein, Bewusstheit und Achtsamkeit für das Hier und Jetzt übersetzt werden. Die Förderung und Verfeinerung von Awareness ist integraler Bestandteil jeder Gestaltberatung. Durch Förderung von Awareness gelingt der Zugang zu den manchmal verborgenen inneren Schätzen und Ressourcen leichter.<br/><br/>In den letzten Jahren hat das Thema Achtsamkeit vor allem durch die Arbeiten von Jon Kabat Zinn zunehmend an Bedeutung gewonnen. Zahlreiche wissenschaftliche Studien der letzten 30 Jahre und aktuelle  Forschungsergebnisse aus der Neurobioloige belegen die Wirksamkeit von Achtsamkeit.<br/><br/>Bezüglich der Bedeutung der Achtsamkeit für therapeutische bzw. beraterische Prozesse nimmt die Gestalttherapie eine Vorreiterrolle ein."
+              }
+            }
+          },
+          {
+            "type": "borderimagetext",
+            "data": {
+              "borderimage": "resources/spiderweb.jpg",
+              "simplecallout": {
+                "id": "integrativegestaltberatung",
+                "name": "Integrative Gestaltberatung",
+                "description": "Hilarion Petzolds Anliegen und Verdienst war und ist es in Beratung und Therapie zu methodenübergreifenden Ansätzen zu finden. Keine Methode ist alleine für sich die einzig wahre und hilfreiche. Verbindung und Integration statt Abgrenzung und Trennung scheinen hilfreicher zu sein, um Menschen mit ihrer komplexen Wirklichkeit zu verstehen, sie in ihren vielschichtigen Aufgabenstellungen und Herausforderungen und in ihrem individuellem Lernprozess adäquat zu begleiten.<br/><br/>Integriert werden unter anderem Erkenntnisse aus der Kommunikationspsychologie, allgemeinen Psychologie, Gestalttherapie, systemischen Therapie, der personzentrierten  Gesprächstherapie, der Positiven Psychologie, der Achtsamkeitslehre  und der Neurobiologie."
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "contentline",
+      "data": {
+        "modules": [
+          {
+            "type": "title",
+            "data": {
+              "heading": "Gewaltfreie Kommunikation",
+              "id": "gewaltfreiekommunikation"
+            }
+          },
+          {
+            "type": "textblock",
+            "data": "Als Begründer der Gewaltfreien Kommunikation gilt Marshall Rosenberg. Mit der Haltung und dem 'Werkzeug' der Gewaltfreien Kommunikation gelingt es seine eigenen Gefühle, Bedürfnisse und Wünsche bewusster wahrzunehmen, auszudrücken und den anderen ebenso mit seinen Gefühlen, Bedürfnissen und Wünschen zu achten.<br/><br/>Der Fokus auf die klassischen 4 Komponenten der GFK (Wahrnehmung, Gefühl, Bedürfnis, Bitte) kann das Verständnis für einen selber und füreinander vertiefen, sofern dieses 'Werkzeug' aus der inneren Haltung heraus angewendet wird. Gewaltfreie Kommunikation darf nicht zu einer Formelsprache werden.<br/><br/>Gewaltfrei miteinander umgehen bedeutet auch nicht 'immer nett' zueinander zu sein. Hier gibt es leider viele Missverständnisse. Es geht um aufrichtige Begegnung und Achtsamkeit.<br/><br/>Besonders wertvoll finde ich den Prozess der Selbstempathie, die Unterscheidung von echten Gefühlen und Pseudogefühlen und die  Einteilung in primäre und sekundäre Gefühle. Der achtsame Umgang mit sich selbst, die Achtung der Mitwelt und Lebenswelt und der achtsame Umgang mit Sprache sind zentrale Anliegen des Konzeptes.<br/><br/>Die Gewaltfreie Kommunikation wird manchmal auch als gesunde Kommunikation bezeichnet. Studien belegen eine salutogene Wirkung durch kontinuierliches Üben in Gewaltfreier Kommunikation."
+          }
+        ]
+      }
+    },
+    {
+      "type": "contentline",
+      "data": {
+        "modules": [
+          {
+            "type": "title",
+            "data": {
+              "heading": "Positive Psychologie",
+              "id": "positivepsychologie"
+            }
+          },
+          {
+            "type": "textblock",
+            "data": "Die erste Disziplin, die sich innerhalb der psychologischen Forschung wissenschaftlich mit der Frage beschäftigt, wie psychisches Wohlbefinden und persönliche Entwicklung für alle Menschen unterstützt und aufrechterhalten werden kann, ist die Positive Psychologie. Es geht nicht darum, was Menschen krank macht, sondern was Menschen zufrieden und glücklich macht.<br/><br/>Als Gründerväter der Positiven Psychologie gelten heute Martin Seligman und Ed Diener.<br/><br/>Die Positive Psychologie ist ein noch junges Forschungs- und Anwendungsfeld mit dem Potential, zur Entwicklung von Einzelnen, Paaren, Gruppen, Unternehmen und Gesellschaftssystemen beizutragen."
+          }
+        ]
+      }
+    },
+    {
+      "type": "contentline",
+      "data": {
+        "modules": [
+          {
+            "type": "title",
+            "data": {
+              "heading": "Achtsames Selbstmitgefühl - Mindful Self Compassion (MSC)",
+              "id": "achtsamesselbstmitgefuehl"
+            }
+          },
+          {
+            "type": "textblock",
+            "data": "Nach Christopher Germer und Kristin Neff  ist Selbst-Mitgefühl (self-compassion) eine Form von freundlicher und liebevoller Zuwendung zu sich selbst in schwierigen Momenten.<br/><br/>Selbstmitgefühl ist einer der Schlüsselfaktoren für seelische Gesundheit, Wohlbefinden und Resilienz. <br/>Die positive Wirkung der Entwicklung des Selbstmitgefühls wurde in zahlreichen Studien belegt. Größeres Selbstmitgefühl geht mit deutlich mehr emotionalem Wohlbefinden, weniger Angst, Depression und Stress und einem Aufrechterhalten von gesunden Lebensweisen, wie Ernährung und Bewegung und zufriedenstellenden Beziehungen einher. <br/><br/>Selbstmitgefühl kann uns aus einer Negativspirale von Selbstherabsetzung, Selbstzweifel, Selbstkritik oder auch Empathie-Müdigkeit herausholen. Mit Selbstmitgefühl, Selbstfreundlichkeit, Trost und Ermutigung können wir die kleinen und großen Herausforderungen des Lebens besser bewältigen. <br/>Zum Aufbau dieser Ressource haben Germer und Neff ein achtwöchiges evidenzbasiertes Übungsprogramm entwickelt."
+          }
+        ]
+      }
+    },
+    {
+      "type": "contentline",
+      "data": {
+        "modules": [
+          {
+            "type": "bigquote",
+            "data": {
+              "heading": "Als Kommunikationstrainerin, Lebensberaterin und Coach sehe ich meine Aufgabe vor allem darin, Menschen Impulse, Lernhilfen und Begleitung anzubieten bezüglich:"
+            }
+          },
+          {
+            "type": "simplesimplecallout",
+            "data": {
+              "simplecallout": {
+                "id": "verstaendnismeinerarbeit",
+                "name": "Verständnis meiner Arbeit",
+                "description": "Mein über Jahre gewachsenes Repertoire an Beratungs- und Interventionsmethoden ermöglichen mir das flexible Arbeiten mit den persönlichen Anliegen der Teilnehmer/innen. Besonders geschätzt werden in meinen Seminaren immer wieder  die vertrauensvolle Atmossphäre, die abwechlsungsreiche und lebendige Seminargestaltung und mein achtsames Eingehen auf die Anliegen und Bedürfnisse der Teilnehmer/innen. <br/><br/>Ich selbst erlebe mich als Lernende und Lehrende. Täglich übe ich mich in achtsamer Beziehungs- und Lebensgestaltung. Regelmäßige achtsamkeitsbasierte Übungen helfen mir meinen persönlichen 'Achtsamkeitsmuskel' zu trainieren und fit zu halten. <br/><br/>Meine eigene persönliche Weiterentwicklung und Selbstreflexion sind mir ein großes Anliegen. Durch beständiges Studium von Fachliteratur, Teilnahme an Fort- und Weiterbildungen, Supervision und Intervision sorge ich dafür."
+              }
+            }
+          },
+          {
+            "type": "verticaltitle",
+            "data": {
+              "heading": " ",
+              "align": "right",
+              "callouts": [
+                {
+                  "type": "callout",
+                  "data": {
+                    "description": "einer konstruktiven Auseinandersetzung mit dem eigenen Gesprächsverhalten, der persönlichen Haltung und dem eigenen Menschenbild"
+                  }
+                },
+                {
+                  "type": "callout",
+                  "data": {
+                    "description": "einer einfühlsamen, wertschätzenden und aufrichtigen Kommunikation im Umgang mit sich selbst und anderen"
+                  }
+                },
+                {
+                  "type": "callout",
+                  "data": {
+                    "description": "der Stärkung des Selbst, das heißt der Fähigkeiten zur Selbstwahrnehmung, Selbstreflexion, Selbsteinfühlung, Selbstmitgefühl, Selbstachtung, Selbstfürsorge, Selbstwertschätzung, Selbstverantwortung, Selbstbestimmung und Selbstführung"
+                  }
+                },
+                {
+                  "type": "callout",
+                  "data": {
+                    "description": "der Stärkung der Fähigkeiten zur Empathie,  zum Standpunkt- und Perspektivenwechsel und zum Mitgefühl"
+                  }
+                },
+                {
+                  "type": "callout",
+                  "data": {
+                    "description": "einer achtsamen und erfüllenden Beziehungs- und Lebensgestaltung"
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "foot": {
+      "modules": [
+        {
+          "type": "twolines",
+          "data": {
+            "firstline": "+43 699 88 46 75 44",
+            "secondline": "christine.minixhofer(at)dialogus.at"
+          }
+        },
+        {
+          "type": "socialtitle",
+          "data": {
+            "heading": "Christine Minixhofer, MSc",
+            "socials": [
+              {
+                "type": "urlicon",
+                "data": {
+                  "url": "https://www.facebook.com/christineminixhofer",
+                  "title": "Facebook"
+                }
+              },
+              {
+                "type": "urlicon",
+                "data": {
+                  "url": "http://www.arbor-seminare.de/christine-minixhofer",
+                  "title": "Arbor Seminare"
+                }
+              },
+              {
+                "type": "urlicon",
+                "data": {
+                  "url": "http://centerformsc.org/msc-teacher/christine-minixhofer",
+                  "title": "Center for Mindful Self-Compassion"
+                }
+              },
+              {
+                "type": "urlicon",
+                "data": {
+                  "url": "http://www.gewaltfrei.at/profile/christineminixhofer",
+                  "title": "Gewaltfreie Kommunikation Austria"
+                }
+              },
+              {
+                "type": "urlicon",
+                "data": {
+                  "url": "http://www.gewaltfrei-dach.eu/wissenschaftliche-arbeiten",
+                  "title": "DACH e.V. - Gewaltfreie Kommunikation"
+                }
+              },
+              {
+                "type": "urlicon",
+                "data": {
+                  "url": "http://www.steigls.org/index.php?id=praxisadresse_detail&lebensberater=163",
+                  "title": "Steirische Gesellschaft für Lebens- und Sozialberatung"
+                }
+              },
+              {
+                "type": "urlicon",
+                "data": {
+                  "url": "https://www.xing.com/profile/Christine_Minixhofer/web_profiles",
+                  "title": "Xing"
+                }
+              },
+              {
+                "type": "urlicon",
+                "data": {
+                  "url": "http://www.bestnet.com/go.asp?personen_id=144740&sektion=personen&rkarte=infodet",
+                  "title": "bestNET"
+                }
+              },
+              {
+                "type": "urlicon",
+                "data": {
+                  "url": "http://christine-minixhofer.stadtausstellung.at",
+                  "title": "Stadtausstellung"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "type": "twolines",
+          "data": {
+            "firstline": "Mitterstraße 128/11",
+            "secondline": "8055 Seiersberg bei Graz"
+          }
+        }
+      ]
+  }
+}
