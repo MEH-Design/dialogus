@@ -23,14 +23,14 @@ atom > img {
 }
 
 atom > h2 {
-  font-size: 1.7em;
+  font-size: 1.6em;
   font-family: "cnl";
   font-weight: 300;
   color: #4C7F98;
   position: relative;
   display: table-cell;
   vertical-align: middle;
-  top: 6em;
+  top: 6.1em;
   text-align: center;
   transform: translateY(-50%);
 }

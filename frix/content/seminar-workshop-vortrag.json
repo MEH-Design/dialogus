@@ -164,7 +164,7 @@
           {
             "type": "bigquote",
             "data": {
-              "heading": "Maßgeschneidert für Sie entwickle ich gerne eine Fortbildung oder Lehrveranstaltung."
+              "heading": "maßgeschneidert für Sie entwickle ich gerne eine Fortbildung oder Lehrveranstaltung"
             }
           }
         ]
@@ -188,19 +188,13 @@
                 {
                   "type": "button",
                   "data": {
-                    "text": "Grundlage der Kommunikation"
+                    "text": "Grundlagen der Kommunikation"
                   }
                 },
                 {
                   "type": "button",
                   "data": {
                     "text": "Gesprächsführung"
-                  }
-                },
-                {
-                  "type": "button",
-                  "data": {
-                    "text": "GFK-Vertiefung"
                   }
                 },
                 {
@@ -232,7 +226,7 @@
                 {
                   "type": "button",
                   "data": {
-                    "text": "Selbststörkung mit Achtsamkeit und Selbstmitgefühl"
+                    "text": "Selbststärkung mit Achtsamkeit und Selbstmitgefühl"
                   }
                 },
                 {
@@ -289,18 +283,14 @@
               "headings": [
                 {
                   "type": "heading",
-                  "data": "Vorträge"
-                },
-                {
-                  "type": "heading",
-                  "data": "Vortragsreihen"
+                  "data": "Vorträge und Vortragsreihen"
                 }
               ],
               "circles": [
                 {
                   "type": "simplecircle",
                   "data": {
-                    "heading": "Achtsamkeit",
+                    "heading": "Achtsamkeit und Selbstmitgefühl",
                     "image": "/bin/resources/lotus.jpg"
                   }
                 },
@@ -309,6 +299,13 @@
                   "data": {
                     "heading": "Gewaltfreie Kommunikation",
                     "image": "/bin/resources/leaf.jpg"
+                  }
+                },
+                {
+                  "type": "simplecircle",
+                  "data": {
+                    "heading": "Erkenntnisse der Glücksforschung",
+                    "image": "/bin/resources/clay.jpg"
                   }
                 }
               ]
