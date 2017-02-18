@@ -9,7 +9,7 @@ molecule .heading {
   margin: .4em;
 }
 
-molecule .circle, molecule .linkcircle {
+molecule .circle, molecule .linkcircle, molecule .simplecircle {
   width: 14em;
   height: 14em;
   margin: .5em;

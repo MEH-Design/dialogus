@@ -169,6 +169,153 @@
           }
         ]
       }
+    },
+    {
+      "type": "contentline",
+      "data": {
+        "modules": [
+          {
+            "type": "title",
+            "data": {
+              "heading": "Kommunikation und Gesprächsführung"
+            }
+          },
+          {
+            "type": "borderimagebuttons",
+            "data": {
+              "borderimage": "/bin/resources/ocean.jpg",
+              "buttons": [
+                {
+                  "type": "button",
+                  "data": {
+                    "text": "Grundlage der Kommunikation"
+                  }
+                },
+                {
+                  "type": "button",
+                  "data": {
+                    "text": "Gesprächsführung"
+                  }
+                },
+                {
+                  "type": "button",
+                  "data": {
+                    "text": "GFK-Vertiefung"
+                  }
+                },
+                {
+                  "type": "button",
+                  "data": {
+                    "text": "Achtsame und Gewaltfreie Kommunikation in herausfordernden Situationen"
+                  }
+                },
+                {
+                  "type": "button",
+                  "data": {
+                    "text": "Deeskalierende Kommunikation"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "type": "title",
+            "data": {
+              "heading": "Stärkung der psychosozialen Gesundheit und Resilienz"
+            }
+          },
+          {
+            "type": "borderimagebuttons",
+            "data": {
+              "borderimage": "/bin/resources/lighthouse.jpg",
+              "buttons": [
+                {
+                  "type": "button",
+                  "data": {
+                    "text": "Selbststörkung mit Achtsamkeit und Selbstmitgefühl"
+                  }
+                },
+                {
+                  "type": "button",
+                  "data": {
+                    "text": "Auftanken statt Ausbrennen"
+                  }
+                },
+                {
+                  "type": "button",
+                  "data": {
+                    "text": "Achtwochenkurs MSC (Mindful Self-Compassion)"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "type": "title",
+            "data": {
+              "heading": "Kompetenzen der Beratung"
+            }
+          },
+          {
+            "type": "borderimagebuttons",
+            "data": {
+              "borderimage": "/bin/resources/play-stone.jpg",
+              "buttons": [
+                {
+                  "type": "button",
+                  "data": {
+                    "text": "Basics"
+                  }
+                },
+                {
+                  "type": "button",
+                  "data": {
+                    "text": "Weiterführende Vertiefung"
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "contentline",
+      "data": {
+        "modules": [
+          {
+            "type": "threecircles",
+            "data": {
+              "headings": [
+                {
+                  "type": "heading",
+                  "data": "Vorträge"
+                },
+                {
+                  "type": "heading",
+                  "data": "Vortragsreihen"
+                }
+              ],
+              "circles": [
+                {
+                  "type": "simplecircle",
+                  "data": {
+                    "heading": "Achtsamkeit",
+                    "image": "/bin/resources/lotus.jpg"
+                  }
+                },
+                {
+                  "type": "simplecircle",
+                  "data": {
+                    "heading": "Gewaltfreie Kommunikation",
+                    "image": "/bin/resources/leaf.jpg"
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
     }
   ],
   "foot": {

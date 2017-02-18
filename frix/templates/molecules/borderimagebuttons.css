@@ -2,15 +2,16 @@ molecule {
   width: 100%;
   display: flex;
   align-items: center;
-  justify-content: center;
+  justify-content: flex-start;
   margin: 1em 0;
 }
 
 molecule .borderimage {
   max-width: 30%;
   margin-right: 3%;
+  opacity: .7;
+  filter: brightness(1.4), grayscale(.4);;
 }
-
 
 molecule .buttons {
   display: flex;
@@ -22,5 +23,5 @@ molecule .buttons {
 
 molecule .button {
   margin: .4em;
-  font-size: .8em;
+  font-size: 1em;
 }
