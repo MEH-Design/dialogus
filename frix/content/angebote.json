@@ -25,7 +25,7 @@
         "type": "link",
         "data": {
           "text": "Home",
-          "selected": "true"
+          "link": "/bin/home.html"
         }
       }, {
         "type": "link",
@@ -43,7 +43,7 @@
         "type": "link",
         "data": {
           "text": "Angebote",
-          "link": "/bin/angebote.html"
+          "selected": "true"
         }
       }, {
         "type": "link",
@@ -78,75 +78,58 @@
       "data": {
         "modules": [
           {
-            "type": "calltoaction",
-            "data": {
-              "borderimage": "/bin/resources/portrait.jpg",
-              "heading": "Herzlich Willkommen!",
-              "text": "Meine Angebote sind sehr vielfältig und doch haben sie alle eines gemeinsam - <br><strong>Achtsam mit sich selbst und anderen.</strong>",
-              "button": {
-                "text": "Mehr über mich erfahren..."
-              }
-            }
-          },
-          {
-            "type": "review",
-            "data": {}
-          }
-        ]
-      }
-    },
-    {
-      "type": "contentline",
-      "data": {
-        "modules": [
-          {
-            "type": "titledbox",
-            "data": {
-              "heading": "Einzelberatung",
-              "text": "Coaching und psychologische Beratung in einem vertraulichen Rahmen.",
-              "image": "/bin/resources/pdf.png"
-            }
-          },
-          {
             "type": "threecircles",
             "data": {
               "headings": [
                 {
                   "type": "heading",
-                  "data": "Vorträge"
-                },
-                {
-                  "type": "heading",
-                  "data": "Workshops"
-                },
-                {
-                  "type": "heading",
-                  "data": "Seminare"
+                  "data": "Angebote "
                 }
               ],
               "circles": [
                 {
-                  "type": "circle",
+                  "type": "linkcircle",
                   "data": {
-                    "text": "Was die Seele stark macht.",
-                    "heading": "Achtsamkeit",
-                    "image": "/bin/resources/lotus.jpg"
+                    "heading": "Seminar - Workshop - Vortrag",
+                    "text": "Kommunikation, Persönlichkeitsentwicklung, Gewaltprävention und Burnoutprävention",
+                    "image": "/bin/resources/seminar.jpg",
+                    "link": "/bin/angebote/seminar-workshop-vortrag.html"
                   }
                 },
                 {
-                  "type": "circle",
+                  "type": "linkcircle",
                   "data": {
-                    "text": "Achtsamer und gewaltfreier Dialog.",
-                    "heading": "Kommunikation",
-                    "image": "/bin/resources/whisper.jpg"
+                    "text": "Psychologische Beratung und Coaching für berufliche und persönliche Themen",
+                    "heading": "Psychologische Beratung -  Coaching",
+                    "image": "/bin/resources/office.jpg",
+                    "link": "/bin/test"
                   }
                 },
                 {
-                  "type": "circle",
+                  "type": "linkcircle",
                   "data": {
-                    "text": "Prävention von Aggression und Gewalt.",
-                    "heading": "Deeskalation",
-                    "image": "/bin/resources/leaf.jpg"
+                    "text": "Die Reflexion der beruflichen Tätigkeit, das Betrachten der Vorgänge in Arbeitsprozessen aus der Meta-Ebene",
+                    "heading": "Supervision",
+                    "image": "/bin/resources/dandelion.jpg",
+                    "link": "/bin/test"
+                  }
+                },
+                {
+                  "type": "linkcircle",
+                  "data": {
+                    "text": "Mindful Self Compassion ist ein evidenz-basierter 8-wöchiger Kurs zur Entwicklung von Selbstmitgefühl",
+                    "heading": "Achtsames Selbstmitgefühl (MSC) - Kurs",
+                    "image": "/bin/resources/beautiful.jpg",
+                    "link": "/bin/test"
+                  }
+                },
+                {
+                  "type": "linkcircle",
+                  "data": {
+                    "text": "Elternbildung - Coaching und Beratung für eine achtsame und haltgebende Erziehung",
+                    "heading": "Elternbildung - Coaching - Beratung",
+                    "image": "/bin/resources/koala.jpg",
+                    "link": "/bin/test"
                   }
                 }
               ]

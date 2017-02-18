@@ -7,5 +7,13 @@
   "/methoden": {
     "template": "home.html",
     "content": "methoden.json"
+  },
+  "/angebote": {
+    "template": "home.html",
+    "content": "angebote.json"
+  },
+  "/angebote/seminar-workshop-vortrag": {
+    "template": "home.html",
+    "content": "seminar-workshop-vortrag.json"
   }
 }

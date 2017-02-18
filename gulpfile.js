@@ -86,8 +86,8 @@ gulp.task('frix', function (done) {
         .pipe(gulp.dest('build/bin'))
         .pipe(connect.reload());
 
-      gulp.src('frix/resources/**/*.*')
-        .pipe(gulp.dest('build/bin/resources'))
+      gulp.src('frix//bin/resources/**/*.*')
+        .pipe(gulp.dest('build/bin//bin/resources'))
         .pipe(connect.reload());
 
       done();

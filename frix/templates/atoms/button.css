@@ -19,3 +19,17 @@ a.button {
   display: inline-block;
   margin-top: .2em;
 }
+
+atom[dataselected="true"] {
+  font-weight: 600;
+}
+
+.contentline:nth-child(even)  atom[dataselected="true"] {
+  background: #88b714;
+  color: white;
+}
+
+.contentline:nth-child(odd)  atom[dataselected="true"] {
+  background: #4C7F98;
+  color: white;
+}

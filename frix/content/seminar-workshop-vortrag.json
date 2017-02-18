@@ -25,7 +25,7 @@
         "type": "link",
         "data": {
           "text": "Home",
-          "selected": "true"
+          "link": "/bin/home.html"
         }
       }, {
         "type": "link",
@@ -43,7 +43,7 @@
         "type": "link",
         "data": {
           "text": "Angebote",
-          "link": "/bin/angebote.html"
+          "selected": "true"
         }
       }, {
         "type": "link",
@@ -76,21 +76,66 @@
     {
       "type": "contentline",
       "data": {
+        "nopadding": "true",
         "modules": [
           {
-            "type": "calltoaction",
+            "type": "buttongroup",
             "data": {
-              "borderimage": "/bin/resources/portrait.jpg",
-              "heading": "Herzlich Willkommen!",
-              "text": "Meine Angebote sind sehr vielfältig und doch haben sie alle eines gemeinsam - <br><strong>Achtsam mit sich selbst und anderen.</strong>",
-              "button": {
-                "text": "Mehr über mich erfahren..."
-              }
+              "buttons": [
+                {
+                  "type": "button",
+                  "data": {
+                    "link": "/bin/angebote/seminar-workshop-vortrag.html",
+                    "text": "Seminar - Workshop - Vortrag",
+                    "selected": "true"
+                  }
+                },
+                {
+                  "type": "button",
+                  "data": {
+                    "link": "/bin/angebote/coaching.html",
+                    "text": "Psychologische Beratung -  Coaching"
+                  }
+                },
+                {
+                  "type": "button",
+                  "data": {
+                    "link": "/bin/angebote/supervision.html",
+                    "text": "Supervision"
+                  }
+                },
+                {
+                  "type": "button",
+                  "data": {
+                    "link": "/bin/angebote/msc-kurs.html",
+                    "text": "Achtsames Selbstmitgefühl (MSC) - Kurs"
+                  }
+                },
+                {
+                  "type": "button",
+                  "data": {
+                    "link": "/bin/angebote/elternbildung-coaching-beratung.html",
+                    "text": "Elternbildung - Coaching - Beratung"
+                  }
+                }
+              ]
             }
-          },
+          }
+        ]
+      }
+    },
+    {
+      "type": "contentline",
+      "data": {
+        "nopadding": "true",
+        "modules": [
           {
-            "type": "review",
-            "data": {}
+            "type": "imagetitle",
+            "data": {
+              "image": "/bin/resources/seminar.jpg",
+              "id": "seminare",
+              "heading": "Seminar - Workshop - Vortrag"
+            }
           }
         ]
       }
@@ -100,56 +145,26 @@
       "data": {
         "modules": [
           {
-            "type": "titledbox",
+            "type": "title",
             "data": {
-              "heading": "Einzelberatung",
-              "text": "Coaching und psychologische Beratung in einem vertraulichen Rahmen.",
-              "image": "/bin/resources/pdf.png"
+              "heading": "Themenschwerpunkte"
             }
           },
           {
-            "type": "threecircles",
+            "type": "textblock",
+            "data": "Maßgeschneidert für Ihr Unternehmen, Ihre Institution, Ihren Verein oder Ihre Akademie entwickle ich gerne eine prozess- und transferorientierte Fortbildung oder Lehrveranstaltung abgestimmt auf Ihre Situation, Bedürfnisse, Wünsche und Lernziele.<br/><br/>Im Auftragsgespräch werden Titel, Inhalte, Methoden und Lernziele festgelegt.<br/><br/>Der individuelle Lernprozess sowie die individuellen Anliegen der Teilnehmer/innen werden in der Planung und Gestaltung berücksichtigt. So gleicht kein Seminar/Workshop/Vortrag dem anderen. Jede Fortbildung entsteht nach intensiver Vorarbeit letztlich vor Ort durch das Miteinander zwischen Trainerin und Teilnehmer/innen."
+          }
+        ]
+      }
+    },
+    {
+      "type": "contentline",
+      "data": {
+        "modules": [
+          {
+            "type": "bigquote",
             "data": {
-              "headings": [
-                {
-                  "type": "heading",
-                  "data": "Vorträge"
-                },
-                {
-                  "type": "heading",
-                  "data": "Workshops"
-                },
-                {
-                  "type": "heading",
-                  "data": "Seminare"
-                }
-              ],
-              "circles": [
-                {
-                  "type": "circle",
-                  "data": {
-                    "text": "Was die Seele stark macht.",
-                    "heading": "Achtsamkeit",
-                    "image": "/bin/resources/lotus.jpg"
-                  }
-                },
-                {
-                  "type": "circle",
-                  "data": {
-                    "text": "Achtsamer und gewaltfreier Dialog.",
-                    "heading": "Kommunikation",
-                    "image": "/bin/resources/whisper.jpg"
-                  }
-                },
-                {
-                  "type": "circle",
-                  "data": {
-                    "text": "Prävention von Aggression und Gewalt.",
-                    "heading": "Deeskalation",
-                    "image": "/bin/resources/leaf.jpg"
-                  }
-                }
-              ]
+              "heading": "Maßgeschneidert für Sie entwickle ich gerne eine Fortbildung oder Lehrveranstaltung."
             }
           }
         ]

@@ -1,0 +1,8 @@
+<div text-id="id" text-dataimage="image">
+<atom type="heading"></atom>
+<script>
+  document.querySelectorAll("[dataimage]").forEach(element => {
+    element.style.backgroundImage = `url(${element.getAttribute('dataimage')})`;
+  });
+</script>
+</div>

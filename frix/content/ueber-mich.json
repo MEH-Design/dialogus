@@ -16,7 +16,7 @@
         },
         {
           "type": "image",
-          "data": "resources/igel.png"
+          "data": "/bin/resources/igel.png"
         }
       ]
     },
@@ -25,7 +25,7 @@
         "type": "link",
         "data": {
           "text": "Home",
-          "link": "home.html"
+          "link": "/bin/home.html"
         }
       }, {
         "type": "link",
@@ -37,37 +37,37 @@
         "type": "link",
         "data": {
           "text": "Methoden",
-          "link": "methoden.html"
+          "link": "/bin/methoden.html"
         }
       }, {
         "type": "link",
         "data": {
           "text": "Angebote",
-          "link": "angebote.html"
+          "link": "/bin/angebote.html"
         }
       }, {
         "type": "link",
         "data": {
           "text": "Zum Schmökern",
-          "link": "zum-schmoekern.html"
+          "link": "/bin/zum-schmoekern.html"
         }
       }, {
         "type": "link",
         "data": {
           "text": "Kontakt",
-          "link": "kontakt.html"
+          "link": "/bin/kontakt.html"
         }
       }, {
         "type": "link",
         "data": {
           "text": "Newsletter",
-          "link": "newsletter.html"
+          "link": "/bin/newsletter.html"
         }
       }, {
         "type": "link",
         "data": {
           "text": "Impressum",
-          "link": "Impressum.html"
+          "link": "/bin/Impressum.html"
         }
       }]
     }
@@ -165,7 +165,7 @@
                     "name": "Mit Kindern wachsen",
                     "year": "2016",
                     "description": "Tagesseminar 'Mit Kindern wachsen - Achtsamkeit in der Familie', Jon und Myla Kabat-Zinn (Salzburg, Bildungshaus St. Virgil)",
-                    "icon": "resources/kids.svg"
+                    "icon": "/bin/resources/kids.svg"
                   }
                 },
                 {
@@ -174,7 +174,7 @@
                     "name": "Stressmanagement und Burnoutprävention",
                     "year": "2016",
                     "description": "Fortbildungslehrgang Stressmanagement und Burnoutprävention EALP Akademie Graz",
-                    "icon": "resources/fire.svg"
+                    "icon": "/bin/resources/fire.svg"
                   }
                 },
                 {
@@ -183,7 +183,7 @@
                     "name": "Supervisionslehrgang ",
                     "year": "2015 - 2016",
                     "description": "Supervisionslehrgang Institut SISFO (Salzburger Impulse für systemische Supervision)",
-                    "icon": "resources/eye.svg"
+                    "icon": "/bin/resources/eye.svg"
                   }
                 },
                 {
@@ -192,7 +192,7 @@
                     "name": "Potentialentfaltung",
                     "year": "2015",
                     "description": "Potentialentfaltung durch Selbstliebe (Siegfried Essen, Graz)",
-                    "icon": "resources/butterfly.svg"
+                    "icon": "/bin/resources/butterfly.svg"
                   }
                 },
                 {
@@ -201,7 +201,7 @@
                     "name": "Achtsames Selbstmitgefühl",
                     "year": "2015",
                     "description": "Achtsames Selbstmitgefühl Intensivkurs (Christopher Germer, Lienhard Valentin, Geras NÖ)",
-                    "icon": "resources/flower.svg"
+                    "icon": "/bin/resources/flower.svg"
                   }
                 },
                 {
@@ -210,7 +210,7 @@
                     "name": "Positive Psychologie",
                     "year": "2014",
                     "description": "Positive Psychologie: Die Macht der guten Gefühle und der Liebe (Barbara Fredrickson, Graz)",
-                    "icon": "resources/smile.svg"
+                    "icon": "/bin/resources/smile.svg"
                   }
                 },
                 {
@@ -219,7 +219,7 @@
                     "name": "Orientierungswochenende",
                     "year": "2013",
                     "description": "Orientierungswochenende Achtsamkeit leben - Achtsamkeit lehren (Lienhard Valentin, Mirijam Fink, Graz)",
-                    "icon": "resources/compass.svg"
+                    "icon": "/bin/resources/compass.svg"
                   }
                 },
                 {
@@ -228,7 +228,7 @@
                     "name": "Krisenintervention",
                     "year": "2013",
                     "description": "Weiterbildung Krisenintervention - GesundheitsManagement Steiermärkische Sparkasse (Dr.Manfred Krampl, Graz)",
-                    "icon": "resources/chart.svg"
+                    "icon": "/bin/resources/chart.svg"
                   }
                 },
                 {
@@ -237,7 +237,7 @@
                     "name": "MBSR",
                     "year": "2013",
                     "description": "MBSR Training (Mag. Jörg Trettler, Graz)",
-                    "icon": "resources/rainbow.svg"
+                    "icon": "/bin/resources/rainbow.svg"
                   }
                 },
                 {
@@ -246,7 +246,7 @@
                     "name": "Gewaltfreie Kommunikation",
                     "year": "2013",
                     "description": "Lehrgang Gewaltfreie Kommunikation nach Dr. Marshall Rosenberg (Dr. Karoline Bitschnau, Salzburg)",
-                    "icon": "resources/giraffe.svg"
+                    "icon": "/bin/resources/giraffe.svg"
                   }
                 },
                 {
@@ -255,7 +255,7 @@
                     "name": "Selbstermächtigung",
                     "year": "2012",
                     "description": "Weiterbildung Von ohnmächtiger Wut und wütender Ohnmacht zur Selbstermächtigung - Fortgeschrittenenseminar in Gewaltfreier Kommunikation nach Dr. Marshall Rosenberg (Dipl-Psych. Gerlinde R. Fritsch, Hamburg)",
-                    "icon": "resources/wolf.svg"
+                    "icon": "/bin/resources/wolf.svg"
                   }
                 },
                 {
@@ -264,7 +264,7 @@
                     "name": "Positiv Psychologische Interventionen",
                     "year": "2012",
                     "description": "Weiterbildung Positiv Psychologische Interventionen für Beratung, Coaching und Therapie (Institut für Positive Psychologie und Mentalcoaching, Dr. Philipp Streit, Graz)",
-                    "icon": "resources/silhouette.svg"
+                    "icon": "/bin/resources/silhouette.svg"
                   }
                 },
                 {
@@ -273,7 +273,7 @@
                     "name": "Systemischen Strukturaufstellung",
                     "year": "2011",
                     "description": "Weiterbildung Methodik und Praxis der Systemischen Strukturaufstellung (Prof. Dr. Matthias Varga von Kibed, Institut für Kind und Familie Graz)",
-                    "icon": "resources/atoms.svg"
+                    "icon": "/bin/resources/atoms.svg"
                   }
                 },
                 {
@@ -282,7 +282,7 @@
                     "name": "GFK Aikido",
                     "year": "2007",
                     "description": "Weiterbildung GFK Aikido (Ingrid Holler, München)",
-                    "icon": "resources/japanese.svg"
+                    "icon": "/bin/resources/japanese.svg"
                   }
                 },
                 {
@@ -291,7 +291,7 @@
                     "name": "Grundlehrgang GFK",
                     "year": "2007",
                     "description": "Grundlehrgang in dem Modell der Gewaltfreien Kommunikation nach Dr. Marshall Rosenberg CNVC® (Mag. Christian Rüther, Wien)",
-                    "icon": "resources/rose.svg"
+                    "icon": "/bin/resources/rose.svg"
                   }
                 },
                 {
@@ -300,7 +300,7 @@
                     "name": "Coaching",
                     "year": "2006",
                     "description": "Coaching - Lehrgang (Balance Akademie Graz)",
-                    "icon": "resources/couch.svg"
+                    "icon": "/bin/resources/couch.svg"
                   }
                 },
                 {
@@ -309,7 +309,7 @@
                     "name": "Pflegediagnostik",
                     "year": "1999",
                     "description": "Weiterbildung in Pflegediagnostik in der Psychiatrie (Niederösterreich)",
-                    "icon": "resources/heart.svg"
+                    "icon": "/bin/resources/heart.svg"
                   }
                 },
                 {
@@ -318,7 +318,7 @@
                     "name": "Kinästhetik",
                     "year": "1995",
                     "description": "Grundkurs Kinästhetik in der Pflege (ÖKV Wien)",
-                    "icon": "resources/dancing.svg"
+                    "icon": "/bin/resources/dancing.svg"
                   }
                 },
                 {
@@ -327,7 +327,7 @@
                     "name": "Basale Stimulation",
                     "year": "1995",
                     "description": "Grundkurs Basale Stimulation in der Pflege (ÖKV Wien)",
-                    "icon": "resources/peace.svg"
+                    "icon": "/bin/resources/peace.svg"
                   }
                 },
                 {
@@ -336,7 +336,7 @@
                     "name": "Vorlesungen und Seminare",
                     "year": "1992",
                     "description": "Ausgewählte Vorlesungen und Seminare an der Uni Graz (Allgemeine Psychologie, Interpersonelle Kommunikation, Spielpädagogik und kreative Medien, Gerontopsychologie, pädagogische Psychologie, Entwicklungspsychologie)",
-                    "icon": "resources/book.svg"
+                    "icon": "/bin/resources/book.svg"
                   }
                 },
                 {
@@ -345,7 +345,7 @@
                     "name": "Pflege nach dem Bobathkonzept",
                     "year": "1991",
                     "description": "Weiterbildung in der Pflege nach dem Bobathkonzept (ÖKV Graz)",
-                    "icon": "resources/hand.svg"
+                    "icon": "/bin/resources/hand.svg"
                   }
                 },
                 {
@@ -354,7 +354,7 @@
                     "name": "Mentorin",
                     "year": "1990",
                     "description": "Weiterbildung zur Mentorin für KrankenpflegeschülerInnen (Salzburg)",
-                    "icon": "resources/teacher.svg"
+                    "icon": "/bin/resources/teacher.svg"
                   }
                 }
               ]

@@ -1,0 +1,26 @@
+molecule {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 1em 0;
+}
+
+molecule .borderimage {
+  max-width: 30%;
+  margin-right: 3%;
+}
+
+
+molecule .buttons {
+  display: flex;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  margin: 1.3em;
+  max-width: 60%;
+}
+
+molecule .button {
+  margin: .4em;
+  font-size: .8em;
+}

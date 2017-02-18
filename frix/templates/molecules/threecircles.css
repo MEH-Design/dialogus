@@ -1,7 +1,7 @@
 molecule > div {
   display: flex;
   align-items: center;
-  justify-content: center;
+  justify-content: space-around;
   flex-flow: row wrap;
 }
 
@@ -9,9 +9,9 @@ molecule .heading {
   margin: .4em;
 }
 
-molecule .circle {
-  height: 14em;
+molecule .circle, molecule .linkcircle {
   width: 14em;
+  height: 14em;
   margin: .5em;
   margin-bottom: 2em;
 }

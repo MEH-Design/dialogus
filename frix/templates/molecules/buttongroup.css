@@ -1,8 +1,11 @@
+.textblock + molecule {
+  max-width: 40%;
+}
+
 molecule {
   display: flex;
   justify-content: flex-start;
   flex-wrap: wrap;
-  max-width: 40%;
   margin: 1.3em;
 }
 

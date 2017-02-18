@@ -16,7 +16,7 @@
         },
         {
           "type": "image",
-          "data": "resources/igel.png"
+          "data": "/bin/resources/igel.png"
         }
       ]
     },
@@ -25,13 +25,13 @@
         "type": "link",
         "data": {
           "text": "Home",
-          "link": "home.html"
+          "link": "/bin/home.html"
         }
       }, {
         "type": "link",
         "data": {
           "text": "Über mich",
-          "link": "ueber-mich.html"
+          "link": "/bin/ueber-mich.html"
         }
       }, {
         "type": "link",
@@ -43,31 +43,31 @@
         "type": "link",
         "data": {
           "text": "Angebote",
-          "link": "angebote.html"
+          "link": "/bin/angebote.html"
         }
       }, {
         "type": "link",
         "data": {
           "text": "Zum Schmökern",
-          "link": "zum-schmoekern.html"
+          "link": "/bin/zum-schmoekern.html"
         }
       }, {
         "type": "link",
         "data": {
           "text": "Kontakt",
-          "link": "kontakt.html"
+          "link": "/bin/kontakt.html"
         }
       }, {
         "type": "link",
         "data": {
           "text": "Newsletter",
-          "link": "newsletter.html"
+          "link": "/bin/newsletter.html"
         }
       }, {
         "type": "link",
         "data": {
           "text": "Impressum",
-          "link": "Impressum.html"
+          "link": "/bin/Impressum.html"
         }
       }]
     }
@@ -101,63 +101,63 @@
                 {
                   "type": "button",
                   "data": {
-                    "link": "#main",
+                    "link": "/bin/#main",
                     "text": "Integrative Gestaltberatung auf Grundlage der Gestalttherapie"
                   }
                 },
                 {
                   "type": "button",
                   "data": {
-                    "link": "#gestalt",
+                    "link": "/bin/#gestalt",
                     "text": "Gestalt"
                   }
                 },
                 {
                   "type": "button",
                   "data": {
-                    "link": "#leiblichkeit",
+                    "link": "/bin/#leiblichkeit",
                     "text": "Leiblichkeit"
                   }
                 },
                 {
                   "type": "button",
                   "data": {
-                    "link": "#awareness",
+                    "link": "/bin/#awareness",
                     "text": "Awareness"
                   }
                 },
                 {
                   "type": "button",
                   "data": {
-                    "link": "#integrativegestaltberatung",
+                    "link": "/bin/#integrativegestaltberatung",
                     "text": "Integrative Gestaltberatung"
                   }
                 },
                 {
                   "type": "button",
                   "data": {
-                    "link": "#gewaltfreiekommunikation",
+                    "link": "/bin/#gewaltfreiekommunikation",
                     "text": "Gewaltfreie Kommunikation"
                   }
                 },
                 {
                   "type": "button",
                   "data": {
-                    "link": "#positivepsychologie",
+                    "link": "/bin/#positivepsychologie",
                     "text": "Positive Psychologie"
                   }
                 },
                 {
                   "type": "button",
                   "data": {
-                    "link": "#achtsamesselbstmitgefuehl",
+                    "link": "/bin/#achtsamesselbstmitgefuehl",
                     "text": "Achstames Selbstmitgefühl"
                   }
                 },
                 {
                   "type": "button",
                   "data": {
-                    "link": "#verstaendnismeinerarbeit",
+                    "link": "/bin/#verstaendnismeinerarbeit",
                     "text": "Verständnis meiner Arbeit"
                   }
                 }
@@ -199,7 +199,7 @@
           {
             "type": "borderimagetext",
             "data": {
-              "borderimage": "resources/clay.jpg",
+              "borderimage": "/bin/resources/clay.jpg",
               "simplecallout": {
                 "id": "gestalt",
                 "name": "Gestalt",
@@ -210,7 +210,7 @@
           {
             "type": "borderimagetext",
             "data": {
-              "borderimage": "resources/beach.jpg",
+              "borderimage": "/bin/resources/beach.jpg",
               "simplecallout": {
                 "id": "leiblichkeit",
                 "name": "Leiblichkeit",
@@ -228,7 +228,7 @@
           {
             "type": "borderimagetext",
             "data": {
-              "borderimage": "resources/sunflower.jpg",
+              "borderimage": "/bin/resources/sunflower.jpg",
               "simplecallout": {
                 "id": "awareness",
                 "name": "Awareness",
@@ -239,7 +239,7 @@
           {
             "type": "borderimagetext",
             "data": {
-              "borderimage": "resources/spiderweb.jpg",
+              "borderimage": "/bin/resources/spiderweb.jpg",
               "simplecallout": {
                 "id": "integrativegestaltberatung",
                 "name": "Integrative Gestaltberatung",
