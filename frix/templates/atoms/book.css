@@ -1,0 +1,35 @@
+atom {
+  background: white;
+  border-radius: 1.5em;
+  padding: 0;
+  position: relative;
+  box-shadow: 0 .3rem 0 0 #C1C7BB;
+  display: inline-block;
+  overflow: hidden;
+  width: 15em;
+  margin: 1em;
+}
+
+atom img {
+  width: 100%;
+  transform: translateY(.2em) scale(1.03);
+  opacity: .8;
+}
+
+atom .bottom {
+  width: 100%;
+  background: #f8fdeb;
+  display: inline-block;
+  box-sizing: border-box;
+  font-weight: 600;
+  box-shadow: inset 0 .15rem 0 0 rgba(118, 118, 123, .1);
+  text-align: center;
+  padding: .4em 2em;
+}
+
+atom .bottom.title {
+  font-weight: 300;
+  background: white;
+  font-size: .8em;
+  padding-top: .4em;
+}

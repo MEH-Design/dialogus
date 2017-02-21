@@ -1,0 +1,319 @@
+{
+  "title": "Christine Minixhofer, MSc",
+  "header": {
+    "headline": {
+      "heading": "Christine Minixhofer, Msc",
+      "subheading": "Training | Coaching | Supervision | Psychologische Beratung"
+    },
+    "hero": {
+      "items": [
+        {
+          "type": "quote",
+          "data": {
+            "quote": "Denn Zeit ist Leben.<br/>Und das Leben wohnt im Herzen.",
+            "author": "Michael Ende, Momo"
+          }
+        },
+        {
+          "type": "image",
+          "data": "/bin/resources/igel.png"
+        }
+      ]
+    },
+    "navigation": {
+      "links": [{
+        "type": "link",
+        "data": {
+          "text": "Home",
+          "link": "/bin/home.html"
+        }
+      }, {
+        "type": "link",
+        "data": {
+          "text": "Über mich",
+          "link": "/bin/ueber-mich.html"
+        }
+      }, {
+        "type": "link",
+        "data": {
+          "text": "Methoden",
+          "link": "/bin/methoden.html"
+        }
+      }, {
+        "type": "link",
+        "data": {
+          "text": "Angebote",
+          "selected": "true"
+        }
+      }, {
+        "type": "link",
+        "data": {
+          "text": "Zum Schmökern",
+          "link": "/bin/zum-schmoekern.html"
+        }
+      }, {
+        "type": "link",
+        "data": {
+          "text": "Kontakt",
+          "link": "/bin/kontakt.html"
+        }
+      }, {
+        "type": "link",
+        "data": {
+          "text": "Newsletter",
+          "link": "/bin/newsletter.html"
+        }
+      }, {
+        "type": "link",
+        "data": {
+          "text": "Impressum",
+          "link": "/bin/Impressum.html"
+        }
+      }]
+    }
+  },
+  "lines": [
+    {
+      "type": "contentline",
+      "data": {
+        "nopadding": "true",
+        "modules": [
+          {
+            "type": "buttongroup",
+            "data": {
+              "buttons": [
+                {
+                  "type": "button",
+                  "data": {
+                    "link": "/bin/angebote/seminar-workshop-vortrag.html",
+                    "text": "Seminar - Workshop - Vortrag"
+                  }
+                },
+                {
+                  "type": "button",
+                  "data": {
+                    "link": "/bin/angebote/coaching.html",
+                    "text": "Psychologische Beratung -  Coaching",
+                    "selected": "true"
+                  }
+                },
+                {
+                  "type": "button",
+                  "data": {
+                    "link": "/bin/angebote/supervision.html",
+                    "text": "Supervision"
+                  }
+                },
+                {
+                  "type": "button",
+                  "data": {
+                    "link": "/bin/angebote/msc-kurs.html",
+                    "text": "Achtsames Selbstmitgefühl (MSC) - Kurs"
+                  }
+                },
+                {
+                  "type": "button",
+                  "data": {
+                    "link": "/bin/angebote/elternbildung-coaching-beratung.html",
+                    "text": "Elternbildung - Coaching - Beratung"
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "contentline",
+      "data": {
+        "nopadding": "true",
+        "modules": [
+          {
+            "type": "imagetitle",
+            "data": {
+              "image": "/bin/resources/office.jpg",
+              "id": "seminare",
+              "heading": "Psychologische Beratung -  Coaching"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "contentline",
+      "data": {
+        "modules": [
+          {
+            "type": "calltoaction",
+            "data": {
+              "borderimage": "/bin/resources/impuls.jpg",
+              "heading": "Psychologische Beratung und Coaching",
+              "text": "Psychologische Beratung (Lebensberatung) ist neben Medizin, Psychotherapie und Psychologie eine tragende Säule des „4-Säulen-Modells“ der österreichischen Gesundheitsvorsorge.<br/><br/>Das Gewerbe 'Lebens- und Sozialberatung' ist  in Österreich ein reglementiertes Gewerbe. Lebens- und Sozialberatung ist die professionelle psychologische Beratung und Betreuung von Menschen in Problem- und Entscheidungssituationen. Sie trägt dazu bei, belastende oder schwer zu bewältigende Situationen zu erleichtern, zu verändern und eine Lösung zu finden.<br/><br/>Lebensberatung unterstützt und berät Einzelne, Paare, Familien, Teams und Gruppen beim Erarbeiten von Lösungen.",
+              "button": {
+                "text": "lebensberater.at",
+                "link": "http://www.lebensberater.at"
+              }
+            }
+          },
+          {
+            "type": "verticaltitle",
+            "data": {
+              "heading": "Ich begleite und berate Sie...",
+              "align": "right",
+              "callouts": [
+                {
+                  "type": "simplecallout",
+                  "data": {
+                    "name": "in Ihrer Persönlichkeitsentwicklung",
+                    "description": "Lebenssituationsanalyse und Standortbestimmung, Entscheidungsfindung, Entwicklungsmöglichkeiten, achtsame und gewaltfreie Kommunikation, Beziehungs- und Lebensgestaltung"
+                  }
+                },
+                {
+                  "type": "simplecallout",
+                  "data": {
+                    "name": "zur Krisenbewältigung",
+                    "description": "Umgang mit Krankheit, Tod, Trauer, Abschied, Verlust und Übergangsphasen"
+                  }
+                },
+                {
+                  "type": "simplecallout",
+                  "data": {
+                    "name": "in Ihrer Rolle als Mutter oder Vater",
+                    "description": "Achtsame und gewaltfreie Kommunikation, Erziehung und Beziehung"
+                  }
+                },
+                {
+                  "type": "simplecallout",
+                  "data": {
+                    "name": "im beruflichen Kontext",
+                    "description": "Konfliktmanagement, Gesprächsführung, achtsame und gewaltfreie Kommunikation, Reflexion von Führungsverhalten, Stressbewältigung, Prävention im Umgang mit Aggression und Gewalt, Burnout Prävention (eingetragen im Supervisions- und Burnout Expertenpool der WKO)"
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "contentline",
+      "data": {
+        "modules": [
+          {
+            "type": "bigquote",
+            "data": {
+              "heading": "mehr Informationen dazu finden Sie in meinem <a class='button' href='/bin/resources/download/lebensberatung.pdf' target='_blank'>Flyer</a>"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "contentline",
+      "data": {
+        "modules": [
+          {
+            "type": "title",
+            "data": {
+              "heading": "Selbsterfahrung und Supervision"
+            }
+          },
+          {
+            "type": "textblock",
+            "data": "Ich erfülle die Kriterien der Lebens- und Sozialberatungsverordnung § 4 Abs. 3 und Abs. 4 und begleite Sie sehr gerne als Ausbildungskanditaten bzw. angehende Kollegin in Ihrem persönlichen Lernprozess.<br/><br/>Sie finden meinen Eintrag auch in den Listen für Einzelselbsterfahrung und Einzelsupervision der Akademie der Steirischen Gesellschaft für Lebens- und Sozialberatung (SteiGLS, Graz)."
+          }
+        ]
+      }
+    }
+  ],
+  "foot": {
+      "modules": [
+        {
+          "type": "twolines",
+          "data": {
+            "firstline": "+43 699 88 46 75 44",
+            "secondline": "christine.minixhofer(at)dialogus.at"
+          }
+        },
+        {
+          "type": "socialtitle",
+          "data": {
+            "heading": "Christine Minixhofer, MSc",
+            "socials": [
+              {
+                "type": "urlicon",
+                "data": {
+                  "url": "https://www.facebook.com/christineminixhofer",
+                  "title": "Facebook"
+                }
+              },
+              {
+                "type": "urlicon",
+                "data": {
+                  "url": "http://www.arbor-seminare.de/christine-minixhofer",
+                  "title": "Arbor Seminare"
+                }
+              },
+              {
+                "type": "urlicon",
+                "data": {
+                  "url": "http://centerformsc.org/msc-teacher/christine-minixhofer",
+                  "title": "Center for Mindful Self-Compassion"
+                }
+              },
+              {
+                "type": "urlicon",
+                "data": {
+                  "url": "http://www.gewaltfrei.at/profile/christineminixhofer",
+                  "title": "Gewaltfreie Kommunikation Austria"
+                }
+              },
+              {
+                "type": "urlicon",
+                "data": {
+                  "url": "http://www.gewaltfrei-dach.eu/wissenschaftliche-arbeiten",
+                  "title": "DACH e.V. - Gewaltfreie Kommunikation"
+                }
+              },
+              {
+                "type": "urlicon",
+                "data": {
+                  "url": "http://www.steigls.org/index.php?id=praxisadresse_detail&lebensberater=163",
+                  "title": "Steirische Gesellschaft für Lebens- und Sozialberatung"
+                }
+              },
+              {
+                "type": "urlicon",
+                "data": {
+                  "url": "https://www.xing.com/profile/Christine_Minixhofer/web_profiles",
+                  "title": "Xing"
+                }
+              },
+              {
+                "type": "urlicon",
+                "data": {
+                  "url": "http://www.bestnet.com/go.asp?personen_id=144740&sektion=personen&rkarte=infodet",
+                  "title": "bestNET"
+                }
+              },
+              {
+                "type": "urlicon",
+                "data": {
+                  "url": "http://christine-minixhofer.stadtausstellung.at",
+                  "title": "Stadtausstellung"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "type": "twolines",
+          "data": {
+            "firstline": "Mitterstraße 128/11",
+            "secondline": "8055 Seiersberg bei Graz"
+          }
+        }
+      ]
+  }
+}

@@ -15,5 +15,17 @@
   "/angebote/seminar-workshop-vortrag": {
     "template": "home.html",
     "content": "seminar-workshop-vortrag.json"
+  },
+  "/angebote/coaching": {
+    "template": "home.html",
+    "content": "coaching.json"
+  },
+  "/angebote/supervision": {
+    "template": "home.html",
+    "content": "supervision.json"
+  },
+  "/angebote/msc-kurs": {
+    "template": "home.html",
+    "content": "msc-kurs.json"
   }
 }

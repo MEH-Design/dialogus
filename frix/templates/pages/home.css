@@ -20,3 +20,36 @@ body {
 .header > *:first-child {
   box-shadow: none;
 }
+
+p a {
+  position: relative;
+	display: inline-block;
+	outline: none;
+	color: rgb(118, 118, 123);
+	vertical-align: bottom;
+	text-decoration: none;
+	white-space: nowrap;
+  font-weight: 600;
+  padding: 0 .4em;
+  border-radius: 99em;
+  /* fade in background */
+  border-bottom: 1px solid rgba(52,73,94,0.4);
+	font-weight: 500;
+	-webkit-transition: background-color 0.3s, border-color 0.3s;
+	transition: background-color 0.3s, border-color 0.3s;
+}
+
+p a::before,
+p a::after {
+	pointer-events: none;
+	-webkit-backface-visibility: hidden;
+	backface-visibility: hidden;
+	-webkit-font-smoothing: antialiased;
+	font-smoothing: antialiased;
+}
+
+p a:hover,
+p a:focus {
+	border-color: rgba(52,73,94,0);
+	background-color: rgba(52,73,94,0.1);
+}

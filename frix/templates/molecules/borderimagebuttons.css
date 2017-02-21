@@ -10,7 +10,13 @@ molecule .borderimage {
   max-width: 30%;
   margin-right: 3%;
   opacity: .7;
-  filter: brightness(1.4), grayscale(.4);;
+  filter: brightness(1.4), grayscale(.4);
+  transition: all 1.5s;
+}
+
+molecule .borderimage:hover {
+  opacity: .9;
+  filter: brightness(1), grayscale(0);
 }
 
 molecule .buttons {

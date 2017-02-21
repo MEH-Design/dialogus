@@ -102,7 +102,7 @@
                     "text": "Psychologische Beratung und Coaching für berufliche und persönliche Themen",
                     "heading": "Psychologische Beratung -  Coaching",
                     "image": "/bin/resources/office.jpg",
-                    "link": "/bin/test"
+                    "link": "/bin/angebote/coaching.html"
                   }
                 },
                 {
@@ -111,7 +111,7 @@
                     "text": "Die Reflexion der beruflichen Tätigkeit, das Betrachten der Vorgänge in Arbeitsprozessen aus der Meta-Ebene",
                     "heading": "Supervision",
                     "image": "/bin/resources/dandelion.jpg",
-                    "link": "/bin/test"
+                    "link": "/bin/angebote/supervision.html"
                   }
                 },
                 {
@@ -120,7 +120,7 @@
                     "text": "Mindful Self Compassion ist ein evidenz-basierter 8-wöchiger Kurs zur Entwicklung von Selbstmitgefühl",
                     "heading": "Achtsames Selbstmitgefühl (MSC) - Kurs",
                     "image": "/bin/resources/beautiful.jpg",
-                    "link": "/bin/test"
+                    "link": "/bin/angebote/msc-kurs.html"
                   }
                 },
                 {
@@ -129,7 +129,7 @@
                     "text": "Elternbildung - Coaching und Beratung für eine achtsame und haltgebende Erziehung",
                     "heading": "Elternbildung - Coaching - Beratung",
                     "image": "/bin/resources/koala.jpg",
-                    "link": "/bin/test"
+                    "link": "/bin/angebote/elternbildung-coaching-beratung.html"
                   }
                 }
               ]

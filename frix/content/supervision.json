@@ -10,7 +10,7 @@
         {
           "type": "quote",
           "data": {
-            "quote": "Denn Zeit ist Leben.<br>Und das Leben wohnt im Herzen.",
+            "quote": "Denn Zeit ist Leben.<br/>Und das Leben wohnt im Herzen.",
             "author": "Michael Ende, Momo"
           }
         },
@@ -25,7 +25,7 @@
         "type": "link",
         "data": {
           "text": "Home",
-          "selected": "true"
+          "link": "/bin/home.html"
         }
       }, {
         "type": "link",
@@ -43,7 +43,7 @@
         "type": "link",
         "data": {
           "text": "Angebote",
-          "link": "/bin/angebote.html"
+          "selected": "true"
         }
       }, {
         "type": "link",
@@ -76,21 +76,66 @@
     {
       "type": "contentline",
       "data": {
+        "nopadding": "true",
         "modules": [
           {
-            "type": "calltoaction",
+            "type": "buttongroup",
             "data": {
-              "borderimage": "/bin/resources/portrait.jpg",
-              "heading": "Herzlich Willkommen!",
-              "text": "Meine Angebote sind sehr vielfältig und doch haben sie alle eines gemeinsam - <br><strong>Achtsam mit sich selbst und anderen.</strong>",
-              "button": {
-                "text": "Mehr über mich erfahren..."
-              }
+              "buttons": [
+                {
+                  "type": "button",
+                  "data": {
+                    "link": "/bin/angebote/seminar-workshop-vortrag.html",
+                    "text": "Seminar - Workshop - Vortrag"
+                  }
+                },
+                {
+                  "type": "button",
+                  "data": {
+                    "link": "/bin/angebote/coaching.html",
+                    "text": "Psychologische Beratung -  Coaching"
+                  }
+                },
+                {
+                  "type": "button",
+                  "data": {
+                    "link": "/bin/angebote/supervision.html",
+                    "text": "Supervision",
+                    "selected": "true"
+                  }
+                },
+                {
+                  "type": "button",
+                  "data": {
+                    "link": "/bin/angebote/msc-kurs.html",
+                    "text": "Achtsames Selbstmitgefühl (MSC) - Kurs"
+                  }
+                },
+                {
+                  "type": "button",
+                  "data": {
+                    "link": "/bin/angebote/elternbildung-coaching-beratung.html",
+                    "text": "Elternbildung - Coaching - Beratung"
+                  }
+                }
+              ]
             }
-          },
+          }
+        ]
+      }
+    },
+    {
+      "type": "contentline",
+      "data": {
+        "nopadding": "true",
+        "modules": [
           {
-            "type": "review",
-            "data": {}
+            "type": "imagetitle",
+            "data": {
+              "image": "/bin/resources/dandelion.jpg",
+              "id": "seminare",
+              "heading": "Supervision"
+            }
           }
         ]
       }
@@ -100,54 +145,57 @@
       "data": {
         "modules": [
           {
-            "type": "titledbox",
+            "type": "calltoaction",
             "data": {
-              "heading": "Einzelberatung",
-              "text": "Coaching und psychologische Beratung in einem vertraulichen Rahmen.",
-              "image": "/bin/resources/pdf.png",
-              "link": "/bin/resources/download/folder.pdf"
+              "borderimage": "/bin/resources/supervision.png",
+              "heading": "Supervision",
+              "text": "Supervision ist die Reflexion der beruflichen Tätigkeit, das Betrachten der Vorgänge in Arbeitsprozessen aus der Meta-Ebene. Je nach Kontext kann der Inhalt dieser Reflexion – die letztendlich immer ein Beratungsprozess ist – unterschiedlich sein: von Entscheidungs- und Arbeitsprozessen mit unterschiedlichsten Inhalten, Prozessen in Teams, dem Zusammenspiel hierarchischer Ebenen bis zum Beratungs- oder Coachinggespräch selbst.<br/><br/>Supervision ist Mittel zum Zweck: die Verbesserung der Arbeitsfähigkeit, der Effizienz, der Arbeitsfreude und damit auch des Ergebnisses von Arbeitsprozessen. Sie verbessert die Kommunikation in Teams und zwischen hierarchischen Ebenen, sie erhöht die Fähigkeit im Umgang mit Konflikten, sie fördert die Resilienz des Einzelnen und von Teams. Somit ist Supervision ein fundamentaler Bestandteil betrieblicher Gesundheitsförderung und ein wichtiger Aspekt für die Prävention von Mobbing und Burnout, was sich auch unmittelbar auf die Wirtschaftlichkeit von Unternehmen auswirkt.",
+              "button": {
+                "text": "WKO Expertenpool",
+                "link": "http://www.lebensberater.at/supervision?combine_1=Christine+Minixhofer&combine=Steiermark"
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "contentline",
+      "data": {
+        "modules": [
+          {
+            "type": "title",
+            "data": {
+              "heading": "Mein Angebot umfasst..."
             }
           },
           {
-            "type": "threecircles",
+            "type": "borderimagebuttons",
             "data": {
-              "headings": [
+              "borderimage": "/bin/resources/alpine.jpg",
+              "buttons": [
                 {
-                  "type": "heading",
-                  "data": "Vorträge"
-                },
-                {
-                  "type": "heading",
-                  "data": "Workshops"
-                },
-                {
-                  "type": "heading",
-                  "data": "Seminare"
-                }
-              ],
-              "circles": [
-                {
-                  "type": "circle",
+                  "type": "button",
                   "data": {
-                    "text": "Was die Seele stark macht.",
-                    "heading": "Achtsamkeit",
-                    "image": "/bin/resources/lotus.jpg"
+                    "text": "Supervision und Coaching für berufiche Themen im Einzelsetting"
                   }
                 },
                 {
-                  "type": "circle",
+                  "type": "button",
                   "data": {
-                    "text": "Achtsamer und gewaltfreier Dialog.",
-                    "heading": "Kommunikation",
-                    "image": "/bin/resources/whisper.jpg"
+                    "text": "Fallsupervision im Einzel- oder Gruppensetting"
                   }
                 },
                 {
-                  "type": "circle",
+                  "type": "button",
                   "data": {
-                    "text": "Prävention von Aggression und Gewalt.",
-                    "heading": "Deeskalation",
-                    "image": "/bin/resources/leaf.jpg"
+                    "text": "Teamsupervision"
+                  }
+                },
+                {
+                  "type": "button",
+                  "data": {
+                    "text": "Einzelsupervision, Gruppensupervision für AusbildungskanditatInnen der LSB Ausbildung"
                   }
                 }
               ]

@@ -11,3 +11,7 @@ molecule h2 {
   margin-bottom: 1em;
   text-align: center;
 }
+
+molecule .button {
+  margin: 0 .5em;
+}

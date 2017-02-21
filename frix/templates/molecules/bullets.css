@@ -1,8 +1,3 @@
-.simplesimplecallout ~  molecule, .textblock ~  molecule, .calltoaction ~  molecule {
-  max-width: 40%;
-  padding-left: 10%;
-}
-
 molecule {
   margin: 0 2em;
 }
@@ -14,11 +9,15 @@ molecule .heading {
 
 molecule:not([dataalign]) .callouts {
   display: flex;
-  align-items: center;
-  justify-content: center;
+  align-items: flex-start;
+  justify-content: flex-start;
   width: 100%;
   flex-wrap: wrap;
   margin-bottom: 1em;
+}
+
+molecule .callouts > * {
+  max-width: 35%;
 }
 
 molecule[dataalign="right"] {

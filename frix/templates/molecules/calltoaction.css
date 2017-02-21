@@ -1,6 +1,6 @@
 molecule {
   display: flex;
-  align-items: flex-end;
+  align-items: center;
   padding-bottom: 3em;
   padding-top: 1.5em;
   min-width: 32rem;
