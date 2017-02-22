@@ -97,3 +97,11 @@ atom[dataribbon]:after{
   transform:rotate(45deg);
   box-shadow: 0 .2rem 0 0 rgba(118, 118, 123, .6);
 }
+
+atom[databucher] .kosten-wrap:not(.second) {
+  margin-bottom: -2.4em;
+}
+
+atom[databucher] .kosten-wrap.second {
+  display: none;
+}

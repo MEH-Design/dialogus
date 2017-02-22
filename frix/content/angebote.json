@@ -76,6 +76,56 @@
     {
       "type": "contentline",
       "data": {
+        "nopadding": "true",
+        "modules": [
+          {
+            "type": "buttongroup",
+            "data": {
+              "buttons": [
+                {
+                  "type": "button",
+                  "data": {
+                    "link": "/bin/angebote/seminar-workshop-vortrag.html",
+                    "text": "Seminar - Workshop - Vortrag"
+                  }
+                },
+                {
+                  "type": "button",
+                  "data": {
+                    "link": "/bin/angebote/coaching.html",
+                    "text": "Psychologische Beratung -  Coaching"
+                  }
+                },
+                {
+                  "type": "button",
+                  "data": {
+                    "link": "/bin/angebote/supervision.html",
+                    "text": "Supervision"
+                  }
+                },
+                {
+                  "type": "button",
+                  "data": {
+                    "link": "/bin/angebote/msc-kurs.html",
+                    "text": "Achtsames Selbstmitgefühl (MSC) - Kurs"
+                  }
+                },
+                {
+                  "type": "button",
+                  "data": {
+                    "link": "/bin/angebote/elternbildung-coaching-beratung.html",
+                    "text": "Elternbildung - Coaching - Beratung"
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "contentline",
+      "data": {
         "modules": [
           {
             "type": "threecircles",

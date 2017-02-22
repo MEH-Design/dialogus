@@ -27,5 +27,9 @@
   "/angebote/msc-kurs": {
     "template": "home.html",
     "content": "msc-kurs.json"
+  },
+  "/angebote/elternbildung-coaching-beratung": {
+    "template": "home.html",
+    "content": "elternbildung-coaching-beratung.json"
   }
 }
