@@ -31,5 +31,9 @@
   "/angebote/elternbildung-coaching-beratung": {
     "template": "home.html",
     "content": "elternbildung-coaching-beratung.json"
+  },
+  "/login" : {
+    "template": "home.html",
+    "content": "login.json"
   }
 }

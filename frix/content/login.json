@@ -76,126 +76,18 @@
     {
       "type": "contentline",
       "data": {
-        "nopadding": "true",
         "modules": [
           {
-            "type": "buttongroup",
+            "type": "verticaltitle",
             "data": {
-              "buttons": [
+              "heading": "Passwortgeschützt",
+              "callouts": [
                 {
-                  "type": "button",
+                  "type": "passwordcallout",
                   "data": {
-                    "link": "/bin/angebote/seminar-workshop-vortrag.html",
-                    "text": "Seminar - Workshop - Vortrag"
-                  }
-                },
-                {
-                  "type": "button",
-                  "data": {
-                    "link": "/bin/angebote/coaching.html",
-                    "text": "Psychologische Beratung -  Coaching"
-                  }
-                },
-                {
-                  "type": "button",
-                  "data": {
-                    "link": "/bin/angebote/supervision.html",
-                    "text": "Supervision",
-                    "selected": "true"
-                  }
-                },
-                {
-                  "type": "button",
-                  "data": {
-                    "link": "/bin/angebote/msc-kurs.html",
-                    "text": "Achtsames Selbstmitgefühl (MSC) - Kurs"
-                  }
-                },
-                {
-                  "type": "button",
-                  "data": {
-                    "link": "/bin/angebote/elternbildung-coaching-beratung.html",
-                    "text": "Elternbildung - Coaching - Beratung"
-                  }
-                }
-              ]
-            }
-          }
-        ]
-      }
-    },
-    {
-      "type": "contentline",
-      "data": {
-        "nopadding": "true",
-        "modules": [
-          {
-            "type": "imagetitle",
-            "data": {
-              "image": "/bin/resources/dandelion.jpg",
-              "id": "seminare",
-              "heading": "Supervision"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "type": "contentline",
-      "data": {
-        "modules": [
-          {
-            "type": "calltoaction",
-            "data": {
-              "borderimage": "/bin/resources/supervision.png",
-              "heading": "Supervision",
-              "text": "Supervision ist die Reflexion der beruflichen Tätigkeit, das Betrachten der Vorgänge in Arbeitsprozessen aus der Meta-Ebene. Je nach Kontext kann der Inhalt dieser Reflexion – die letztendlich immer ein Beratungsprozess ist – unterschiedlich sein: von Entscheidungs- und Arbeitsprozessen mit unterschiedlichsten Inhalten, Prozessen in Teams, dem Zusammenspiel hierarchischer Ebenen bis zum Beratungs- oder Coachinggespräch selbst.<br/><br/>Supervision ist Mittel zum Zweck: die Verbesserung der Arbeitsfähigkeit, der Effizienz, der Arbeitsfreude und damit auch des Ergebnisses von Arbeitsprozessen. Sie verbessert die Kommunikation in Teams und zwischen hierarchischen Ebenen, sie erhöht die Fähigkeit im Umgang mit Konflikten, sie fördert die Resilienz des Einzelnen und von Teams. Somit ist Supervision ein fundamentaler Bestandteil betrieblicher Gesundheitsförderung und ein wichtiger Aspekt für die Prävention von Mobbing und Burnout, was sich auch unmittelbar auf die Wirtschaftlichkeit von Unternehmen auswirkt.",
-              "button": {
-                "text": "WKO Expertenpool",
-                "link": "http://www.lebensberater.at/supervision?combine_1=Christine+Minixhofer&combine=Steiermark"
-              }
-            }
-          }
-        ]
-      }
-    },
-    {
-      "type": "contentline",
-      "data": {
-        "modules": [
-          {
-            "type": "title",
-            "data": {
-              "heading": "Mein Angebot umfasst..."
-            }
-          },
-          {
-            "type": "borderimagebuttons",
-            "data": {
-              "borderimage": "/bin/resources/alpine.jpg",
-              "buttons": [
-                {
-                  "type": "button",
-                  "data": {
-                    "text": "Supervision und Coaching für berufiche Themen im Einzelsetting"
-                  }
-                },
-                {
-                  "type": "button",
-                  "data": {
-                    "text": "Fallsupervision im Einzel- oder Gruppensetting"
-                  }
-                },
-                {
-                  "type": "button",
-                  "data": {
-                    "text": "Teamsupervision"
-                  }
-                },
-                {
-                  "type": "button",
-                  "data": {
-                    "text": "Einzelsupervision, Gruppensupervision für AusbildungskanditatInnen der LSB Ausbildung"
+                    "id": " ",
+                    "name": "Passwort",
+                    "description": "Der Inhalt, den Sie aufrufen wollen, ist passwortgeschützt.<br/>Bitte geben Sie das korrekte Passwort ein."
                   }
                 }
               ]

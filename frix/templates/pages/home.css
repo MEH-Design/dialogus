@@ -7,6 +7,12 @@ body {
     font-family: "Open Sans";
     color: #A4A4A4;
     margin: 0;
+    background: white;
+}
+
+html {
+  background: #88b714;
+  height: 100%;
 }
 
 .header > *, .contentline {
