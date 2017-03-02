@@ -3,8 +3,6 @@ organism {
   align-items: flex-start;
   justify-content: center;
   flex-flow: row wrap;
-  width: 100%
-  max-width: 100%;
   padding: 0 10vw;
   position: relative;
   z-index: 1;

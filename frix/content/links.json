@@ -1,0 +1,726 @@
+{
+  "title": "Christine Minixhofer, MSc",
+  "header": {
+    "headline": {
+      "heading": "Christine Minixhofer, Msc",
+      "subheading": "Training | Coaching | Supervision | Psychologische Beratung"
+    },
+    "hero": {
+      "items": [
+        {
+          "type": "quote",
+          "data": {
+            "quote": "Denn Zeit ist Leben.<br>Und das Leben wohnt im Herzen.",
+            "author": "Michael Ende, Momo"
+          }
+        },
+        {
+          "type": "image",
+          "data": "/bin/resources/igel.png"
+        }
+      ]
+    },
+    "navigation": {
+      "links": [{
+        "type": "link",
+        "data": {
+          "text": "Home",
+          "link": "/bin/home.html"
+        }
+      }, {
+        "type": "link",
+        "data": {
+          "text": "Über mich",
+          "link": "/bin/ueber-mich.html"
+        }
+      }, {
+        "type": "link",
+        "data": {
+          "text": "Methoden",
+          "link": "/bin/methoden.html"
+        }
+      }, {
+        "type": "link",
+        "data": {
+          "text": "Angebote",
+          "link": "/bin/angebote.html"
+        }
+      }, {
+        "type": "link",
+        "data": {
+          "text": "Zum Schmökern",
+          "selected": "true"
+        }
+      }, {
+        "type": "link",
+        "data": {
+          "text": "Kontakt",
+          "link": "/bin/kontakt.html"
+        }
+      }, {
+        "type": "link",
+        "data": {
+          "text": "Newsletter",
+          "link": "/bin/newsletter.html"
+        }
+      }, {
+        "type": "link",
+        "data": {
+          "text": "Impressum",
+          "link": "/bin/Impressum.html"
+        }
+      }]
+    }
+  },
+  "lines": [
+    {
+      "type": "contentline",
+      "data": {
+        "nopadding": "true",
+        "modules": [
+          {
+            "type": "buttongroup",
+            "data": {
+              "buttons": [
+                {
+                  "type": "button",
+                  "data": {
+                    "link": "/bin/zum-schmoekern/unterlagen-seminare.html",
+                    "text": "Unterlagen Seminare"
+                  }
+                },
+                {
+                  "type": "button",
+                  "data": {
+                    "link": "/bin/zum-schmoekern/meditationen.html",
+                    "text": "Meditationen"
+                  }
+                },
+                {
+                  "type": "button",
+                  "data": {
+                    "link": "/bin/zum-schmoekern/publikationen.html",
+                    "text": "Publikationen"
+                  }
+                },
+                {
+                  "type": "button",
+                  "data": {
+                    "link": "/bin/zum-schmoekern/links.html",
+                    "text": "Links",
+                    "selected": "true"
+                  }
+                },
+                {
+                  "type": "button",
+                  "data": {
+                    "link": "/bin/zum-schmoekern/referenzen.html",
+                    "text": "Referenzen"
+                  }
+                },
+                {
+                  "type": "button",
+                  "data": {
+                    "link": "/bin/zum-schmoekern/literaturtipps.html",
+                    "text": "Literaturtipps"
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "contentline",
+      "data": {
+        "modules": [
+          {
+            "type": "verticaltitle",
+            "data": {
+              "heading": "Von mir empfohlene Links",
+              "callouts": [
+                {
+                  "type": "logo",
+                  "data": {
+                    "titel": "Center for Nonviolent Communication",
+                    "bild": "/bin/resources/links/cnvc.png",
+                    "author": "cnvc.org",
+                    "link": "http://www.cnvc.org"
+                  }
+                },
+                {
+                  "type": "logo",
+                  "data": {
+                    "titel": "DACH e. V.",
+                    "bild": "/bin/resources/links/dach.png",
+                    "author": "gewaltfrei-dach.eu",
+                    "link": "http://www.gewaltfrei-dach.eu/wissenschaftliche-arbeiten"
+                  }
+                },
+                {
+                  "type": "logo",
+                  "data": {
+                    "titel": "Gewaltfreie Kommunikation Austria",
+                    "bild": "/bin/resources/links/gewaltfrei.png",
+                    "author": "gewaltfrei.at",
+                    "link": "http://www.gewaltfrei.at"
+                  }
+                },
+                {
+                  "type": "logo",
+                  "data": {
+                    "titel": "Arbor Seminare",
+                    "bild": "/bin/resources/links/arbor.png",
+                    "author": "arbor-seminare.de",
+                    "link": "http://www.arbor-seminare.de"
+                  }
+                },
+                {
+                  "type": "logo",
+                  "data": {
+                    "titel": "Charakterstärken",
+                    "bild": "/bin/resources/links/zurich.jpg",
+                    "author": "charakterstaerken.org",
+                    "link": "http://www.charakterstaerken.org"
+                  }
+                },
+                {
+                  "type": "logo",
+                  "data": {
+                    "titel": "Gratefulness",
+                    "bild": "/bin/resources/links/gratefulness.png",
+                    "author": "gratefulness.org",
+                    "link": "http://gratefulness.org"
+                  }
+                },
+                {
+                  "type": "logo",
+                  "data": {
+                    "titel": "Dachverband für Positive Psychologie",
+                    "bild": "/bin/resources/links/dach-pos.png",
+                    "author": "dach-pp.eu",
+                    "link": "http://www.dach-pp.eu"
+                  }
+                },
+                {
+                  "type": "logo",
+                  "data": {
+                    "titel": "Compassion Training",
+                    "bild": "/bin/resources/links/compassion.png",
+                    "author": "compassion-training.org",
+                    "link": "http://www.compassion-training.org"
+                  }
+                },
+                {
+                  "type": "logo",
+                  "data": {
+                    "titel": "Center for Mindful Self-Compassion",
+                    "bild": "/bin/resources/links/msc.png",
+                    "author": "centerformsc.org",
+                    "link": "http://centerformsc.org"
+                  }
+                },
+                {
+                  "type": "logo",
+                  "data": {
+                    "titel": "Netzwerk Achtsame Wirtschaft",
+                    "bild": "/bin/resources/links/wirtschaft.png",
+                    "author": "achtsame-wirtschaft.de",
+                    "link": "http://www.achtsame-wirtschaft.de/"
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "contentline",
+      "data": {
+        "modules": [
+          {
+            "type": "title",
+            "data": {
+              "heading": "Achtsamkeit und (Selbst-)Mitgefühl"
+            }
+          },
+          {
+            "type": "calltoaction",
+            "data": {
+              "borderimage": "/bin/resources/links/selbst.jpg",
+              "heading": "Selbstmitgefühl",
+              "text": "Auf der Seite <a href='http://www.selbstmitgefühl.de'>selbstmitgefühl.de</a> von Christine Brähler gibt es hilfreiche Antworten und Impulse zum Thema Selbstmitgefühl. Was ist Selbstmitgefühl? Wie kann man es lernen? Was sagt die Hirnforschung dazu? Außerdem stellt Christine Brähler 4 Meditationen zum Üben zur Verfügung.",
+              "button": {
+                "link": "http://www.selbstmitgefühl.de",
+                "text": "selbstmitgefühl.de"
+              }
+            }
+          },
+          {
+            "type": "calltoaction",
+            "data": {
+              "borderimage": "/bin/resources/links/germer.jpg",
+              "heading": "Mindful Self-Compassion",
+              "text": "Meditationen zum Selbstmitgefühl in Englisch und vieles andere mehr zum Thema auf der Seite von Christopher Germer:",
+              "button": {
+                "link": "http://www.mindfulselfcompassion.org/meditations_downloads.php",
+                "text": "mindfulselfcompassion.org"
+              }
+            }
+          },
+          {
+            "type": "buttongroup",
+            "data": {
+              "buttons": [
+                {
+                  "type": "button",
+                  "data": {
+                    "text": "Mitgefühl versus Empathie - Interview mit Tania Singer",
+                    "link": "http://www.dctp.tv/filme/dldw2012-tania-singer"
+                  }
+                },
+                {
+                  "type": "button",
+                  "data": {
+                    "text": "Neue Studien zu einer alten Tugend - Artikel und Radiobeitrag von Ingrid Strobl",
+                    "link": "http://www.swr.de/swr2/wissen/mitgefuehl-neu-studien/-/id=661224/nid=661224/did=11286912/1vywc3y/index.html"
+                  }
+                },
+                {
+                  "type": "button",
+                  "data": {
+                    "text": "Free the Mind - Kann ein Atemzug dein Denken verändern?",
+                    "link": "https://youtu.be/YN37dHN4bnc?t=1m30s"
+                  }
+                },
+                {
+                  "type": "button",
+                  "data": {
+                    "text": "Achtsamkeit in der westlichen Medizin - Interview mit Stefan Schmidt",
+                    "link": "http://www.3sat.de/mediathek/?mode=play&obj=40540"
+                  }
+                },
+                {
+                  "type": "button",
+                  "data": {
+                    "text": "Achtsamkeitspraxis: Stop Übung - Angeleitet von Elisha Goldstein (Sprache Englisch)",
+                    "link": "https://www.youtube.com/watch?v=EiuTpeu5xQc"
+                  }
+                },
+                {
+                  "type": "button",
+                  "data": {
+                    "text": "Achtsamkeit: Eine Schatzkiste an Wissen und Anregungen - Zusammengesammelt von Dr. Michael E. Harrer",
+                    "link": "http://www.achtsamleben.at/startseite/"
+                  }
+                },
+                {
+                  "type": "button",
+                  "data": {
+                    "text": "MBSR (mindful based stress reduction) Kurs in Graz - Geleitet von Mag.a. Elisabeth Hofmann - Herbst 2016",
+                    "link": "/bin/links/mbsr.pdf"
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "contentline",
+      "data": {
+        "modules": [
+          {
+            "type": "title",
+            "data": {
+              "heading": "Positive Psychologie - 'Glücksforschung'"
+            }
+          },
+          {
+            "type": "buttongroup",
+            "data": {
+              "buttons": [
+                {
+                  "type": "button",
+                  "data": {
+                    "link": "http://positivepsychologie.eu/was-ist-positive-psychologie",
+                    "text": "Was ist positive Psychologie?"
+                  }
+                },
+                {
+                  "type": "button",
+                  "data": {
+                    "link": "http://positivepsychologie.eu/Uebungen/10-Wege-zum-Glueck-mit-Daniela-Blickhan",
+                    "text": "10 Wege zum Glück mit Daniela Blickhan"
+                  }
+                },
+                {
+                  "type": "button",
+                  "data": {
+                    "link": "https://www.youtube.com/user/HappyAndFitHappiness",
+                    "text": "Happy and Fit Happiness"
+                  }
+                },
+                {
+                  "type": "button",
+                  "data": {
+                    "link": "http://www.positivityratio.com",
+                    "text": "Barbara Fredrickson, Online Test zur Selbsteinschätzung des seelischen Wohlbefindens"
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "contentline",
+      "data": {
+        "modules": [
+          {
+            "type": "title",
+            "data": {
+              "heading": "Gewaltfreie Kommunikation"
+            }
+          },
+          {
+            "type": "buttongroup",
+            "data": {
+              "buttons": [
+                {
+                  "type": "button",
+                  "data": {
+                    "link": "http://www.youtube.com/watch?v=tCfU_ZRy_lg",
+                    "text": "Marshall Rosenberg zum Thema Liebe"
+                  }
+                },
+                {
+                  "type": "button",
+                  "data": {
+                    "link": "http://www.gfk-koblenz.de/mat/fritsch.pdf",
+                    "text": "Unter der Spitze des Eisbergs - Artikel von Gerlinde Fritsch"
+                  }
+                },
+                {
+                  "type": "button",
+                  "data": {
+                    "link": "http://www.br.de/radio/bayern2/sendungen/radiowissen/gewaltfreie-kommunikation-rosenberg-100.html",
+                    "text": "Wertschätzung statt Manipulation - Hörbeitrag von Christina Teuthorn"
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "contentline",
+      "data": {
+        "modules": [
+          {
+            "type": "title",
+            "data": {
+              "heading": "Gefühle - Emotionen"
+            }
+          },
+          {
+            "type": "buttongroup",
+            "data": {
+              "buttons": [
+                {
+                  "type": "button",
+                  "data": {
+                    "link": "http://www.microexpressionstest.com/micro-expressions-test",
+                    "text": "Micro Expressions Test nach Paul Ekman"
+                  }
+                },
+                {
+                  "type": "button",
+                  "data": {
+                    "link": "https://www.youtube.com/watch?v=CDlILJoYA3E",
+                    "text": "Zum Umgang mit der Angst - Tanz mit der Angst"
+                  }
+                },
+                {
+                  "type": "button",
+                  "data": {
+                    "link": "http://www.youtube.com/watch?v=jP-QCUw_U0A",
+                    "text": "Happy - Flashmob in Graz"
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "contentline",
+      "data": {
+        "modules": [
+          {
+            "type": "title",
+            "data": {
+              "heading": "Sexuelle Belästigung im Pflegealltag"
+            }
+          },
+          {
+            "type": "buttongroup",
+            "data": {
+              "buttons": [
+                {
+                  "type": "button",
+                  "data": {
+                    "link": "http://www.sbk.ch/fileadmin/sbk/service/online_shop/publikationen/de/docs/03_18_Leitfaden_Sexuelle_Belaestigung_d.pdf",
+                    "text": "Studie des Schweizerischen Pflegefachverbands"
+                  }
+                },
+                {
+                  "type": "button",
+                  "data": {
+                    "link": "http://www.srf.ch/sendungen/kontext/wenn-pflegende-sexuell-belaestigt-werden-2",
+                    "text": "Hörbeitrag des schweizerischen Rundfunks"
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "contentline",
+      "data": {
+        "modules": [
+          {
+            "type": "title",
+            "data": {
+              "heading": "Sexuelle Belästigung am Arbeitsplatz"
+            }
+          },
+          {
+            "type": "buttongroup",
+            "data": {
+              "buttons": [
+                {
+                  "type": "button",
+                  "data": {
+                    "link": "http://www.uni-ak.ac.at/betriebsrat-kw/documents/Broschuere_Beruehrt.pdf",
+                    "text": "Broschüre 'berührt!' österreichisches Bundeskanzleramt"
+                  }
+                },
+                {
+                  "type": "button",
+                  "data": {
+                    "link": "http://www.arbeiterkammer.at/beratung/arbeitundrecht/Arbeitsklima/Sexuelle_Belaestigung.html",
+                    "text": "Infos durch die Arbeiterkammer"
+                  }
+                },
+                {
+                  "type": "button",
+                  "data": {
+                    "link": "https://www.help.gv.at/Portal.Node/hlpd/public/content/39/Seite.390002.html",
+                    "text": "Infos durch HELP.gv.at"
+                  }
+                },
+                {
+                  "type": "button",
+                  "data": {
+                    "link": "http://www.ams.at/_docs/001_produktblatt_sexbel_kundinnen.pdf",
+                    "text": "Infos durch das AMS"
+                  }
+                },
+                {
+                  "type": "button",
+                  "data": {
+                    "link": "http://www.gleichbehandlungsanwaltschaft.at/DocView.axd?CobId=44260",
+                    "text": "Infos durch die Anwaltschaft für Gleichbehandlung"
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "contentline",
+      "data": {
+        "modules": [
+          {
+            "type": "title",
+            "data": {
+              "heading": "Sexuelle Belästigung in Altenheimen und im Behindertenbereich"
+            }
+          },
+          {
+            "type": "buttongroup",
+            "data": {
+              "buttons": [
+                {
+                  "type": "button",
+                  "data": {
+                    "link": "http://www.arztakademie.at/fileadmin/template/main/Geriatrie/Publikationen11-12/Anwander_Bannmueller_AA.pdf",
+                    "text": "Dissertation zum Thema Umgang mit Sexualität in Pflege- und Altenheimen 2012"
+                  }
+                },
+                {
+                  "type": "button",
+                  "data": {
+                    "link": "http://www.libida-sexualbegleitung.at",
+                    "text": "Berufsbild Sexualbegleitung"
+                  }
+                },
+                {
+                  "type": "button",
+                  "data": {
+                    "link": "http://www.spiegel.de/spiegelwissen/a-680226.html",
+                    "text": "Artikel im Spiegel Online: Sex-Dienste im Pflegeheim"
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "contentline",
+      "data": {
+        "modules": [
+          {
+            "type": "title",
+            "data": {
+              "heading": "Aufstellungen"
+            }
+          },
+          {
+            "type": "buttongroup",
+            "data": {
+              "buttons": [
+                {
+                  "type": "button",
+                  "data": {
+                    "link": "http://www.arztakademie.at/fileadmin/template/main/Geriatrie/Publikationen11-12/Anwander_Bannmueller_AA.pdf",
+                    "text": "Aufstellungsarbeit - Information des Bundesministerums für Gesundheit"
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "contentline",
+      "data": {
+        "modules": [
+          {
+            "type": "title",
+            "data": {
+              "heading": "Haftungshinweis"
+            }
+          },
+          {
+            "type": "textblock",
+            "data": "Ich übernehme keine Verantwortung für den Inhalt der angegebenen externen Links. Für deren Inhalt sind ausschließlich deren Betreiber zuständig."
+          }
+        ]
+      }
+    }
+  ],
+  "foot": {
+      "modules": [
+        {
+          "type": "twolines",
+          "data": {
+            "firstline": "+43 699 88 46 75 44",
+            "secondline": "christine.minixhofer@dialogus.at"
+          }
+        },
+        {
+          "type": "socialtitle",
+          "data": {
+            "heading": "Christine Minixhofer, MSc",
+            "socials": [
+              {
+                "type": "urlicon",
+                "data": {
+                  "url": "https://www.facebook.com/christineminixhofer",
+                  "title": "Facebook"
+                }
+              },
+              {
+                "type": "urlicon",
+                "data": {
+                  "url": "http://www.arbor-seminare.de/christine-minixhofer",
+                  "title": "Arbor Seminare"
+                }
+              },
+              {
+                "type": "urlicon",
+                "data": {
+                  "url": "http://centerformsc.org/msc-teacher/christine-minixhofer",
+                  "title": "Center for Mindful Self-Compassion"
+                }
+              },
+              {
+                "type": "urlicon",
+                "data": {
+                  "url": "http://www.gewaltfrei.at/profile/christineminixhofer",
+                  "title": "Gewaltfreie Kommunikation Austria"
+                }
+              },
+              {
+                "type": "urlicon",
+                "data": {
+                  "url": "http://www.gewaltfrei-dach.eu/wissenschaftliche-arbeiten",
+                  "title": "DACH e.V. - Gewaltfreie Kommunikation"
+                }
+              },
+              {
+                "type": "urlicon",
+                "data": {
+                  "url": "http://www.steigls.org/index.php?id=praxisadresse_detail&lebensberater=163",
+                  "title": "Steirische Gesellschaft für Lebens- und Sozialberatung"
+                }
+              },
+              {
+                "type": "urlicon",
+                "data": {
+                  "url": "https://www.xing.com/profile/Christine_Minixhofer/web_profiles",
+                  "title": "Xing"
+                }
+              },
+              {
+                "type": "urlicon",
+                "data": {
+                  "url": "http://www.bestnet.com/go.asp?personen_id=144740&sektion=personen&rkarte=infodet",
+                  "title": "bestNET"
+                }
+              },
+              {
+                "type": "urlicon",
+                "data": {
+                  "url": "http://christine-minixhofer.stadtausstellung.at",
+                  "title": "Stadtausstellung"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "type": "twolines",
+          "data": {
+            "firstline": "Mitterstraße 128/11",
+            "secondline": "8055 Seiersberg bei Graz"
+          }
+        }
+      ]
+  }
+}

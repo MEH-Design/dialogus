@@ -7,6 +7,11 @@ molecule {
   flex: 1 1 32rem;
 }
 
+molecule  ~ .calltoaction {
+  width: 100%;
+  flex: auto;
+}
+
 molecule .heading {
   font-size: 1.4em;
   font-family: "Open Sans";
@@ -19,6 +24,7 @@ molecule > * {
 
 molecule > img {
   max-height:10em;
+  opacity: .8;
 }
 
 @media (max-width: 530px) {

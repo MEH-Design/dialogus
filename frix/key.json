@@ -51,5 +51,9 @@
   "/zum-schmoekern/publikationen": {
     "template": "home.html",
     "content": "publikationen.json"
+  },
+  "/zum-schmoekern/links": {
+    "template": "home.html",
+    "content": "links.json"
   }
 }
