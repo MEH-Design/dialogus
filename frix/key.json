@@ -32,8 +32,24 @@
     "template": "home.html",
     "content": "elternbildung-coaching-beratung.json"
   },
-  "/login" : {
+  "/login": {
     "template": "home.html",
     "content": "login.json"
+  },
+  "/zum-schmoekern": {
+    "template": "home.html",
+    "content": "zum-schmoekern.json"
+  },
+  "/zum-schmoekern/unterlagen-seminare": {
+    "template": "unterlagen.html",
+    "content": "unterlagen-seminare.json"
+  },
+  "/zum-schmoekern/meditationen": {
+    "template": "home.html",
+    "content": "meditationen.json"
+  },
+  "/zum-schmoekern/publikationen": {
+    "template": "home.html",
+    "content": "publikationen.json"
   }
 }

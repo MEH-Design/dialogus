@@ -86,6 +86,7 @@
                   "type": "passwordcallout",
                   "data": {
                     "id": " ",
+                    "platzhalter": "Passwort",
                     "name": "Passwort",
                     "description": "Der Inhalt, den Sie aufrufen wollen, ist passwortgeschützt.<br/>Bitte geben Sie das korrekte Passwort ein."
                   }

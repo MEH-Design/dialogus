@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8"/>
+    <title text-content="title"></title>
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:600" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="/bin/main.css">
+  </head>
+  <body>
+    <organism type="header"/>
+    <loop name="lines" types="contentline">
+      <target/>
+    </loop>
+    <script>
+      document.querySelectorAll('.filecallout h2').forEach((elem) => {
+        let text = elem.innerHTML.trim().toLowerCase();
+        let content = "";
+        let i = 0;
+        document.querySelectorAll('.filecallout h2').forEach((elem) => {
+          if(elem.innerHTML.trim().toLowerCase() === text) {
+            content += elem.parentElement.parentElement.querySelector('.content').innerHTML;
+            if(i++ > 0) {
+              elem.parentElement.parentElement.classList.add('duplicate');
+            }
+          }
+        });
+        elem.parentElement.parentElement.querySelector('.content').innerHTML = content;
+      });
+      document.querySelectorAll('.filecallout .datum').forEach((elem) => {
+        let text = elem.innerHTML.trim().toLowerCase();
+        let i = 0;
+        elem.parentElement.querySelectorAll('.datum').forEach((elem) => {
+          if(elem.innerHTML.trim().toLowerCase() === text) {
+            if(i++ > 0) {
+              elem.style.display = 'none';
+            }
+          }
+        });
+      });
+      document.querySelector('.passwordcallout input').onkeyup = () => {
+        let text = document.querySelector('.passwordcallout input').value.toLowerCase();
+        document.querySelectorAll(`.filecallout`).forEach((elem) => {
+          elem.classList.remove('removed');
+        });
+        document.querySelectorAll(`.filecallout h2`)
+        .forEach((elem) => {
+          let arr = text.split(' ');
+          let remove = false;
+          arr.forEach((key) => {
+            console.log(key);
+            if(!elem.innerHTML.trim().toLowerCase().includes(key)) {
+              remove = true;
+            }
+          });
+          if(remove) {
+            elem.parentElement.parentElement.classList.add('removed');
+          }
+        });
+      }
+    </script>
+    <organism type="foot"/>
+  </body>
+</html>
