@@ -1,0 +1,585 @@
+{
+  "title": "Christine Minixhofer, MSc",
+  "header": {
+    "headline": {
+      "heading": "Christine Minixhofer, Msc",
+      "subheading": "Training | Coaching | Supervision | Psychologische Beratung"
+    },
+    "hero": {
+      "items": [
+        {
+          "type": "quote",
+          "data": {
+            "quote": "Denn Zeit ist Leben.<br>Und das Leben wohnt im Herzen.",
+            "author": "Michael Ende, Momo"
+          }
+        },
+        {
+          "type": "image",
+          "data": "/bin/resources/igel.png"
+        }
+      ]
+    },
+    "navigation": {
+      "links": [{
+        "type": "link",
+        "data": {
+          "text": "Home",
+          "link": "/bin/home.html"
+        }
+      }, {
+        "type": "link",
+        "data": {
+          "text": "Über mich",
+          "link": "/bin/ueber-mich.html"
+        }
+      }, {
+        "type": "link",
+        "data": {
+          "text": "Methoden",
+          "link": "/bin/methoden.html"
+        }
+      }, {
+        "type": "link",
+        "data": {
+          "text": "Angebote",
+          "link": "/bin/angebote.html"
+        }
+      }, {
+        "type": "link",
+        "data": {
+          "text": "Zum Schmökern",
+          "selected": "true"
+        }
+      }, {
+        "type": "link",
+        "data": {
+          "text": "Kontakt",
+          "link": "/bin/kontakt.html"
+        }
+      }, {
+        "type": "link",
+        "data": {
+          "text": "Newsletter",
+          "link": "/bin/newsletter.html"
+        }
+      }, {
+        "type": "link",
+        "data": {
+          "text": "Impressum",
+          "link": "/bin/Impressum.html"
+        }
+      }]
+    }
+  },
+  "lines": [
+    {
+      "type": "contentline",
+      "data": {
+        "nopadding": "true",
+        "modules": [
+          {
+            "type": "buttongroup",
+            "data": {
+              "buttons": [
+                {
+                  "type": "button",
+                  "data": {
+                    "link": "/bin/zum-schmoekern/unterlagen-seminare.html",
+                    "text": "Unterlagen Seminare"
+                  }
+                },
+                {
+                  "type": "button",
+                  "data": {
+                    "link": "/bin/zum-schmoekern/meditationen.html",
+                    "text": "Meditationen"
+                  }
+                },
+                {
+                  "type": "button",
+                  "data": {
+                    "link": "/bin/zum-schmoekern/publikationen.html",
+                    "text": "Publikationen"
+                  }
+                },
+                {
+                  "type": "button",
+                  "data": {
+                    "link": "/bin/zum-schmoekern/links.html",
+                    "text": "Links"
+                  }
+                },
+                {
+                  "type": "button",
+                  "data": {
+                    "link": "/bin/zum-schmoekern/referenzen.html",
+                    "text": "Referenzen",
+                    "selected": "true"
+                  }
+                },
+                {
+                  "type": "button",
+                  "data": {
+                    "link": "/bin/zum-schmoekern/literaturtipps.html",
+                    "text": "Literaturtipps"
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "contentline",
+      "data": {
+        "modules": [
+          {
+            "type": "verticaltitle",
+            "data": {
+              "heading": "Seminare - Training - Lehre - Fort/Weiterbildung - Workshop - Vortragstätigkeit",
+              "callouts": [
+                {
+                  "type": "simplecallout",
+                  "data": {
+                    "description": "a:sk Akademie der Stmk. Krankenanstaltengesellschaft m.b.H."
+                  }
+                },
+                {
+                  "type": "simplecallout",
+                  "data": {
+                    "description": "Behindertenheim Sonnenwald"
+                  }
+                },
+                {
+                  "type": "simplecallout",
+                  "data": {
+                    "description": "Bildungshaus Mariatrost"
+                  }
+                },
+                {
+                  "type": "simplecallout",
+                  "data": {
+                    "description": "Bit management – Qualifizierungsverbund „Pflegebereich Graz und Umgebung“"
+                  }
+                },
+                {
+                  "type": "simplecallout",
+                  "data": {
+                    "description": "Caritas Diözese Graz-Seckau"
+                  }
+                },
+                {
+                  "type": "simplecallout",
+                  "data": {
+                    "description": "Familienakademie der Kinderfreunde Steiermark in Kooperation mit dem Verein ZEBRA - Interkultureller Lehrgang für Elternbegleiter/innen"
+                  }
+                },
+                {
+                  "type": "simplecallout",
+                  "data": {
+                    "description": "Familienakademie der Kinderfreunde Steiermark - Lehrgang zum/zur Diplomierten Jugendarbeiter/in"
+                  }
+                },
+                {
+                  "type": "simplecallout",
+                  "data": {
+                    "description": "Frauengesundheitszentrum Graz"
+                  }
+                },
+                {
+                  "type": "simplecallout",
+                  "data": {
+                    "description": "Geriatrische Gesundheitszentren der Stadt Graz"
+                  }
+                },
+                {
+                  "type": "simplecallout",
+                  "data": {
+                    "description": "Gesundheitszentrum der Steiermärkischen Sparkasse"
+                  }
+                },
+                {
+                  "type": "simplecallout",
+                  "data": {
+                    "description": "Haus der Gesundheit, FA 8A Referat Gesundheitsberufe der Landesregierung Steiermark"
+                  }
+                },
+                {
+                  "type": "simplecallout",
+                  "data": {
+                    "description": "Help&Care Graz, Preininger & Aldrian OG"
+                  }
+                },
+                {
+                  "type": "simplecallout",
+                  "data": {
+                    "description": "Hilfswerk Steiermark"
+                  }
+                },
+                {
+                  "type": "simplecallout",
+                  "data": {
+                    "description": "Katholisches Bildungswerk der Pfarre Premstätten"
+                  }
+                },
+                {
+                  "type": "simplecallout",
+                  "data": {
+                    "description": "Lebenshilfe Graz und Umgebung, Voitsberg"
+                  }
+                },
+                {
+                  "type": "simplecallout",
+                  "data": {
+                    "description": "ÖGKV Steiermark - Akademie für Gesundheitsberufe - WB zum/zur Hygienebauftragen in Langzeiteinrichtungen"
+                  }
+                },
+                {
+                  "type": "simplecallout",
+                  "data": {
+                    "description": "Private VS Dobl"
+                  }
+                },
+                {
+                  "type": "simplecallout",
+                  "data": {
+                    "description": "Pro Humanis, Graz, Verein, Sozialbegleitung für Menschen mit psychischen Erkrankungen und Beeinträchtigungen"
+                  }
+                },
+                {
+                  "type": "simplecallout",
+                  "data": {
+                    "description": "Pro mente Oberösterreich, Gesellschaft für psychische und soziale Gesundheit"
+                  }
+                },
+                {
+                  "type": "simplecallout",
+                  "data": {
+                    "description": "SANLAS HOLDING Gmbh"
+                  }
+                },
+                {
+                  "type": "simplecallout",
+                  "data": {
+                    "description": "Privatklinik Laßnitzhöhe"
+                  }
+                },
+                {
+                  "type": "simplecallout",
+                  "data": {
+                    "description": "Betreuungsheim Neutillmitsch-Gralla"
+                  }
+                },
+                {
+                  "type": "simplecallout",
+                  "data": {
+                    "description": "SOBEGES Tageswerkstätte Sozialbetriebsgesellschaft Birkfelder Raum GmbH"
+                  }
+                },
+                {
+                  "type": "simplecallout",
+                  "data": {
+                    "description": "Soroptimist Leoben, Verein"
+                  }
+                },
+                {
+                  "type": "simplecallout",
+                  "data": {
+                    "description": "SteiGLS (Akademie der Steirischen Gesellschaft für Lebens- und Sozialberatung)"
+                  }
+                },
+                {
+                  "type": "simplecallout",
+                  "data": {
+                    "description": "Steiermärkische Gebietskrankenkasse"
+                  }
+                },
+                {
+                  "type": "simplecallout",
+                  "data": {
+                    "description": "Steirische Landesverwaltungsakademie (LAVAK)"
+                  }
+                },
+                {
+                  "type": "simplecallout",
+                  "data": {
+                    "description": "Stmk. Krankenanstaltenges. m.b.h. (KAGes):<ul><li>LKH Bruck an der Mur<li>LKH Graz Universiätsklinikum</li><li>LKH Graz West</li><li>LKH Hartberg</li><li>LKH Hörgas Enzenbach</li><li>LPH Schwanberg</li><li>LKH Weiz</li><li>LSF Graz</li></ul>"
+                  }
+                },
+                {
+                  "type": "simplecallout",
+                  "data": {
+                    "description": "Stmk. Landesregierung FA 6E – Referat für Elementarpädagogik"
+                  }
+                },
+                {
+                  "type": "simplecallout",
+                  "data": {
+                    "description": "Stmk. Landesregierung FA 8A - Schule für Gesundheits- und Krankenpflege am LSF Graz"
+                  }
+                },
+                {
+                  "type": "simplecallout",
+                  "data": {
+                    "description": "Unternehmensberatung Genseberger KEG - WB zum/zur Ernährungsbeauftragten DGKP/DGKS in der Langzeitpflege"
+                  }
+                },
+                {
+                  "type": "simplecallout",
+                  "data": {
+                    "description": "Weiterbildungsakademie der Tagesmütter Steiermark"
+                  }
+                },
+                {
+                  "type": "simplecallout",
+                  "data": {
+                    "description": "WGKK Hanusch Krankenhaus"
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "contentline",
+      "data": {
+        "modules": [
+          {
+            "type": "verticaltitle",
+            "data": {
+              "heading": "Seminare - Training - Lehre - Fort/Weiterbildung - Workshop - Vortragstätigkeit",
+              "callouts": [
+                {
+                  "type": "simplecallout",
+                  "data": {
+                    "description": "Eltern KInd Zentrum Deutschlandsberg (in Kooperation mit der Familienakademie der Kinderfreunde Stmk.)"
+                  }
+                },
+                {
+                  "type": "simplecallout",
+                  "data": {
+                    "description": "Eltern-Kind-Zentrum Graz"
+                  }
+                },
+                {
+                  "type": "simplecallout",
+                  "data": {
+                    "description": "Familienakademie der Kinderfreunde Steiermark (Famak KF Stmk.)"
+                  }
+                },
+                {
+                  "type": "simplecallout",
+                  "data": {
+                    "description": "Kinderfreunde Oberösterreich"
+                  }
+                },
+                {
+                  "type": "simplecallout",
+                  "data": {
+                    "description": "Kindergarten Ottendorf (in Kooperation mit Famak KF Stmk.)"
+                  }
+                },
+                {
+                  "type": "simplecallout",
+                  "data": {
+                    "description": "Kindergarten Bad Gams (in Kooperation mit Famak KF Stmk.)"
+                  }
+                },
+                {
+                  "type": "simplecallout",
+                  "data": {
+                    "description": "Private VS Dobl (in Kooperation mit Famak KF Stmk.)"
+                  }
+                },
+                {
+                  "type": "simplecallout",
+                  "data": {
+                    "description": "Privatkindergarten KindSein in Voitsberg (in Kooperation mit Famak KF Stmk.)"
+                  }
+                },
+                {
+                  "type": "simplecallout",
+                  "data": {
+                    "description": "Projekt SEHNSUCHT der MG Judendorf Straßengel (in Kooperation mit Famak KF Stmk.)"
+                  }
+                },
+                {
+                  "type": "simplecallout",
+                  "data": {
+                    "description": "Projekt ZUSLWUSL Generationentreff der MG Hausmannstätten (in Kooperation mit Famak KF Stmk.)"
+                  }
+                },
+                {
+                  "type": "simplecallout",
+                  "data": {
+                    "description": "VS Hausmannstätten (in Kooperation mit Famak KF Stmk.)"
+                  }
+                },
+                {
+                  "type": "simplecallout",
+                  "data": {
+                    "description": "VS Kloster (in Kooperation mit Famak KF Stmk.)"
+                  }
+                },
+                {
+                  "type": "simplecallout",
+                  "data": {
+                    "description": "VS Lieboch (in Kooperation mit Famak KF Stmk.)"
+                  }
+                },
+                {
+                  "type": "simplecallout",
+                  "data": {
+                    "description": "VS Mellach (in Kooperation mit Famak KF Stmk.)"
+                  }
+                },
+                {
+                  "type": "simplecallout",
+                  "data": {
+                    "description": "VS Pachern (in Kooperation mit Famak KF Stmk.)"
+                  }
+                },
+                {
+                  "type": "simplecallout",
+                  "data": {
+                    "description": "VS Pirka (in Kooperation mit Famak KF Stmk.)"
+                  }
+                },
+                {
+                  "type": "simplecallout",
+                  "data": {
+                    "description": "VS Ratschendorf (in Kooperation mit Famak KF Stmk.)"
+                  }
+                },
+                {
+                  "type": "simplecallout",
+                  "data": {
+                    "description": "VS Seiersberg (in Kooperation mit Famak KF Stmk.)"
+                  }
+                },
+                {
+                  "type": "simplecallout",
+                  "data": {
+                    "description": "VS Unterpremstätten (in Kooperation mit Famak KF Stmk.)"
+                  }
+                },
+                {
+                  "type": "simplecallout",
+                  "data": {
+                    "description": "WIKI Kinderbetreuungs Gmbh"
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "contentline",
+      "data": {
+        "modules": [
+          {
+            "type": "bigquote",
+            "data": {
+              "heading": "...und viele zufriedene Klienten und Klientinnen in meiner Praxis für psychologische Beratung, Coaching und Supervision"
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "foot": {
+      "modules": [
+        {
+          "type": "twolines",
+          "data": {
+            "firstline": "+43 699 88 46 75 44",
+            "secondline": "christine.minixhofer@dialogus.at"
+          }
+        },
+        {
+          "type": "socialtitle",
+          "data": {
+            "heading": "Christine Minixhofer, MSc",
+            "socials": [
+              {
+                "type": "urlicon",
+                "data": {
+                  "url": "https://www.facebook.com/christineminixhofer",
+                  "title": "Facebook"
+                }
+              },
+              {
+                "type": "urlicon",
+                "data": {
+                  "url": "http://www.arbor-seminare.de/christine-minixhofer",
+                  "title": "Arbor Seminare"
+                }
+              },
+              {
+                "type": "urlicon",
+                "data": {
+                  "url": "http://centerformsc.org/msc-teacher/christine-minixhofer",
+                  "title": "Center for Mindful Self-Compassion"
+                }
+              },
+              {
+                "type": "urlicon",
+                "data": {
+                  "url": "http://www.gewaltfrei.at/profile/christineminixhofer",
+                  "title": "Gewaltfreie Kommunikation Austria"
+                }
+              },
+              {
+                "type": "urlicon",
+                "data": {
+                  "url": "http://www.gewaltfrei-dach.eu/wissenschaftliche-arbeiten",
+                  "title": "DACH e.V. - Gewaltfreie Kommunikation"
+                }
+              },
+              {
+                "type": "urlicon",
+                "data": {
+                  "url": "http://www.steigls.org/index.php?id=praxisadresse_detail&lebensberater=163",
+                  "title": "Steirische Gesellschaft für Lebens- und Sozialberatung"
+                }
+              },
+              {
+                "type": "urlicon",
+                "data": {
+                  "url": "https://www.xing.com/profile/Christine_Minixhofer/web_profiles",
+                  "title": "Xing"
+                }
+              },
+              {
+                "type": "urlicon",
+                "data": {
+                  "url": "http://www.bestnet.com/go.asp?personen_id=144740&sektion=personen&rkarte=infodet",
+                  "title": "bestNET"
+                }
+              },
+              {
+                "type": "urlicon",
+                "data": {
+                  "url": "http://christine-minixhofer.stadtausstellung.at",
+                  "title": "Stadtausstellung"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "type": "twolines",
+          "data": {
+            "firstline": "Mitterstraße 128/11",
+            "secondline": "8055 Seiersberg bei Graz"
+          }
+        }
+      ]
+  }
+}

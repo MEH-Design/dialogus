@@ -25,7 +25,7 @@
         "type": "link",
         "data": {
           "text": "Home",
-          "selected": "true"
+          "link": "/bin/home.html"
         }
       }, {
         "type": "link",
@@ -55,7 +55,7 @@
         "type": "link",
         "data": {
           "text": "Kontakt",
-          "link": "/bin/kontakt.html"
+          "selected": "true"
         }
       }, {
         "type": "link",
@@ -78,19 +78,39 @@
       "data": {
         "modules": [
           {
-            "type": "calltoaction",
+            "type": "verticaltitle",
             "data": {
-              "borderimage": "/bin/resources/portrait.jpg",
-              "heading": "Herzlich Willkommen!",
-              "text": "Meine Angebote sind sehr vielfältig und doch haben sie alle eines gemeinsam - <br><strong>Achtsam mit sich selbst und anderen.</strong>",
-              "button": {
-                "text": "Mehr über mich erfahren..."
-              }
+              "heading": "Kontakt",
+              "callouts": [
+                {
+                  "type": "simplecallout",
+                  "data": {
+                    "description": "Mit untenstehendem Formular können Sie mir gerne Ihre Nachricht übermitteln. Sie können mich aber auch gerne telefonisch oder per Email kontaktieren."
+                  }
+                },
+                {
+                  "type": "contactcallout",
+                  "data": {
+                    "adresse": "Mitterstraße 128/11<br/>8055 Graz, Neu-Seiersberg",
+                    "telefon": "+43 699 88 46 75 44",
+                    "email": "christine.minixhofer@dialogus.at",
+                    "email-adresse": "mailto:christine.minixhofer@dialogus.at"
+                  }
+                },
+                {
+                  "type": "simplecallout",
+                  "data": {
+                    "id": "zbwid-7a7e57a9"
+                  }
+                },
+                {
+                  "type": "simplecallout",
+                  "data": {
+                    "description": "<img src='/bin/resources/qr.png'/>"
+                  }
+                }
+              ]
             }
-          },
-          {
-            "type": "review",
-            "data": {}
           }
         ]
       }
@@ -100,47 +120,58 @@
       "data": {
         "modules": [
           {
-            "type": "titledbox",
+            "type": "verticaltitle",
             "data": {
-              "heading": "Einzelberatung",
-              "text": "Coaching und psychologische Beratung in einem vertraulichen Rahmen.",
-              "image": "/bin/resources/pdf.png",
-              "link": "/bin/resources/download/folder.pdf"
-            }
-          },
-          {
-            "type": "threecircles",
-            "data": {
-              "headings": [
+              "heading": "Anreise zur Praxis",
+              "callouts": [
                 {
-                  "type": "heading",
-                  "data": "Vorträge  Workshops  Seminare"
+                  "type": "simplecallout",
+                  "data": {
+                    "description": "Die Praxis liegt im Süden von Graz und ist mit dem Auto (A9 und A2) und öffentlichen Verkehrsmitteln gut erreichbar.<br/>Falls Sie mit dem Auto kommen, stehen Ihnen ein Carportabstellplatz zur Verfügung (Nummer 8 oder 9).<br/>Die Buslinie 78 der GVB hält ganz in der Nähe des Hauses. Wenn Sie stadteinwärts fahren, steigen Sie bei der Bushaltestelle Brunnenfeldgasse aus, stadtauswärts bei der Blumengasse.<br/><br/>Meine Praxis ist barrierefrei (Lift) erreichbar und befindet sich im 1. Stock, den Gang entlang, vorletzte Tür (TOP 11)."
+                  }
+                },
+                {
+                  "type": "simplecallout",
+                  "data": {
+                    "description": "<img src='/bin/resources/praxis.jpg'/>"
+                  }
+                },
+                {
+                  "type": "simplecallout",
+                  "data": {
+                    "description": "<iframe src='https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d21761.557537391454!2d15.4302122!3d47.0167833!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x476fb5434c8e5d9d%3A0x3bdf252cafae6b6!2sPraxis+Christine+Minixhofer!5e0!3m2!1sen!2sat!4v1488510689532' width='400' height='450' frameborder='0' style='border:0' allowfullscreen>test</iframe>"
+                  }
                 }
-              ],
-              "circles": [
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "contentline",
+      "data": {
+        "modules": [
+          {
+            "type": "verticaltitle",
+            "data": {
+              "heading": "Praxisräumlichkeiten",
+              "callouts": [
                 {
-                  "type": "circle",
-                  "data": {
-                    "text": "Was die Seele stark macht",
-                    "heading": "Achtsamkeit",
-                    "image": "/bin/resources/lotus.jpg"
-                  }
+                  "type": "borderimage",
+                  "data": "/bin/resources/praxis/01.jpg"
                 },
                 {
-                  "type": "circle",
-                  "data": {
-                    "text": "Achtsamer und gewaltfreier Dialog",
-                    "heading": "Kommunikation",
-                    "image": "/bin/resources/whisper.jpg"
-                  }
+                  "type": "borderimage",
+                  "data": "/bin/resources/praxis/02.jpg"
                 },
                 {
-                  "type": "circle",
-                  "data": {
-                    "text": "Prävention von Aggression und Gewalt",
-                    "heading": "Deeskalation",
-                    "image": "/bin/resources/leaf.jpg"
-                  }
+                  "type": "borderimage",
+                  "data": "/bin/resources/praxis/03.jpg"
+                },
+                {
+                  "type": "borderimage",
+                  "data": "/bin/resources/praxis/04.jpg"
                 }
               ]
             }

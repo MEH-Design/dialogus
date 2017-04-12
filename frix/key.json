@@ -55,5 +55,13 @@
   "/zum-schmoekern/links": {
     "template": "home.html",
     "content": "links.json"
+  },
+  "/zum-schmoekern/referenzen": {
+    "template": "home.html",
+    "content": "referenzen.json"
+  },
+  "/kontakt": {
+    "template": "home.html",
+    "content": "kontakt.json"
   }
 }

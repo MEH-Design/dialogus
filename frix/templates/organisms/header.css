@@ -1,0 +1,6 @@
+organism {
+  position: sticky;
+  z-index: 100;
+  background: white;
+  top: -300px;
+}

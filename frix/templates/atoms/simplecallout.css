@@ -6,6 +6,7 @@ atom {
   box-shadow: 0 .3rem 0 0 #C1C7BB;
   display: inline-block;
   margin: 1em;
+  overflow: hidden;
 }
 
 atom h2 {
@@ -22,4 +23,34 @@ atom p {
 
 atom p:empty {
   visibility: hidden;
+}
+
+#zbwid-7a7e57a9 {
+  width: 290px;
+  height: 520px;
+  overflow: hidden;
+}
+
+#zbwid-7a7e57a9 iframe {
+  margin-top: -1em;
+  margin-left: -.6em;
+  padding: 0;
+  transform: scale(1.05);
+}
+
+#zbwid-7a7e57a9::after {
+  content: "";
+  width: 40px;
+  height: 40px;
+  background: white;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  z-index: 1;
+}
+
+atom img, atom iframe {
+  min-width: 100%;
+  min-height: 100%;
+  transform: scale(1.15);
 }

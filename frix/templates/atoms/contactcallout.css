@@ -1,0 +1,19 @@
+atom {
+  background: white;
+  border-radius: 1.5em;
+  padding: 0 1.5em;
+  position: relative;
+  box-shadow: 0 .3rem 0 0 #C1C7BB;
+  display: inline-block;
+  margin: 1em;
+  padding-top: 1.4em;
+  text-align: center;
+}
+
+atom p, atom span {
+  margin: 1em;
+}
+
+atom span {
+  background: #f8fdeb;
+}
