@@ -1,5 +1,8 @@
 {
-  "/home": "home",
+  "/": {
+    "template": "home.html",
+    "content": "home.json"
+  },
   "/ueber-mich": {
     "template": "home.html",
     "content": "ueber-mich.json"
@@ -14,23 +17,23 @@
   },
   "/angebote/seminar-workshop-vortrag": {
     "template": "home.html",
-    "content": "seminar-workshop-vortrag.json"
+    "content": "angebote/seminar-workshop-vortrag.json"
   },
   "/angebote/coaching": {
     "template": "home.html",
-    "content": "coaching.json"
+    "content": "angebote/coaching.json"
   },
   "/angebote/supervision": {
     "template": "home.html",
-    "content": "supervision.json"
+    "content": "angebote/supervision.json"
   },
   "/angebote/msc-kurs": {
     "template": "home.html",
-    "content": "msc-kurs.json"
+    "content": "angebote/msc-kurs.json"
   },
   "/angebote/elternbildung-coaching-beratung": {
     "template": "home.html",
-    "content": "elternbildung-coaching-beratung.json"
+    "content": "angebote/elternbildung-coaching-beratung.json"
   },
   "/login": {
     "template": "home.html",
@@ -42,23 +45,23 @@
   },
   "/zum-schmoekern/unterlagen-seminare": {
     "template": "unterlagen.html",
-    "content": "unterlagen-seminare.json"
+    "content": "zum-schmoekern/unterlagen-seminare.json"
   },
   "/zum-schmoekern/meditationen": {
     "template": "home.html",
-    "content": "meditationen.json"
+    "content": "zum-schmoekern/meditationen.json"
   },
   "/zum-schmoekern/publikationen": {
     "template": "home.html",
-    "content": "publikationen.json"
+    "content": "zum-schmoekern/publikationen.json"
   },
   "/zum-schmoekern/links": {
     "template": "home.html",
-    "content": "links.json"
+    "content": "zum-schmoekern/links.json"
   },
   "/zum-schmoekern/referenzen": {
     "template": "home.html",
-    "content": "referenzen.json"
+    "content": "zum-schmoekern/referenzen.json"
   },
   "/kontakt": {
     "template": "home.html",
