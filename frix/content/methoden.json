@@ -315,20 +315,10 @@
             }
           },
           {
-            "type": "simplesimplecallout",
-            "data": {
-              "simplecallout": {
-                "id": "verstaendnismeinerarbeit",
-                "name": "Verständnis meiner Arbeit",
-                "description": "Mein über Jahre gewachsenes Repertoire an Beratungs- und Interventionsmethoden ermöglichen mir das flexible Arbeiten mit den persönlichen Anliegen der Teilnehmer/innen. Besonders geschätzt werden in meinen Seminaren immer wieder  die vertrauensvolle Atmossphäre, die abwechlsungsreiche und lebendige Seminargestaltung und mein achtsames Eingehen auf die Anliegen und Bedürfnisse der Teilnehmer/innen. <br/><br/>Ich selbst erlebe mich als Lernende und Lehrende. Täglich übe ich mich in achtsamer Beziehungs- und Lebensgestaltung. Regelmäßige achtsamkeitsbasierte Übungen helfen mir meinen persönlichen 'Achtsamkeitsmuskel' zu trainieren und fit zu halten. <br/><br/>Meine eigene persönliche Weiterentwicklung und Selbstreflexion sind mir ein großes Anliegen. Durch beständiges Studium von Fachliteratur, Teilnahme an Fort- und Weiterbildungen, Supervision und Intervision sorge ich dafür."
-              }
-            }
-          },
-          {
             "type": "verticaltitle",
             "data": {
               "heading": " ",
-              "align": "right",
+              "align": "left",
               "callouts": [
                 {
                   "type": "callout",
@@ -361,6 +351,16 @@
                   }
                 }
               ]
+            }
+          },
+          {
+            "type": "simplesimplecallout",
+            "data": {
+              "simplecallout": {
+                "id": "verstaendnismeinerarbeit",
+                "name": "Verständnis meiner Arbeit",
+                "description": "Mein über Jahre gewachsenes Repertoire an Beratungs- und Interventionsmethoden ermöglichen mir das flexible Arbeiten mit den persönlichen Anliegen der Teilnehmer/innen. Besonders geschätzt werden in meinen Seminaren immer wieder  die vertrauensvolle Atmossphäre, die abwechlsungsreiche und lebendige Seminargestaltung und mein achtsames Eingehen auf die Anliegen und Bedürfnisse der Teilnehmer/innen. <br/><br/>Ich selbst erlebe mich als Lernende und Lehrende. Täglich übe ich mich in achtsamer Beziehungs- und Lebensgestaltung. Regelmäßige achtsamkeitsbasierte Übungen helfen mir meinen persönlichen 'Achtsamkeitsmuskel' zu trainieren und fit zu halten. <br/><br/>Meine eigene persönliche Weiterentwicklung und Selbstreflexion sind mir ein großes Anliegen. Durch beständiges Studium von Fachliteratur, Teilnahme an Fort- und Weiterbildungen, Supervision und Intervision sorge ich dafür."
+              }
             }
           }
         ]

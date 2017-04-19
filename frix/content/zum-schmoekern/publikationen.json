@@ -205,15 +205,10 @@
       "data": {
         "modules": [
           {
-            "type": "title",
+            "type": "bullets",
             "data": {
-              "heading": "Wissenschaftliche Arbeiten"
-            }
-          },
-          {
-            "type": "verticaltitle",
-            "data": {
-              "heading": " ",
+              "align": "center",
+              "heading": "Wissenschaftliche Arbeiten",
               "callouts": [
                 {
                   "type": "cover",

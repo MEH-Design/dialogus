@@ -170,15 +170,22 @@
                 {
                   "type": "button",
                   "data": {
-                    "text": "Nächster Achtwochenkurs - ab 19. April 2017",
-                    "link": "/bin/resources/download/achtwochenkurs.pdf"
+                    "text": "Samstag | Nächste Achtwochenkurse in Graz - ab September 2017",
+                    "link": "/bin/resources/download/achtwochenkurs-sa.pdf"
                   }
                 },
                 {
                   "type": "button",
                   "data": {
-                    "text": "Übungsabende",
-                    "link": "/bin/resources/download/übungsabende.pdf"
+                    "text": "Mittwoch | Nächste Achtwochenkurse in Graz - ab September 2017",
+                    "link": "/bin/resources/download/achtwochenkurs-mi.pdf"
+                  }
+                },
+                {
+                  "type": "button",
+                  "data": {
+                    "text": "Übungstermine | MSC Retreat",
+                    "link": "/bin/resources/download/uebungsabende.pdf"
                   }
                 }
               ]
@@ -228,7 +235,8 @@
                     "retreat-text": "Halbtagesretreat",
                     "kosten-normal-text": "Kurskosten",
                     "kosten-früh-text": "Frühbucherbonus bei Anmeldung bis zum 20. März 2017",
-                    "sva": "SVA Versicherte können den Gesundheitshunderter einlösen!"
+                    "sva": "SVA Versicherte können den Gesundheitshunderter einlösen!",
+                    "ribbon": "kein Einstieg mehr möglich"
                   }
                 },
                 {
@@ -238,7 +246,7 @@
                     "detail": "Bildungshaus Mariatrost in Graz",
                     "wochentag": "Mittwoch",
                     "zeit": "18:00 - 21:00",
-                    "termine": "27.9|4.10|11.10|18.10|25.10|8.11|15.11|22.11",
+                    "termine": "23.9|30.9|7.10|14.10|21.10|4.11|18.11|25.11",
                     "retreat": "Samstag, 11.11.2017 | 9.00 - 13.00 Uhr",
                     "kosten-normal": "€ 390,-",
                     "kosten-früh": "€ 370,-",
@@ -253,9 +261,9 @@
                   "data": {
                     "name": "Kurs 4/2017",
                     "detail": "Bildungshaus Mariatrost in Graz",
-                    "wochentag": "Mittwoch",
-                    "zeit": "18:00 - 21:00",
-                    "termine": "23.9|30.9|7.10|14.10|21.10|4.11|18.11|25.11",
+                    "wochentag": "Samstag",
+                    "zeit": "09:00 - 12:00",
+                    "termine": "27.9|4.10|11.10|18.10|25.10|8.11|15.11|22.11",
                     "retreat": "Samstag, 11.11.2017 | 9.00 - 13.00 Uhr",
                     "kosten-normal": "€ 390,-",
                     "kosten-früh": "€ 370,-",

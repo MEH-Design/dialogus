@@ -86,48 +86,57 @@
                 {
                   "type": "simplecallout",
                   "data": {
-                    "name": "Trained Teacher MSC"
+                    "name": "Trained Teacher MSC",
+                    "description": "<p style='padding: 0'>2015 - 2016 | Bei Christopher Germer, Christine Brähler, Regula Saner, Hilde Steinhauser</p><p>Veranstalter: Arbor Seminare Freiburg und MBPTI mindful based professional training institute in San Diego, Kalifornien</p>"
+                  }
+                },
+                {
+                  "type": "simplecallout",
+                  "data": {
+                    "name": "Burnout Coach - WKO Expertenpool",
+                    "description": "2016 | EALP Akademie Graz"
+                  }
+                },
+                {
+                  "type": "simplecallout",
+                  "data": {
+                    "name": "Supervisorin - WKO Expertenpool",
+                    "description": "2015 - 2016 | Institut SISFO Salzburg"
                   }
                 },
                 {
                   "type": "simplecallout",
                   "data": {
                     "name": "Achtsamkeitslehrerin",
-                    "description": "Grundausbildung <strong>Achtsamkeit leben - Achtsamkeit lehren</strong> - Veranstalter: Arbor Seminare Freiburg."
+                    "description": "2014 - 2015 | Arbor Seminare Freiburg"
                   }
                 },
                 {
                   "type": "simplecallout",
                   "data": {
-                    "name": "Supervisorin",
-                    "description": "WKO Expertenpool"
-                  }
-                },
-                {
-                  "type": "simplecallout",
-                  "data": {
-                    "name": "Burnout Coach",
-                    "description": "WKO Expertenpool"
+                    "name": "MSc für psychosoziale Beratung",
+                    "description": "2009 - 2011 | Donau-Universität Krems"
                   }
                 },
                 {
                   "type": "simplecallout",
                   "data": {
                     "name": "Dipl. Lebensberaterin",
-                    "description": "Selbständige Unternehmerin als Dipl. Lebensberaterin und Coach für Unternehmen und Privatpersonen."
+                    "description": "2006 - 2009 | Integrative Gestalt, SteiGLS Graz"
                   }
                 },
                 {
                   "type": "simplecallout",
                   "data": {
                     "name": "Akademische Kommunikationstrainerin",
-                    "description": "Selbständige Tätigkeit als akademische Kommunikationstrainerin und Gesundheits- und Pflegepädagogin in der Erwachsenenbildung."
+                    "description": "2002 - 2004 | KF Universität Graz, PGA Linz, TAO Wien"
                   }
                 },
                 {
                   "type": "simplecallout",
                   "data": {
-                    "name": "Gesundheits- und Pflegepädagogin"
+                    "name": "Gesundheits- und Pflegepädagogin",
+                    "description": "1992 - 1994 | KF Universität Graz"
                   }
                 }
               ]

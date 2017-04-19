@@ -176,7 +176,7 @@
                        {
                           "type":"filecallout",
                           "data":{
-                             "datum":"7.Februar 2017",
+                             "datum":"7.2.2017",
                              "name":"LKH Uniklinikum Graz, Modul 23 - Achtsame und Gewaltfreie Kommunikation zur Prävention von Aggression und Gewalt",
                              "file":"/bin/resources/unterlagen/58.pdf",
                              "text":"Protokoll"
@@ -185,7 +185,7 @@
                        {
                           "type":"filecallout",
                           "data":{
-                             "datum":"6.Februar 2017",
+                             "datum":"6.2.2017",
                              "name":"STMK GKK - Workshopreihe für die Abteilung Physiotherapie Gruppe 2",
                              "file":"/bin/resources/unterlagen/57.pdf",
                              "text":"Protokoll"
@@ -680,7 +680,7 @@
                        {
                           "type":"filecallout",
                           "data":{
-                             "datum":"25.Februar 2016",
+                             "datum":"25.2.2016",
                              "name":"Geriatrische Gesundheitszentren der Stadt Graz - Achtsame und Gewaltfreie Kommunikation zur Prävention von Aggression und Gewalt",
                              "file":"/bin/resources/unterlagen/2.pdf",
                              "text":"Flipchartprotokoll"
@@ -689,7 +689,7 @@
                        {
                           "type":"filecallout",
                           "data":{
-                             "datum":"19. und 20. Jänner 2016",
+                             "datum":"19. und 20. 1.2016",
                              "name":"LKH Weiz - Achtsame und Gewaltfreie Kommunikation zur Prävention von Aggression und Gewalt",
                              "file":"/bin/resources/unterlagen/1.pdf",
                              "text":"Flipchartprotokoll"
