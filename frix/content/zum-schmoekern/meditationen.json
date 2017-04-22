@@ -219,6 +219,28 @@
           }
         ]
       }
+    },
+    {
+      "type": "contentline",
+      "data": {
+        "modules": [
+          {
+            "type": "verticaltitle",
+            "data": {
+              "heading": "Weitere Meditationen aus der Achtsamkeits- und Mitgefühlspraxis",
+              "callouts": [
+                {
+                  "type": "audiocallout",
+                  "data": {
+                    "name": "Metta Meditation in vier Schritten (ca. 26 min)",
+                    "audio": "/bin/resources/meditationen/w-mt-1.mp3"
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
     }
   ],
   "foot": {

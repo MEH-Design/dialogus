@@ -17,7 +17,7 @@
         let text = elem.innerHTML.trim().toLowerCase();
         let content = "";
         let i = 0;
-        document.querySelectorAll('.filecallout h2').forEach((elem) => {
+        document.querySelectorAll('.filecallout:not(.duplicate) h2').forEach((elem) => {
           if(elem.innerHTML.trim().toLowerCase() === text) {
             content += elem.parentElement.parentElement.querySelector('.content').innerHTML;
             if(i++ > 0) {
@@ -43,8 +43,7 @@
         document.querySelectorAll(`.filecallout`).forEach((elem) => {
           elem.classList.remove('removed');
         });
-        document.querySelectorAll(`.filecallout h2`)
-        .forEach((elem) => {
+        document.querySelectorAll(`.filecallout h2`).forEach((elem) => {
           let arr = text.split(' ');
           let remove = false;
           arr.forEach((key) => {
