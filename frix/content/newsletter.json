@@ -1,0 +1,179 @@
+{
+  "title": "Christine Minixhofer, MSc",
+  "header": {
+    "headline": {
+      "heading": "Christine Minixhofer, Msc",
+      "subheading": "Training | Coaching | Supervision | Psychologische Beratung"
+    },
+    "hero": {
+      "items": [
+        {
+          "type": "quote",
+          "data": {
+            "quote": "Denn Zeit ist Leben.<br/>Und das Leben wohnt im Herzen.",
+            "author": "Michael Ende, Momo"
+          }
+        },
+        {
+          "type": "image",
+          "data": "/bin/resources/igel.png"
+        }
+      ]
+    },
+    "navigation": {
+      "links": [{
+        "type": "link",
+        "data": {
+          "text": "Home",
+          "link": "/bin/home.html"
+        }
+      }, {
+        "type": "link",
+        "data": {
+          "text": "Über mich",
+          "link": "/bin/ueber-mich.html"
+        }
+      }, {
+        "type": "link",
+        "data": {
+          "text": "Methoden",
+          "link": "/bin/methoden.html"
+        }
+      }, {
+        "type": "link",
+        "data": {
+          "text": "Angebote",
+          "link": "/bin/angebote.html"
+        }
+      }, {
+        "type": "link",
+        "data": {
+          "text": "Zum Schmökern",
+          "link": "/bin/zum-schmoekern.html"
+        }
+      }, {
+        "type": "link",
+        "data": {
+          "text": "Kontakt",
+          "link": "/bin/kontakt.html"
+        }
+      }, {
+        "type": "link",
+        "data": {
+          "text": "Newsletter",
+          "selected": "true"
+        }
+      }, {
+        "type": "link",
+        "data": {
+          "text": "Impressum",
+          "link": "/bin/Impressum.html"
+        }
+      }]
+    }
+  },
+  "lines": [
+    {
+      "type": "contentline",
+      "data": {
+        "modules": [
+          {
+            "type": "title",
+            "data": {
+              "heading": "Zum Newsletter anmelden"
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "foot": {
+      "modules": [
+        {
+          "type": "twolines",
+          "data": {
+            "firstline": "+43 699 88 46 75 44",
+            "secondline": "christine.minixhofer@dialogus.at"
+          }
+        },
+        {
+          "type": "socialtitle",
+          "data": {
+            "heading": "Christine Minixhofer, MSc",
+            "socials": [
+              {
+                "type": "urlicon",
+                "data": {
+                  "url": "https://www.facebook.com/christineminixhofer",
+                  "title": "Facebook"
+                }
+              },
+              {
+                "type": "urlicon",
+                "data": {
+                  "url": "http://www.arbor-seminare.de/christine-minixhofer",
+                  "title": "Arbor Seminare"
+                }
+              },
+              {
+                "type": "urlicon",
+                "data": {
+                  "url": "http://centerformsc.org/msc-teacher/christine-minixhofer",
+                  "title": "Center for Mindful Self-Compassion"
+                }
+              },
+              {
+                "type": "urlicon",
+                "data": {
+                  "url": "http://www.gewaltfrei.at/profile/christineminixhofer",
+                  "title": "Gewaltfreie Kommunikation Austria"
+                }
+              },
+              {
+                "type": "urlicon",
+                "data": {
+                  "url": "http://www.gewaltfrei-dach.eu/wissenschaftliche-arbeiten",
+                  "title": "DACH e.V. - Gewaltfreie Kommunikation"
+                }
+              },
+              {
+                "type": "urlicon",
+                "data": {
+                  "url": "http://www.steigls.org/index.php?id=praxisadresse_detail&lebensberater=163",
+                  "title": "Steirische Gesellschaft für Lebens- und Sozialberatung"
+                }
+              },
+              {
+                "type": "urlicon",
+                "data": {
+                  "url": "https://www.xing.com/profile/Christine_Minixhofer/web_profiles",
+                  "title": "Xing"
+                }
+              },
+              {
+                "type": "urlicon",
+                "data": {
+                  "url": "http://www.bestnet.com/go.asp?personen_id=144740&sektion=personen&rkarte=infodet",
+                  "title": "bestNET"
+                }
+              },
+              {
+                "type": "urlicon",
+                "data": {
+                  "url": "http://christine-minixhofer.stadtausstellung.at",
+                  "title": "Stadtausstellung"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "type": "twolines",
+          "data": {
+            "firstline": "Mitterstraße 128/11",
+            "secondline": "8055 Seiersberg bei Graz"
+          }
+        }
+      ]
+  }
+}

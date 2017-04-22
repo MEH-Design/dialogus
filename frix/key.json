@@ -66,5 +66,14 @@
   "/kontakt": {
     "template": "home.html",
     "content": "kontakt.json"
+  },
+  "/newsletter": "newsletter",
+  "/Impressum": {
+    "template": "home.html",
+    "content": "Impressum.json"
+  },
+  "/zum-schmoekern/literaturtipps": {
+    "template": "home.html",
+    "content": "zum-schmoekern/literaturtipps.json"
   }
 }
