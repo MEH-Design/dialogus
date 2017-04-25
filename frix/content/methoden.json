@@ -101,63 +101,63 @@
                 {
                   "type": "button",
                   "data": {
-                    "link": "/bin/#main",
+                    "link": "#main",
                     "text": "Integrative Gestaltberatung auf Grundlage der Gestalttherapie"
                   }
                 },
                 {
                   "type": "button",
                   "data": {
-                    "link": "/bin/#gestalt",
+                    "link": "#gestalt",
                     "text": "Gestalt"
                   }
                 },
                 {
                   "type": "button",
                   "data": {
-                    "link": "/bin/#leiblichkeit",
+                    "link": "#leiblichkeit",
                     "text": "Leiblichkeit"
                   }
                 },
                 {
                   "type": "button",
                   "data": {
-                    "link": "/bin/#awareness",
+                    "link": "#awareness",
                     "text": "Awareness"
                   }
                 },
                 {
                   "type": "button",
                   "data": {
-                    "link": "/bin/#integrativegestaltberatung",
+                    "link": "#integrativegestaltberatung",
                     "text": "Integrative Gestaltberatung"
                   }
                 },
                 {
                   "type": "button",
                   "data": {
-                    "link": "/bin/#gewaltfreiekommunikation",
+                    "link": "#gewaltfreiekommunikation",
                     "text": "Gewaltfreie Kommunikation"
                   }
                 },
                 {
                   "type": "button",
                   "data": {
-                    "link": "/bin/#positivepsychologie",
+                    "link": "#positivepsychologie",
                     "text": "Positive Psychologie"
                   }
                 },
                 {
                   "type": "button",
                   "data": {
-                    "link": "/bin/#achtsamesselbstmitgefuehl",
+                    "link": "#achtsamesselbstmitgefuehl",
                     "text": "Achstames Selbstmitgefühl"
                   }
                 },
                 {
                   "type": "button",
                   "data": {
-                    "link": "/bin/#verstaendnismeinerarbeit",
+                    "link": "#verstaendnismeinerarbeit",
                     "text": "Verständnis meiner Arbeit"
                   }
                 }

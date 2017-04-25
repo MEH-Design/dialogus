@@ -80,8 +80,102 @@
           {
             "type": "title",
             "data": {
-              "heading": "Diese Seite ist noch in Arbeit..."
+              "heading": "Impressum"
             }
+          }
+        ]
+      }
+    },
+    {
+      "type": "contentline",
+      "data": {
+        "modules": [
+          {
+            "type": "textblock",
+            "data": "Hier finden Sie Informationen über das Einpersonenunternehmen von Christine Minixhofer gemäß den Bestimmungen des E – Commerce Gesetzes (ECG)."
+          },
+          {
+            "type": "verticaltitle",
+            "data": {
+              "heading": " ",
+              "align": "left",
+              "callouts": [
+                {
+                  "type": "simplecallout",
+                  "data": {
+                    "name": "Gesetzliche Berufsbezeichnungen",
+                    "description": "<ul><li>MSc für psychosoziale Beratung - BGBl. I Nr. 120/2002</li><li>Dipl. Lebens- und Sozialberaterin - BGBl. Nr. 111/2002</li><li>Akademische Kommunikationstrainerin - BGBl. I Nr. 48/1997</li><li>Akademisch geprüfte Lehrerin f. Gesundheits- und Krankenpflege - BGBl. Nr. 523/1993</li><li>DGKS - BGBl. Nr. 634/1973</li>"
+                  }
+                },
+                {
+                  "type": "simplecallout",
+                  "data": {
+                    "name": "Reglementiertes Gewerbe",
+                    "description": "Lebens- und Sozialberatung"
+                  }
+                },
+                {
+                  "type": "simplecallout",
+                  "data": {
+                    "name": "UID Nummer",
+                    "description": "ATU66847344"
+                  }
+                },
+                {
+                  "type": "simplecallout",
+                  "data": {
+                    "name": "Zuständige Behörde",
+                    "description": "Bezirkshauptmannschaft Graz Umgebung"
+                  }
+                },
+                {
+                  "type": "simplecallout",
+                  "data": {
+                    "name": "Büroadresse",
+                    "description": "Josef Krainer Ring 2<br/>A -8141 Premstätten"
+                  }
+                },
+                {
+                  "type": "simplecallout",
+                  "data": {
+                    "name": "Praxisadresse",
+                    "description": "Mitterstraße 128/1/11<br/>A -8055 Graz-Seiersberg"
+                  }
+                },
+                {
+                  "type": "simplecallout",
+                  "data": {
+                    "name": "Telefon",
+                    "description": "+43 (0) 0699/88 46 75 44"
+                  }
+                },
+                {
+                  "type": "simplecallout",
+                  "data": {
+                    "name": "E-Mail",
+                    "description": "<a href='mailto:christine.minixhofer@dialogus.at'>christine.minixhofer@dialogus.at</a>"
+                  }
+                },
+                {
+                  "type": "simplecallout",
+                  "data": {
+                    "name": "Webmaster",
+                    "description": "Christoph Minixhofer"
+                  }
+                },
+                {
+                  "type": "simplecallout",
+                  "data": {
+                    "name": "Fotos",
+                    "description": "<ul><li>©Sissi Furgler/Portraits</li><li>©iStockphoto.com/tomazl</li></ul>"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "type": "textblock",
+            "data": "<strong>Mitglied der Wirtschaftskammer Steiermark</strong><br/>Allgemeine Fachgruppe der gewerblichen Dienstleister, Sparte Gewerbe und Handwerk. Berufsgruppe Lebens- und Sozialberatung.<br/><br/><strong>Haftungshinweis</strong><br/>Ich übernehme keine Haftung für die Inhalte externer Links. Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber/innen verantwortlich."
           }
         ]
       }
