@@ -1,10 +1,11 @@
-.textblock ~  molecule, .calltoaction ~  molecule {
+.textblock ~ molecule, .calltoaction ~ molecule {
   max-width: 40%;
   padding-left: 10%;
 }
 
 molecule {
   margin: 0 2em;
+  max-width: 100%;
 }
 
 molecule .heading {
@@ -46,4 +47,34 @@ molecule[dataalign="left"] .callout::before, molecule[dataalign="left"] .callout
   border-left: 1.2em solid transparent;
   transform: translateX(-95%);
   left: 0%;
+}
+
+@media(max-width: 700px) {
+  molecule .callouts > * {
+    max-width: 90%;
+    display: block;
+  }
+
+  molecule .callouts .button {
+    max-width: 80%;
+    display: block;
+    overflow: hidden;
+  }
+
+  molecule .callouts > *::before, molecule .callouts > *::after {
+    display: none;
+  }
+
+  molecule .callouts > * > div {
+    display: inherit;
+    width: 100%;
+  }
+
+  molecule .callouts > * > div > h2 {
+    margin-left: 0;
+  }
+
+  molecule .callouts * {
+    word-wrap: break-word;
+  }
 }

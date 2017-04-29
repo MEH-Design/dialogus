@@ -31,3 +31,15 @@ molecule .button {
   margin: .4em;
   font-size: 1em;
 }
+
+@media(max-width: 700px) {
+  molecule {
+    display: block;
+  }
+
+  molecule .borderimage, molecule .buttons {
+    max-width: 90%;
+    margin: 0 auto;
+    box-sizing: border-box;
+  }
+}
