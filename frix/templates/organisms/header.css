@@ -4,3 +4,9 @@ organism {
   background: white;
   top: -300px;
 }
+
+@media(max-width: 1200px) {
+  organism {
+    position: static;
+  }
+}

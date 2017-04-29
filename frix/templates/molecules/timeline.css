@@ -62,3 +62,32 @@ molecule > div > div > h2 {
   margin-left: 0;
   margin-top: .4em;
 }
+
+@media(max-width: 700px) {
+  molecule .iconcallout:nth-child(odd) > div > p {
+    left: 0;
+    transform: translateY(-130%);
+  }
+
+  molecule .iconcallout:nth-child(even) > div > p {
+    left: 0;
+    transform: translateY(-130%);
+  }
+
+  molecule .iconcallout:nth-child(even)::before, molecule .iconcallout:nth-child(even)::after, molecule .iconcallout:nth-child(odd)::before, molecule .iconcallout:nth-child(odd)::after {
+    display: none;
+  }
+
+  molecule .iconcallout {
+    margin: 3em auto;
+    width: 100%;
+    display: block;
+  }
+
+  molecule .iconcallout:nth-child(odd), molecule .iconcallout:nth-child(even) {
+    text-align: center;
+    margin-left: 0;
+    left: 0;
+    padding: 0;
+  }
+}

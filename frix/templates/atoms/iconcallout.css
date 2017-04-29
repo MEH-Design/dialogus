@@ -35,6 +35,28 @@ atom div p {
   text-align: right;
 }
 
+@media(max-width: 700px) {
+  .iconcallout:nth-child(odd) atom div p {
+    text-align: left;
+  }
+
+  atom:nth-child(even) .img-container {
+    left: 0 !important;
+    right: auto !important;
+    transform: translate(-50%);
+    opacity: 0.2;
+    z-index: -10;
+  }
+
+  atom:nth-child(odd) .img-container {
+    left: 0 !important;
+    right: auto !important;
+    transform: translate(-50%);
+    opacity: 0.2;
+    z-index: -10;
+  }
+}
+
 atom > p {
   margin: 0;
   padding-bottom: 1rem;
