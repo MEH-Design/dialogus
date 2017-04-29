@@ -50,7 +50,7 @@ molecule[dataalign="left"] .callout::before, molecule[dataalign="left"] .callout
 }
 
 @media(max-width: 700px) {
-  molecule .callouts > * {
+  molecule > .callouts > .callout, molecule > .callouts > .simplecallout, molecule > .callouts > .simplesimplecallout, molecule > .callouts > .borderimage {
     max-width: 90%;
     display: block;
   }

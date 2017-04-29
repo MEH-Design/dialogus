@@ -133,7 +133,7 @@
                 {
                   "type": "simplecallout",
                   "data": {
-                    "description": "<img src='/bin/resources/praxis.jpg'/>"
+                    "description": "<img style='width:100%' src='/bin/resources/praxis.jpg'/>"
                   }
                 },
                 {
