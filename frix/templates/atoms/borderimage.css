@@ -3,7 +3,7 @@ atom {
   box-shadow: 0 .3rem 0 0 rgba(118, 118, 123, .3);
 }
 
-.verticaltitle  atom {
+.verticaltitle atom {
   margin: 1em;
   max-width: 30rem;
 }
