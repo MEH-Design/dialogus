@@ -55,22 +55,21 @@ molecule[dataalign="left"] .callout::before, molecule[dataalign="left"] .callout
     display: block;
   }
 
-  molecule .callouts .button {
+  molecule .callouts .callout .button {
     max-width: 80%;
-    display: block;
     overflow: hidden;
   }
 
-  molecule .callouts > *::before, molecule .callouts > *::after {
+  molecule .callouts > *:not(.eventcallout)::before, molecule .callouts > *:not(.eventcallout)::after {
     display: none;
   }
 
-  molecule .callouts > * > div {
+  molecule .callouts > *:not(.eventcallout) > div {
     display: inherit;
     width: 100%;
   }
 
-  molecule .callouts > * > div > h2 {
+  molecule .callouts > *:not(.eventcallout) > div > h2 {
     margin-left: 0;
   }
 

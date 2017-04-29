@@ -22,7 +22,7 @@ molecule .callouts > * {
 
 @media(max-width: 700px) {
   molecule .callouts > * {
-    max-width: 80%;
+    max-width: 70%;
   }
 }
 

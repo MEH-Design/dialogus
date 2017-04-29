@@ -4,9 +4,13 @@ organism {
   align-items: flex-end;
   justify-content: space-between;
   flex-flow: row wrap;
-  width: 100%
   max-width: 100%;
   padding: 0 10vw;
+  box-sizing: border-box;
+}
+
+organism .twolines p {
+  word-wrap: break-word;
 }
 
 organism .socialtitle .heading {
@@ -20,4 +24,22 @@ organism .twolines:last-of-type {
 
 organism .twolines {
   margin-bottom: .4rem;
+}
+
+@media(max-width: 1024px) {
+  organism, organism .twolines:last-of-type {
+    text-align: center;
+  }
+
+  organism {
+    display: block;
+    margin-top: -.5em;
+  }
+}
+
+
+@media(max-width: 370px) {
+  organism {
+    padding: 0;
+  }
 }

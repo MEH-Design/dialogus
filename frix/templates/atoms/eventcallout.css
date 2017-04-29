@@ -105,3 +105,20 @@ atom[databucher] .kosten-wrap:not(.second) {
 atom[databucher] .kosten-wrap.second {
   display: none;
 }
+
+@media(max-width: 700px) {
+  atom {
+    max-width: 90%;
+    min-width: inherit;
+  }
+}
+
+@media(max-width: 550px) {
+  atom *:not(script) {
+    display: block;
+  }
+
+  atom .kosten {
+    margin-top: -2em;
+  }
+}

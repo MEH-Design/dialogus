@@ -15,3 +15,9 @@ molecule h2 {
 molecule .button {
   margin: 0 .5em;
 }
+
+@media(max-width:700px) {
+  molecule .heading {
+    font-size: 1em;
+  }
+}

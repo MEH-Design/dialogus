@@ -43,3 +43,9 @@ organism > *:nth-child(even) h2 {
 organism > *:nth-child(even) strong {
   color: #4C7F98;
 }
+
+@media(max-width: 400px) {
+  organism {
+    padding: 0;
+  }
+}

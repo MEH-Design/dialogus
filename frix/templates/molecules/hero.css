@@ -12,6 +12,10 @@ molecule {
   .quote {
     display: none;
   }
+
+  molecule > img {
+    max-width: 100%;
+  }
 }
 
 molecule > img {
