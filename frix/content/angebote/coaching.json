@@ -155,7 +155,42 @@
                 "link": "http://www.lebensberater.at"
               }
             }
-          },
+          }
+        ]
+      }
+    },
+    {
+      "type": "contentline",
+      "data": {
+        "modules": [
+          {
+            "type": "buttongroup",
+            "data": {
+              "buttons": [
+                {
+                  "type": "button",
+                  "data": {
+                    "link": "http://www.lebensberater.at/stressmanagement%20und%20burnout-praevention?combine_1=Minixhofer",
+                    "text": "WKO Expertenpool für Stress- und Burnout-Prävention"
+                  }
+                },
+                {
+                  "type": "button",
+                  "data": {
+                    "link": "https://kooperationspartner.svagw.at/main.asp?VID=1&kat1=94&kat2=666&Result=1&SGUID={5800DA7A-149A-4F78-A786-D64C5832087B}",
+                    "text": "SVA Kooperationspartnerin"
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "contentline",
+      "data": {
+        "modules": [
           {
             "type": "verticaltitle",
             "data": {

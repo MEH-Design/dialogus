@@ -10,7 +10,7 @@
         {
           "type": "quote",
           "data": {
-            "quote": "Denn Zeit ist Leben.<br>Und das Leben wohnt im Herzen.",
+            "quote": "Denn Zeit ist Leben.<br/>Und das Leben wohnt im Herzen.",
             "author": "Michael Ende, Momo"
           }
         },
@@ -92,7 +92,7 @@
         "modules": [
           {
             "type": "textblock",
-            "data": "Im Vordergrund stehen für mich immer die individuellen Anliegen der TeilnehmerInnen und KlientInnen und der Transfer in den Alltag. Den theoretischen Hintergrund meiner Arbeit bilden wissenschaftliche anerkannte Methoden.<br/><br/>Ich bin in der Methode der integrativen Gestaltberatung ausgebildet. Durch zusätzliche Aus- und Weiterbildungen integriere ich in meine Arbeit als Treinerin und Beraterin insbesondere die <strong>Gewaltfreie Kommunikation</strong>, die personzentrierte Gesprächsführung, die <strong>positive Psychologie</strong> und die <strong>Achstamkeitslehre</strong>."
+            "data": "Im Vordergrund stehen für mich immer die individuellen Anliegen der Teilnehmer/innen und KlientInnen und der Transfer in den Alltag. Den theoretischen Hintergrund meiner Arbeit bilden wissenschaftliche anerkannte Methoden.<br/><br/>Ich bin in der Methode der integrativen Gestaltberatung ausgebildet. Durch zusätzliche Aus- und Weiterbildungen integriere ich in meine Arbeit als Treinerin und Beraterin insbesondere die <strong>Gewaltfreie Kommunikation</strong>, die personzentrierte Gesprächsführung, die <strong>positive Psychologie</strong> und die <strong>Achstamkeitslehre</strong>."
           },
           {
             "type": "buttongroup",

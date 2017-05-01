@@ -1,5 +1,6 @@
 @font-face {
     font-family: cnl;
+    src: url(/bin/resources/cnl.eot);
     src: url(/bin/resources/cnl.ttf);
 }
 

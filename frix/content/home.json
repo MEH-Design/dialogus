@@ -10,7 +10,7 @@
         {
           "type": "quote",
           "data": {
-            "quote": "Denn Zeit ist Leben.<br>Und das Leben wohnt im Herzen.",
+            "quote": "Denn Zeit ist Leben.<br/>Und das Leben wohnt im Herzen.",
             "author": "Michael Ende, Momo"
           }
         },
@@ -82,7 +82,7 @@
             "data": {
               "borderimage": "/bin/resources/portrait.jpg",
               "heading": "Herzlich Willkommen!",
-              "text": "Meine Angebote sind sehr vielfältig und doch haben sie alle eines gemeinsam - <br><strong>Achtsam mit sich selbst und anderen.</strong>",
+              "text": "Meine Angebote sind sehr vielfältig und doch haben sie alle eines gemeinsam - <br/><strong>Achtsam mit sich selbst und anderen.</strong>",
               "button": {
                 "text": "Mehr über mich erfahren..."
               }
@@ -119,27 +119,30 @@
               ],
               "circles": [
                 {
-                  "type": "circle",
+                  "type": "linkcircle",
                   "data": {
                     "text": "Was die Seele stark macht",
                     "heading": "Achtsamkeit",
-                    "image": "/bin/resources/lotus.jpg"
+                    "image": "/bin/resources/lotus.jpg",
+                    "link": "/bin/angebote"
                   }
                 },
                 {
-                  "type": "circle",
+                  "type": "linkcircle",
                   "data": {
                     "text": "Achtsamer und gewaltfreier Dialog",
                     "heading": "Kommunikation",
-                    "image": "/bin/resources/whisper.jpg"
+                    "image": "/bin/resources/whisper.jpg",
+                    "link": "/bin/angebote"
                   }
                 },
                 {
-                  "type": "circle",
+                  "type": "linkcircle",
                   "data": {
                     "text": "Prävention von Aggression und Gewalt",
                     "heading": "Deeskalation",
-                    "image": "/bin/resources/leaf.jpg"
+                    "image": "/bin/resources/leaf.jpg",
+                    "link": "/bin/angebote"
                   }
                 }
               ]

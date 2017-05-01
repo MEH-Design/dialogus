@@ -10,7 +10,7 @@
         {
           "type": "quote",
           "data": {
-            "quote": "Denn Zeit ist Leben.<br>Und das Leben wohnt im Herzen.",
+            "quote": "Denn Zeit ist Leben.<br/>Und das Leben wohnt im Herzen.",
             "author": "Michael Ende, Momo"
           }
         },
@@ -351,7 +351,7 @@
           {
             "type": "verticaltitle",
             "data": {
-              "heading": "Seminare - Training - Lehre - Fort/Weiterbildung - Workshop - Vortragstätigkeit",
+              "heading": "Elternbildung",
               "callouts": [
                 {
                   "type": "simplecallout",

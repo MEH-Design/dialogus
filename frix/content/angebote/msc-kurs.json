@@ -170,15 +170,15 @@
                 {
                   "type": "button",
                   "data": {
-                    "text": "Samstag | Nächste Achtwochenkurse in Graz - ab September 2017",
-                    "link": "/bin/resources/download/achtwochenkurs-sa.pdf"
+                    "text": "Mittwoch | Achtwochenkurs in Graz - ab 23. September 2017",
+                    "link": "/bin/resources/download/achtwochenkurs-mi.pdf"
                   }
                 },
                 {
                   "type": "button",
                   "data": {
-                    "text": "Mittwoch | Nächste Achtwochenkurse in Graz - ab September 2017",
-                    "link": "/bin/resources/download/achtwochenkurs-mi.pdf"
+                    "text": "Samstag | Achtwochenkurs in Graz - ab 27. September 2017",
+                    "link": "/bin/resources/download/achtwochenkurs-sa.pdf"
                   }
                 },
                 {
@@ -203,24 +203,6 @@
             "data": {
               "heading": "Kurse",
               "callouts": [
-                {
-                  "type": "eventcallout",
-                  "data": {
-                    "name": "Kurs 1/2017",
-                    "detail": "Bildungshaus Mariatrost in Graz",
-                    "wochentag": "Mittwoch",
-                    "zeit": "18:00 - 21:00",
-                    "termine": "11.1|18.1|25.1|1.2|8.2|15.2|8.3|15.3",
-                    "retreat": "Samstag, 11.3.2017 | 9.00 - 13.00 Uhr",
-                    "kosten-normal": "€ 390,-",
-                    "kosten-früh": "€ 370,-",
-                    "retreat-text": "Halbtagesretreat",
-                    "kosten-normal-text": "Kurskosten",
-                    "kosten-früh-text": "Frühbucherbonus bei Anmeldung bis zum 10. Dezember 2016",
-                    "sva": "SVA Versicherte können den Gesundheitshunderter einlösen!",
-                    "ribbon": "kein Einstieg mehr möglich"
-                  }
-                },
                 {
                   "type": "eventcallout",
                   "data": {

@@ -10,7 +10,7 @@
         {
           "type": "quote",
           "data": {
-            "quote": "Denn Zeit ist Leben.<br>Und das Leben wohnt im Herzen.",
+            "quote": "Denn Zeit ist Leben.<br/>Und das Leben wohnt im Herzen.",
             "author": "Michael Ende, Momo"
           }
         },
@@ -223,6 +223,7 @@
                   "type": "cover",
                   "data": {
                     "titel": "Diplomarbeit zur Lebensberaterin",
+                    "bild": "/bin/resources/publikationen/diplomarbeit.jpg",
                     "author": "Erhältlich auf Anfrage",
                     "link": "mailto:office@steigls.org"
                   }

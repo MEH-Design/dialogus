@@ -1,7 +1,7 @@
 {
    "title":"Christine Minixhofer, MSc",
    "header":{
-      "headline":{
+      "headline": {
          "heading":"Christine Minixhofer, Msc",
          "subheading":"Training | Coaching | Supervision | Psychologische Beratung"
       },
@@ -139,6 +139,19 @@
                }
             ]
          }
+      },
+      {
+        "type": "contentline",
+        "data": {
+          "modules": [
+            {
+              "type": "bigquote",
+              "data": {
+                "heading": "<span style='font-size:1.5rem'>Über Ihre/Deine Empfehlung auf <a href='https://www.gutgemacht.at/c/christine-minixhofer-msc' class='button' target='_blank'>gutgemacht.at</a> würde ich mich sehr freuen.</span>"
+              }
+            }
+          ]
+        }
       },
       {
          "type":"contentline",
