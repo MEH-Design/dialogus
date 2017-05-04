@@ -4,8 +4,7 @@ atom {
   position: relative;
   box-shadow: 0 .3rem 0 0 #C1C7BB;
   display: inline-block;
-  max-width: 13rem;
-  text-align: center;
+  max-width: 100%;
   overflow: hidden;
   flex-grow: 1;
   transition: all 300ms;
@@ -21,7 +20,6 @@ atom div h2 {
 
 atom .datum {
   width: 100%;
-  text-align: center;
   box-sizing: border-box;
   background: #f8fdeb;
   padding: .4em;

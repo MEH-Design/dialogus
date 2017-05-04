@@ -205,7 +205,7 @@
           {
             "type": "verticaltitle",
             "data": {
-              "heading": "Weitere Meditationen aus der Achtsamkeits- und Mitgefühlspraxis",
+              "heading": "Weitere Meditationen",
               "callouts": [
                 {
                   "type": "audiocallout",
@@ -213,7 +213,22 @@
                     "name": "Meditation | Liebevolle Güte für Anfänger (ca. 13 min)",
                     "audio": "/bin/resources/meditationen/a-lg-1.mp3"
                   }
-                },
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "contentline",
+      "data": {
+        "modules": [
+          {
+            "type": "verticaltitle",
+            "data": {
+              "heading": "Ergänzende Meditationen",
+              "callouts": [
                 {
                   "type": "audiocallout",
                   "data": {
