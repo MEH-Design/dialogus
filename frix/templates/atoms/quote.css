@@ -1,5 +1,6 @@
 atom > img {
   width: 27rem;
+  min-width: 27rem;
 }
 
 atom {
