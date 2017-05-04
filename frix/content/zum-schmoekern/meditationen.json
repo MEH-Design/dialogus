@@ -143,7 +143,7 @@
           },
           {
             "type": "textblock",
-            "data": "Hier findest Du Meditationen aus dem Programm Mindful Self-Compassion (MSC) zum Anhören und Gratis Download.<br/>Die Meditationen wurden von Dr. Christopher Germer und Dr. Kristin Neff entwickelt.<br/><br/>Wenn Du Kursteilnehmer/in des MSC Kurses bist, empfehle ich Dir nur die Meditationen zu praktizieren, die Du bereits im Kurs kennengelernt hast.<br/><br/>Falls Du noch an keinem MSC Kurs teilgenommen hast, empfehle ich Dir zum Kennenlernen und Ausprobieren die Meditationen für Anfänger/innen. "
+            "data": "Die hier angeführten Meditationen wurden von Dr. Christopher Germer und Dr. Kristin Neff als Teil des Kursprogrammes Mindful Self-Compassion (MSC)/ Achtsames Selbstmitgefühl entwickelt.<br/><br/>Die Meditationen - gesprochen von Christine Minixhofer - stehen zum Anhören und zum Download gratis zur Verfügung, allerdings ausschließlich für die persönliche Verwendung und nicht für eine kommerzielle Nutzung."
           }
         ]
       }
@@ -155,7 +155,7 @@
           {
             "type": "verticaltitle",
             "data": {
-              "heading": "Für Anfänger/innen",
+              "heading": "Kernmeditationen",
               "callouts": [
                 {
                   "type": "audiocallout",
@@ -171,28 +171,6 @@
                     "audio": "/bin/resources/meditationen/a-la-2.mp3"
                   }
                 },
-                {
-                  "type": "audiocallout",
-                  "data": {
-                    "name": "Meditation | Liebevolle Güte (ca. 13 min)",
-                    "audio": "/bin/resources/meditationen/a-lg-1.mp3"
-                  }
-                }
-              ]
-            }
-          }
-        ]
-      }
-    },
-    {
-      "type": "contentline",
-      "data": {
-        "modules": [
-          {
-            "type": "verticaltitle",
-            "data": {
-              "heading": "Für Fortgeschrittene, ab Kursteil 4",
-              "callouts": [
                 {
                   "type": "audiocallout",
                   "data": {
@@ -229,6 +207,13 @@
             "data": {
               "heading": "Weitere Meditationen aus der Achtsamkeits- und Mitgefühlspraxis",
               "callouts": [
+                {
+                  "type": "audiocallout",
+                  "data": {
+                    "name": "Meditation | Liebevolle Güte für Anfänger (ca. 13 min)",
+                    "audio": "/bin/resources/meditationen/a-lg-1.mp3"
+                  }
+                },
                 {
                   "type": "audiocallout",
                   "data": {
