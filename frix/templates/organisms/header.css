@@ -5,8 +5,62 @@ organism {
   top: -300px;
 }
 
+#menu.button {
+  display: none;
+}
+
 @media(max-width: 1200px) {
   organism {
-    position: static;
+    position: relative;
+    top: 0;
+  }
+
+  #menu.button {
+    display: block;
+    position: fixed;
+    top: 2em;
+    right: 0;
+    z-index: 10;
+    background-color: white;
+    transform: rotate(-90deg);
+    box-shadow: 0 0.3rem 0 0 #C1C7BB;
+  }
+
+  #menu.button::after {
+    content: "";
+    height: 0;
+    width: 0;
+    border-left: 1.12em solid white;
+    border-top: 1.12em solid transparent;
+    border-bottom: 1.12em solid transparent;
+    position: fixed;
+    top: .03em;
+    right: -.44em;
+  }
+
+  #menu.button::after {
+    content: "";
+    height: 0;
+    width: 0;
+    border-left: 1.12em solid white;
+    border-top: 1.12em solid transparent;
+    border-bottom: 1.12em solid transparent;
+    position: fixed;
+    top: .07em;
+    z-index: 101;
+    right: -.44em;
+  }
+
+  #menu.button::before {
+    content: "";
+    height: 0;
+    width: 0;
+    border-left: 1.12em solid #C1C7BB;
+    border-top: 1.12em solid transparent;
+    border-bottom: 1.12em solid transparent;
+    position: fixed;
+    top: .37em;
+    z-index: 100;
+    right: -.45em;
   }
 }

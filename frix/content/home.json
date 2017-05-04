@@ -119,30 +119,27 @@
               ],
               "circles": [
                 {
-                  "type": "linkcircle",
+                  "type": "circle",
                   "data": {
                     "text": "Was die Seele stark macht",
                     "heading": "Achtsamkeit",
-                    "image": "/bin/resources/lotus.jpg",
-                    "link": "/bin/angebote"
+                    "image": "/bin/resources/lotus.jpg"
                   }
                 },
                 {
-                  "type": "linkcircle",
+                  "type": "circle",
                   "data": {
                     "text": "Achtsamer und gewaltfreier Dialog",
                     "heading": "Kommunikation",
-                    "image": "/bin/resources/whisper.jpg",
-                    "link": "/bin/angebote"
+                    "image": "/bin/resources/whisper.jpg"
                   }
                 },
                 {
-                  "type": "linkcircle",
+                  "type": "circle",
                   "data": {
                     "text": "Prävention von Aggression und Gewalt",
                     "heading": "Deeskalation",
-                    "image": "/bin/resources/leaf.jpg",
-                    "link": "/bin/angebote"
+                    "image": "/bin/resources/leaf.jpg"
                   }
                 }
               ]
