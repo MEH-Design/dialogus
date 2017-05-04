@@ -98,6 +98,7 @@ atom::before {
 
 atom .img-container {
   height: 2.6em;
+  width: 2.6em;
   padding: 1em;
   border-radius: 99em;
   position: absolute;

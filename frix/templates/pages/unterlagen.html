@@ -15,6 +15,9 @@
       <target/>
     </loop>
     <script>
+      document.querySelectorAll('.passwordcallout input').forEach((elem) => {
+        elem.style.display = 'inline-block';
+      })
       document.querySelectorAll('.filecallout h2').forEach((elem) => {
         let text = elem.innerHTML.trim().toLowerCase();
         let content = "";

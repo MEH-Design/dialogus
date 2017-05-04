@@ -16,3 +16,7 @@ molecule .circle, molecule .linkcircle, molecule .simplecircle {
   margin: .5em;
   margin-bottom: 2em;
 }
+
+molecule {
+  max-width: 80vw;
+}

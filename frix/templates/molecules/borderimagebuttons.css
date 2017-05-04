@@ -7,7 +7,7 @@ molecule {
 }
 
 molecule .borderimage {
-  max-width: 30%;
+  max-width: 23vw;
   margin-right: 3%;
   opacity: .7;
   filter: brightness(1.4), grayscale(.4);

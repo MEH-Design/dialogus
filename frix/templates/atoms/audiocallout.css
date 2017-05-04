@@ -7,6 +7,7 @@ atom {
   display: inline-block;
   overflow: hidden;
   margin: 1em;
+  min-height: 8em;
 }
 
 atom h2 {

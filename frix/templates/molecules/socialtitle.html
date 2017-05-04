@@ -9,5 +9,8 @@
     document.querySelectorAll('[datasrc]').forEach((element) => {
       element.src = `https://www.google.com/s2/favicons?domain=${element.parentElement.getAttribute('href')}`
     });
+    document.querySelectorAll('.nojs-urlicon').forEach((element) => {
+      element.innerHTML = "";
+    })
   </script>
 </div>

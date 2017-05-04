@@ -7,7 +7,7 @@ molecule {
 }
 
 molecule .borderimage {
-  max-width: 30%;
+  max-width: 23vw;
   margin-right: 3%;
 }
 

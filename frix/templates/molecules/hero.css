@@ -2,7 +2,6 @@ molecule {
   display: flex;
   align-items: flex-end;
   justify-content: space-around;
-  flex-flow: row wrap;
   padding: 3em;
   max-width: 100%;
   background-color: #EBE5DE;
