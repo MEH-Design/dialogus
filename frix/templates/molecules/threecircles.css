@@ -3,6 +3,7 @@ molecule > div {
   align-items: center;
   justify-content: space-around;
   flex-flow: row wrap;
+  max-width: 80vw;
 }
 
 molecule .heading {
@@ -15,8 +16,4 @@ molecule .circle, molecule .linkcircle, molecule .simplecircle {
   height: 14em;
   margin: .5em;
   margin-bottom: 2em;
-}
-
-molecule {
-  max-width: 80vw;
 }
