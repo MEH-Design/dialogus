@@ -5,7 +5,7 @@ molecule {
     flex-flow: row wrap;
     height: auto;
     width: 100%;
-    box-shadow: 0 .3rem 0 0 rgba(118, 118, 123, .3);
+    border-bottom: solid rgba(118, 118, 123, .3) .15rem;
 }
 
 molecule .link {

@@ -156,6 +156,7 @@
             "type": "verticaltitle",
             "data": {
               "heading": "Kernmeditationen",
+              "align": "left",
               "callouts": [
                 {
                   "type": "audiocallout",
@@ -206,6 +207,7 @@
             "type": "verticaltitle",
             "data": {
               "heading": "Weitere Meditationen",
+              "align":"left",
               "callouts": [
                 {
                   "type": "audiocallout",
@@ -228,6 +230,7 @@
             "type": "verticaltitle",
             "data": {
               "heading": "Ergänzende Meditationen",
+              "align":"left",
               "callouts": [
                 {
                   "type": "audiocallout",

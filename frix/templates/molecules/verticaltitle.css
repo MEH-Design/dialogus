@@ -1,5 +1,5 @@
 .textblock ~ molecule, .calltoaction ~ molecule {
-  max-width: 40%;
+  max-width: 40% !important;
   padding-left: 10%;
 }
 
@@ -22,12 +22,14 @@ molecule:not([dataalign]) .callouts {
   margin-bottom: 1em;
 }
 
-molecule[dataalign="right"] {
+molecule[dataalign="right"], molecule[dataalign="right"] .heading {
   text-align: right;
+  width: 100%;
 }
 
-molecule[dataalign="left"] {
+molecule[dataalign="left"], molecule[dataalign="left"] .heading {
   text-align: left;
+  width: 100%;
 }
 
 molecule[dataalign="center"] {
