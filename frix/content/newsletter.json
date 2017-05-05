@@ -80,7 +80,28 @@
           {
             "type": "title",
             "data": {
-              "heading": "Zum Newsletter anmelden"
+              "heading": "Archiv"
+            }
+          },
+          {
+            "type": "buttongroup",
+            "data": {
+              "buttons": [
+                {
+                  "type": "button",
+                  "data": {
+                    "text": "März 2017",
+                    "link": "http://archive.newsletter2go.com/?n2g=kj3dt0wn-e1ixe4s2-14e6"
+                  }
+                },
+                {
+                  "type": "button",
+                  "data": {
+                    "text": "Februar 2017",
+                    "link": "http://archive.newsletter2go.com/?n2g=kj3dt0wn-trt4k1z6-rt"
+                  }
+                }
+              ]
             }
           }
         ]
