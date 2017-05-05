@@ -52,3 +52,9 @@ molecule[dataalign="left"] .callout::before, molecule[dataalign="left"] .callout
   transform: translateX(-95%);
   left: 0%;
 }
+
+molecule .borderimage {
+  max-width: 35vw;
+  height: 30em;
+  margin: 2em;
+}

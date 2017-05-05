@@ -466,28 +466,16 @@
               "heading": "Empfohlene Lektüre",
               "callouts": [
                 {
-                  "type": "book",
-                  "data": {
-                    "author": "Christopher Germer",
-                    "bild": "https://www.arbor-verlag.de/files/9783867811453.jpg",
-                    "titel": "Der achtsame Weg zum Selbstmitgefühl. Wie man sich von destruktiven Gedanken und Gefühlen befreit."
-                  }
+                  "type": "borderimage",
+                  "data": "https://www.arbor-verlag.de/files/9783867811453.jpg"
                 },
                 {
-                  "type": "book",
-                  "data": {
-                    "author": "Kristin Neff",
-                    "bild": "https://images-na.ssl-images-amazon.com/images/I/41junF7AmtL._SX310_BO1,204,203,200_.jpg",
-                    "titel": "Selbstmitgefühl. Wie wir uns mit unseren Schwächen versöhnen und uns selbst der beste Freund werden."
-                  }
+                  "type": "borderimage",
+                  "data": "https://images-na.ssl-images-amazon.com/images/I/41junF7AmtL._SX310_BO1,204,203,200_.jpg"
                 },
                 {
-                  "type": "book",
-                  "data": {
-                    "author": "Christine Brähler",
-                    "bild": "https://images-na.ssl-images-amazon.com/images/I/51Q-rbYV-3L._SX299_BO1,204,203,200_.jpg",
-                    "titel": "Selbstmitgefühl entwickeln. Liebevoller werden mit sich selbst."
-                  }
+                  "type": "borderimage",
+                  "data": "https://images-na.ssl-images-amazon.com/images/I/51Q-rbYV-3L._SX299_BO1,204,203,200_.jpg"
                 }
               ]
             }

@@ -25,11 +25,13 @@ atom .datum {
   padding: .4em;
   font-weight: 600;
   padding-top: .4em;
+  padding-left: 2em;
   box-shadow: 0 .15rem 0 0 rgba(118, 118, 123, .1);
 }
 
 atom a {
   margin-bottom: 1em;
+  margin-left: 2em;
 }
 
 atom.removed, atom.removed *, atom.duplicate, atom.duplicate *{

@@ -247,30 +247,6 @@
             }
           },
           {
-            "type": "calltoaction",
-            "data": {
-              "borderimage": "/bin/resources/links/selbst.jpg",
-              "heading": "Selbstmitgefühl",
-              "text": "Auf der Seite <a href='http://www.selbstmitgefühl.de'>selbstmitgefühl.de</a> von Christine Brähler gibt es hilfreiche Antworten und Impulse zum Thema Selbstmitgefühl. Was ist Selbstmitgefühl? Wie kann man es lernen? Was sagt die Hirnforschung dazu? Außerdem stellt Christine Brähler 4 Meditationen zum Üben zur Verfügung.",
-              "button": {
-                "link": "http://www.selbstmitgefühl.de",
-                "text": "selbstmitgefühl.de"
-              }
-            }
-          },
-          {
-            "type": "calltoaction",
-            "data": {
-              "borderimage": "/bin/resources/links/germer.jpg",
-              "heading": "Mindful Self-Compassion",
-              "text": "Meditationen zum Selbstmitgefühl in Englisch und vieles andere mehr zum Thema auf der Seite von Christopher Germer:",
-              "button": {
-                "link": "http://www.mindfulselfcompassion.org/meditations_downloads.php",
-                "text": "mindfulselfcompassion.org"
-              }
-            }
-          },
-          {
             "type": "buttongroup",
             "data": {
               "buttons": [
@@ -315,13 +291,6 @@
                     "text": "Achtsamkeit: Eine Schatzkiste an Wissen und Anregungen - Zusammengesammelt von Dr. Michael E. Harrer",
                     "link": "http://www.achtsamleben.at/startseite/"
                   }
-                },
-                {
-                  "type": "button",
-                  "data": {
-                    "text": "MBSR (mindful based stress reduction) Kurs in Graz - Geleitet von Mag.a. Elisabeth Hofmann - Herbst 2016",
-                    "link": "/bin/links/mbsr.pdf"
-                  }
                 }
               ]
             }
@@ -355,13 +324,6 @@
                   "data": {
                     "link": "http://positivepsychologie.eu/Uebungen/10-Wege-zum-Glueck-mit-Daniela-Blickhan",
                     "text": "10 Wege zum Glück mit Daniela Blickhan"
-                  }
-                },
-                {
-                  "type": "button",
-                  "data": {
-                    "link": "https://www.youtube.com/user/HappyAndFitHappiness",
-                    "text": "Happy and Fit Happiness"
                   }
                 },
                 {
