@@ -84,7 +84,8 @@
               "heading": "Herzlich Willkommen!",
               "text": "Meine Angebote sind sehr vielfältig und doch haben sie alle eines gemeinsam - <br/><strong>Achtsam mit sich selbst und anderen.</strong>",
               "button": {
-                "text": "Mehr über mich erfahren..."
+                "text": "Mehr über mich erfahren...",
+                "link": "/bin/ueber-mich.html"
               }
             }
           },
