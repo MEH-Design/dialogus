@@ -34,7 +34,7 @@ atom > div > p {
   position: absolute;
   top: 48%;
   margin-bottom: 0;
-  font-size: .75em;
+  font-size: .8em;
   left: 50%;
   transform: translate(-50%);
   padding: 0 .5em;
