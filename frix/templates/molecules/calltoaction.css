@@ -24,6 +24,7 @@ molecule > * {
 
 molecule > img {
   max-height:10em;
+  height: 10em;
   opacity: .8;
 }
 
