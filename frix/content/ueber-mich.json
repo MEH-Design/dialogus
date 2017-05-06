@@ -182,7 +182,7 @@
                   "data": {
                     "name": "Stressmanagement und Burnoutprävention",
                     "year": "2016",
-                    "description": "Fortbildungslehrgang Stressmanagement und Burnoutprävention EALP Akademie Graz",
+                    "description": "Fortbildungslehrgang Stressmanagement und Burnoutprävention (EALP Akademie Graz)",
                     "icon": "/bin/resources/fire.svg"
                   }
                 },
@@ -272,14 +272,14 @@
                   "data": {
                     "name": "Positiv Psychologische Interventionen",
                     "year": "2012",
-                    "description": "Weiterbildung Positiv Psychologische Interventionen für Beratung, Coaching und Therapie (Institut für Positive Psychologie und Mentalcoaching, Dr. Philipp Streit, Graz)",
+                    "description": "Weiterbildung Positiv Psychologische Interventionen für Beratung, Coaching und Therapie (Institut für Positive Psychologie und Mentalcoaching, Dr. Philip Streit, Graz)",
                     "icon": "/bin/resources/silhouette.svg"
                   }
                 },
                 {
                   "type": "iconcallout",
                   "data": {
-                    "name": "Systemischen Strukturaufstellung",
+                    "name": "Systemische Strukturaufstellung",
                     "year": "2011",
                     "description": "Weiterbildung Methodik und Praxis der Systemischen Strukturaufstellung (Prof. Dr. Matthias Varga von Kibed, Institut für Kind und Familie Graz)",
                     "icon": "/bin/resources/atoms.svg"
