@@ -1,8 +1,92 @@
 {
-  "redirects": [
+  "urls": [
     {
-      "from": "Home.42478.html",
+      "from": "/Home.42478.html",
       "to": "/"
+    },
+    {
+      "from": "/Ueber-mich.42479.html",
+      "to": "/ueber-mich"
+    },
+    {
+      "from": "/Methoden.42480.html",
+      "to": "/methoden"
+    },
+    {
+      "from": "/Angebote.42481.html",
+      "to": "/angebote"
+    },
+    {
+      "from": "/Seminar-Workshop-Vortrag.43674.html",
+      "to": "/angebote/seminar-workshop-vortrag"
+    },
+    {
+      "from": "/Psychologische-Beratung-Coaching.43675.html",
+      "to": "/angebote/coaching"
+    },
+    {
+      "from": "/Supervision.63381.html",
+      "to": "/angebote/supervision"
+    },
+    {
+      "from": "/Achtsames-Selbstmitgefuehl-MSC-Kurs.62375.html",
+      "to": "/angebote/msc-kurs"
+    },
+    {
+      "from": "/Elternbildung-Coaching-Beratung.43676.html",
+      "to": "/angebote/elternbildung-coaching-beratung"
+    },
+    {
+      "from": "/Zum-Schmoekern.42482.html",
+      "to": "/zum-schmoekern"
+    },
+    {
+      "from": "/Meine-Praxis.56540.html",
+      "to": "/kontakt"
+    },
+    {
+      "from": "/Unterlagen-Seminare.51747.html",
+      "to": "/zum-schmoekern/unterlagen-seminare"
+    },
+    {
+      "from": "/Meditationen.62609.html",
+      "to": "/zum-schmoekern/meditationen"
+    },
+    {
+      "from": "/Publikationen.43363.html",
+      "to": "/zum-schmoekern/publikationen"
+    },
+    {
+      "from": "/Links.43365.html",
+      "to": "/zum-schmoekern/links"
+    },
+    {
+      "from": "/Referenzen.44739.html",
+      "to": "/zum-schmoekern/referenzen"
+    },
+    {
+      "from": "/Literaturtipps.43917.html",
+      "to": "/zum-schmoekern/literaturtipps"
+    },
+    {
+      "from": "/Kontakt.43366.html",
+      "to": "/kontakt"
+    },
+    {
+      "from": "/Impressum.43367.html",
+      "to": "/Impressum"
+    },
+    {
+      "from": "/Newsletter.51759.html",
+      "to": "/newsletter"
+    },
+    {
+      "from": "/Newsletter-Anmeldung.43368.html",
+      "to": "/newsletter"
+    },
+    {
+      "from": "/Newsletter-Archiv.51754.html",
+      "to": "/newsletter"
     }
   ]
 }
