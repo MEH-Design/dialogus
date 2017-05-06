@@ -272,7 +272,7 @@
             "type": "verticaltitle",
             "data": {
               "heading": " ",
-              "align": "left",
+              "align": "center",
               "callouts": [
                 {
                   "type": "audiocallout",
