@@ -32,9 +32,9 @@ atom > div > img {
 
 atom > div > p {
   position: absolute;
-  top: 52%;
+  top: 48%%;
   margin-bottom: 0;
-  font-size: .6em;
+  font-size: .75em;
   left: 50%;
   transform: translate(-50%);
   padding: 0 .5em;

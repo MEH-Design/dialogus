@@ -141,7 +141,7 @@
                   "type": "linkcircle",
                   "data": {
                     "heading": "Seminar - Workshop - Vortrag",
-                    "text": "Kommunikation, Persönlichkeitsentwicklung, Gewaltprävention und Burnoutprävention",
+                    "text": "Kommunikation, Persönlichkeit, Gewaltprävention, Burnoutprävention",
                     "image": "/bin/resources/seminar.jpg",
                     "link": "/bin/angebote/seminar-workshop-vortrag.html"
                   }
@@ -149,7 +149,7 @@
                 {
                   "type": "linkcircle",
                   "data": {
-                    "text": "Psychologische Beratung und Coaching für berufliche und persönliche Themen",
+                    "text": "Berufliche und persönliche Themen",
                     "heading": "Psychologische Beratung -  Coaching",
                     "image": "/bin/resources/office.jpg",
                     "link": "/bin/angebote/coaching.html"
@@ -158,7 +158,7 @@
                 {
                   "type": "linkcircle",
                   "data": {
-                    "text": "Die Reflexion der beruflichen Tätigkeit, das Betrachten der Vorgänge in Arbeitsprozessen aus der Meta-Ebene",
+                    "text": "Reflexion der beruflichen Tätigkeit",
                     "heading": "Supervision",
                     "image": "/bin/resources/dandelion.jpg",
                     "link": "/bin/angebote/supervision.html"
@@ -167,7 +167,7 @@
                 {
                   "type": "linkcircle",
                   "data": {
-                    "text": "Mindful Self Compassion ist ein evidenz-basierter 8-wöchiger Kurs zur Entwicklung von Selbstmitgefühl",
+                    "text": "Mindful Self Compassion",
                     "heading": "Achtsames Selbstmitgefühl (MSC) - Kurs",
                     "image": "/bin/resources/beautiful.jpg",
                     "link": "/bin/angebote/msc-kurs.html"
@@ -176,7 +176,7 @@
                 {
                   "type": "linkcircle",
                   "data": {
-                    "text": "Elternbildung - Coaching und Beratung für eine achtsame und haltgebende Erziehung",
+                    "text": "Achtsame und haltgebende Erziehung",
                     "heading": "Elternbildung - Coaching - Beratung",
                     "image": "/bin/resources/mikiwa.jpg",
                     "link": "/bin/angebote/elternbildung-coaching-beratung.html"
