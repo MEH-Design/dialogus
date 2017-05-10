@@ -1,5 +1,10 @@
-<div>
+<div data-ie="true">
   <loop name="modules" types="socialtitle, twolines">
     <target/>
   </loop>
+  <script>
+  document.querySelectorAll('[data-ie]').forEach((element) => {
+    element.setAttribute('data-ie', 'false');
+  });
+  </script>
 </div>

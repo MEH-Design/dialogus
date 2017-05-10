@@ -9,6 +9,14 @@ organism {
   box-sizing: border-box;
 }
 
+organism[data-ie="true"] * {
+  margin: 0 auto;
+}
+
+organism[data-ie="true"] * {
+  text-align: center !important;
+}
+
 organism .twolines p {
   word-wrap: break-word;
 }
