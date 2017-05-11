@@ -80,68 +80,85 @@
           {
             "type": "verticaltitle",
             "data": {
-              "align": "center",
-              "heading": "Qualifikationen",
+              "align": "left",
+              "heading": "Abschlüsse",
               "callouts": [
                 {
-                  "type": "simplecallout",
-                  "data": {
-                    "name": "Trained Teacher MSC",
-                    "description": "<p style='padding: 0'>2015 - 2016 | Bei Christopher Germer, Christine Brähler, Regula Saner, Hilde Steinhauser</p><p>Veranstalter: Arbor Seminare Freiburg und MBPTI mindful based professional training institute in San Diego, Kalifornien</p>"
-                  }
-                },
-                {
-                  "type": "simplecallout",
-                  "data": {
-                    "name": "Burnout Coach - WKO Expertenpool",
-                    "description": "2016 | EALP Akademie Graz"
-                  }
-                },
-                {
-                  "type": "simplecallout",
-                  "data": {
-                    "name": "Supervisorin - WKO Expertenpool",
-                    "description": "2015 - 2016 | Institut SISFO Salzburg"
-                  }
-                },
-                {
-                  "type": "simplecallout",
-                  "data": {
-                    "name": "Achtsamkeitslehrerin",
-                    "description": "2014 - 2015 | Arbor Seminare Freiburg"
-                  }
-                },
-                {
-                  "type": "simplecallout",
+                  "type": "nobordercallout",
                   "data": {
                     "name": "MSc für psychosoziale Beratung",
-                    "description": "2009 - 2011 | Donau-Universität Krems"
+                    "description": "Donau Universität Krems"
                   }
                 },
                 {
-                  "type": "simplecallout",
+                  "type": "nobordercallout",
                   "data": {
-                    "name": "Dipl. Lebensberaterin",
-                    "description": "2006 - 2009 | Integrative Gestalt, SteiGLS Graz"
+                    "name": "Dipl. Lebensberaterin/ psychologische Beraterin",
+                    "description": "SteiGLS Graz, Integrative Gestalt"
                   }
                 },
                 {
-                  "type": "simplecallout",
+                  "type": "nobordercallout",
                   "data": {
                     "name": "Akademische Kommunikationstrainerin",
-                    "description": "2002 - 2004 | KF Universität Graz, PGA Linz, TAO Wien"
+                    "description": "KF Universität Graz, PGA Linz, TAO Wien"
                   }
                 },
                 {
-                  "type": "simplecallout",
+                  "type": "nobordercallout",
                   "data": {
                     "name": "Gesundheits- und Pflegepädagogin",
-                    "description": "1992 - 1994 | KF Universität Graz"
+                    "description": "KF Universität Graz"
+                  }
+                },
+                {
+                  "type": "nobordercallout",
+                  "data": {
+                    "name": "DGKS",
+                    "description": "Schule für allg. Gesundheits- und Krankenpflege,_ Vöcklabruck"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "type": "verticaltitle",
+            "data": {
+              "align": "left",
+              "heading": "Weitere Qualifikationen",
+              "callouts": [
+                {
+                  "type": "nobordercallout",
+                  "data": {
+                    "name": "Trained Teacher MSC/Lehrerin für Achtsames Selbstmitgefühl",
+                    "description": "Bei Christopher Germer, Christine Brähler, Regula Saner, Hilde Steinhauser,</br>Arbor Seminare Freiburg und MBPTI mindful based professional training</br>institute in San Diego, Kalifornien"
+                  }
+                },
+                {
+                  "type": "nobordercallout",
+                  "data": {
+                    "name": "Achtsamkeitslehrerin",
+                    "description": "Arbor Seminare Freiburg"
+                  }
+                },
+                {
+                  "type": "nobordercallout",
+                  "data": {
+                    "name": "Burnout Coach – WKO Expertenpool",
+                    "description": "EALP Akademie Graz"
+                  }
+                },
+                {
+                  "type": "nobordercallout",
+                  "data": {
+                    "name": "Supervisorin – WKO Expertenpool",
+                    "description": "Institut SISFO Salzburg"
                   }
                 }
               ]
             }
           }
+
         ]
       }
     },
