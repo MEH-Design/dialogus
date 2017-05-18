@@ -2,9 +2,12 @@ atom, a.button {
   border-radius: 99rem;
   padding: .5em 1em;
   box-shadow: 0 .3rem 0 0 rgba(118, 118, 123, .3);
-  cursor: pointer;
   color: inherit;
   text-decoration: inherit;
+}
+
+atom[href], a.button[href] {
+  cursor: pointer;
 }
 
 .contentline:nth-child(even) atom, .contentline:nth-child(even) a.button {

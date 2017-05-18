@@ -27,9 +27,8 @@ atom > h2 {
   font-weight: 300;
   color: #4C7F98;
   position: relative;
-  display: table-cell;
   vertical-align: middle;
-  top: 6.1em;
+  top: 5em;
   text-align: center;
   transform: translateY(-50%);
 }
