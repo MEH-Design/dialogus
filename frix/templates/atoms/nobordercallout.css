@@ -18,7 +18,7 @@ atom h2 {
 }
 
 atom p {
-  margin: 0 .4em;
+  margin: 0 .6em;
 }
 
 atom p:empty {
