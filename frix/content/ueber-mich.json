@@ -188,9 +188,18 @@
                 {
                   "type": "iconcallout",
                   "data": {
+                    "name": "Living in Compassion",
+                    "year": "2017",
+                    "description": "Robert Gonzales (Graz, Bildungshaus Schloss St. Martin)",
+                    "icon": "/bin/resources/heart.svg"
+                  }
+                },
+                {
+                  "type": "iconcallout",
+                  "data": {
                     "name": "Mit Kindern wachsen",
                     "year": "2016",
-                    "description": "Tagesseminar 'Mit Kindern wachsen - Achtsamkeit in der Familie', Jon und Myla Kabat-Zinn (Salzburg, Bildungshaus St. Virgil)",
+                    "description": "'Mit Kindern wachsen - Achtsamkeit in der Familie', Jon und Myla Kabat-Zinn (Salzburg, Bildungshaus St. Virgil)",
                     "icon": "/bin/resources/kids.svg"
                   }
                 },
