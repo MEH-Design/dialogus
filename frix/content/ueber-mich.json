@@ -188,6 +188,15 @@
                 {
                   "type": "iconcallout",
                   "data": {
+                    "name": "Motivierende Gesprächsführung",
+                    "year": "2017",
+                    "description": "GK Quest Akademie (Link)",
+                    "icon": "/bin/resources/goal.svg"
+                  }
+                },
+                {
+                  "type": "iconcallout",
+                  "data": {
                     "name": "Living in Compassion",
                     "year": "2017",
                     "description": "Robert Gonzales (Graz, Bildungshaus Schloss St. Martin)",
