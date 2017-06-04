@@ -31,43 +31,43 @@
         "type": "link",
         "data": {
           "text": "Über mich",
-          "link": "/bin/ueber-mich.html"
+          "link": "/bin/ueber-mich.html#nav"
         }
       }, {
         "type": "link",
         "data": {
           "text": "Methoden",
-          "link": "/bin/methoden.html"
+          "link": "/bin/methoden.html#nav"
         }
       }, {
         "type": "link",
         "data": {
           "text": "Angebote",
-          "link": "/bin/angebote.html"
+          "link": "/bin/angebote.html#nav"
         }
       }, {
         "type": "link",
         "data": {
           "text": "Zum Schmökern",
-          "link": "/bin/zum-schmoekern.html"
+          "link": "/bin/zum-schmoekern.html#nav"
         }
       }, {
         "type": "link",
         "data": {
           "text": "Kontakt",
-          "link": "/bin/kontakt.html"
+          "link": "/bin/kontakt.html#nav"
         }
       }, {
         "type": "link",
         "data": {
           "text": "Newsletter",
-          "link": "/bin/newsletter.html"
+          "link": "/bin/newsletter.html#nav"
         }
       }, {
         "type": "link",
         "data": {
           "text": "Impressum",
-          "link": "/bin/Impressum.html"
+          "link": "/bin/Impressum.html#nav"
         }
       }]
     }
@@ -85,7 +85,7 @@
               "text": "Meine Angebote sind sehr vielfältig und doch haben sie alle eines gemeinsam - <br/><strong>Achtsam mit sich selbst und anderen.</strong>",
               "button": {
                 "text": "Mehr über mich erfahren...",
-                "link": "/bin/ueber-mich.html"
+                "link": "/bin/ueber-mich.html#nav"
               }
             }
           },

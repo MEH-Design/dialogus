@@ -25,25 +25,25 @@
         "type": "link",
         "data": {
           "text": "Home",
-          "link": "/bin/home.html"
+          "link": "/bin/home.html#nav"
         }
       }, {
         "type": "link",
         "data": {
           "text": "Über mich",
-          "link": "/bin/ueber-mich.html"
+          "link": "/bin/ueber-mich.html#nav"
         }
       }, {
         "type": "link",
         "data": {
           "text": "Methoden",
-          "link": "/bin/methoden.html"
+          "link": "/bin/methoden.html#nav"
         }
       }, {
         "type": "link",
         "data": {
           "text": "Angebote",
-          "link": "/bin/angebote.html"
+          "link": "/bin/angebote.html#nav"
         }
       }, {
         "type": "link",
@@ -55,19 +55,19 @@
         "type": "link",
         "data": {
           "text": "Kontakt",
-          "link": "/bin/kontakt.html"
+          "link": "/bin/kontakt.html#nav"
         }
       }, {
         "type": "link",
         "data": {
           "text": "Newsletter",
-          "link": "/bin/newsletter.html"
+          "link": "/bin/newsletter.html#nav"
         }
       }, {
         "type": "link",
         "data": {
           "text": "Impressum",
-          "link": "/bin/Impressum.html"
+          "link": "/bin/Impressum.html#nav"
         }
       }]
     }
@@ -85,28 +85,28 @@
                 {
                   "type": "button",
                   "data": {
-                    "link": "/bin/zum-schmoekern/unterlagen-seminare.html",
+                    "link": "/bin/zum-schmoekern/unterlagen-seminare.html#nav",
                     "text": "Unterlagen Seminare"
                   }
                 },
                 {
                   "type": "button",
                   "data": {
-                    "link": "/bin/zum-schmoekern/meditationen.html",
+                    "link": "/bin/zum-schmoekern/meditationen.html#nav",
                     "text": "Meditationen"
                   }
                 },
                 {
                   "type": "button",
                   "data": {
-                    "link": "/bin/zum-schmoekern/publikationen.html",
+                    "link": "/bin/zum-schmoekern/publikationen.html#nav",
                     "text": "Publikationen"
                   }
                 },
                 {
                   "type": "button",
                   "data": {
-                    "link": "/bin/zum-schmoekern/links.html",
+                    "link": "/bin/zum-schmoekern/links.html#nav",
                     "text": "Links",
                     "selected": "true"
                   }
@@ -114,14 +114,14 @@
                 {
                   "type": "button",
                   "data": {
-                    "link": "/bin/zum-schmoekern/referenzen.html",
+                    "link": "/bin/zum-schmoekern/referenzen.html#nav",
                     "text": "Referenzen"
                   }
                 },
                 {
                   "type": "button",
                   "data": {
-                    "link": "/bin/zum-schmoekern/literaturtipps.html",
+                    "link": "/bin/zum-schmoekern/literaturtipps.html#nav",
                     "text": "Literaturtipps"
                   }
                 }
@@ -261,7 +261,7 @@
                   "type": "button",
                   "data": {
                     "text": "Neue Studien zu einer alten Tugend - Artikel und Radiobeitrag von Ingrid Strobl",
-                    "link": "http://www.swr.de/swr2/wissen/mitgefuehl-neu-studien/-/id=661224/nid=661224/did=11286912/1vywc3y/home.html"
+                    "link": "http://www.swr.de/swr2/wissen/mitgefuehl-neu-studien/-/id=661224/nid=661224/did=11286912/1vywc3y/home.html#nav"
                   }
                 },
                 {
@@ -370,7 +370,7 @@
                 {
                   "type": "button",
                   "data": {
-                    "link": "http://www.br.de/radio/bayern2/sendungen/radiowissen/gewaltfreie-kommunikation-rosenberg-100.html",
+                    "link": "http://www.br.de/radio/bayern2/sendungen/radiowissen/gewaltfreie-kommunikation-rosenberg-100.html#nav",
                     "text": "Wertschätzung statt Manipulation - Hörbeitrag von Christina Teuthorn"
                   }
                 }
@@ -479,14 +479,14 @@
                 {
                   "type": "button",
                   "data": {
-                    "link": "http://www.arbeiterkammer.at/beratung/arbeitundrecht/Arbeitsklima/Sexuelle_Belaestigung.html",
+                    "link": "http://www.arbeiterkammer.at/beratung/arbeitundrecht/Arbeitsklima/Sexuelle_Belaestigung.html#nav",
                     "text": "Infos durch die Arbeiterkammer"
                   }
                 },
                 {
                   "type": "button",
                   "data": {
-                    "link": "https://www.help.gv.at/Portal.Node/hlpd/public/content/39/Seite.390002.html",
+                    "link": "https://www.help.gv.at/Portal.Node/hlpd/public/content/39/Seite.390002.html#nav",
                     "text": "Infos durch HELP.gv.at"
                   }
                 },
@@ -541,7 +541,7 @@
                 {
                   "type": "button",
                   "data": {
-                    "link": "http://www.spiegel.de/spiegelwissen/a-680226.html",
+                    "link": "http://www.spiegel.de/spiegelwissen/a-680226.html#nav",
                     "text": "Artikel im Spiegel Online: Sex-Dienste im Pflegeheim"
                   }
                 }

@@ -25,37 +25,37 @@
         "type": "link",
         "data": {
           "text": "Home",
-          "link": "/bin/home.html"
+          "link": "/bin/home.html#nav"
         }
       }, {
         "type": "link",
         "data": {
           "text": "Über mich",
-          "link": "/bin/ueber-mich.html"
+          "link": "/bin/ueber-mich.html#nav"
         }
       }, {
         "type": "link",
         "data": {
           "text": "Methoden",
-          "link": "/bin/methoden.html"
+          "link": "/bin/methoden.html#nav"
         }
       }, {
         "type": "link",
         "data": {
           "text": "Angebote",
-          "link": "/bin/angebote.html"
+          "link": "/bin/angebote.html#nav"
         }
       }, {
         "type": "link",
         "data": {
           "text": "Zum Schmökern",
-          "link": "/bin/zum-schmoekern.html"
+          "link": "/bin/zum-schmoekern.html#nav"
         }
       }, {
         "type": "link",
         "data": {
           "text": "Kontakt",
-          "link": "/bin/kontakt.html"
+          "link": "/bin/kontakt.html#nav"
         }
       }, {
         "type": "link",
@@ -67,7 +67,7 @@
         "type": "link",
         "data": {
           "text": "Impressum",
-          "link": "/bin/Impressum.html"
+          "link": "/bin/Impressum.html#nav"
         }
       }]
     }

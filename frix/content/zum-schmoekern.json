@@ -25,25 +25,25 @@
         "type": "link",
         "data": {
           "text": "Home",
-          "link": "/bin/home.html"
+          "link": "/bin/home.html#nav"
         }
       }, {
         "type": "link",
         "data": {
           "text": "Über mich",
-          "link": "/bin/ueber-mich.html"
+          "link": "/bin/ueber-mich.html#nav"
         }
       }, {
         "type": "link",
         "data": {
           "text": "Methoden",
-          "link": "/bin/methoden.html"
+          "link": "/bin/methoden.html#nav"
         }
       }, {
         "type": "link",
         "data": {
           "text": "Angebote",
-          "link": "/bin/angebote.html"
+          "link": "/bin/angebote.html#nav"
         }
       }, {
         "type": "link",
@@ -55,19 +55,19 @@
         "type": "link",
         "data": {
           "text": "Kontakt",
-          "link": "/bin/kontakt.html"
+          "link": "/bin/kontakt.html#nav"
         }
       }, {
         "type": "link",
         "data": {
           "text": "Newsletter",
-          "link": "/bin/newsletter.html"
+          "link": "/bin/newsletter.html#nav"
         }
       }, {
         "type": "link",
         "data": {
           "text": "Impressum",
-          "link": "/bin/Impressum.html"
+          "link": "/bin/Impressum.html#nav"
         }
       }]
     }
@@ -85,42 +85,42 @@
                 {
                   "type": "button",
                   "data": {
-                    "link": "/bin/zum-schmoekern/unterlagen-seminare.html",
+                    "link": "/bin/zum-schmoekern/unterlagen-seminare.html#nav",
                     "text": "Unterlagen Seminare"
                   }
                 },
                 {
                   "type": "button",
                   "data": {
-                    "link": "/bin/zum-schmoekern/meditationen.html",
+                    "link": "/bin/zum-schmoekern/meditationen.html#nav",
                     "text": "Meditationen"
                   }
                 },
                 {
                   "type": "button",
                   "data": {
-                    "link": "/bin/zum-schmoekern/publikationen.html",
+                    "link": "/bin/zum-schmoekern/publikationen.html#nav",
                     "text": "Publikationen"
                   }
                 },
                 {
                   "type": "button",
                   "data": {
-                    "link": "/bin/zum-schmoekern/links.html",
+                    "link": "/bin/zum-schmoekern/links.html#nav",
                     "text": "Links"
                   }
                 },
                 {
                   "type": "button",
                   "data": {
-                    "link": "/bin/zum-schmoekern/referenzen.html",
+                    "link": "/bin/zum-schmoekern/referenzen.html#nav",
                     "text": "Referenzen"
                   }
                 },
                 {
                   "type": "button",
                   "data": {
-                    "link": "/bin/zum-schmoekern/literaturtipps.html",
+                    "link": "/bin/zum-schmoekern/literaturtipps.html#nav",
                     "text": "Literaturtipps"
                   }
                 }
@@ -150,7 +150,7 @@
                     "text": "Dateien Ihres Seminars für den Download",
                     "heading": "Unterlagen Seminare",
                     "image": "/bin/resources/unterlagen.jpg",
-                    "link": "/bin/zum-schmoekern/unterlagen-seminare.html"
+                    "link": "/bin/zum-schmoekern/unterlagen-seminare.html#nav"
                   }
                 },
                 {
@@ -159,7 +159,7 @@
                     "text": "Meditationen aus dem Programm Mindful Self-Compassion (MSC)",
                     "heading": "Meditationen",
                     "image": "/bin/resources/meditationen.jpg",
-                    "link": "/bin/zum-schmoekern/meditationen.html"
+                    "link": "/bin/zum-schmoekern/meditationen.html#nav"
                   }
                 },
                 {
@@ -168,7 +168,7 @@
                     "text": "Artikel, Hörbeiträge, Masterthesis und Diplomarbeit.",
                     "heading": "Publikationen",
                     "image": "/bin/resources/pen.jpg",
-                    "link": "/bin/zum-schmoekern/publikationen.html"
+                    "link": "/bin/zum-schmoekern/publikationen.html#nav"
                   }
                 },
                 {
@@ -177,7 +177,7 @@
                     "text": "Es lebe das Zeitalter der Vernetzung!",
                     "heading": "Links",
                     "image": "/bin/resources/web.jpg",
-                    "link": "/bin/zum-schmoekern/links.html"
+                    "link": "/bin/zum-schmoekern/links.html#nav"
                   }
                 },
                 {
@@ -186,7 +186,7 @@
                     "text": "Seminare - Training - Lehre - Fort/Weiterbildung - Workshop - Vortragstätigkeit",
                     "heading": "Referenzen",
                     "image": "/bin/resources/thanks.jpg",
-                    "link": "/bin/zum-schmoekern/referenzen.html"
+                    "link": "/bin/zum-schmoekern/referenzen.html#nav"
                   }
                 },
                 {
@@ -195,7 +195,7 @@
                     "text": "Auf dieser Seite finden Sie Bücher zum Schmökern.",
                     "heading": "Literaturtipps",
                     "image": "/bin/resources/book.jpg",
-                    "link": "/bin/zum-schmoekern/literaturtipps.html"
+                    "link": "/bin/zum-schmoekern/literaturtipps.html#nav"
                   }
                 }
               ]

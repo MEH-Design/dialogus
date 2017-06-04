@@ -25,19 +25,19 @@
         "type": "link",
         "data": {
           "text": "Home",
-          "link": "/bin/home.html"
+          "link": "/bin/home.html#nav"
         }
       }, {
         "type": "link",
         "data": {
           "text": "Über mich",
-          "link": "/bin/ueber-mich.html"
+          "link": "/bin/ueber-mich.html#nav"
         }
       }, {
         "type": "link",
         "data": {
           "text": "Methoden",
-          "link": "/bin/methoden.html"
+          "link": "/bin/methoden.html#nav"
         }
       }, {
         "type": "link",
@@ -49,25 +49,25 @@
         "type": "link",
         "data": {
           "text": "Zum Schmökern",
-          "link": "/bin/zum-schmoekern.html"
+          "link": "/bin/zum-schmoekern.html#nav"
         }
       }, {
         "type": "link",
         "data": {
           "text": "Kontakt",
-          "link": "/bin/kontakt.html"
+          "link": "/bin/kontakt.html#nav"
         }
       }, {
         "type": "link",
         "data": {
           "text": "Newsletter",
-          "link": "/bin/newsletter.html"
+          "link": "/bin/newsletter.html#nav"
         }
       }, {
         "type": "link",
         "data": {
           "text": "Impressum",
-          "link": "/bin/Impressum.html"
+          "link": "/bin/Impressum.html#nav"
         }
       }]
     }
@@ -85,35 +85,35 @@
                 {
                   "type": "button",
                   "data": {
-                    "link": "/bin/angebote/seminar-workshop-vortrag.html",
+                    "link": "/bin/angebote/seminar-workshop-vortrag.html#nav",
                     "text": "Seminar - Workshop - Vortrag"
                   }
                 },
                 {
                   "type": "button",
                   "data": {
-                    "link": "/bin/angebote/coaching.html",
+                    "link": "/bin/angebote/coaching.html#nav",
                     "text": "Psychologische Beratung -  Coaching"
                   }
                 },
                 {
                   "type": "button",
                   "data": {
-                    "link": "/bin/angebote/supervision.html",
+                    "link": "/bin/angebote/supervision.html#nav",
                     "text": "Supervision"
                   }
                 },
                 {
                   "type": "button",
                   "data": {
-                    "link": "/bin/angebote/msc-kurs.html",
+                    "link": "/bin/angebote/msc-kurs.html#nav",
                     "text": "Achtsames Selbstmitgefühl (MSC) - Kurs"
                   }
                 },
                 {
                   "type": "button",
                   "data": {
-                    "link": "/bin/angebote/elternbildung-coaching-beratung.html",
+                    "link": "/bin/angebote/elternbildung-coaching-beratung.html#nav",
                     "text": "Elternbildung - Coaching - Beratung",
                     "selected": "true"
                   }
