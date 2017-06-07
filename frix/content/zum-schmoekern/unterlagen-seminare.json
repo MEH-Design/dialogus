@@ -189,6 +189,15 @@
                       {
                          "type":"filecallout",
                          "data":{
+                            "datum":"2.6.2017",
+                            "name":"STMK GKK - Workshopreihe für die Abteilung Physiotherapie Gruppe 3",
+                            "file":"/bin/resources/unterlagen/75.pdf",
+                            "text":"Protokoll"
+                         }
+                      },
+                      {
+                         "type":"filecallout",
+                         "data":{
                             "datum":"5.5.2017",
                             "name":"STMK GKK - Workshopreihe für die Abteilung Physiotherapie Gruppe 3",
                             "file":"/bin/resources/unterlagen/74.pdf",
