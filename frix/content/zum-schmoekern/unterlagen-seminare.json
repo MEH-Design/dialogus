@@ -189,6 +189,15 @@
                       {
                          "type":"filecallout",
                          "data":{
+                            "datum":"11.6/12.6.2017",
+                            "name":"Schule für psychiatrische Gesundheits- und Krankenpflege - Graz",
+                            "file":"/bin/resources/unterlagen/76.pdf",
+                            "text":"Seminarunterlagen"
+                         }
+                      },
+                      {
+                         "type":"filecallout",
+                         "data":{
                             "datum":"2.6.2017",
                             "name":"STMK GKK - Workshopreihe für die Abteilung Physiotherapie Gruppe 3",
                             "file":"/bin/resources/unterlagen/75.pdf",
