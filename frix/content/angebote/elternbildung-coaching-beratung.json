@@ -229,27 +229,33 @@
                 {
                   "type": "eventcallout",
                   "data": {
-                    "name": "Kurs 1/2017",
+                    "name": "Kurs 2/2017",
                     "detail": "Bildungshaus Mariatrost in Graz",
-                    "wochentag": "Samstag",
-                    "zeit": "09:00 - 12:30",
-                    "termine": "21.1|28.1|4.2|11.2|4.3",
-                    "retreat": "10. Jänner 2017",
-                    "kosten-normal": "€ 145,-",
+                    "wochentag": "Donnerstag",
+                    "zeit": "18:00 - 21:15",
+                    "termine": "23.11|7.12|14.12|11.1|18.1",
+                    "retreat": "16. November 2017",
+                    "kosten-normal": "€ ???,-",
                     "kosten-früh": " ",
                     "retreat-text": "Anmeldung bis",
-                    "kosten-normal-text": "Kurskosten",
-                    "kosten-früh-text": " ",
-                    "ribbon": "kein Einstieg mehr möglich",
+                    "kosten-normal-text": "Kurskosten noch unbekannt",
+                    "kosten-früh-text": "Anmeldung direkt über das Bildungshaus",
                     "kein-frühbucher": "true"
                   }
                 }
               ]
             }
-          },
+          }
+        ]
+      }
+    },
+    {
+      "type": "contentline",
+      "data": {
+        "modules": [
           {
             "type": "textblock",
-            "data": "<br/>In der Seminarreihe <strong>Mit Kindern wachsen – MIKIWA - Erziehung als Persönlichkeitsbildung für Eltern und Kinder</strong> wird besonderer Wert auf aktuelle Anliegen und Fragen der Teilnehmer/innen gelegt. Eingeladen sind alle Menschen, die Kinder ein Stück ihres Lebens begleiten: Eltern, Pädagoginnen, Großeltern.... Die älteste Seminateilnehmerin war bis dato 75 Jahre jung.<br/><br/>Die MIKIWA - Elternbildungsseminare können als Rufseminare gebucht werden. Das heißt, wenn Sie als Leiter/in eines Kindergartens, einer Volksschule oder einer anderen Institution oder eines Vereins oder einfach in Ihrem Bekannten- und Freundeskreis Interesse für ein Seminar haben, bitte ich um Ihre Kontaktaufnahme.<br/><br/>Ihr Vorteil: Keine lange Anreise zum Seminarort, da ich als Trainerin zu Ihnen komme. Außerdem lassen sich durch persönliche Kontaktaufnahme die Inhalte und Seminargestaltung noch besser auf Ihre Bedürfnisse und Wünsche abstimmen."
+            "data": "In der Seminarreihe <strong>Mit Kindern wachsen – MIKIWA - Erziehung als Persönlichkeitsbildung für Eltern und Kinder</strong> wird besonderer Wert auf aktuelle Anliegen und Fragen der Teilnehmer/innen gelegt. Eingeladen sind alle Menschen, die Kinder ein Stück ihres Lebens begleiten: Eltern, Pädagoginnen, Großeltern.... Die älteste Seminateilnehmerin war bis dato 75 Jahre jung.<br/><br/>\"Rechte Erziehung beginnt mit dem Erzieher, der sich selbst verstehen und von schematischem Denken befreien muss – denn was er ist, überträgt er auf andere. Wenn wir selbst nicht verstehen, wenn wir unsere Beziehung zu unserem Kinde nicht erfassen – wie können wir dann überhaupt eine neue Art von Erziehung einführen?\" <br> - Jiddu Krishnamurti"
           }
         ]
       }
