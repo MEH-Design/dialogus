@@ -184,8 +184,15 @@
                 {
                   "type": "button",
                   "data": {
-                    "text": "Übungstermine | MSC Retreat",
+                    "text": "MSC Übungstermine",
                     "link": "/bin/resources/download/uebungsabende.pdf"
+                  }
+                },
+                {
+                  "type": "button",
+                  "data": {
+                    "text": "MSC Retreat",
+                    "link": "/bin/resources/download/retreat.pdf"
                   }
                 }
               ]
