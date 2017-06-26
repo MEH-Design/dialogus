@@ -131,7 +131,7 @@
                   "type": "nobordercallout",
                   "data": {
                     "name": "Trained Teacher MSC/Lehrerin für Achtsames Selbstmitgefühl",
-                    "description": "Bei Christopher Germer, Christine Brähler, Regula Saner, Hilde Steinhauser,</br>Arbor Seminare Freiburg und MBPTI mindful based professional training</br>institute in San Diego, Kalifornien"
+                    "description": "Bei Christopher Germer, Christine Brähler, Regula Saner, Hilde Steinhauser<br>Arbor Seminare Freiburg und MBPTI mindful based professional training institute in San Diego, Kalifornien"
                   }
                 },
                 {
@@ -233,6 +233,15 @@
                 {
                   "type": "iconcallout",
                   "data": {
+                    "name": "Mindful Self-Compassion Teacher Training",
+                    "year": "2015",
+                    "description": "Arbor Seminare, Kisslegg",
+                    "icon": "/bin/resources/flower.svg"
+                  }
+                },
+                {
+                  "type": "iconcallout",
+                  "data": {
                     "name": "Potentialentfaltung",
                     "year": "2015",
                     "description": "Potentialentfaltung durch Selbstliebe (Siegfried Essen, Graz)",
@@ -260,9 +269,9 @@
                 {
                   "type": "iconcallout",
                   "data": {
-                    "name": "Orientierungswochenende",
+                    "name": "Grundlehrgang",
                     "year": "2013",
-                    "description": "Orientierungswochenende Achtsamkeit leben - Achtsamkeit lehren (Lienhard Valentin, Mirijam Fink, Graz)",
+                    "description": "Achtsamkeit leben - Achtsamkeit lehren (Lienhard Valentin, Mirijam Fink, Graz)",
                     "icon": "/bin/resources/compass.svg"
                   }
                 },

@@ -239,7 +239,8 @@
                     "kosten-früh": " ",
                     "retreat-text": "Anmeldung bis",
                     "kosten-früh-text": "Anmeldung direkt über das Bildungshaus",
-                    "kein-frühbucher": "true"
+                    "kein-frühbucher": "true",
+                    "mwst": " "
                   }
                 }
               ]
