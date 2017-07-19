@@ -234,11 +234,11 @@
                     "wochentag": "Donnerstag",
                     "zeit": "18:00 - 21:15",
                     "termine": "23.11|7.12|14.12|11.1|18.1",
-                    "retreat": "16. November 2017",
+                    "retreat": "16. November 2017<br>Anmeldung NUR über das <a href='http://www.mariatrost.at'>Bildungshaus</a>",
                     "kosten-normal": "€ 160,-",
                     "kosten-früh": " ",
                     "retreat-text": "Anmeldung bis",
-                    "kosten-früh-text": "Anmeldung direkt über das Bildungshaus",
+                    "kosten-früh-text": " ",
                     "kein-frühbucher": "true",
                     "mwst": " "
                   }
