@@ -1,214 +1,230 @@
 {
-  "title": "Newsletter | Christine Minixhofer, MSc",
-  "header": {
-    "headline": {
-      "heading": "Christine Minixhofer, Msc",
-      "subheading": "Training | Coaching | Supervision | Psychologische Beratung"
-    },
-    "hero": {
-      "items": [
-        {
-          "type": "quote",
-          "data": {
-            "quote": "Denn Zeit ist Leben.<br/>Und das Leben wohnt im Herzen.",
-            "author": "Michael Ende, Momo"
-          }
+    "title": "Newsletter | Christine Minixhofer, MSc",
+    "header": {
+        "headline": {
+            "heading": "Christine Minixhofer, Msc",
+            "subheading": "Training | Coaching | Supervision | Psychologische Beratung"
         },
-        {
-          "type": "image",
-          "data": "/bin/resources/igel.png"
-        }
-      ]
-    },
-    "navigation": {
-      "links": [{
-        "type": "link",
-        "data": {
-          "text": "Home",
-          "link": "/bin/home.html#nav"
-        }
-      }, {
-        "type": "link",
-        "data": {
-          "text": "Über mich",
-          "link": "/bin/ueber-mich.html#nav"
-        }
-      }, {
-        "type": "link",
-        "data": {
-          "text": "Methoden",
-          "link": "/bin/methoden.html#nav"
-        }
-      }, {
-        "type": "link",
-        "data": {
-          "text": "Angebote",
-          "link": "/bin/angebote.html#nav"
-        }
-      }, {
-        "type": "link",
-        "data": {
-          "text": "Zum Schmökern",
-          "link": "/bin/zum-schmoekern.html#nav"
-        }
-      }, {
-        "type": "link",
-        "data": {
-          "text": "Kontakt",
-          "link": "/bin/kontakt.html#nav"
-        }
-      }, {
-        "type": "link",
-        "data": {
-          "text": "Newsletter",
-          "selected": "true"
-        }
-      }, {
-        "type": "link",
-        "data": {
-          "text": "Impressum",
-          "link": "/bin/Impressum.html#nav"
-        }
-      }]
-    }
-  },
-  "lines": [
-    {
-      "type": "contentline",
-      "data": {
-        "modules": [
-          {
-            "type": "title",
-            "data": {
-              "heading": "Archiv"
-            }
-          },
-          {
-            "type": "buttongroup",
-            "data": {
-              "buttons": [
+        "hero": {
+            "items": [
                 {
-                  "type": "button",
-                  "data": {
-                    "text": "Februar 2017",
-                    "link": "http://archive.newsletter2go.com/?n2g=kj3dt0wn-trt4k1z6-rt"
-                  }
+                    "type": "quote",
+                    "data": {
+                        "quote": "Denn Zeit ist Leben.<br/>Und das Leben wohnt im Herzen.",
+                        "author": "Michael Ende, Momo"
+                    }
                 },
                 {
-                  "type": "button",
-                  "data": {
-                    "text": "März 2017",
-                    "link": "http://archive.newsletter2go.com/?n2g=kj3dt0wn-e1ixe4s2-14e6"
-                  }
-                },
-                {
-                  "type": "button",
-                  "data": {
-                    "text": "April 2017",
-                    "link": "http://archive.newsletter2go.com/?n2g=kj3dt0wn-5dielq02-cr0"
-                  }
-                },
-                {
-                  "type": "button",
-                  "data": {
-                    "text": "Juni 2017",
-                    "link": "http://archive.newsletter2go.com/?n2g=kj3dt0wn-of610l2v-1ark"
-                  }
+                    "type": "image",
+                    "data": "/bin/resources/igel.png"
                 }
-              ]
-            }
-          }
-        ]
-      }
-    }
-  ],
-  "foot": {
-      "modules": [
-        {
-          "type": "twolines",
-          "data": {
-            "firstline": "+43 699 88 46 75 44",
-            "secondline": "christine.minixhofer@dialogus.at"
-          }
-        },
-        {
-          "type": "socialtitle",
-          "data": {
-            "heading": "Christine Minixhofer, MSc",
-            "socials": [
-              {
-                "type": "urlicon",
-                "data": {
-                  "url": "https://www.facebook.com/christineminixhofer",
-                  "title": "Facebook"
-                }
-              },
-              {
-                "type": "urlicon",
-                "data": {
-                  "url": "http://www.arbor-seminare.de/christine-minixhofer",
-                  "title": "Arbor Seminare"
-                }
-              },
-              {
-                "type": "urlicon",
-                "data": {
-                  "url": "http://centerformsc.org/msc-teacher/christine-minixhofer",
-                  "title": "Center for Mindful Self-Compassion"
-                }
-              },
-              {
-                "type": "urlicon",
-                "data": {
-                  "url": "http://www.gewaltfrei.at/profile/christineminixhofer",
-                  "title": "Gewaltfreie Kommunikation Austria"
-                }
-              },
-              {
-                "type": "urlicon",
-                "data": {
-                  "url": "http://www.gewaltfrei-dach.eu/wissenschaftliche-arbeiten",
-                  "title": "DACH e.V. - Gewaltfreie Kommunikation"
-                }
-              },
-              {
-                "type": "urlicon",
-                "data": {
-                  "url": "http://www.steigls.org/index.php?id=praxisadresse_detail&lebensberater=163",
-                  "title": "Steirische Gesellschaft für Lebens- und Sozialberatung"
-                }
-              },
-              {
-                "type": "urlicon",
-                "data": {
-                  "url": "https://www.xing.com/profile/Christine_Minixhofer/web_profiles",
-                  "title": "Xing"
-                }
-              },
-              {
-                "type": "urlicon",
-                "data": {
-                  "url": "http://www.bestnet.com/go.asp?personen_id=144740&sektion=personen&rkarte=infodet",
-                  "title": "bestNET"
-                }
-              },
-              {
-                "type": "urlicon",
-                "data": {
-                  "url": "http://christine-minixhofer.stadtausstellung.at",
-                  "title": "Stadtausstellung"
-                }
-              }
             ]
-          }
         },
-        {
-          "type": "twolines",
-          "data": {
-            "firstline": "Mitterstraße 128/11",
-            "secondline": "8055 Seiersberg bei Graz"
-          }
+        "navigation": {
+            "links": [
+                {
+                    "type": "link",
+                    "data": {
+                        "text": "Home",
+                        "link": "/bin/home.html#nav"
+                    }
+                },
+                {
+                    "type": "link",
+                    "data": {
+                        "text": "Über mich",
+                        "link": "/bin/ueber-mich.html#nav"
+                    }
+                },
+                {
+                    "type": "link",
+                    "data": {
+                        "text": "Methoden",
+                        "link": "/bin/methoden.html#nav"
+                    }
+                },
+                {
+                    "type": "link",
+                    "data": {
+                        "text": "Angebote",
+                        "link": "/bin/angebote.html#nav"
+                    }
+                },
+                {
+                    "type": "link",
+                    "data": {
+                        "text": "Zum Schmökern",
+                        "link": "/bin/zum-schmoekern.html#nav"
+                    }
+                },
+                {
+                    "type": "link",
+                    "data": {
+                        "text": "Kontakt",
+                        "link": "/bin/kontakt.html#nav"
+                    }
+                },
+                {
+                    "type": "link",
+                    "data": {
+                        "text": "Newsletter",
+                        "selected": "true"
+                    }
+                },
+                {
+                    "type": "link",
+                    "data": {
+                        "text": "Impressum",
+                        "link": "/bin/Impressum.html#nav"
+                    }
+                }
+            ]
         }
-      ]
-  }
+    },
+    "lines": [
+        {
+            "type": "contentline",
+            "data": {
+                "modules": [
+                    {
+                        "type": "title",
+                        "data": {
+                            "heading": "Archiv"
+                        }
+                    },
+                    {
+                        "type": "buttongroup",
+                        "data": {
+                            "buttons": [
+                                {
+                                    "type": "button",
+                                    "data": {
+                                        "text": "Februar 2017",
+                                        "link": "http://archive.newsletter2go.com/?n2g=kj3dt0wn-trt4k1z6-rt"
+                                    }
+                                },
+                                {
+                                    "type": "button",
+                                    "data": {
+                                        "text": "März 2017",
+                                        "link": "http://archive.newsletter2go.com/?n2g=kj3dt0wn-e1ixe4s2-14e6"
+                                    }
+                                },
+                                {
+                                    "type": "button",
+                                    "data": {
+                                        "text": "April 2017",
+                                        "link": "http://archive.newsletter2go.com/?n2g=kj3dt0wn-5dielq02-cr0"
+                                    }
+                                },
+                                {
+                                    "type": "button",
+                                    "data": {
+                                        "text": "Juni 2017",
+                                        "link": "http://archive.newsletter2go.com/?n2g=kj3dt0wn-of610l2v-1ark"
+                                    }
+                                },
+                                {
+                                    "type": "button",
+                                    "data": {
+                                        "text": "",
+                                        "link": ""
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        }
+    ],
+    "foot": {
+        "modules": [
+            {
+                "type": "twolines",
+                "data": {
+                    "firstline": "+43 699 88 46 75 44",
+                    "secondline": "christine.minixhofer@dialogus.at"
+                }
+            },
+            {
+                "type": "socialtitle",
+                "data": {
+                    "heading": "Christine Minixhofer, MSc",
+                    "socials": [
+                        {
+                            "type": "urlicon",
+                            "data": {
+                                "url": "https://www.facebook.com/christineminixhofer",
+                                "title": "Facebook"
+                            }
+                        },
+                        {
+                            "type": "urlicon",
+                            "data": {
+                                "url": "http://www.arbor-seminare.de/christine-minixhofer",
+                                "title": "Arbor Seminare"
+                            }
+                        },
+                        {
+                            "type": "urlicon",
+                            "data": {
+                                "url": "http://centerformsc.org/msc-teacher/christine-minixhofer",
+                                "title": "Center for Mindful Self-Compassion"
+                            }
+                        },
+                        {
+                            "type": "urlicon",
+                            "data": {
+                                "url": "http://www.gewaltfrei.at/profile/christineminixhofer",
+                                "title": "Gewaltfreie Kommunikation Austria"
+                            }
+                        },
+                        {
+                            "type": "urlicon",
+                            "data": {
+                                "url": "http://www.gewaltfrei-dach.eu/wissenschaftliche-arbeiten",
+                                "title": "DACH e.V. - Gewaltfreie Kommunikation"
+                            }
+                        },
+                        {
+                            "type": "urlicon",
+                            "data": {
+                                "url": "http://www.steigls.org/index.php?id=praxisadresse_detail&lebensberater=163",
+                                "title": "Steirische Gesellschaft für Lebens- und Sozialberatung"
+                            }
+                        },
+                        {
+                            "type": "urlicon",
+                            "data": {
+                                "url": "https://www.xing.com/profile/Christine_Minixhofer/web_profiles",
+                                "title": "Xing"
+                            }
+                        },
+                        {
+                            "type": "urlicon",
+                            "data": {
+                                "url": "http://www.bestnet.com/go.asp?personen_id=144740&sektion=personen&rkarte=infodet",
+                                "title": "bestNET"
+                            }
+                        },
+                        {
+                            "type": "urlicon",
+                            "data": {
+                                "url": "http://christine-minixhofer.stadtausstellung.at",
+                                "title": "Stadtausstellung"
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "twolines",
+                "data": {
+                    "firstline": "Mitterstraße 128/11",
+                    "secondline": "8055 Seiersberg bei Graz"
+                }
+            }
+        ]
+    }
 }
