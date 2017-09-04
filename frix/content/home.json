@@ -91,7 +91,9 @@
           },
           {
             "type": "review",
-            "data": {}
+            "data": {
+              "scrolling": "no"
+            }
           }
         ]
       }

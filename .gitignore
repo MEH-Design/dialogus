@@ -39,3 +39,5 @@ jspm_packages
 # Build Directories
 build/*
 frix/bin/*
+gitconf.js
+password.js
