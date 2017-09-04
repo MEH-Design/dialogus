@@ -1,244 +1,253 @@
 {
-  "title": "Christine Minixhofer, MSc",
-  "header": {
-    "headline": {
-      "heading": "Christine Minixhofer, Msc",
-      "subheading": "Training | Coaching | Supervision | Psychologische Beratung"
-    },
-    "hero": {
-      "items": [
-        {
-          "type": "quote",
-          "data": {
-            "quote": "Denn Zeit ist Leben.<br/>Und das Leben wohnt im Herzen.",
-            "author": "Michael Ende, Momo"
-          }
+    "title": "Christine Minixhofer, MScj",
+    "header": {
+        "headline": {
+            "heading": "Christine Minixhofer, Msc",
+            "subheading": "Training | Coaching | Supervision | Psychologische Beratung"
         },
-        {
-          "type": "image",
-          "data": "/bin/resources/igel.png"
-        }
-      ]
-    },
-    "navigation": {
-      "links": [{
-        "type": "link",
-        "data": {
-          "text": "Home",
-          "selected": "true"
-        }
-      }, {
-        "type": "link",
-        "data": {
-          "text": "Über mich",
-          "link": "/bin/ueber-mich.html#nav"
-        }
-      }, {
-        "type": "link",
-        "data": {
-          "text": "Methoden",
-          "link": "/bin/methoden.html#nav"
-        }
-      }, {
-        "type": "link",
-        "data": {
-          "text": "Angebote",
-          "link": "/bin/angebote.html#nav"
-        }
-      }, {
-        "type": "link",
-        "data": {
-          "text": "Zum Schmökern",
-          "link": "/bin/zum-schmoekern.html#nav"
-        }
-      }, {
-        "type": "link",
-        "data": {
-          "text": "Kontakt",
-          "link": "/bin/kontakt.html#nav"
-        }
-      }, {
-        "type": "link",
-        "data": {
-          "text": "Newsletter",
-          "link": "/bin/newsletter.html#nav"
-        }
-      }, {
-        "type": "link",
-        "data": {
-          "text": "Impressum",
-          "link": "/bin/Impressum.html#nav"
-        }
-      }]
-    }
-  },
-  "lines": [
-    {
-      "type": "contentline",
-      "data": {
-        "modules": [
-          {
-            "type": "calltoaction",
-            "data": {
-              "borderimage": "/bin/resources/portrait.jpg",
-              "heading": "Herzlich Willkommen!",
-              "text": "Meine Angebote sind sehr vielfältig und doch haben sie alle eines gemeinsam - <br/><strong>Achtsam mit sich selbst und anderen.</strong>",
-              "button": {
-                "text": "Mehr über mich erfahren...",
-                "link": "/bin/ueber-mich.html#nav"
-              }
-            }
-          },
-          {
-            "type": "review",
-            "data": {
-              "scrolling": "no"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "type": "contentline",
-      "data": {
-        "modules": [
-          {
-            "type": "titledbox",
-            "data": {
-              "heading": "Einzelberatung",
-              "text": "Coaching und psychologische Beratung in einem vertraulichen Rahmen.",
-              "image": "/bin/resources/pdf.png",
-              "link": "/bin/resources/download/folder.pdf"
-            }
-          },
-          {
-            "type": "threecircles",
-            "data": {
-              "headings": [
+        "hero": {
+            "items": [
                 {
-                  "type": "heading",
-                  "data": "Vorträge  Workshops  Seminare"
-                }
-              ],
-              "circles": [
-                {
-                  "type": "circle",
-                  "data": {
-                    "text": "Was die Seele stark macht",
-                    "heading": "Achtsamkeit",
-                    "image": "/bin/resources/lotus.jpg"
-                  }
+                    "type": "quote",
+                    "data": {
+                        "quote": "Denn Zeit ist Leben.<br/>Und das Leben wohnt im Herzen.",
+                        "author": "Michael Ende, Momo"
+                    }
                 },
                 {
-                  "type": "circle",
-                  "data": {
-                    "text": "Achtsamer und gewaltfreier Dialog",
-                    "heading": "Kommunikation",
-                    "image": "/bin/resources/whisper.jpg"
-                  }
-                },
-                {
-                  "type": "circle",
-                  "data": {
-                    "text": "Prävention von Aggression und Gewalt",
-                    "heading": "Deeskalation",
-                    "image": "/bin/resources/leaf.jpg"
-                  }
+                    "type": "image",
+                    "data": "/bin/resources/igel.png"
                 }
-              ]
-            }
-          }
-        ]
-      }
-    }
-  ],
-  "foot": {
-      "modules": [
-        {
-          "type": "twolines",
-          "data": {
-            "firstline": "+43 699 88 46 75 44",
-            "secondline": "christine.minixhofer@dialogus.at"
-          }
-        },
-        {
-          "type": "socialtitle",
-          "data": {
-            "heading": "Christine Minixhofer, MSc",
-            "socials": [
-              {
-                "type": "urlicon",
-                "data": {
-                  "url": "https://www.facebook.com/christineminixhofer",
-                  "title": "Facebook"
-                }
-              },
-              {
-                "type": "urlicon",
-                "data": {
-                  "url": "http://www.arbor-seminare.de/christine-minixhofer",
-                  "title": "Arbor Seminare"
-                }
-              },
-              {
-                "type": "urlicon",
-                "data": {
-                  "url": "http://centerformsc.org/msc-teacher/christine-minixhofer",
-                  "title": "Center for Mindful Self-Compassion"
-                }
-              },
-              {
-                "type": "urlicon",
-                "data": {
-                  "url": "http://www.gewaltfrei.at/profile/christineminixhofer",
-                  "title": "Gewaltfreie Kommunikation Austria"
-                }
-              },
-              {
-                "type": "urlicon",
-                "data": {
-                  "url": "http://www.gewaltfrei-dach.eu/wissenschaftliche-arbeiten",
-                  "title": "DACH e.V. - Gewaltfreie Kommunikation"
-                }
-              },
-              {
-                "type": "urlicon",
-                "data": {
-                  "url": "http://www.steigls.org/index.php?id=praxisadresse_detail&lebensberater=163",
-                  "title": "Steirische Gesellschaft für Lebens- und Sozialberatung"
-                }
-              },
-              {
-                "type": "urlicon",
-                "data": {
-                  "url": "https://www.xing.com/profile/Christine_Minixhofer/web_profiles",
-                  "title": "Xing"
-                }
-              },
-              {
-                "type": "urlicon",
-                "data": {
-                  "url": "http://www.bestnet.com/go.asp?personen_id=144740&sektion=personen&rkarte=infodet",
-                  "title": "bestNET"
-                }
-              },
-              {
-                "type": "urlicon",
-                "data": {
-                  "url": "http://christine-minixhofer.stadtausstellung.at",
-                  "title": "Stadtausstellung"
-                }
-              }
             ]
-          }
+        },
+        "navigation": {
+            "links": [
+                {
+                    "type": "link",
+                    "data": {
+                        "text": "Home",
+                        "selected": "true"
+                    }
+                },
+                {
+                    "type": "link",
+                    "data": {
+                        "text": "Über mich",
+                        "link": "/bin/ueber-mich.html#nav"
+                    }
+                },
+                {
+                    "type": "link",
+                    "data": {
+                        "text": "Methoden",
+                        "link": "/bin/methoden.html#nav"
+                    }
+                },
+                {
+                    "type": "link",
+                    "data": {
+                        "text": "Angebote",
+                        "link": "/bin/angebote.html#nav"
+                    }
+                },
+                {
+                    "type": "link",
+                    "data": {
+                        "text": "Zum Schmökern",
+                        "link": "/bin/zum-schmoekern.html#nav"
+                    }
+                },
+                {
+                    "type": "link",
+                    "data": {
+                        "text": "Kontakt",
+                        "link": "/bin/kontakt.html#nav"
+                    }
+                },
+                {
+                    "type": "link",
+                    "data": {
+                        "text": "Newsletter",
+                        "link": "/bin/newsletter.html#nav"
+                    }
+                },
+                {
+                    "type": "link",
+                    "data": {
+                        "text": "Impressum",
+                        "link": "/bin/Impressum.html#nav"
+                    }
+                }
+            ]
+        }
+    },
+    "lines": [
+        {
+            "type": "contentline",
+            "data": {
+                "modules": [
+                    {
+                        "type": "calltoaction",
+                        "data": {
+                            "borderimage": "/bin/resources/portrait.jpg",
+                            "heading": "Herzlich Willkommen!",
+                            "text": "Meine Angebote sind sehr vielfältig und doch haben sie alle eines gemeinsam - <br/><strong>Achtsam mit sich selbst und anderen.</strong>",
+                            "button": {
+                                "text": "Mehr über mich erfahren...",
+                                "link": "/bin/ueber-mich.html#nav"
+                            }
+                        }
+                    },
+                    {
+                        "type": "review",
+                        "data": {
+                            "scrolling": "no"
+                        }
+                    }
+                ]
+            }
         },
         {
-          "type": "twolines",
-          "data": {
-            "firstline": "Mitterstraße 128/11",
-            "secondline": "8055 Seiersberg bei Graz"
-          }
+            "type": "contentline",
+            "data": {
+                "modules": [
+                    {
+                        "type": "titledbox",
+                        "data": {
+                            "heading": "Einzelberatung",
+                            "text": "Coaching und psychologische Beratung in einem vertraulichen Rahmen.",
+                            "image": "/bin/resources/pdf.png",
+                            "link": "/bin/resources/download/folder.pdf"
+                        }
+                    },
+                    {
+                        "type": "threecircles",
+                        "data": {
+                            "headings": [
+                                {
+                                    "type": "heading",
+                                    "data": "Vorträge  Workshops  Seminare"
+                                }
+                            ],
+                            "circles": [
+                                {
+                                    "type": "circle",
+                                    "data": {
+                                        "text": "Was die Seele stark macht",
+                                        "heading": "Achtsamkeit",
+                                        "image": "/bin/resources/lotus.jpg"
+                                    }
+                                },
+                                {
+                                    "type": "circle",
+                                    "data": {
+                                        "text": "Achtsamer und gewaltfreier Dialog",
+                                        "heading": "Kommunikation",
+                                        "image": "/bin/resources/whisper.jpg"
+                                    }
+                                },
+                                {
+                                    "type": "circle",
+                                    "data": {
+                                        "text": "Prävention von Aggression und Gewalt",
+                                        "heading": "Deeskalation",
+                                        "image": "/bin/resources/leaf.jpg"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
         }
-      ]
-  }
+    ],
+    "foot": {
+        "modules": [
+            {
+                "type": "twolines",
+                "data": {
+                    "firstline": "+43 699 88 46 75 44",
+                    "secondline": "christine.minixhofer@dialogus.at"
+                }
+            },
+            {
+                "type": "socialtitle",
+                "data": {
+                    "heading": "Christine Minixhofer, MSc",
+                    "socials": [
+                        {
+                            "type": "urlicon",
+                            "data": {
+                                "url": "https://www.facebook.com/christineminixhofer",
+                                "title": "Facebook"
+                            }
+                        },
+                        {
+                            "type": "urlicon",
+                            "data": {
+                                "url": "http://www.arbor-seminare.de/christine-minixhofer",
+                                "title": "Arbor Seminare"
+                            }
+                        },
+                        {
+                            "type": "urlicon",
+                            "data": {
+                                "url": "http://centerformsc.org/msc-teacher/christine-minixhofer",
+                                "title": "Center for Mindful Self-Compassion"
+                            }
+                        },
+                        {
+                            "type": "urlicon",
+                            "data": {
+                                "url": "http://www.gewaltfrei.at/profile/christineminixhofer",
+                                "title": "Gewaltfreie Kommunikation Austria"
+                            }
+                        },
+                        {
+                            "type": "urlicon",
+                            "data": {
+                                "url": "http://www.gewaltfrei-dach.eu/wissenschaftliche-arbeiten",
+                                "title": "DACH e.V. - Gewaltfreie Kommunikation"
+                            }
+                        },
+                        {
+                            "type": "urlicon",
+                            "data": {
+                                "url": "http://www.steigls.org/index.php?id=praxisadresse_detail&lebensberater=163",
+                                "title": "Steirische Gesellschaft für Lebens- und Sozialberatung"
+                            }
+                        },
+                        {
+                            "type": "urlicon",
+                            "data": {
+                                "url": "https://www.xing.com/profile/Christine_Minixhofer/web_profiles",
+                                "title": "Xing"
+                            }
+                        },
+                        {
+                            "type": "urlicon",
+                            "data": {
+                                "url": "http://www.bestnet.com/go.asp?personen_id=144740&sektion=personen&rkarte=infodet",
+                                "title": "bestNET"
+                            }
+                        },
+                        {
+                            "type": "urlicon",
+                            "data": {
+                                "url": "http://christine-minixhofer.stadtausstellung.at",
+                                "title": "Stadtausstellung"
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "twolines",
+                "data": {
+                    "firstline": "Mitterstraße 128/11",
+                    "secondline": "8055 Seiersberg bei Graz"
+                }
+            }
+        ]
+    }
 }
