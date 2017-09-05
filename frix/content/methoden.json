@@ -145,15 +145,15 @@
                                 {
                                     "type": "button",
                                     "data": {
-                                        "link": "#gewaltfreiekommunikation",
-                                        "text": "Gewaltfreie Kommunikation"
+                                        "link": "#achtsamesselbstmitgefuehl",
+                                        "text": "Achstames Selbstmitgefühl"
                                     }
                                 },
                                 {
                                     "type": "button",
                                     "data": {
-                                        "link": "#achtsamesselbstmitgefuehl",
-                                        "text": "Achstames Selbstmitgefühl"
+                                        "link": "#gewaltfreiekommunikation",
+                                        "text": "Gewaltfreie Kommunikation"
                                     }
                                 },
                                 {
