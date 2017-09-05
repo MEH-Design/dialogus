@@ -152,15 +152,15 @@
                                 {
                                     "type": "button",
                                     "data": {
-                                        "link": "#positivepsychologie",
-                                        "text": "Positive Psychologie"
+                                        "link": "#achtsamesselbstmitgefuehl",
+                                        "text": "Achstames Selbstmitgefühl"
                                     }
                                 },
                                 {
                                     "type": "button",
                                     "data": {
-                                        "link": "#achtsamesselbstmitgefuehl",
-                                        "text": "Achstames Selbstmitgefühl"
+                                        "link": "#positivepsychologie",
+                                        "text": "Positive Psychologie"
                                     }
                                 },
                                 {
