@@ -290,7 +290,7 @@
                     },
                     {
                         "type": "textblock",
-                        "data": "Die erste Disziplin, die sich innerhalb der psychologischen Forschung wissenschaftlich mit der Frage beschäftigt, wie psychisches Wohlbefinden und persönliche Entwicklung für alle Menschen unterstützt und aufrechterhalten werden kann, ist die Positive Psychologie. Es geht nicht darum, was Menschen krank macht, sondern was Menschen zufrieden und glücklich macht.<br/><br/>Als Gründerväter der Positiven Psychologie gelten heute Martin Seligman und Ed Diener.<br/><br/>Die Positive Psychologie ist ein noch junges Forschungs- und Anwendungsfeld mit dem Potential, zur Entwicklung von Einzelnen, Paaren, Gruppen, Unternehmen und Gesellschaftssystemen beizutragen."
+                        "data": "Die erste Disziplin, die sich innerhalb der psychologischen Forschung wissenschaftlich mit der Frage beschäftigt, wie psychisches Wohlbefinden und persönliche Entwicklung für alle Menschen unterstützt und aufrechterhalten werden kann, ist die Positive Psychologie. Es geht nicht darum, was Menschen krank macht, sondern <strong>was Menschen zufrieden und glücklich macht.</strong><br/><br/>Als Gründerväter der Positiven Psychologie gelten heute Martin Seligman und Ed Diener.<br/><br/>Die Positive Psychologie ist ein noch junges Forschungs- und Anwendungsfeld mit dem Potential, zur Entwicklung von Einzelnen, Paaren, Gruppen, Unternehmen und Gesellschaftssystemen beizutragen."
                     }
                 ]
             }
