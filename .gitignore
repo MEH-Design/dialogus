@@ -41,3 +41,7 @@ build/*
 frix/bin/*
 gitconf.js
 password.js
+
+# Logging
+stdout.txt
+stderr.txt
