@@ -1,599 +1,585 @@
 {
-  "title": "Achtsames Selbstmitgefühl (MSC) - Kurs | Christine Minixhofer, MSc",
-  "header": {
-    "headline": {
-      "heading": "Christine Minixhofer, Msc",
-      "subheading": "Training | Coaching | Supervision | Psychologische Beratung"
-    },
-    "hero": {
-      "items": [
-        {
-          "type": "quote",
-          "data": {
-            "quote": "Denn Zeit ist Leben.<br/>Und das Leben wohnt im Herzen.",
-            "author": "Michael Ende, Momo"
-          }
+    "title": "Achtsames Selbstmitgefühl (MSC) - Kurs | Christine Minixhofer, MSc",
+    "header": {
+        "headline": {
+            "heading": "Christine Minixhofer, Msc",
+            "subheading": "Training | Coaching | Supervision | Psychologische Beratung"
         },
-        {
-          "type": "image",
-          "data": "/bin/resources/igel.png"
-        }
-      ]
-    },
-    "navigation": {
-      "links": [{
-        "type": "link",
-        "data": {
-          "text": "Home",
-          "link": "/bin/home.html#nav"
-        }
-      }, {
-        "type": "link",
-        "data": {
-          "text": "Über mich",
-          "link": "/bin/ueber-mich.html#nav"
-        }
-      }, {
-        "type": "link",
-        "data": {
-          "text": "Methoden",
-          "link": "/bin/methoden.html#nav"
-        }
-      }, {
-        "type": "link",
-        "data": {
-          "text": "Angebote",
-          "selected": "true"
-        }
-      }, {
-        "type": "link",
-        "data": {
-          "text": "Zum Schmökern",
-          "link": "/bin/zum-schmoekern.html#nav"
-        }
-      }, {
-        "type": "link",
-        "data": {
-          "text": "Kontakt",
-          "link": "/bin/kontakt.html#nav"
-        }
-      }, {
-        "type": "link",
-        "data": {
-          "text": "Newsletter",
-          "link": "/bin/newsletter.html#nav"
-        }
-      }, {
-        "type": "link",
-        "data": {
-          "text": "Impressum",
-          "link": "/bin/Impressum.html#nav"
-        }
-      }]
-    }
-  },
-  "lines": [
-    {
-      "type": "contentline",
-      "data": {
-        "nopadding": "true",
-        "modules": [
-          {
-            "type": "buttongroup",
-            "data": {
-              "buttons": [
+        "hero": {
+            "items": [
                 {
-                  "type": "button",
-                  "data": {
-                    "link": "/bin/angebote/seminar-workshop-vortrag.html#nav",
-                    "text": "Seminar - Workshop - Vortrag"
-                  }
+                    "type": "quote",
+                    "data": {
+                        "quote": "Denn Zeit ist Leben.<br/>Und das Leben wohnt im Herzen.",
+                        "author": "Michael Ende, Momo"
+                    }
                 },
                 {
-                  "type": "button",
-                  "data": {
-                    "link": "/bin/angebote/coaching.html#nav",
-                    "text": "Psychologische Beratung -  Coaching"
-                  }
-                },
-                {
-                  "type": "button",
-                  "data": {
-                    "link": "/bin/angebote/supervision.html#nav",
-                    "text": "Supervision"
-                  }
-                },
-                {
-                  "type": "button",
-                  "data": {
-                    "link": "/bin/angebote/msc-kurs.html#nav",
-                    "text": "Achtsames Selbstmitgefühl (MSC) - Kurs",
-                    "selected": "true"
-                  }
-                },
-                {
-                  "type": "button",
-                  "data": {
-                    "link": "/bin/angebote/elternbildung-coaching-beratung.html#nav",
-                    "text": "Elternbildung - Coaching - Beratung"
-                  }
+                    "type": "image",
+                    "data": "/bin/resources/igel.png"
                 }
-              ]
-            }
-          }
-        ]
-      }
-    },
-    {
-      "type": "contentline",
-      "data": {
-        "nopadding": "true",
-        "modules": [
-          {
-            "type": "imagetitle",
-            "data": {
-              "image": "/bin/resources/beautiful.jpg",
-              "id": "seminare",
-              "heading": "Achtsames Selbstmitgefühl (MSC) - Kurs"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "type": "contentline",
-      "data": {
-        "modules": [
-          {
-            "type": "calltoaction",
-            "data": {
-              "borderimage": "/bin/resources/msc.png",
-              "heading": "Mindful Self Compassion (MSC) - Achtsames Selbstmitgefühl",
-              "text": "Mindful Self Compassion (MSC, Achtsames Selbstmitgefühl) ist ein evidenz-basierter 8-wöchiger Kurs zur Entwicklung von Selbstmitgefühl. Er basiert auf den Forschungen von <a href='http://self-compassion.org' target='_blank'>Dr. Kristin Neff</a> und dem Expertenwissen von <a href='http://www.mindfulselfcompassion.org' target='_blank'>Dr. Christopher Germer</a> als klinischem Psychologen.<br/><br/>In einem MSC-Training werden Grundprinzipien und Übungen vermittelt, die es den Teilnehmer/innen ermöglichen schwierigen Momenten in ihrem Leben mit mehr Freundlichkeit, Fürsorglichkeit und Verständnis zu begegnen",
-              "button": {
-                "text": "Center for Mindful Self-Compassion",
-                "link": "http://centerformsc.org/msc-teacher/christine-minixhofer"
-              }
-            }
-          }
-        ]
-      }
-    },
-    {
-      "type": "contentline",
-      "data": {
-        "modules": [
-          {
-            "type": "buttongroup",
-            "data": {
-              "buttons": [
-                {
-                  "type": "button",
-                  "data": {
-                    "text": "Samstag | Achtwochenkurs in Graz - ab 23. September 2017",
-                    "link": "/bin/resources/download/achtwochenkurs-sa.pdf"
-                  }
-                },
-                {
-                  "type": "button",
-                  "data": {
-                    "text": "Mittwoch | Achtwochenkurs in Graz - ab 27. September 2017",
-                    "link": "/bin/resources/download/achtwochenkurs-mi.pdf"
-                  }
-                },
-                {
-                  "type": "button",
-                  "data": {
-                    "text": "MSC Übungstermine",
-                    "link": "/bin/resources/download/uebungsabende.pdf"
-                  }
-                },
-                {
-                  "type": "button",
-                  "data": {
-                    "text": "MSC Retreat",
-                    "link": "/bin/resources/download/retreat.pdf"
-                  }
-                }
-              ]
-            }
-          }
-        ]
-      }
-    },
-    {
-      "type": "contentline",
-      "data": {
-        "modules": [
-          {
-            "type": "verticaltitle",
-            "data": {
-              "heading": "Kurse",
-              "callouts": [
-                {
-                  "type": "eventcallout",
-                  "data": {
-                    "name": "Kurs 3/2017",
-                    "detail": "Bildungshaus Mariatrost in Graz",
-                    "wochentag": "Samstag",
-                    "zeit": "09:00 - 12:00",
-                    "termine": "23.9|30.9|7.10|14.10|21.10|4.11|18.11|25.11",
-                    "retreat": "Samstag, 11.11.2017 | 9.00 - 13.00 Uhr",
-                    "kosten-normal": "€ 390,-",
-                    "kosten-früh": "€ 370,-",
-                    "retreat-text": "Halbtagesretreat",
-                    "kosten-normal-text": "Kurskosten",
-                    "kosten-früh-text": "Frühbucherbonus bei Anmeldung bis zum 25. August 2017",
-                    "sva": "SVA Versicherte können den Gesundheitshunderter einlösen!"
-                  }
-                },
-                {
-                  "type": "eventcallout",
-                  "data": {
-                    "name": "Kurs 4/2017",
-                    "detail": "Bildungshaus Mariatrost in Graz",
-                    "wochentag": "Mittwoch",
-                    "zeit": "18:00 - 21:00",
-                    "termine": "27.9|4.10|11.10|18.10|25.10|8.11|15.11|22.11",
-                    "retreat": "Samstag, 11.11.2017 | 9.00 - 13.00 Uhr",
-                    "kosten-normal": "€ 390,-",
-                    "kosten-früh": "€ 370,-",
-                    "retreat-text": "Halbtagesretreat",
-                    "kosten-normal-text": "Kurskosten",
-                    "kosten-früh-text": "Frühbucherbonus bei Anmeldung bis zum 25. August 2017",
-                    "sva": "SVA Versicherte können den Gesundheitshunderter einlösen!"
-                  }
-                },
-                {
-                  "type": "eventcallout",
-                  "data": {
-                    "name": "Kurs 1/2018",
-                    "detail": "Bildungshaus Mariatrost in Graz",
-                    "wochentag": "Samstag",
-                    "zeit": "09:00 - 12:00 (1 x Donnerstag: 18:00 - 21:00)",
-                    "termine": "13.1|20.1|27.1|3.2|10.2|3.3|15.3|24.3",
-                    "retreat": "Samstag, 10.3.2018 | 9.00 - 13.00 Uhr",
-                    "kosten-normal": "€ 390,-",
-                    "kosten-früh": "€ 370,-",
-                    "retreat-text": "Halbtagesretreat",
-                    "kosten-normal-text": "Kurskosten",
-                    "kosten-früh-text": "Frühbucherbonus bei Anmeldung bis zum 13. November 2017",
-                    "sva": "SVA Versicherte können den Gesundheitshunderter einlösen!"
-                  }
-                },
-                {
-                  "type": "eventcallout",
-                  "data": {
-                    "name": "Kurs 2/2018",
-                    "detail": "Bildungshaus Mariatrost in Graz",
-                    "wochentag": "Mittwoch",
-                    "zeit": "18:00 - 21:00",
-                    "termine": "18.4|25.4|2.5|9.5|16.5|30.5|6.6|13.6",
-                    "retreat": "Samstag, 26.5.2018 | 9.00 - 13.00 Uhr",
-                    "kosten-normal": "€ 390,-",
-                    "kosten-früh": "€ 370,-",
-                    "retreat-text": "Halbtagesretreat",
-                    "kosten-normal-text": "Kurskosten",
-                    "kosten-früh-text": "Frühbucherbonus bei Anmeldung bis zum 18. Februar 2017",
-                    "sva": "SVA Versicherte können den Gesundheitshunderter einlösen!"
-                  }
-                }
-              ]
-            }
-          }
-        ]
-      }
-    },
-    {
-      "type": "contentline",
-      "data": {
-        "modules": [
-          {
-            "type": "title",
-            "data": {
-              "heading": "Stornobedingungen & Haftungshinweis"
-            }
-          },
-          {
-            "type": "textblock",
-            "data": "Bis einem Monat vor Kursbeginn wird eine Bearbeitungsgebühr von 20,- Euro erhoben. Zwischen 30 und 10 Tagen vor Kursbeginn werden 50% des Kurshonorars verrechnet. Falls sich der Platz neu besetzen lässt, wird nur eine Bearbeitungsgebühr (20,- Euro) erhoben. Erfolgt eine Abmeldung weniger als 10 Tage vor Kursbeginn, wird das gesamte Kurshonorar in Rechnung gestellt. Falls sich der Platz neu besetzen lässt, wird nur eine Bearbeitungsgebühr (20,- Euro) erhoben.<br/><br/>Die Teilnahme am Kurs erfolgt auf eigene Verantwortung."
-          }
-        ]
-      }
-    },
-    {
-      "type": "contentline",
-      "data": {
-        "modules": [
-          {
-            "type": "title",
-            "data": {
-              "heading": "Was ist Selbstmitgefühl?"
-            }
-          },
-          {
-            "type": "textblock",
-            "data": "Wie gehen Sie mit sich selbst um, wenn Sie schwierige Situationen oder Emotionen wie Stress, Verzweiflung, Frustration, Ohnmacht …zu bewältigen haben, oder wenn Sie kritisiert oder angegriffen werden, wenn Sie Ihren eigenen Ansprüchen nicht genügen, wenn Ihnen ein Fehler passiert…?  Gerade dann, wenn es uns nicht gut geht, gehen wir mit uns selbst zuweilen besonders kritisch und hart um. In der Folge fühlen wir uns noch schlechter.<br/><br/><strong>Selbstmitgefühl bedeutet, uns selbst mit ebenso viel Güte, Fürsorge und Verständnis zuzuwenden wie einem geliebten Menschen, den wir durch eine Zeit des Leidens, des Scheiterns oder der Selbstzweifel begleiten.</strong><br/><br/>Die <strong>drei Kernkomponenten von Selbstmitgefühl</strong> sind...<br/><br/><a class='button'>Freundlichkeit mit uns selbst</a><br/><a class='button'>Gefühl von Mitmenschlichkeit</a><br/><a class='button'>Ausgeglichenes achtsames Bewusstsein</a><br/><br/><strong>Freundlichkeit</strong> öffnet unsere Herzen dem Leid gegenüber, damit wir, wenn es uns nicht gut geht, uns das geben können was wir brauchen. <strong>Mitmenschlichkeit</strong> öffnet uns für unsere grundlegende Verbundenheit mit allen Wesen, damit wir erfahren, dass wir nicht allein sind. <strong>Achtsamkeit</strong> öffnet uns für den gegenwärtigen Moment, damit wir unsere Erfahrung etwas leichter annehmen können. Zusammen manifestieren sich diese Komponenten in einem <strong>Zustand von warmherziger verbundener Präsenz</strong>.<br/><br/>Selbstmitgefühl kann jeder erlernen - auch Menschen, die wenig Zuneigung in der Kindheit erfahren haben oder für die es sich zunächst unangenehm anfühlt, freundlich zu sich zu sein. <strong>Selbstmitgefühl gibt mir</strong> die <strong>emotionale Stärke und Widerstandsfähigkeit</strong>, um mir meine Mängel einzugestehen,  um mich mit Güte zu motivieren, um mir zu vergeben wenn nötig, um mit ganzem Herzen mit anderen in Beziehung zu treten und um auf authentische Weise ich selbst zu sein.<br/><br/>Stetig zunehmende <strong>Forschungsbefunde zeigen</strong>, dass größeres Selbstmitgefühl mit deutlich <strong>mehr emotionalem Wohlbefinden, weniger Angst, Depression und Stress</strong> und einem <strong>Aufrechterhalten von gesunden Lebensweisen</strong>, wie Ernährung und Sport und <strong>zufriedenstellenden persönlichen Beziehungen</strong> einhergeht. <br/><br/>Selbstmitgefühl kann uns aus einer Negativspirale von Selbstherabsetzung, Selbstzweifel, Selbstkritik oder auch Empathie-Müdigkeit herausholen. Mit Selbstmitgefühl, Selbstfreundlichkeit, Trost und Ermutigung können wir <strong>die kleinen und großen Herausforderungen des Lebens leichter bewältigen</strong>."
-          }
-        ]
-      }
-    },
-    {
-      "type": "contentline",
-      "data": {
-        "modules": [
-          {
-            "type": "title",
-            "data": {
-              "heading": "Was Sie im Kurst erwartet"
-            }
-          },
-          {
-            "type": "textblock",
-            "data": "Geführte Meditationen, Impulsvorträge, Selbsterfahrungsübungen, Austausch in der Gruppe, Übungen für zuhause und Hilfen zum Transfer in den Alltag.<br/><br/>MSC ist ein Training in Achtsamkeit und Mitgefühl. Der Schwerpunkt im MSC liegt auf der Entwicklung von emotionalen Ressourcen und nicht darauf, sich mit alten Verletzungen auseinander zu setzen. Positive Veränderungen finden auf natürliche Art und Weise statt während wir die Fertigkeit entwickeln, mit uns auf freundlichere und mitfühlendere Art und Weise umzugehen."
-          }
-        ]
-      }
-    },
-    {
-      "type": "contentline",
-      "data": {
-        "modules": [
-          {
-            "type": "bullets",
-            "data": {
-              "align": "center",
-              "heading": "Was sie lernen",
-              "callouts": [
-                {
-                  "type": "simplecallout",
-                  "data": {
-                    "description": "Achtsamkeit, Selbstfreundlichkeit und Selbstmitgefühl im Alltag anzuwenden"
-                  }
-                },
-                {
-                  "type": "simplecallout",
-                  "data": {
-                    "description": "die nachgewiesenen positiven Wirkungen von Selbtmitgefühl zu verstehen"
-                  }
-                },
-                {
-                  "type": "simplecallout",
-                  "data": {
-                    "description": "mit „schwierigen“ und belastenden Gefühlen und den Herausforderungen des Alltags leichter umzugehen"
-                  }
-                },
-                {
-                  "type": "simplecallout",
-                  "data": {
-                    "description": "sich selbst mit mehr Freundlichkeit statt mit Kritik und Härte zu motivieren"
-                  }
-                },
-                {
-                  "type": "simplecallout",
-                  "data": {
-                    "description": "mit herausfordernden Beziehungen gelassener umzugehen"
-                  }
-                },
-                {
-                  "type": "simplecallout",
-                  "data": {
-                    "description": "den Umgang mit „Empathie- oder Fürsorgemüdigkeit“ in psychosozialen Berufen oder als Privatperson"
-                  }
-                },
-                {
-                  "type": "simplecallout",
-                  "data": {
-                    "description": "die Kunst des Genießens und der Selbstwertschätzung weiterzuentwickeln"
-                  }
-                }
-              ]
-            }
-          }
-        ]
-      }
-    },
-    {
-      "type": "contentline",
-      "data": {
-        "modules": [
-          {
-            "type": "title",
-            "data": {
-              "heading": "Voraussetzungen"
-            }
-          },
-          {
-            "type": "textblock",
-            "data": "Keine Vorerfahrung mit Achtsamkeit oder Meditation sind notwendig, um am MSC Kurs teilzunehmen.<br/><br/>Bevor Teilnehmer/innen sich anmelden, sollten sie sich vornehmen an jeder Sitzung teilzunehmen und Achtsamkeit oder Selbstmitgefühl regelmäßig während des Verlaufs des Kurses zu üben."
-          }
-        ]
-      }
-    },
-    {
-      "type": "contentline",
-      "data": {
-        "modules": [
-          {
-            "type": "bullets",
-            "data": {
-              "align": "center",
-              "heading": "MSC ist ein Trainingsprogramm",
-              "callouts": [
-                {
-                  "type": "simplecallout",
-                  "data": {
-                    "description": "MSC ist ein Seminar und kein Retreat. MSC ist eine Methode zur Selbsthilfe."
-                  }
-                },
-                {
-                  "type": "simplecallout",
-                  "data": {
-                    "description": "MSC ist keine Psychotherapie. Der Kurs ersetzt keine sonst notwendige medizinische oder psychotherapeutische Behandlung."
-                  }
-                },
-                {
-                  "type": "simplecallout",
-                  "data": {
-                    "description": "MSC besteht aus 8 Sitzungen zu je 3 Stunden, die wöchentlich stattfinden und einem 4-stündigen Halbtages - Retreat."
-                  }
-                }
-              ]
-            }
-          }
-        ]
-      }
-    },
-    {
-      "type": "contentline",
-      "data": {
-        "modules": [
-          {
-            "type": "bullets",
-            "data": {
-              "align": "center",
-              "heading": "Hinweise für Teilnehmer/innen",
-              "callouts": [
-                {
-                  "type": "simplecallout",
-                  "data": {
-                    "description": "Der Kurs richtet sich an alle Menschen, die aktiv einen fürsorglichen, freundlichen und eigenverantwortlichen Umgang mit sich selbst weiterentwickeln möchten."
-                  }
-                },
-                {
-                  "type": "simplecallout",
-                  "data": {
-                    "description": "Besonders empfehlenswert ist der Kurs auch für Menschen, die im psychosozialen Bereich tätig sind."
-                  }
-                },
-                {
-                  "type": "simplecallout",
-                  "data": {
-                    "description": "Dieser Kurs erfüllt eine der Voraussetzungen, um MSC Teacher zu werden. Für weitere Informationen über MSC und MSC Teacher Training besuchen Sie bitte <a href='http://centerformsc.org'>Center for Mindful Self-Compassion</a>."
-                  }
-                }
-              ]
-            }
-          }
-        ]
-      }
-    },
-    {
-      "type": "contentline",
-      "data": {
-        "modules": [
-          {
-            "type": "bullets",
-            "data": {
-              "align": "center",
-              "heading": "Empfohlene Lektüre",
-              "callouts": [
-                {
-                  "type": "borderimage",
-                  "data": "https://www.arbor-verlag.de/files/9783867811453.jpg"
-                },
-                {
-                  "type": "borderimage",
-                  "data": "https://images-na.ssl-images-amazon.com/images/I/41junF7AmtL._SX310_BO1,204,203,200_.jpg"
-                },
-                {
-                  "type": "borderimage",
-                  "data": "https://images-na.ssl-images-amazon.com/images/I/51Q-rbYV-3L._SX299_BO1,204,203,200_.jpg"
-                }
-              ]
-            }
-          }
-        ]
-      }
-    }
-  ],
-  "foot": {
-      "modules": [
-        {
-          "type": "twolines",
-          "data": {
-            "firstline": "+43 699 88 46 75 44",
-            "secondline": "christine.minixhofer@dialogus.at"
-          }
-        },
-        {
-          "type": "socialtitle",
-          "data": {
-            "heading": "Christine Minixhofer, MSc",
-            "socials": [
-              {
-                "type": "urlicon",
-                "data": {
-                  "url": "https://www.facebook.com/christineminixhofer",
-                  "title": "Facebook"
-                }
-              },
-              {
-                "type": "urlicon",
-                "data": {
-                  "url": "http://www.arbor-seminare.de/christine-minixhofer",
-                  "title": "Arbor Seminare"
-                }
-              },
-              {
-                "type": "urlicon",
-                "data": {
-                  "url": "http://centerformsc.org/msc-teacher/christine-minixhofer",
-                  "title": "Center for Mindful Self-Compassion"
-                }
-              },
-              {
-                "type": "urlicon",
-                "data": {
-                  "url": "http://www.gewaltfrei.at/profile/christineminixhofer",
-                  "title": "Gewaltfreie Kommunikation Austria"
-                }
-              },
-              {
-                "type": "urlicon",
-                "data": {
-                  "url": "http://www.gewaltfrei-dach.eu/wissenschaftliche-arbeiten",
-                  "title": "DACH e.V. - Gewaltfreie Kommunikation"
-                }
-              },
-              {
-                "type": "urlicon",
-                "data": {
-                  "url": "http://www.steigls.org/index.php?id=praxisadresse_detail&lebensberater=163",
-                  "title": "Steirische Gesellschaft für Lebens- und Sozialberatung"
-                }
-              },
-              {
-                "type": "urlicon",
-                "data": {
-                  "url": "https://www.xing.com/profile/Christine_Minixhofer/web_profiles",
-                  "title": "Xing"
-                }
-              },
-              {
-                "type": "urlicon",
-                "data": {
-                  "url": "http://www.bestnet.com/go.asp?personen_id=144740&sektion=personen&rkarte=infodet",
-                  "title": "bestNET"
-                }
-              },
-              {
-                "type": "urlicon",
-                "data": {
-                  "url": "http://christine-minixhofer.stadtausstellung.at",
-                  "title": "Stadtausstellung"
-                }
-              }
             ]
-          }
+        },
+        "navigation": {
+            "links": [
+                {
+                    "type": "link",
+                    "data": {
+                        "text": "Home",
+                        "link": "/bin/home.html#nav"
+                    }
+                },
+                {
+                    "type": "link",
+                    "data": {
+                        "text": "Über mich",
+                        "link": "/bin/ueber-mich.html#nav"
+                    }
+                },
+                {
+                    "type": "link",
+                    "data": {
+                        "text": "Methoden",
+                        "link": "/bin/methoden.html#nav"
+                    }
+                },
+                {
+                    "type": "link",
+                    "data": {
+                        "text": "Angebote",
+                        "selected": "true"
+                    }
+                },
+                {
+                    "type": "link",
+                    "data": {
+                        "text": "Zum Schmökern",
+                        "link": "/bin/zum-schmoekern.html#nav"
+                    }
+                },
+                {
+                    "type": "link",
+                    "data": {
+                        "text": "Kontakt",
+                        "link": "/bin/kontakt.html#nav"
+                    }
+                },
+                {
+                    "type": "link",
+                    "data": {
+                        "text": "Newsletter",
+                        "link": "/bin/newsletter.html#nav"
+                    }
+                },
+                {
+                    "type": "link",
+                    "data": {
+                        "text": "Impressum",
+                        "link": "/bin/Impressum.html#nav"
+                    }
+                }
+            ]
+        }
+    },
+    "lines": [
+        {
+            "type": "contentline",
+            "data": {
+                "nopadding": "true",
+                "modules": [
+                    {
+                        "type": "buttongroup",
+                        "data": {
+                            "buttons": [
+                                {
+                                    "type": "button",
+                                    "data": {
+                                        "link": "/bin/angebote/seminar-workshop-vortrag.html#nav",
+                                        "text": "Seminar - Workshop - Vortrag"
+                                    }
+                                },
+                                {
+                                    "type": "button",
+                                    "data": {
+                                        "link": "/bin/angebote/coaching.html#nav",
+                                        "text": "Psychologische Beratung -  Coaching"
+                                    }
+                                },
+                                {
+                                    "type": "button",
+                                    "data": {
+                                        "link": "/bin/angebote/supervision.html#nav",
+                                        "text": "Supervision"
+                                    }
+                                },
+                                {
+                                    "type": "button",
+                                    "data": {
+                                        "link": "/bin/angebote/msc-kurs.html#nav",
+                                        "text": "Achtsames Selbstmitgefühl (MSC) - Kurs",
+                                        "selected": "true"
+                                    }
+                                },
+                                {
+                                    "type": "button",
+                                    "data": {
+                                        "link": "/bin/angebote/elternbildung-coaching-beratung.html#nav",
+                                        "text": "Elternbildung - Coaching - Beratung"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
         },
         {
-          "type": "twolines",
-          "data": {
-            "firstline": "Mitterstraße 128/11",
-            "secondline": "8055 Seiersberg bei Graz"
-          }
+            "type": "contentline",
+            "data": {
+                "nopadding": "true",
+                "modules": [
+                    {
+                        "type": "imagetitle",
+                        "data": {
+                            "image": "/bin/resources/beautiful.jpg",
+                            "id": "seminare",
+                            "heading": "Achtsames Selbstmitgefühl (MSC) - Kurs"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "type": "contentline",
+            "data": {
+                "modules": [
+                    {
+                        "type": "calltoaction",
+                        "data": {
+                            "borderimage": "/bin/resources/msc.png",
+                            "heading": "Mindful Self Compassion (MSC) - Achtsames Selbstmitgefühl",
+                            "text": "Mindful Self Compassion (MSC, Achtsames Selbstmitgefühl) ist ein evidenz-basierter 8-wöchiger Kurs zur Entwicklung von Selbstmitgefühl. Er basiert auf den Forschungen von <a href='http://self-compassion.org' target='_blank'>Dr. Kristin Neff</a> und dem Expertenwissen von <a href='http://www.mindfulselfcompassion.org' target='_blank'>Dr. Christopher Germer</a> als klinischem Psychologen.<br/><br/>In einem MSC-Training werden Grundprinzipien und Übungen vermittelt, die es den Teilnehmer/innen ermöglichen schwierigen Momenten in ihrem Leben mit mehr Freundlichkeit, Fürsorglichkeit und Verständnis zu begegnen",
+                            "button": {
+                                "text": "Center for Mindful Self-Compassion",
+                                "link": "http://centerformsc.org/msc-teacher/christine-minixhofer"
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "type": "contentline",
+            "data": {
+                "modules": [
+                    {
+                        "type": "buttongroup",
+                        "data": {
+                            "buttons": [
+                                {
+                                    "type": "button",
+                                    "data": {
+                                        "link": "/bin/resources/download/achtwochenkurs-mi.pdf",
+                                        "text": "Mittwoch | Achtwochenkurs in Graz - ab 27. September 2017",
+                                        "selected": ""
+                                    }
+                                },
+                                {
+                                    "type": "button",
+                                    "data": {
+                                        "link": "/bin/resources/download/uebungsabende.pdf",
+                                        "text": "MSC Übungstermine"
+                                    }
+                                },
+                                {
+                                    "type": "button",
+                                    "data": {
+                                        "link": "/bin/resources/download/retreat.pdf",
+                                        "text": "MSC Retreat"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "type": "contentline",
+            "data": {
+                "modules": [
+                    {
+                        "type": "verticaltitle",
+                        "data": {
+                            "heading": "Kurse",
+                            "callouts": [
+                                {
+                                    "type": "eventcallout",
+                                    "data": {
+                                        "name": "Kurs 4/2017",
+                                        "detail": "Bildungshaus Mariatrost in Graz",
+                                        "wochentag": "Mittwoch",
+                                        "zeit": "18:00 - 21:00",
+                                        "termine": "27.9|4.10|11.10|18.10|25.10|8.11|15.11|22.11",
+                                        "retreat": "Samstag, 11.11.2017 | 9.00 - 13.00 Uhr",
+                                        "kosten-normal": "€ 390,-",
+                                        "kosten-früh": "€ 370,-",
+                                        "retreat-text": "Halbtagesretreat",
+                                        "kosten-normal-text": "Kurskosten",
+                                        "kosten-früh-text": "Frühbucherbonus bei Anmeldung bis zum 25. August 2017",
+                                        "sva": "SVA Versicherte können den Gesundheitshunderter einlösen!"
+                                    }
+                                },
+                                {
+                                    "type": "eventcallout",
+                                    "data": {
+                                        "name": "Kurs 1/2018",
+                                        "detail": "Bildungshaus Mariatrost in Graz",
+                                        "wochentag": "Samstag",
+                                        "zeit": "09:00 - 12:00 (1 x Donnerstag: 18:00 - 21:00)",
+                                        "termine": "13.1|20.1|27.1|3.2|10.2|3.3|15.3|24.3",
+                                        "retreat": "Samstag, 10.3.2018 | 9.00 - 13.00 Uhr",
+                                        "kosten-normal": "€ 390,-",
+                                        "kosten-früh": "€ 370,-",
+                                        "retreat-text": "Halbtagesretreat",
+                                        "kosten-normal-text": "Kurskosten",
+                                        "kosten-früh-text": "Frühbucherbonus bei Anmeldung bis zum 13. November 2017",
+                                        "sva": "SVA Versicherte können den Gesundheitshunderter einlösen!"
+                                    }
+                                },
+                                {
+                                    "type": "eventcallout",
+                                    "data": {
+                                        "name": "Kurs 2/2018",
+                                        "detail": "Bildungshaus Mariatrost in Graz",
+                                        "wochentag": "Mittwoch",
+                                        "zeit": "18:00 - 21:00",
+                                        "termine": "18.4|25.4|2.5|9.5|16.5|30.5|6.6|13.6",
+                                        "retreat": "Samstag, 26.5.2018 | 9.00 - 13.00 Uhr",
+                                        "kosten-normal": "€ 390,-",
+                                        "kosten-früh": "€ 370,-",
+                                        "retreat-text": "Halbtagesretreat",
+                                        "kosten-normal-text": "Kurskosten",
+                                        "kosten-früh-text": "Frühbucherbonus bei Anmeldung bis zum 18. Februar 2017",
+                                        "sva": "SVA Versicherte können den Gesundheitshunderter einlösen!"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "type": "contentline",
+            "data": {
+                "modules": [
+                    {
+                        "type": "title",
+                        "data": {
+                            "heading": "Stornobedingungen & Haftungshinweis"
+                        }
+                    },
+                    {
+                        "type": "textblock",
+                        "data": "Bis einem Monat vor Kursbeginn wird eine Bearbeitungsgebühr von 20,- Euro erhoben. Zwischen 30 und 10 Tagen vor Kursbeginn werden 50% des Kurshonorars verrechnet. Falls sich der Platz neu besetzen lässt, wird nur eine Bearbeitungsgebühr (20,- Euro) erhoben. Erfolgt eine Abmeldung weniger als 10 Tage vor Kursbeginn, wird das gesamte Kurshonorar in Rechnung gestellt. Falls sich der Platz neu besetzen lässt, wird nur eine Bearbeitungsgebühr (20,- Euro) erhoben.<br/><br/>Die Teilnahme am Kurs erfolgt auf eigene Verantwortung."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "contentline",
+            "data": {
+                "modules": [
+                    {
+                        "type": "title",
+                        "data": {
+                            "heading": "Was ist Selbstmitgefühl?"
+                        }
+                    },
+                    {
+                        "type": "textblock",
+                        "data": "Wie gehen Sie mit sich selbst um, wenn Sie schwierige Situationen oder Emotionen wie Stress, Verzweiflung, Frustration, Ohnmacht …zu bewältigen haben oder wenn Sie kritisiert oder angegriffen werden, wenn Sie Ihren eigenen Ansprüchen nicht genügen, wenn Ihnen ein Fehler passiert…?  Gerade dann, wenn es uns nicht gut geht, gehen wir mit uns selbst zuweilen besonders kritisch und hart um. In der Folge fühlen wir uns noch schlechter.<br/><br/><strong>Selbstmitgefühl bedeutet, uns selbst mit ebenso viel Güte, Fürsorge und Verständnis zuzuwenden wie einem geliebten Menschen, den wir durch eine Zeit des Leidens, des Scheiterns oder der Selbstzweifel begleiten.</strong><br/><br/>Die <strong>drei Kernkomponenten von Selbstmitgefühl</strong> sind...<br/><br/><a class='button'>Freundlichkeit mit uns selbst</a><br/><a class='button'>Gefühl von Mitmenschlichkeit</a><br/><a class='button'>ausgeglichenes achtsames Bewusstsein</a><br/><br/><strong>Freundlichkeit</strong> öffnet unsere Herzen dem Leid gegenüber, damit wir, wenn es uns nicht gut geht, uns das geben können was wir brauchen. <strong>Mitmenschlichkeit</strong> öffnet uns für unsere grundlegende Verbundenheit mit allen Wesen, damit wir erfahren, dass wir nicht allein sind. <strong>Achtsamkeit</strong> öffnet uns für den gegenwärtigen Moment, damit wir unsere Erfahrung etwas leichter annehmen können. Zusammen manifestieren sich diese Komponenten in einem <strong>Zustand von warmherziger verbundener Präsenz</strong>.<br/><br/>Selbstmitgefühl kann jeder erlernen - auch Menschen, die wenig Zuneigung in der Kindheit erfahren haben oder für die es sich zunächst unangenehm anfühlt, freundlich zu sich zu sein. <strong>Selbstmitgefühl gibt mir</strong> die <strong>emotionale Stärke und Widerstandsfähigkeit</strong>, um mir meine Mängel einzugestehen,  um mich mit Güte zu motivieren, um mir zu vergeben wenn nötig, um mit ganzem Herzen mit anderen in Beziehung zu treten und um auf authentische Weise ich selbst zu sein.<br/><br/>Stetig zunehmende <strong>Forschungsbefunde zeigen</strong>, dass größeres Selbstmitgefühl mit deutlich <strong>mehr emotionalem Wohlbefinden, weniger Angst, Depression und Stress</strong> und einem <strong>Aufrechterhalten von gesunden Lebensweisen</strong>, wie Ernährung und Sport und <strong>zufriedenstellenden persönlichen Beziehungen</strong> einhergeht. <br/><br/>Selbstmitgefühl kann uns aus einer Negativspirale von Selbstherabsetzung, Selbstzweifel, Selbstkritik oder auch Empathie-Müdigkeit herausholen. Mit Selbstmitgefühl, Selbstfreundlichkeit, Trost und Ermutigung können wir <strong>die kleinen und großen Herausforderungen des Lebens leichter bewältigen</strong>."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "contentline",
+            "data": {
+                "modules": [
+                    {
+                        "type": "title",
+                        "data": {
+                            "heading": "Was Sie im Kurst erwartet"
+                        }
+                    },
+                    {
+                        "type": "textblock",
+                        "data": "Geführte Meditationen, Impulsvorträge, Selbsterfahrungsübungen, Austausch in der Gruppe, Übungen für zuhause und Hilfen zum Transfer in den Alltag.<br/><br/>MSC ist ein Training in Achtsamkeit und Mitgefühl. Der Schwerpunkt im MSC liegt auf der Entwicklung von emotionalen Ressourcen und nicht darauf, sich mit alten Verletzungen auseinander zu setzen. Positive Veränderungen finden auf natürliche Art und Weise statt während wir die Fertigkeit entwickeln, mit uns auf freundlichere und mitfühlendere Art und Weise umzugehen."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "contentline",
+            "data": {
+                "modules": [
+                    {
+                        "type": "bullets",
+                        "data": {
+                            "align": "center",
+                            "heading": "Was Sie lernen",
+                            "callouts": [
+                                {
+                                    "type": "simplecallout",
+                                    "data": {
+                                        "description": "Achtsamkeit, Selbstfreundlichkeit und Selbstmitgefühl im Alltag anzuwenden"
+                                    }
+                                },
+                                {
+                                    "type": "simplecallout",
+                                    "data": {
+                                        "description": "die nachgewiesenen positiven Wirkungen von Selbtmitgefühl zu verstehen"
+                                    }
+                                },
+                                {
+                                    "type": "simplecallout",
+                                    "data": {
+                                        "description": "mit „schwierigen“ und belastenden Gefühlen und den Herausforderungen des Alltags leichter umzugehen"
+                                    }
+                                },
+                                {
+                                    "type": "simplecallout",
+                                    "data": {
+                                        "description": "sich selbst mit mehr Freundlichkeit statt mit Kritik und Härte zu motivieren"
+                                    }
+                                },
+                                {
+                                    "type": "simplecallout",
+                                    "data": {
+                                        "description": "mit herausfordernden Beziehungen gelassener umzugehen"
+                                    }
+                                },
+                                {
+                                    "type": "simplecallout",
+                                    "data": {
+                                        "description": "den Umgang mit „Empathie- oder Fürsorgemüdigkeit“ in psychosozialen Berufen oder als Privatperson"
+                                    }
+                                },
+                                {
+                                    "type": "simplecallout",
+                                    "data": {
+                                        "description": "die Kunst des Genießens und der Selbstwertschätzung weiterzuentwickeln"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "type": "contentline",
+            "data": {
+                "modules": [
+                    {
+                        "type": "title",
+                        "data": {
+                            "heading": "Voraussetzungen"
+                        }
+                    },
+                    {
+                        "type": "textblock",
+                        "data": "Es sind keine Vorerfahrungen mit Achtsamkeit oder Meditation notwendig, um am MSC Kurs teilzunehmen.<br/><br/>Bevor Teilnehmer/innen sich anmelden, sollten sie sich vornehmen an jeder Sitzung teilzunehmen und Achtsamkeit oder Selbstmitgefühl regelmäßig während des Verlaufs des Kurses zu üben."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "contentline",
+            "data": {
+                "modules": [
+                    {
+                        "type": "bullets",
+                        "data": {
+                            "align": "center",
+                            "heading": "MSC ist ein Trainingsprogramm",
+                            "callouts": [
+                                {
+                                    "type": "simplecallout",
+                                    "data": {
+                                        "description": "MSC ist ein Seminar und kein Retreat. MSC ist eine Methode zur Selbsthilfe."
+                                    }
+                                },
+                                {
+                                    "type": "simplecallout",
+                                    "data": {
+                                        "description": "MSC ist keine Psychotherapie. Der Kurs ersetzt keine sonst notwendige medizinische oder psychotherapeutische Behandlung."
+                                    }
+                                },
+                                {
+                                    "type": "simplecallout",
+                                    "data": {
+                                        "description": "MSC besteht aus 8 Sitzungen zu je 3 Stunden, die wöchentlich stattfinden und einem 4-stündigen Halbtages - Retreat."
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "type": "contentline",
+            "data": {
+                "modules": [
+                    {
+                        "type": "bullets",
+                        "data": {
+                            "align": "center",
+                            "heading": "Hinweise für Teilnehmer/innen",
+                            "callouts": [
+                                {
+                                    "type": "simplecallout",
+                                    "data": {
+                                        "description": "Der Kurs richtet sich an alle Menschen, die aktiv einen fürsorglichen, freundlichen und eigenverantwortlichen Umgang mit sich selbst weiterentwickeln möchten."
+                                    }
+                                },
+                                {
+                                    "type": "simplecallout",
+                                    "data": {
+                                        "description": "Besonders empfehlenswert ist der Kurs auch für Menschen, die im psychosozialen Bereich tätig sind."
+                                    }
+                                },
+                                {
+                                    "type": "simplecallout",
+                                    "data": {
+                                        "description": "Dieser Kurs erfüllt eine der Voraussetzungen, um MSC Teacher zu werden. Für weitere Informationen über MSC und MSC Teacher Training besuchen Sie bitte <a href='http://centerformsc.org'>Center for Mindful Self-Compassion</a>."
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "type": "contentline",
+            "data": {
+                "modules": [
+                    {
+                        "type": "bullets",
+                        "data": {
+                            "align": "center",
+                            "heading": "Empfohlene Lektüre",
+                            "callouts": [
+                                {
+                                    "type": "borderimage",
+                                    "data": "https://www.arbor-verlag.de/files/9783867811453.jpg"
+                                },
+                                {
+                                    "type": "borderimage",
+                                    "data": "https://images-na.ssl-images-amazon.com/images/I/41junF7AmtL._SX310_BO1,204,203,200_.jpg"
+                                },
+                                {
+                                    "type": "borderimage",
+                                    "data": "https://images-na.ssl-images-amazon.com/images/I/51Q-rbYV-3L._SX299_BO1,204,203,200_.jpg"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
         }
-      ]
-  }
+    ],
+    "foot": {
+        "modules": [
+            {
+                "type": "twolines",
+                "data": {
+                    "firstline": "+43 699 88 46 75 44",
+                    "secondline": "christine.minixhofer@dialogus.at"
+                }
+            },
+            {
+                "type": "socialtitle",
+                "data": {
+                    "heading": "Christine Minixhofer, MSc",
+                    "socials": [
+                        {
+                            "type": "urlicon",
+                            "data": {
+                                "url": "https://www.facebook.com/christineminixhofer",
+                                "title": "Facebook"
+                            }
+                        },
+                        {
+                            "type": "urlicon",
+                            "data": {
+                                "url": "http://www.arbor-seminare.de/christine-minixhofer",
+                                "title": "Arbor Seminare"
+                            }
+                        },
+                        {
+                            "type": "urlicon",
+                            "data": {
+                                "url": "http://centerformsc.org/msc-teacher/christine-minixhofer",
+                                "title": "Center for Mindful Self-Compassion"
+                            }
+                        },
+                        {
+                            "type": "urlicon",
+                            "data": {
+                                "url": "http://www.gewaltfrei.at/profile/christineminixhofer",
+                                "title": "Gewaltfreie Kommunikation Austria"
+                            }
+                        },
+                        {
+                            "type": "urlicon",
+                            "data": {
+                                "url": "http://www.gewaltfrei-dach.eu/wissenschaftliche-arbeiten",
+                                "title": "DACH e.V. - Gewaltfreie Kommunikation"
+                            }
+                        },
+                        {
+                            "type": "urlicon",
+                            "data": {
+                                "url": "http://www.steigls.org/index.php?id=praxisadresse_detail&lebensberater=163",
+                                "title": "Steirische Gesellschaft für Lebens- und Sozialberatung"
+                            }
+                        },
+                        {
+                            "type": "urlicon",
+                            "data": {
+                                "url": "https://www.xing.com/profile/Christine_Minixhofer/web_profiles",
+                                "title": "Xing"
+                            }
+                        },
+                        {
+                            "type": "urlicon",
+                            "data": {
+                                "url": "http://www.bestnet.com/go.asp?personen_id=144740&sektion=personen&rkarte=infodet",
+                                "title": "bestNET"
+                            }
+                        },
+                        {
+                            "type": "urlicon",
+                            "data": {
+                                "url": "http://christine-minixhofer.stadtausstellung.at",
+                                "title": "Stadtausstellung"
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "twolines",
+                "data": {
+                    "firstline": "Mitterstraße 128/11",
+                    "secondline": "8055 Seiersberg bei Graz"
+                }
+            }
+        ]
+    }
 }
