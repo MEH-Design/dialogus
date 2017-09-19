@@ -1,573 +1,581 @@
 {
-  "title": "Über mich | Christine Minixhofer, MSc",
-  "header": {
-    "headline": {
-      "heading": "Christine Minixhofer, Msc",
-      "subheading": "Training | Coaching | Supervision | Psychologische Beratung"
-    },
-    "hero": {
-      "items": [
-        {
-          "type": "quote",
-          "data": {
-            "quote": "Denn Zeit ist Leben.<br/>Und das Leben wohnt im Herzen.",
-            "author": "Michael Ende, Momo"
-          }
+    "title": "Über mich | Christine Minixhofer, MSC",
+    "header": {
+        "headline": {
+            "heading": "Christine Minixhofer, Msc",
+            "subheading": "Training | Coaching | Supervision | Psychologische Beratung"
         },
-        {
-          "type": "image",
-          "data": "/bin/resources/igel.png"
-        }
-      ]
-    },
-    "navigation": {
-      "links": [{
-        "type": "link",
-        "data": {
-          "text": "Home",
-          "link": "/bin/home.html#nav"
-        }
-      }, {
-        "type": "link",
-        "data": {
-          "text": "Über mich",
-          "selected": "true"
-        }
-      }, {
-        "type": "link",
-        "data": {
-          "text": "Methoden",
-          "link": "/bin/methoden.html#nav"
-        }
-      }, {
-        "type": "link",
-        "data": {
-          "text": "Angebote",
-          "link": "/bin/angebote.html#nav"
-        }
-      }, {
-        "type": "link",
-        "data": {
-          "text": "Zum Schmökern",
-          "link": "/bin/zum-schmoekern.html#nav"
-        }
-      }, {
-        "type": "link",
-        "data": {
-          "text": "Kontakt",
-          "link": "/bin/kontakt.html#nav"
-        }
-      }, {
-        "type": "link",
-        "data": {
-          "text": "Newsletter",
-          "link": "/bin/newsletter.html#nav"
-        }
-      }, {
-        "type": "link",
-        "data": {
-          "text": "Impressum",
-          "link": "/bin/Impressum.html#nav"
-        }
-      }]
-    }
-  },
-  "lines": [
-    {
-      "type": "contentline",
-      "data": {
-        "modules": [
-          {
-            "type": "verticaltitle",
-            "data": {
-              "align": "left",
-              "heading": "Abschlüsse",
-              "callouts": [
+        "hero": {
+            "items": [
                 {
-                  "type": "nobordercallout",
-                  "data": {
-                    "name": "MSc für psychosoziale Beratung",
-                    "description": "Donau Universität Krems"
-                  }
+                    "type": "quote",
+                    "data": {
+                        "quote": "Denn Zeit ist Leben.<br/>Und das Leben wohnt im Herzen.",
+                        "author": "Michael Ende, Momo"
+                    }
                 },
                 {
-                  "type": "nobordercallout",
-                  "data": {
-                    "name": "Dipl. Lebensberaterin/ psychologische Beraterin",
-                    "description": "SteiGLS Graz, Integrative Gestalt"
-                  }
-                },
-                {
-                  "type": "nobordercallout",
-                  "data": {
-                    "name": "Akademische Kommunikationstrainerin",
-                    "description": "KF Universität Graz, PGA Linz, TAO Wien"
-                  }
-                },
-                {
-                  "type": "nobordercallout",
-                  "data": {
-                    "name": "Gesundheits- und Pflegepädagogin",
-                    "description": "KF Universität Graz"
-                  }
-                },
-                {
-                  "type": "nobordercallout",
-                  "data": {
-                    "name": "DGKS",
-                    "description": "Schule für allg. Gesundheits- und Krankenpflege, Vöcklabruck"
-                  }
+                    "type": "image",
+                    "data": "/bin/resources/igel.png"
                 }
-              ]
-            }
-          },
-          {
-            "type": "verticaltitle",
-            "data": {
-              "align": "left",
-              "heading": "Weitere Qualifikationen",
-              "callouts": [
-                {
-                  "type": "nobordercallout",
-                  "data": {
-                    "name": "Trained Teacher MSC/Lehrerin für Achtsames Selbstmitgefühl",
-                    "description": "Bei Christopher Germer, Christine Brähler, Regula Saner, Hilde Steinhauser<br>Arbor Seminare Freiburg und MBPTI mindful based professional training institute in San Diego, Kalifornien"
-                  }
-                },
-                {
-                  "type": "nobordercallout",
-                  "data": {
-                    "name": "Achtsamkeitslehrerin",
-                    "description": "Arbor Seminare Freiburg"
-                  }
-                },
-                {
-                  "type": "nobordercallout",
-                  "data": {
-                    "name": "Burnout Coach – WKO Expertenpool",
-                    "description": "EALP Akademie Graz"
-                  }
-                },
-                {
-                  "type": "nobordercallout",
-                  "data": {
-                    "name": "Supervisorin – WKO Expertenpool",
-                    "description": "Institut SISFO Salzburg"
-                  }
-                }
-              ]
-            }
-          }
-
-        ]
-      }
-    },
-    {
-      "type": "contentline",
-      "data":  {
-        "modules": [
-          {
-            "type": "bigquote",
-            "data": {
-              "heading": "Man kann einen Menschen nichts lehren, man kann ihm nur helfen, es in sich selbst zu entdecken.",
-              "author": "Galileo Galilei"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "type": "contentline",
-      "data":  {
-        "modules": [
-          {
-            "type": "timeline",
-            "data": {
-              "heading": "Fort- und Weiterbildungen",
-              "callouts": [
-                {
-                  "type": "iconcallout",
-                  "data": {
-                    "name": "Motivierende Gesprächsführung",
-                    "year": "2017",
-                    "description": "GK Quest Akademie (Linz)",
-                    "icon": "/bin/resources/goal.svg"
-                  }
-                },
-                {
-                  "type": "iconcallout",
-                  "data": {
-                    "name": "Living in Compassion",
-                    "year": "2017",
-                    "description": "Robert Gonzales (Graz, Bildungshaus Schloss St. Martin)",
-                    "icon": "/bin/resources/heart.svg"
-                  }
-                },
-                {
-                  "type": "iconcallout",
-                  "data": {
-                    "name": "Mit Kindern wachsen",
-                    "year": "2016",
-                    "description": "'Mit Kindern wachsen - Achtsamkeit in der Familie', Jon und Myla Kabat-Zinn (Salzburg, Bildungshaus St. Virgil)",
-                    "icon": "/bin/resources/kids.svg"
-                  }
-                },
-                {
-                  "type": "iconcallout",
-                  "data": {
-                    "name": "Stressmanagement und Burnoutprävention",
-                    "year": "2016",
-                    "description": "Fortbildungslehrgang Stressmanagement und Burnoutprävention (EALP Akademie Graz)",
-                    "icon": "/bin/resources/fire.svg"
-                  }
-                },
-                {
-                  "type": "iconcallout",
-                  "data": {
-                    "name": "Supervisionslehrgang ",
-                    "year": "2015 - 2016",
-                    "description": "Supervisionslehrgang Institut SISFO (Salzburger Impulse für systemische Supervision)",
-                    "icon": "/bin/resources/eye.svg"
-                  }
-                },
-                {
-                  "type": "iconcallout",
-                  "data": {
-                    "name": "Mindful Self-Compassion Teacher Training",
-                    "year": "2015",
-                    "description": "Arbor Seminare, Kisslegg",
-                    "icon": "/bin/resources/flower.svg"
-                  }
-                },
-                {
-                  "type": "iconcallout",
-                  "data": {
-                    "name": "Potentialentfaltung",
-                    "year": "2015",
-                    "description": "Potentialentfaltung durch Selbstliebe (Siegfried Essen, Graz)",
-                    "icon": "/bin/resources/butterfly.svg"
-                  }
-                },
-                {
-                  "type": "iconcallout",
-                  "data": {
-                    "name": "Achtsames Selbstmitgefühl",
-                    "year": "2015",
-                    "description": "Achtsames Selbstmitgefühl Intensivkurs (Christopher Germer, Lienhard Valentin, Geras NÖ)",
-                    "icon": "/bin/resources/flower.svg"
-                  }
-                },
-                {
-                  "type": "iconcallout",
-                  "data": {
-                    "name": "Positive Psychologie",
-                    "year": "2014",
-                    "description": "Positive Psychologie: Die Macht der guten Gefühle und der Liebe (Barbara Fredrickson, Graz)",
-                    "icon": "/bin/resources/smile.svg"
-                  }
-                },
-                {
-                  "type": "iconcallout",
-                  "data": {
-                    "name": "Grundlehrgang",
-                    "year": "2013",
-                    "description": "Achtsamkeit leben - Achtsamkeit lehren (Lienhard Valentin, Mirijam Fink, Graz)",
-                    "icon": "/bin/resources/compass.svg"
-                  }
-                },
-                {
-                  "type": "iconcallout",
-                  "data": {
-                    "name": "Krisenintervention",
-                    "year": "2013",
-                    "description": "Weiterbildung Krisenintervention - GesundheitsManagement Steiermärkische Sparkasse (Dr.Manfred Krampl, Graz)",
-                    "icon": "/bin/resources/chart.svg"
-                  }
-                },
-                {
-                  "type": "iconcallout",
-                  "data": {
-                    "name": "MBSR",
-                    "year": "2013",
-                    "description": "MBSR Training (Mag. Jörg Trettler, Graz)",
-                    "icon": "/bin/resources/rainbow.svg"
-                  }
-                },
-                {
-                  "type": "iconcallout",
-                  "data": {
-                    "name": "Gewaltfreie Kommunikation",
-                    "year": "2013",
-                    "description": "Lehrgang Gewaltfreie Kommunikation nach Dr. Marshall Rosenberg (Dr. Karoline Bitschnau, Salzburg)",
-                    "icon": "/bin/resources/giraffe.svg"
-                  }
-                },
-                {
-                  "type": "iconcallout",
-                  "data": {
-                    "name": "Selbstermächtigung",
-                    "year": "2012",
-                    "description": "Weiterbildung Von ohnmächtiger Wut und wütender Ohnmacht zur Selbstermächtigung - Fortgeschrittenenseminar in Gewaltfreier Kommunikation nach Dr. Marshall Rosenberg (Dipl-Psych. Gerlinde R. Fritsch, Hamburg)",
-                    "icon": "/bin/resources/wolf.svg"
-                  }
-                },
-                {
-                  "type": "iconcallout",
-                  "data": {
-                    "name": "Positiv Psychologische Interventionen",
-                    "year": "2012",
-                    "description": "Weiterbildung Positiv Psychologische Interventionen für Beratung, Coaching und Therapie (Institut für Positive Psychologie und Mentalcoaching, Dr. Philip Streit, Graz)",
-                    "icon": "/bin/resources/silhouette.svg"
-                  }
-                },
-                {
-                  "type": "iconcallout",
-                  "data": {
-                    "name": "Systemische Strukturaufstellung",
-                    "year": "2011",
-                    "description": "Weiterbildung Methodik und Praxis der Systemischen Strukturaufstellung (Prof. Dr. Matthias Varga von Kibed, Institut für Kind und Familie Graz)",
-                    "icon": "/bin/resources/atoms.svg"
-                  }
-                },
-                {
-                  "type": "iconcallout",
-                  "data": {
-                    "name": "GFK Aikido",
-                    "year": "2007",
-                    "description": "Weiterbildung GFK Aikido (Ingrid Holler, München)",
-                    "icon": "/bin/resources/japanese.svg"
-                  }
-                },
-                {
-                  "type": "iconcallout",
-                  "data": {
-                    "name": "Grundlehrgang GFK",
-                    "year": "2007",
-                    "description": "Grundlehrgang in dem Modell der Gewaltfreien Kommunikation nach Dr. Marshall Rosenberg CNVC® (Mag. Christian Rüther, Wien)",
-                    "icon": "/bin/resources/rose.svg"
-                  }
-                },
-                {
-                  "type": "iconcallout",
-                  "data": {
-                    "name": "Coaching",
-                    "year": "2006",
-                    "description": "Coaching - Lehrgang (Balance Akademie Graz)",
-                    "icon": "/bin/resources/couch.svg"
-                  }
-                },
-                {
-                  "type": "iconcallout",
-                  "data": {
-                    "name": "Pflegediagnostik",
-                    "year": "1999",
-                    "description": "Weiterbildung in Pflegediagnostik in der Psychiatrie (Niederösterreich)",
-                    "icon": "/bin/resources/heart.svg"
-                  }
-                },
-                {
-                  "type": "iconcallout",
-                  "data": {
-                    "name": "Kinästhetik",
-                    "year": "1995",
-                    "description": "Grundkurs Kinästhetik in der Pflege (ÖKV Wien)",
-                    "icon": "/bin/resources/dancing.svg"
-                  }
-                },
-                {
-                  "type": "iconcallout",
-                  "data": {
-                    "name": "Basale Stimulation",
-                    "year": "1995",
-                    "description": "Grundkurs Basale Stimulation in der Pflege (ÖKV Wien)",
-                    "icon": "/bin/resources/peace.svg"
-                  }
-                },
-                {
-                  "type": "iconcallout",
-                  "data": {
-                    "name": "Vorlesungen und Seminare",
-                    "year": "1992",
-                    "description": "Ausgewählte Vorlesungen und Seminare an der Uni Graz (Allgemeine Psychologie, Interpersonelle Kommunikation, Spielpädagogik und kreative Medien, Gerontopsychologie, pädagogische Psychologie, Entwicklungspsychologie)",
-                    "icon": "/bin/resources/book.svg"
-                  }
-                },
-                {
-                  "type": "iconcallout",
-                  "data": {
-                    "name": "Pflege nach dem Bobathkonzept",
-                    "year": "1991",
-                    "description": "Weiterbildung in der Pflege nach dem Bobathkonzept (ÖKV Graz)",
-                    "icon": "/bin/resources/hand.svg"
-                  }
-                },
-                {
-                  "type": "iconcallout",
-                  "data": {
-                    "name": "Mentorin",
-                    "year": "1990",
-                    "description": "Weiterbildung zur Mentorin für KrankenpflegeschülerInnen (Salzburg)",
-                    "icon": "/bin/resources/teacher.svg"
-                  }
-                }
-              ]
-            }
-          }
-        ]
-      }
-    },
-    {
-      "type": "contentline",
-      "data": {
-        "modules": [
-          {
-            "type": "verticaltitle",
-            "data": {
-              "align": "left",
-              "heading": "Weitere berufliche Stationen",
-              "callouts": [
-                {
-                  "type": "callout",
-                  "data": {
-                    "name": "Leitung von Jahresselbsterfahrungsgruppen",
-                    "year": "2007 - 2008",
-                    "description": " für Eltern/PädagogInnen in der Methode der Gewaltfreien Kommunikation nach Rosenberg in Graz"
-                  }
-                },
-                {
-                  "type": "callout",
-                  "data": {
-                    "name": "IGW - Integrative Gewaltpräventionswerkstatt",
-                    "year": "2006",
-                    "description": "<strong>Projektentwicklung und Durchführung</strong><br/>IGW – Integrative Gewaltpräventionswerkstatt für Grundschulen, Förderung durch das BM/Abteilung Schulpsychologie."
-                  }
-                },
-                {
-                  "type": "callout",
-                  "data": {
-                    "name": "Lehrtätigkeit am BFI Deutschlandsberg",
-                    "year": "1999 - 2000",
-                    "description": "PflegehelferInnenausbildung"
-                  }
-                },
-                {
-                  "type": "callout",
-                  "data": {
-                    "name": "Lehrtätigkeit an der Schule für psychiatrische Gesundheits- und Krankenpflege Graz",
-                    "year": "1993 - 2006",
-                    "description": "<strong>Schwerpunkte</strong> - Kommunikation, Gesprächsführung, Konfliktmanagement, Allgemeine Gesundheits- und Krankenpflege, Pflegemodelle.<br/>Leitung von PflegehelferInnenlehrgängen, Praxisbegleitung"
-                  }
-                },
-                {
-                  "type": "callout",
-                  "data": {
-                    "name": "Diplomkrankenschwester",
-                    "year": "1992 - 1993",
-                    "description": "Am Landessonderkrankenhaus Sigmund Freud in Graz."
-                  }
-                },
-                {
-                  "type": "callout",
-                  "data": {
-                    "name": "Diplomkrankenschwester",
-                    "year": "1989 - 1992",
-                    "description": "Am LKH Salzburg<br/>Mentorin für KrankenpflegeschülerInnen<br/>Geringfügige Lehrtätigkeit an der Landeskrankenpflegeschule Salzburg"
-                  }
-                }
-              ]
-            }
-          }
-        ]
-      }
-    }
-  ],
-  "foot": {
-      "modules": [
-        {
-          "type": "twolines",
-          "data": {
-            "firstline": "+43 699 88 46 75 44",
-            "secondline": "christine.minixhofer@dialogus.at"
-          }
-        },
-        {
-          "type": "socialtitle",
-          "data": {
-            "heading": "Christine Minixhofer, MSc",
-            "socials": [
-              {
-                "type": "urlicon",
-                "data": {
-                  "url": "https://www.facebook.com/christineminixhofer",
-                  "title": "Facebook"
-                }
-              },
-              {
-                "type": "urlicon",
-                "data": {
-                  "url": "http://www.arbor-seminare.de/christine-minixhofer",
-                  "title": "Arbor Seminare"
-                }
-              },
-              {
-                "type": "urlicon",
-                "data": {
-                  "url": "http://centerformsc.org/msc-teacher/christine-minixhofer",
-                  "title": "Center for Mindful Self-Compassion"
-                }
-              },
-              {
-                "type": "urlicon",
-                "data": {
-                  "url": "http://www.gewaltfrei.at/profile/christineminixhofer",
-                  "title": "Gewaltfreie Kommunikation Austria"
-                }
-              },
-              {
-                "type": "urlicon",
-                "data": {
-                  "url": "http://www.gewaltfrei-dach.eu/wissenschaftliche-arbeiten",
-                  "title": "DACH e.V. - Gewaltfreie Kommunikation"
-                }
-              },
-              {
-                "type": "urlicon",
-                "data": {
-                  "url": "http://www.steigls.org/index.php?id=praxisadresse_detail&lebensberater=163",
-                  "title": "Steirische Gesellschaft für Lebens- und Sozialberatung"
-                }
-              },
-              {
-                "type": "urlicon",
-                "data": {
-                  "url": "https://www.xing.com/profile/Christine_Minixhofer/web_profiles",
-                  "title": "Xing"
-                }
-              },
-              {
-                "type": "urlicon",
-                "data": {
-                  "url": "http://www.bestnet.com/go.asp?personen_id=144740&sektion=personen&rkarte=infodet",
-                  "title": "bestNET"
-                }
-              },
-              {
-                "type": "urlicon",
-                "data": {
-                  "url": "http://christine-minixhofer.stadtausstellung.at",
-                  "title": "Stadtausstellung"
-                }
-              }
             ]
-          }
+        },
+        "navigation": {
+            "links": [
+                {
+                    "type": "link",
+                    "data": {
+                        "text": "Home",
+                        "link": "/bin/home.html#nav"
+                    }
+                },
+                {
+                    "type": "link",
+                    "data": {
+                        "text": "Über mich",
+                        "selected": "true"
+                    }
+                },
+                {
+                    "type": "link",
+                    "data": {
+                        "text": "Methoden",
+                        "link": "/bin/methoden.html#nav"
+                    }
+                },
+                {
+                    "type": "link",
+                    "data": {
+                        "text": "Angebote",
+                        "link": "/bin/angebote.html#nav"
+                    }
+                },
+                {
+                    "type": "link",
+                    "data": {
+                        "text": "Zum Schmökern",
+                        "link": "/bin/zum-schmoekern.html#nav"
+                    }
+                },
+                {
+                    "type": "link",
+                    "data": {
+                        "text": "Kontakt",
+                        "link": "/bin/kontakt.html#nav"
+                    }
+                },
+                {
+                    "type": "link",
+                    "data": {
+                        "text": "Newsletter",
+                        "link": "/bin/newsletter.html#nav"
+                    }
+                },
+                {
+                    "type": "link",
+                    "data": {
+                        "text": "Impressum",
+                        "link": "/bin/Impressum.html#nav"
+                    }
+                }
+            ]
+        }
+    },
+    "lines": [
+        {
+            "type": "contentline",
+            "data": {
+                "modules": [
+                    {
+                        "type": "verticaltitle",
+                        "data": {
+                            "align": "left",
+                            "heading": "Abschlüsse",
+                            "callouts": [
+                                {
+                                    "type": "nobordercallout",
+                                    "data": {
+                                        "name": "MSc für psychosoziale Beratung",
+                                        "description": "Donau Universität Krems"
+                                    }
+                                },
+                                {
+                                    "type": "nobordercallout",
+                                    "data": {
+                                        "name": "Dipl. Lebensberaterin/ psychologische Beraterin",
+                                        "description": "SteiGLS Graz, Integrative Gestalt"
+                                    }
+                                },
+                                {
+                                    "type": "nobordercallout",
+                                    "data": {
+                                        "name": "Akademische Kommunikationstrainerin",
+                                        "description": "KF Universität Graz, PGA Linz, TAO Wien"
+                                    }
+                                },
+                                {
+                                    "type": "nobordercallout",
+                                    "data": {
+                                        "name": "Gesundheits- und Pflegepädagogin",
+                                        "description": "KF Universität Graz"
+                                    }
+                                },
+                                {
+                                    "type": "nobordercallout",
+                                    "data": {
+                                        "name": "DGKS",
+                                        "description": "Schule für allg. Gesundheits- und Krankenpflege, Vöcklabruck"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "type": "verticaltitle",
+                        "data": {
+                            "align": "left",
+                            "heading": "Weitere Qualifikationen",
+                            "callouts": [
+                                {
+                                    "type": "nobordercallout",
+                                    "data": {
+                                        "name": "Trained Teacher MSC/Lehrerin für Achtsames Selbstmitgefühl",
+                                        "description": "Bei Christopher Germer, Christine Brähler, Regula Saner, Hilde Steinhauser<br>Arbor Seminare Freiburg und MBPTI mindful based professional training institute in San Diego, Kalifornien"
+                                    }
+                                },
+                                {
+                                    "type": "nobordercallout",
+                                    "data": {
+                                        "name": "Achtsamkeitslehrerin",
+                                        "description": "Arbor Seminare Freiburg"
+                                    }
+                                },
+                                {
+                                    "type": "nobordercallout",
+                                    "data": {
+                                        "name": "Burnout Coach – WKO Expertenpool",
+                                        "description": "EALP Akademie Graz"
+                                    }
+                                },
+                                {
+                                    "type": "nobordercallout",
+                                    "data": {
+                                        "name": "Supervisorin – WKO Expertenpool",
+                                        "description": "Institut SISFO Salzburg"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
         },
         {
-          "type": "twolines",
-          "data": {
-            "firstline": "Mitterstraße 128/11",
-            "secondline": "8055 Seiersberg bei Graz"
-          }
+            "type": "contentline",
+            "data": {
+                "modules": [
+                    {
+                        "type": "bigquote",
+                        "data": {
+                            "heading": "Man kann einen Menschen nichts lehren, man kann ihm nur helfen, es in sich selbst zu entdecken.",
+                            "author": "Galileo Galilei"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "type": "contentline",
+            "data": {
+                "modules": [
+                    {
+                        "type": "timeline",
+                        "data": {
+                            "heading": "Fort- und Weiterbildungen",
+                            "callouts": [
+                                {
+                                    "type": "iconcallout",
+                                    "data": {
+                                        "name": "Motivierende Gesprächsführung",
+                                        "year": "2017",
+                                        "description": "GK Quest Akademie (Linz)",
+                                        "icon": "/bin/resources/goal.svg"
+                                    }
+                                },
+                                {
+                                    "type": "iconcallout",
+                                    "data": {
+                                        "name": "Living in Compassion",
+                                        "year": "2017",
+                                        "description": "Robert Gonzales (Graz, Bildungshaus Schloss St. Martin)",
+                                        "icon": "/bin/resources/heart.svg"
+                                    }
+                                },
+                                {
+                                    "type": "iconcallout",
+                                    "data": {
+                                        "name": "Mit Kindern wachsen",
+                                        "year": "2016",
+                                        "description": "'Mit Kindern wachsen - Achtsamkeit in der Familie', Jon und Myla Kabat-Zinn (Salzburg, Bildungshaus St. Virgil)",
+                                        "icon": "/bin/resources/kids.svg"
+                                    }
+                                },
+                                {
+                                    "type": "iconcallout",
+                                    "data": {
+                                        "name": "Stressmanagement und Burnoutprävention",
+                                        "year": "2016",
+                                        "description": "Fortbildungslehrgang Stressmanagement und Burnoutprävention (EALP Akademie Graz)",
+                                        "icon": "/bin/resources/fire.svg"
+                                    }
+                                },
+                                {
+                                    "type": "iconcallout",
+                                    "data": {
+                                        "name": "Supervisionslehrgang ",
+                                        "year": "2015 - 2016",
+                                        "description": "Supervisionslehrgang Institut SISFO (Salzburger Impulse für systemische Supervision)",
+                                        "icon": "/bin/resources/eye.svg"
+                                    }
+                                },
+                                {
+                                    "type": "iconcallout",
+                                    "data": {
+                                        "name": "Mindful Self-Compassion Teacher Training",
+                                        "year": "2015",
+                                        "description": "Arbor Seminare, Kisslegg",
+                                        "icon": "/bin/resources/flower.svg"
+                                    }
+                                },
+                                {
+                                    "type": "iconcallout",
+                                    "data": {
+                                        "name": "Potentialentfaltung",
+                                        "year": "2015",
+                                        "description": "Potentialentfaltung durch Selbstliebe (Siegfried Essen, Graz)",
+                                        "icon": "/bin/resources/butterfly.svg"
+                                    }
+                                },
+                                {
+                                    "type": "iconcallout",
+                                    "data": {
+                                        "name": "Achtsames Selbstmitgefühl",
+                                        "year": "2015",
+                                        "description": "Achtsames Selbstmitgefühl Intensivkurs (Christopher Germer, Lienhard Valentin, Geras NÖ)",
+                                        "icon": "/bin/resources/flower.svg"
+                                    }
+                                },
+                                {
+                                    "type": "iconcallout",
+                                    "data": {
+                                        "name": "Positive Psychologie",
+                                        "year": "2014",
+                                        "description": "Positive Psychologie: Die Macht der guten Gefühle und der Liebe (Barbara Fredrickson, Graz)",
+                                        "icon": "/bin/resources/smile.svg"
+                                    }
+                                },
+                                {
+                                    "type": "iconcallout",
+                                    "data": {
+                                        "name": "Grundlehrgang",
+                                        "year": "2013",
+                                        "description": "Achtsamkeit leben - Achtsamkeit lehren (Lienhard Valentin, Mirijam Fink, Graz)",
+                                        "icon": "/bin/resources/compass.svg"
+                                    }
+                                },
+                                {
+                                    "type": "iconcallout",
+                                    "data": {
+                                        "name": "Krisenintervention",
+                                        "year": "2013",
+                                        "description": "Weiterbildung Krisenintervention - GesundheitsManagement Steiermärkische Sparkasse (Dr.Manfred Krampl, Graz)",
+                                        "icon": "/bin/resources/chart.svg"
+                                    }
+                                },
+                                {
+                                    "type": "iconcallout",
+                                    "data": {
+                                        "name": "MBSR",
+                                        "year": "2013",
+                                        "description": "MBSR Training (Mag. Jörg Trettler, Graz)",
+                                        "icon": "/bin/resources/rainbow.svg"
+                                    }
+                                },
+                                {
+                                    "type": "iconcallout",
+                                    "data": {
+                                        "name": "Gewaltfreie Kommunikation",
+                                        "year": "2013",
+                                        "description": "Lehrgang Gewaltfreie Kommunikation nach Dr. Marshall Rosenberg (Dr. Karoline Bitschnau, Salzburg)",
+                                        "icon": "/bin/resources/giraffe.svg"
+                                    }
+                                },
+                                {
+                                    "type": "iconcallout",
+                                    "data": {
+                                        "name": "Selbstermächtigung",
+                                        "year": "2012",
+                                        "description": "Weiterbildung Von ohnmächtiger Wut und wütender Ohnmacht zur Selbstermächtigung - Fortgeschrittenenseminar in Gewaltfreier Kommunikation nach Dr. Marshall Rosenberg (Dipl-Psych. Gerlinde R. Fritsch, Hamburg)",
+                                        "icon": "/bin/resources/wolf.svg"
+                                    }
+                                },
+                                {
+                                    "type": "iconcallout",
+                                    "data": {
+                                        "name": "Positiv Psychologische Interventionen",
+                                        "year": "2012",
+                                        "description": "Weiterbildung Positiv Psychologische Interventionen für Beratung, Coaching und Therapie (Institut für Positive Psychologie und Mentalcoaching, Dr. Philip Streit, Graz)",
+                                        "icon": "/bin/resources/silhouette.svg"
+                                    }
+                                },
+                                {
+                                    "type": "iconcallout",
+                                    "data": {
+                                        "name": "Systemische Strukturaufstellung",
+                                        "year": "2011",
+                                        "description": "Weiterbildung Methodik und Praxis der Systemischen Strukturaufstellung (Prof. Dr. Matthias Varga von Kibed, Institut für Kind und Familie Graz)",
+                                        "icon": "/bin/resources/atoms.svg"
+                                    }
+                                },
+                                {
+                                    "type": "iconcallout",
+                                    "data": {
+                                        "name": "GFK Aikido",
+                                        "year": "2007",
+                                        "description": "Weiterbildung GFK Aikido (Ingrid Holler, München)",
+                                        "icon": "/bin/resources/japanese.svg"
+                                    }
+                                },
+                                {
+                                    "type": "iconcallout",
+                                    "data": {
+                                        "name": "Grundlehrgang GFK",
+                                        "year": "2007",
+                                        "description": "Grundlehrgang in dem Modell der Gewaltfreien Kommunikation nach Dr. Marshall Rosenberg CNVC® (Mag. Christian Rüther, Wien)",
+                                        "icon": "/bin/resources/rose.svg"
+                                    }
+                                },
+                                {
+                                    "type": "iconcallout",
+                                    "data": {
+                                        "name": "Coaching",
+                                        "year": "2006",
+                                        "description": "Coaching - Lehrgang (Balance Akademie Graz)",
+                                        "icon": "/bin/resources/couch.svg"
+                                    }
+                                },
+                                {
+                                    "type": "iconcallout",
+                                    "data": {
+                                        "name": "Pflegediagnostik",
+                                        "year": "1999",
+                                        "description": "Weiterbildung in Pflegediagnostik in der Psychiatrie (Niederösterreich)",
+                                        "icon": "/bin/resources/heart.svg"
+                                    }
+                                },
+                                {
+                                    "type": "iconcallout",
+                                    "data": {
+                                        "name": "Kinästhetik",
+                                        "year": "1995",
+                                        "description": "Grundkurs Kinästhetik in der Pflege (ÖKV Wien)",
+                                        "icon": "/bin/resources/dancing.svg"
+                                    }
+                                },
+                                {
+                                    "type": "iconcallout",
+                                    "data": {
+                                        "name": "Basale Stimulation",
+                                        "year": "1995",
+                                        "description": "Grundkurs Basale Stimulation in der Pflege (ÖKV Wien)",
+                                        "icon": "/bin/resources/peace.svg"
+                                    }
+                                },
+                                {
+                                    "type": "iconcallout",
+                                    "data": {
+                                        "name": "Vorlesungen und Seminare",
+                                        "year": "1992",
+                                        "description": "Ausgewählte Vorlesungen und Seminare an der Uni Graz (Allgemeine Psychologie, Interpersonelle Kommunikation, Spielpädagogik und kreative Medien, Gerontopsychologie, pädagogische Psychologie, Entwicklungspsychologie)",
+                                        "icon": "/bin/resources/book.svg"
+                                    }
+                                },
+                                {
+                                    "type": "iconcallout",
+                                    "data": {
+                                        "name": "Pflege nach dem Bobathkonzept",
+                                        "year": "1991",
+                                        "description": "Weiterbildung in der Pflege nach dem Bobathkonzept (ÖKV Graz)",
+                                        "icon": "/bin/resources/hand.svg"
+                                    }
+                                },
+                                {
+                                    "type": "iconcallout",
+                                    "data": {
+                                        "name": "Mentorin",
+                                        "year": "1990",
+                                        "description": "Weiterbildung zur Mentorin für KrankenpflegeschülerInnen (Salzburg)",
+                                        "icon": "/bin/resources/teacher.svg"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "type": "contentline",
+            "data": {
+                "modules": [
+                    {
+                        "type": "verticaltitle",
+                        "data": {
+                            "align": "left",
+                            "heading": "Weitere berufliche Stationen",
+                            "callouts": [
+                                {
+                                    "type": "callout",
+                                    "data": {
+                                        "name": "Leitung von Jahresselbsterfahrungsgruppen",
+                                        "year": "2007 - 2008",
+                                        "description": " für Eltern/PädagogInnen in der Methode der Gewaltfreien Kommunikation nach Rosenberg in Graz"
+                                    }
+                                },
+                                {
+                                    "type": "callout",
+                                    "data": {
+                                        "name": "IGW - Integrative Gewaltpräventionswerkstatt",
+                                        "year": "2006",
+                                        "description": "<strong>Projektentwicklung und Durchführung</strong><br/>IGW – Integrative Gewaltpräventionswerkstatt für Grundschulen, Förderung durch das BM/Abteilung Schulpsychologie."
+                                    }
+                                },
+                                {
+                                    "type": "callout",
+                                    "data": {
+                                        "name": "Lehrtätigkeit am BFI Deutschlandsberg",
+                                        "year": "1999 - 2000",
+                                        "description": "PflegehelferInnenausbildung"
+                                    }
+                                },
+                                {
+                                    "type": "callout",
+                                    "data": {
+                                        "name": "Lehrtätigkeit an der Schule für psychiatrische Gesundheits- und Krankenpflege Graz",
+                                        "year": "1993 - 2006",
+                                        "description": "<strong>Schwerpunkte</strong> - Kommunikation, Gesprächsführung, Konfliktmanagement, Allgemeine Gesundheits- und Krankenpflege, Pflegemodelle.<br/>Leitung von PflegehelferInnenlehrgängen, Praxisbegleitung"
+                                    }
+                                },
+                                {
+                                    "type": "callout",
+                                    "data": {
+                                        "name": "Diplomkrankenschwester",
+                                        "year": "1992 - 1993",
+                                        "description": "Am Landessonderkrankenhaus Sigmund Freud in Graz."
+                                    }
+                                },
+                                {
+                                    "type": "callout",
+                                    "data": {
+                                        "name": "Diplomkrankenschwester",
+                                        "year": "1989 - 1992",
+                                        "description": "Am LKH Salzburg<br/>Mentorin für KrankenpflegeschülerInnen<br/>Geringfügige Lehrtätigkeit an der Landeskrankenpflegeschule Salzburg"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
         }
-      ]
-  }
+    ],
+    "foot": {
+        "modules": [
+            {
+                "type": "twolines",
+                "data": {
+                    "firstline": "+43 699 88 46 75 44",
+                    "secondline": "christine.minixhofer@dialogus.at"
+                }
+            },
+            {
+                "type": "socialtitle",
+                "data": {
+                    "heading": "Christine Minixhofer, MSc",
+                    "socials": [
+                        {
+                            "type": "urlicon",
+                            "data": {
+                                "url": "https://www.facebook.com/christineminixhofer",
+                                "title": "Facebook"
+                            }
+                        },
+                        {
+                            "type": "urlicon",
+                            "data": {
+                                "url": "http://www.arbor-seminare.de/christine-minixhofer",
+                                "title": "Arbor Seminare"
+                            }
+                        },
+                        {
+                            "type": "urlicon",
+                            "data": {
+                                "url": "http://centerformsc.org/msc-teacher/christine-minixhofer",
+                                "title": "Center for Mindful Self-Compassion"
+                            }
+                        },
+                        {
+                            "type": "urlicon",
+                            "data": {
+                                "url": "http://www.gewaltfrei.at/profile/christineminixhofer",
+                                "title": "Gewaltfreie Kommunikation Austria"
+                            }
+                        },
+                        {
+                            "type": "urlicon",
+                            "data": {
+                                "url": "http://www.gewaltfrei-dach.eu/wissenschaftliche-arbeiten",
+                                "title": "DACH e.V. - Gewaltfreie Kommunikation"
+                            }
+                        },
+                        {
+                            "type": "urlicon",
+                            "data": {
+                                "url": "http://www.steigls.org/index.php?id=praxisadresse_detail&lebensberater=163",
+                                "title": "Steirische Gesellschaft für Lebens- und Sozialberatung"
+                            }
+                        },
+                        {
+                            "type": "urlicon",
+                            "data": {
+                                "url": "https://www.xing.com/profile/Christine_Minixhofer/web_profiles",
+                                "title": "Xing"
+                            }
+                        },
+                        {
+                            "type": "urlicon",
+                            "data": {
+                                "url": "http://www.bestnet.com/go.asp?personen_id=144740&sektion=personen&rkarte=infodet",
+                                "title": "bestNET"
+                            }
+                        },
+                        {
+                            "type": "urlicon",
+                            "data": {
+                                "url": "http://christine-minixhofer.stadtausstellung.at",
+                                "title": "Stadtausstellung"
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "twolines",
+                "data": {
+                    "firstline": "Mitterstraße 128/11",
+                    "secondline": "8055 Seiersberg bei Graz"
+                }
+            }
+        ]
+    }
 }
