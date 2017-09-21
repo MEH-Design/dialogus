@@ -864,7 +864,10 @@
                                 {
                                     "type": "filecallout",
                                     "data": {
+                                        "id": "",
+                                        "platzhalter": "",
                                         "name": "Geriatrische Gesundheitszentren der Stadt Graz - Achtsame und Gewaltfreie Kommunikation zur Prävention von Aggression und Gewalt",
+                                        "description": "",
                                         "datum": "25.2.2016",
                                         "file": "/bin/resources/unterlagen/2.pdf",
                                         "text": "Flipchartprotokoll"
