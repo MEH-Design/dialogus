@@ -1,978 +1,987 @@
 {
-   "title":"Unterlagen zum Download | Christine Minixhofer, MSc",
-   "header":{
-      "headline": {
-         "heading":"Christine Minixhofer, Msc",
-         "subheading":"Training | Coaching | Supervision | Psychologische Beratung"
-      },
-      "hero":{
-         "items":[
-            {
-               "type":"quote",
-               "data":{
-                  "quote":"Denn Zeit ist Leben.<br/>Und das Leben wohnt im Herzen.",
-                  "author":"Michael Ende, Momo"
-               }
-            },
-            {
-               "type":"image",
-               "data":"/bin/resources/igel.png"
-            }
-         ]
-      },
-      "navigation":{
-         "links":[
-            {
-               "type":"link",
-               "data":{
-                  "text":"Home",
-                  "link":"/bin/home.html#nav"
-               }
-            },
-            {
-               "type":"link",
-               "data":{
-                  "text":"Über mich",
-                  "link":"/bin/ueber-mich.html#nav"
-               }
-            },
-            {
-               "type":"link",
-               "data":{
-                  "text":"Methoden",
-                  "link":"/bin/methoden.html#nav"
-               }
-            },
-            {
-               "type":"link",
-               "data":{
-                  "text":"Angebote",
-                  "link":"/bin/angebote.html#nav"
-               }
-            },
-            {
-               "type":"link",
-               "data":{
-                  "text":"Zum Schmökern",
-                  "selected":"true"
-               }
-            },
-            {
-               "type":"link",
-               "data":{
-                  "text":"Kontakt",
-                  "link":"/bin/kontakt.html#nav"
-               }
-            },
-            {
-               "type":"link",
-               "data":{
-                  "text":"Newsletter",
-                  "link":"/bin/newsletter.html#nav"
-               }
-            },
-            {
-               "type":"link",
-               "data":{
-                  "text":"Impressum",
-                  "link":"/bin/Impressum.html#nav"
-               }
-            }
-         ]
-      }
-   },
-   "lines":[
-      {
-         "type":"contentline",
-         "data":{
-            "nopadding":"true",
-            "modules":[
-               {
-                  "type":"buttongroup",
-                  "data":{
-                     "buttons":[
-                        {
-                           "type":"button",
-                           "data":{
-                              "link":"/bin/zum-schmoekern/unterlagen-seminare.html#nav",
-                              "text":"Unterlagen Seminare",
-                              "selected": "true"
-                           }
-                        },
-                        {
-                           "type":"button",
-                           "data":{
-                              "link":"/bin/zum-schmoekern/meditationen.html#nav",
-                              "text":"Meditationen"
-                           }
-                        },
-                        {
-                           "type":"button",
-                           "data":{
-                              "link":"/bin/zum-schmoekern/publikationen.html#nav",
-                              "text":"Publikationen"
-                           }
-                        },
-                        {
-                           "type":"button",
-                           "data":{
-                              "link":"/bin/zum-schmoekern/links.html#nav",
-                              "text":"Links"
-                           }
-                        },
-                        {
-                           "type":"button",
-                           "data":{
-                              "link":"/bin/zum-schmoekern/referenzen.html#nav",
-                              "text":"Referenzen"
-                           }
-                        },
-                        {
-                           "type":"button",
-                           "data":{
-                              "link":"/bin/zum-schmoekern/literaturtipps.html#nav",
-                              "text":"Literaturtipps"
-                           }
-                        }
-                     ]
-                  }
-               }
+    "title": "Unterlagen zum Download | Christine Minixhofer, MSc",
+    "header": {
+        "headline": {
+            "heading": "Christine Minixhofer, Msc",
+            "subheading": "Training | Coaching | Supervision | Psychologische Beratung"
+        },
+        "hero": {
+            "items": [
+                {
+                    "type": "quote",
+                    "data": {
+                        "quote": "Denn Zeit ist Leben.<br/>Und das Leben wohnt im Herzen.",
+                        "author": "Michael Ende, Momo"
+                    }
+                },
+                {
+                    "type": "image",
+                    "data": "/bin/resources/igel.png"
+                }
             ]
-         }
-      },
-      {
-        "type": "contentline",
-        "data": {
-          "modules": [
-            {
-              "type": "bigquote",
-              "data": {
-                "heading": "<span style='font-size:1.5rem'>Über Ihre/Deine Empfehlung auf <a href='https://www.gutgemacht.at/c/christine-minixhofer-msc' class='button' target='_blank'>gutgemacht.at</a> würde ich mich sehr freuen.</span>"
-              }
-            }
-          ]
+        },
+        "navigation": {
+            "links": [
+                {
+                    "type": "link",
+                    "data": {
+                        "text": "Home",
+                        "link": "/bin/home.html#nav"
+                    }
+                },
+                {
+                    "type": "link",
+                    "data": {
+                        "text": "Über mich",
+                        "link": "/bin/ueber-mich.html#nav"
+                    }
+                },
+                {
+                    "type": "link",
+                    "data": {
+                        "text": "Methoden",
+                        "link": "/bin/methoden.html#nav"
+                    }
+                },
+                {
+                    "type": "link",
+                    "data": {
+                        "text": "Angebote",
+                        "link": "/bin/angebote.html#nav"
+                    }
+                },
+                {
+                    "type": "link",
+                    "data": {
+                        "text": "Zum Schmökern",
+                        "selected": "true"
+                    }
+                },
+                {
+                    "type": "link",
+                    "data": {
+                        "text": "Kontakt",
+                        "link": "/bin/kontakt.html#nav"
+                    }
+                },
+                {
+                    "type": "link",
+                    "data": {
+                        "text": "Newsletter",
+                        "link": "/bin/newsletter.html#nav"
+                    }
+                },
+                {
+                    "type": "link",
+                    "data": {
+                        "text": "Impressum",
+                        "link": "/bin/Impressum.html#nav"
+                    }
+                }
+            ]
         }
-      },
-      {
-         "type":"contentline",
-         "data":{
-            "modules":[
-               {
-                  "type":"verticaltitle",
-                  "data":{
-                     "heading":"Unterlagen zum Download",
-                     "callouts":[
-                        {
-                           "type":"passwordcallout",
-                           "data":{
-                              "id":" ",
-                              "platzhalter":"Auftraggeber...",
-                              "name":"Suche",
-                              "description":"Als Seminar- oder Schulungsteilnehmer/in finden Sie hier Dateien Ihres Seminars für den Download. Die Dateien sind kennwortgeschützt. Zum Öffnen benötigen Sie den <strong>Adobe Acrobat Reader</strong>, der im Netz kostenlos zum Download zur Verfügung steht. Bitte speichern Sie bei Interesse die Dateien auf Ihrem PC, da ich immer wieder mal für die Übersichtlichkeit etwas 'aufräume' und alte Dateien vom Netz nehme.<br/>Wenn Sie im Suchfeld den Namen des Auftraggebers eingeben, kommen Sie schneller zu Ihren Unterlagen."
-                           }
+    },
+    "lines": [
+        {
+            "type": "contentline",
+            "data": {
+                "nopadding": "true",
+                "modules": [
+                    {
+                        "type": "buttongroup",
+                        "data": {
+                            "buttons": [
+                                {
+                                    "type": "button",
+                                    "data": {
+                                        "link": "/bin/zum-schmoekern/unterlagen-seminare.html#nav",
+                                        "text": "Unterlagen Seminare",
+                                        "selected": "true"
+                                    }
+                                },
+                                {
+                                    "type": "button",
+                                    "data": {
+                                        "link": "/bin/zum-schmoekern/meditationen.html#nav",
+                                        "text": "Meditationen"
+                                    }
+                                },
+                                {
+                                    "type": "button",
+                                    "data": {
+                                        "link": "/bin/zum-schmoekern/publikationen.html#nav",
+                                        "text": "Publikationen"
+                                    }
+                                },
+                                {
+                                    "type": "button",
+                                    "data": {
+                                        "link": "/bin/zum-schmoekern/links.html#nav",
+                                        "text": "Links"
+                                    }
+                                },
+                                {
+                                    "type": "button",
+                                    "data": {
+                                        "link": "/bin/zum-schmoekern/referenzen.html#nav",
+                                        "text": "Referenzen"
+                                    }
+                                },
+                                {
+                                    "type": "button",
+                                    "data": {
+                                        "link": "/bin/zum-schmoekern/literaturtipps.html#nav",
+                                        "text": "Literaturtipps"
+                                    }
+                                }
+                            ]
                         }
-                     ]
-                  }
-               }
-            ]
-         }
-      },
-      {
-         "type":"contentline",
-         "data":{
-            "modules":[
-              {
-                 "type":"verticaltitle",
-                 "data":{
-                    "heading":"Suchergebnisse",
-                    "callouts":[
-                      {
-                         "type":"filecallout",
-                         "data":{
-                            "datum":"12./13./19./20.6.2017",
-                            "name":"Schule für psychiatrische Gesundheits- und Krankenpflege - Graz",
-                            "file":"/bin/resources/unterlagen/77.pdf",
-                            "text":"Seminarunterlagen"
-                         }
-                      },
-                      {
-                         "type":"filecallout",
-                         "data":{
-                            "datum":"12./13./19./20.6.2017",
-                            "name":"Schule für psychiatrische Gesundheits- und Krankenpflege - Graz",
-                            "file":"/bin/resources/unterlagen/76.pdf",
-                            "text":"Seminarunterlagen"
-                         }
-                      },
-                      {
-                         "type":"filecallout",
-                         "data":{
-                            "datum":"2.6.2017",
-                            "name":"STMK GKK - Workshopreihe für die Abteilung Physiotherapie Gruppe 3",
-                            "file":"/bin/resources/unterlagen/75.pdf",
-                            "text":"Protokoll"
-                         }
-                      },
-                      {
-                         "type":"filecallout",
-                         "data":{
-                            "datum":"5.5.2017",
-                            "name":"STMK GKK - Workshopreihe für die Abteilung Physiotherapie Gruppe 3",
-                            "file":"/bin/resources/unterlagen/74.pdf",
-                            "text":"Protokoll"
-                         }
-                      },
-                      {
-                         "type":"filecallout",
-                         "data":{
-                            "datum":"29.4.2017",
-                            "name":"Prohumanis Jahresfachtung 2017 - Workshop: Gewaltfrei und achtsam kommunizieren in angespannten Situationen",
-                            "file":"/bin/resources/unterlagen/73.pdf",
-                            "text":"Flipchartprotokoll"
-                         }
-                      },
-                      {
-                         "type":"filecallout",
-                         "data":{
-                            "datum":"4. und 5.4.2017",
-                            "name":"LKH Graz Süd-West, Standort Süd.  Achtsame und Gewaltfreie Kommunikation zur Prävention von Aggression und Gewalt",
-                            "file":"/bin/resources/unterlagen/72.pdf",
-                            "text":"Protokoll"
-                         }
-                      },
-                      {
-                         "type":"filecallout",
-                         "data":{
-                            "datum":"31.3.2017",
-                            "name":"LKH Uniklinikum Graz, Modul 1 für Ärzte/Achtsame und Gewaltfreie Kommunikation zur Prävention von Aggression und Gewalt",
-                            "file":"/bin/resources/unterlagen/71.pdf",
-                            "text":"Protokoll"
-                         }
-                      },
-                      {
-                         "type":"filecallout",
-                         "data":{
-                            "datum":"27.3.2017",
-                            "name":"STMK GKK - Workshopreihe für die Abteilung Physiotherapie Gruppe 3",
-                            "file":"/bin/resources/unterlagen/70.pdf",
-                            "text":"Protokoll"
-                         }
-                      },
+                    }
+                ]
+            }
+        },
+        {
+            "type": "contentline",
+            "data": {
+                "modules": [
+                    {
+                        "type": "bigquote",
+                        "data": {
+                            "heading": "<span style='font-size:1.5rem'>Über Ihre/Deine Empfehlung auf <a href='https://www.gutgemacht.at/c/christine-minixhofer-msc' class='button' target='_blank'>gutgemacht.at</a> würde ich mich sehr freuen.</span>"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "type": "contentline",
+            "data": {
+                "modules": [
+                    {
+                        "type": "verticaltitle",
+                        "data": {
+                            "heading": "Unterlagen zum Download",
+                            "callouts": [
+                                {
+                                    "type": "passwordcallout",
+                                    "data": {
+                                        "id": " ",
+                                        "platzhalter": "Auftraggeber...",
+                                        "name": "Suche",
+                                        "description": "Als Seminar- oder Schulungsteilnehmer/in finden Sie hier Dateien Ihres Seminars für den Download. Die Dateien sind kennwortgeschützt. Zum Öffnen benötigen Sie den <strong>Adobe Acrobat Reader</strong>, der im Netz kostenlos zum Download zur Verfügung steht. Bitte speichern Sie bei Interesse die Dateien auf Ihrem PC, da ich immer wieder mal für die Übersichtlichkeit etwas 'aufräume' und alte Dateien vom Netz nehme.<br/>Wenn Sie im Suchfeld den Namen des Auftraggebers eingeben, kommen Sie schneller zu Ihren Unterlagen."
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "type": "contentline",
+            "data": {
+                "modules": [
+                    {
+                        "type": "verticaltitle",
+                        "data": {
+                            "heading": "Suchergebnisse",
+                            "callouts": [
+                                {
+                                    "type": "filecallout",
+                                    "data": {
+                                        "datum": "12./13./19./20.6.2017",
+                                        "name": "Schule für psychiatrische Gesundheits- und Krankenpflege - Graz",
+                                        "file": "/bin/resources/unterlagen/77.pdf",
+                                        "text": "Seminarunterlagen"
+                                    }
+                                },
+                                {
+                                    "type": "filecallout",
+                                    "data": {
+                                        "datum": "12./13./19./20.6.2017",
+                                        "name": "Schule für psychiatrische Gesundheits- und Krankenpflege - Graz",
+                                        "file": "/bin/resources/unterlagen/76.pdf",
+                                        "text": "Seminarunterlagen"
+                                    }
+                                },
+                                {
+                                    "type": "filecallout",
+                                    "data": {
+                                        "datum": "2.6.2017",
+                                        "name": "STMK GKK - Workshopreihe für die Abteilung Physiotherapie Gruppe 3",
+                                        "file": "/bin/resources/unterlagen/75.pdf",
+                                        "text": "Protokoll"
+                                    }
+                                },
+                                {
+                                    "type": "filecallout",
+                                    "data": {
+                                        "datum": "5.5.2017",
+                                        "name": "STMK GKK - Workshopreihe für die Abteilung Physiotherapie Gruppe 3",
+                                        "file": "/bin/resources/unterlagen/74.pdf",
+                                        "text": "Protokoll"
+                                    }
+                                },
+                                {
+                                    "type": "filecallout",
+                                    "data": {
+                                        "datum": "29.4.2017",
+                                        "name": "Prohumanis Jahresfachtung 2017 - Workshop: Gewaltfrei und achtsam kommunizieren in angespannten Situationen",
+                                        "file": "/bin/resources/unterlagen/73.pdf",
+                                        "text": "Flipchartprotokoll"
+                                    }
+                                },
+                                {
+                                    "type": "filecallout",
+                                    "data": {
+                                        "datum": "4. und 5.4.2017",
+                                        "name": "LKH Graz Süd-West, Standort Süd.  Achtsame und Gewaltfreie Kommunikation zur Prävention von Aggression und Gewalt",
+                                        "file": "/bin/resources/unterlagen/72.pdf",
+                                        "text": "Protokoll"
+                                    }
+                                },
+                                {
+                                    "type": "filecallout",
+                                    "data": {
+                                        "datum": "31.3.2017",
+                                        "name": "LKH Uniklinikum Graz, Modul 1 für Ärzte/Achtsame und Gewaltfreie Kommunikation zur Prävention von Aggression und Gewalt",
+                                        "file": "/bin/resources/unterlagen/71.pdf",
+                                        "text": "Protokoll"
+                                    }
+                                },
+                                {
+                                    "type": "filecallout",
+                                    "data": {
+                                        "datum": "27.3.2017",
+                                        "name": "STMK GKK - Workshopreihe für die Abteilung Physiotherapie Gruppe 3",
+                                        "file": "/bin/resources/unterlagen/70.pdf",
+                                        "text": "Protokoll"
+                                    }
+                                },
+                                {
+                                    "type": "filecallout",
+                                    "data": {
+                                        "datum": "22.3./23.3.2017",
+                                        "name": "LAND STMK. REFERAT Kinderbildung und-betreuung - Gewaltfreie und achtsame Kommunikation in herausfordernden Situationen - 2017",
+                                        "file": "/bin/resources/unterlagen/69.pdf",
+                                        "text": "Seminarunterlagen"
+                                    }
+                                },
+                                {
+                                    "type": "filecallout",
+                                    "data": {
+                                        "datum": "22.3./23.3.2017",
+                                        "name": "LAND STMK. REFERAT Kinderbildung und-betreuung - Gewaltfreie und achtsame Kommunikation in herausfordernden Situationen - 2017",
+                                        "file": "/bin/resources/unterlagen/68.pdf",
+                                        "text": "Protokoll"
+                                    }
+                                },
+                                {
+                                    "type": "filecallout",
+                                    "data": {
+                                        "datum": "22.3./23.3.2017",
+                                        "name": "LAND STMK. REFERAT Kinderbildung und-betreuung - Gewaltfreie und achtsame Kommunikation in herausfordernden Situationen - 2017",
+                                        "file": "/bin/resources/unterlagen/67.pdf",
+                                        "text": "Bilder Haltungen der Achtsamkeit"
+                                    }
+                                },
+                                {
+                                    "type": "filecallout",
+                                    "data": {
+                                        "datum": "22.3./23.3.2017",
+                                        "name": "LAND STMK. REFERAT Kinderbildung und-betreuung - Gewaltfreie und achtsame Kommunikation in herausfordernden Situationen - 2017",
+                                        "file": "/bin/resources/unterlagen/66.pdf",
+                                        "text": "Selbsteinfühlungstanz"
+                                    }
+                                },
+                                {
+                                    "type": "filecallout",
+                                    "data": {
+                                        "datum": "20.4.2017",
+                                        "name": "LAND STMK. REFERAT Kinderbildung und-betreuung - Gewaltfreie und achtsame Kommunikation in herausfordernden Situationen - 2017",
+                                        "file": "/bin/resources/unterlagen/65.pdf",
+                                        "text": "Protokoll"
+                                    }
+                                },
+                                {
+                                    "type": "filecallout",
+                                    "data": {
+                                        "datum": "20.4.2017",
+                                        "name": "LAND STMK. REFERAT Kinderbildung und-betreuung - Gewaltfreie und achtsame Kommunikation in herausfordernden Situationen - 2017",
+                                        "file": "/bin/resources/unterlagen/64.pdf",
+                                        "text": "Innen-Aussentanz"
+                                    }
+                                },
+                                {
+                                    "type": "filecallout",
+                                    "data": {
+                                        "datum": "7.3.2017",
+                                        "name": "LKH Uniklinikum Graz, Modul 24 - Achtsame und Gewaltfreie Kommunikation zur Prävention von Aggression und Gewalt",
+                                        "file": "/bin/resources/unterlagen/63.pdf",
+                                        "text": "Protokoll"
+                                    }
+                                },
+                                {
+                                    "type": "filecallout",
+                                    "data": {
+                                        "datum": "21.4.2017",
+                                        "name": "LKH Uniklinikum Graz, Modul 24 - Achtsame und Gewaltfreie Kommunikation zur Prävention von Aggression und Gewalt",
+                                        "file": "/bin/resources/unterlagen/62.pdf",
+                                        "text": "Protokoll"
+                                    }
+                                },
+                                {
+                                    "type": "filecallout",
+                                    "data": {
+                                        "datum": "9.3.2017",
+                                        "name": "LKH Uniklinikum Graz, Modul 23 - Achtsame und Gewaltfreie Kommunikation zur Prävention von Aggression und Gewalt",
+                                        "file": "/bin/resources/unterlagen/61.pdf",
+                                        "text": "Protokoll"
+                                    }
+                                },
+                                {
+                                    "type": "filecallout",
+                                    "data": {
+                                        "datum": "24.3.2017",
+                                        "name": "STMK GKK - Workshopreihe für die Abteilung Physiotherapie Gruppe 2",
+                                        "file": "/bin/resources/unterlagen/60.pdf",
+                                        "text": "Protokoll"
+                                    }
+                                },
+                                {
+                                    "type": "filecallout",
+                                    "data": {
+                                        "datum": "3.3.2017",
+                                        "name": "STMK GKK - Workshopreihe für die Abteilung Physiotherapie Gruppe 2",
+                                        "file": "/bin/resources/unterlagen/59.pdf",
+                                        "text": "Protokoll"
+                                    }
+                                },
+                                {
+                                    "type": "filecallout",
+                                    "data": {
+                                        "datum": "7.2.2017",
+                                        "name": "LKH Uniklinikum Graz, Modul 23 - Achtsame und Gewaltfreie Kommunikation zur Prävention von Aggression und Gewalt",
+                                        "file": "/bin/resources/unterlagen/58.pdf",
+                                        "text": "Protokoll"
+                                    }
+                                },
+                                {
+                                    "type": "filecallout",
+                                    "data": {
+                                        "datum": "6.2.2017",
+                                        "name": "STMK GKK - Workshopreihe für die Abteilung Physiotherapie Gruppe 2",
+                                        "file": "/bin/resources/unterlagen/57.pdf",
+                                        "text": "Protokoll"
+                                    }
+                                },
+                                {
+                                    "type": "filecallout",
+                                    "data": {
+                                        "datum": "12.1.2017",
+                                        "name": "GFSG - Workshopreihe - Mit Achtsamkeit ins Neue Jahr",
+                                        "file": "/bin/resources/unterlagen/56.pdf",
+                                        "text": "Protokoll"
+                                    }
+                                },
+                                {
+                                    "type": "filecallout",
+                                    "data": {
+                                        "datum": "19.1.2017",
+                                        "name": "GFSG - Workshopreihe - Mit Achtsamkeit ins Neue Jahr",
+                                        "file": "/bin/resources/unterlagen/55.pdf",
+                                        "text": "Protokoll"
+                                    }
+                                },
+                                {
+                                    "type": "filecallout",
+                                    "data": {
+                                        "datum": "29. und 30.11.2016",
+                                        "name": "LKH Graz Süd-West, Standort Süd: Auftanken statt Ausbrennen",
+                                        "file": "/bin/resources/unterlagen/54.pdf",
+                                        "text": "Protokoll"
+                                    }
+                                },
+                                {
+                                    "type": "filecallout",
+                                    "data": {
+                                        "datum": "29. und 30.11.2016",
+                                        "name": "LKH Graz Süd-West, Standort Süd: Auftanken statt Ausbrennen",
+                                        "file": "/bin/resources/unterlagen/53.pdf",
+                                        "text": "Seminarunterlagen"
+                                    }
+                                },
+                                {
+                                    "type": "filecallout",
+                                    "data": {
+                                        "datum": "29. und 30.11.2016",
+                                        "name": "LKH Graz Süd-West, Standort Süd: Auftanken statt Ausbrennen",
+                                        "file": "/bin/resources/unterlagen/52.pdf",
+                                        "text": "4 Minuten Test"
+                                    }
+                                },
+                                {
+                                    "type": "filecallout",
+                                    "data": {
+                                        "datum": "31.5.2016",
+                                        "name": "Hilfswerk Steiermark, Gewaltfreie und achtsame Kommunikation in herausfordernden Situationen",
+                                        "file": "/bin/resources/unterlagen/51.pdf",
+                                        "text": "Seminarunterlagen"
+                                    }
+                                },
+                                {
+                                    "type": "filecallout",
+                                    "data": {
+                                        "datum": "31.5.2016",
+                                        "name": "Hilfswerk Steiermark, Gewaltfreie und achtsame Kommunikation in herausfordernden Situationen",
+                                        "file": "/bin/resources/unterlagen/50.pdf",
+                                        "text": "Flipchartprotokoll"
+                                    }
+                                },
+                                {
+                                    "type": "filecallout",
+                                    "data": {
+                                        "datum": "25.10.2016",
+                                        "name": "Hilfswerk Steiermark, Gewaltfreie und achtsame Kommunikation in herausfordernden Situationen",
+                                        "file": "/bin/resources/unterlagen/49.pdf",
+                                        "text": "Flipchartprotokoll"
+                                    }
+                                },
+                                {
+                                    "type": "filecallout",
+                                    "data": {
+                                        "datum": "17.10.2016",
+                                        "name": "a:sk Akademie der Stmk. Krankenanstaltenges.m.b.H. - Was tun wenn`s in Gesprächen schwierig wird?",
+                                        "file": "/bin/resources/unterlagen/48.pdf",
+                                        "text": "Flipchartprotokoll"
+                                    }
+                                },
+                                {
+                                    "type": "filecallout",
+                                    "data": {
+                                        "datum": "15.11.2016",
+                                        "name": "a:sk Akademie der Stmk. Krankenanstaltenges.m.b.H. - Was tun wenn`s in Gesprächen schwierig wird?",
+                                        "file": "/bin/resources/unterlagen/47.pdf",
+                                        "text": "Flipchartprotokoll"
+                                    }
+                                },
+                                {
+                                    "type": "filecallout",
+                                    "data": {
+                                        "datum": "15.11.2016",
+                                        "name": "a:sk Akademie der Stmk. Krankenanstaltenges.m.b.H. - Was tun wenn`s in Gesprächen schwierig wird?",
+                                        "file": "/bin/resources/unterlagen/46.pdf",
+                                        "text": "Selbsteinfühlungstanz"
+                                    }
+                                },
+                                {
+                                    "type": "filecallout",
+                                    "data": {
+                                        "datum": "15.11.2016",
+                                        "name": "a:sk Akademie der Stmk. Krankenanstaltenges.m.b.H. - Was tun wenn`s in Gesprächen schwierig wird?",
+                                        "file": "/bin/resources/unterlagen/45.pdf",
+                                        "text": "Innen-Aussentanz"
+                                    }
+                                },
+                                {
+                                    "type": "filecallout",
+                                    "data": {
+                                        "datum": "15.11.2016",
+                                        "name": "a:sk Akademie der Stmk. Krankenanstaltenges.m.b.H. - Was tun wenn`s in Gesprächen schwierig wird?",
+                                        "file": "/bin/resources/unterlagen/44.pdf",
+                                        "text": "Teilnehmerliste"
+                                    }
+                                },
+                                {
+                                    "type": "filecallout",
+                                    "data": {
+                                        "datum": "13.10./14.10./18.11.2016",
+                                        "name": "LAND STMK. REFERAT Kinderbildung und-betreuung - Gewaltfreie und achtsame Kommunikation in herausfordernden Situationen",
+                                        "file": "/bin/resources/unterlagen/43.pdf",
+                                        "text": "Seminarunterlagen"
+                                    }
+                                },
+                                {
+                                    "type": "filecallout",
+                                    "data": {
+                                        "datum": "13.10./14.10./18.11.2016",
+                                        "name": "LAND STMK. REFERAT Kinderbildung und-betreuung - Gewaltfreie und achtsame Kommunikation in herausfordernden Situationen",
+                                        "file": "/bin/resources/unterlagen/42.pdf",
+                                        "text": "Bilder Haltungen der Achtsamkeit"
+                                    }
+                                },
+                                {
+                                    "type": "filecallout",
+                                    "data": {
+                                        "datum": "13.10./14.10./18.11.2016",
+                                        "name": "LAND STMK. REFERAT Kinderbildung und-betreuung - Gewaltfreie und achtsame Kommunikation in herausfordernden Situationen",
+                                        "file": "/bin/resources/unterlagen/41.pdf",
+                                        "text": "Selbsteinfühlungstanz"
+                                    }
+                                },
+                                {
+                                    "type": "filecallout",
+                                    "data": {
+                                        "datum": "13.10./14.10.2016",
+                                        "name": "LAND STMK. REFERAT Kinderbildung und-betreuung - Gewaltfreie und achtsame Kommunikation in herausfordernden Situationen",
+                                        "file": "/bin/resources/unterlagen/40.pdf",
+                                        "text": "Protokoll"
+                                    }
+                                },
+                                {
+                                    "type": "filecallout",
+                                    "data": {
+                                        "datum": "13.10./14.10./18.11.2016",
+                                        "name": "LAND STMK. REFERAT Kinderbildung und-betreuung - Gewaltfreie und achtsame Kommunikation in herausfordernden Situationen",
+                                        "file": "/bin/resources/unterlagen/39.pdf",
+                                        "text": "Protokoll vom 18.11."
+                                    }
+                                },
+                                {
+                                    "type": "filecallout",
+                                    "data": {
+                                        "datum": "13.10./14.10./18.11.2016",
+                                        "name": "LAND STMK. REFERAT Kinderbildung und-betreuung - Gewaltfreie und achtsame Kommunikation in herausfordernden Situationen",
+                                        "file": "/bin/resources/unterlagen/38.pdf",
+                                        "text": "Workshopunterlagen Bei sich zu Hause sein"
+                                    }
+                                },
+                                {
+                                    "type": "filecallout",
+                                    "data": {
+                                        "datum": "11.10.2016",
+                                        "name": "STMK GKK - Workshopreihe für die Abteilung Physiotherapie, Gruppe 1",
+                                        "file": "/bin/resources/unterlagen/37.pdf",
+                                        "text": "Protokoll"
+                                    }
+                                },
+                                {
+                                    "type": "filecallout",
+                                    "data": {
+                                        "datum": "11.11.2016",
+                                        "name": "STMK GKK - Workshopreihe für die Abteilung Physiotherapie, Gruppe 1",
+                                        "file": "/bin/resources/unterlagen/36.pdf",
+                                        "text": "Protokoll"
+                                    }
+                                },
+                                {
+                                    "type": "filecallout",
+                                    "data": {
+                                        "datum": "02.12.1016",
+                                        "name": "STMK GKK - Workshopreihe für die Abteilung Physiotherapie, Gruppe 1",
+                                        "file": "/bin/resources/unterlagen/35.pdf",
+                                        "text": "Protokoll"
+                                    }
+                                },
+                                {
+                                    "type": "filecallout",
+                                    "data": {
+                                        "datum": "20.01.2017",
+                                        "name": "STMK GKK - Workshopreihe für die Abteilung Physiotherapie, Gruppe 1",
+                                        "file": "/bin/resources/unterlagen/34.pdf",
+                                        "text": "Protokoll"
+                                    }
+                                },
+                                {
+                                    "type": "filecallout",
+                                    "data": {
+                                        "datum": "3. und 4.10.2016",
+                                        "name": "a:sk Akademie der Stmk. Krankenanstaltenges.m.b.H. - Gewaltfreie und achtsame Kommunikation zur Prävention von Aggression und Gewalt",
+                                        "file": "/bin/resources/unterlagen/33.pdf",
+                                        "text": "Flipchartprotokoll"
+                                    }
+                                },
+                                {
+                                    "type": "filecallout",
+                                    "data": {
+                                        "datum": "3. und 4.10.2016",
+                                        "name": "a:sk Akademie der Stmk. Krankenanstaltenges.m.b.H. - Gewaltfreie und achtsame Kommunikation zur Prävention von Aggression und Gewalt",
+                                        "file": "/bin/resources/unterlagen/32.pdf",
+                                        "text": "Seminarunterlagen"
+                                    }
+                                },
+                                {
+                                    "type": "filecallout",
+                                    "data": {
+                                        "datum": "15.9./19.9./6.10.2016",
+                                        "name": "GFSG - Workshopreihe Achtsames Selbstmitgefühl",
+                                        "file": "/bin/resources/unterlagen/31.pdf",
+                                        "text": "Protokoll der gesamten Workshopreihe"
+                                    }
+                                },
+                                {
+                                    "type": "filecallout",
+                                    "data": {
+                                        "datum": "15.9./19.9./6.10.2016",
+                                        "name": "GFSG - Workshopreihe Achtsames Selbstmitgefühl",
+                                        "file": "/bin/resources/unterlagen/30.pdf",
+                                        "text": "Anleitung Selbstmitgefühlspause"
+                                    }
+                                },
+                                {
+                                    "type": "filecallout",
+                                    "data": {
+                                        "datum": "26.9.2016",
+                                        "name": "CARITAS, wertschätzend kommunizieren in herausfordernden Situationen",
+                                        "file": "/bin/resources/unterlagen/29.pdf",
+                                        "text": "Flipchartprotokoll"
+                                    }
+                                },
+                                {
+                                    "type": "filecallout",
+                                    "data": {
+                                        "datum": "24.10.2016",
+                                        "name": "CARITAS, wertschätzend kommunizieren in herausfordernden Situationen",
+                                        "file": "/bin/resources/unterlagen/28.pdf",
+                                        "text": "Protokoll"
+                                    }
+                                },
+                                {
+                                    "type": "filecallout",
+                                    "data": {
+                                        "datum": "24.10.2016",
+                                        "name": "CARITAS, wertschätzend kommunizieren in herausfordernden Situationen",
+                                        "file": "/bin/resources/unterlagen/27.pdf",
+                                        "text": "Meditation Liebende Güte"
+                                    }
+                                },
+                                {
+                                    "type": "filecallout",
+                                    "data": {
+                                        "datum": "24.10.2016",
+                                        "name": "CARITAS, wertschätzend kommunizieren in herausfordernden Situationen",
+                                        "file": "/bin/resources/unterlagen/26.pdf",
+                                        "text": "Schritte Selbsteinfühlungstanz"
+                                    }
+                                },
+                                {
+                                    "type": "filecallout",
+                                    "data": {
+                                        "datum": "20.9.2016",
+                                        "name": "LKH Uniklinikum Graz, Modul 22 - Achtsame und Gewaltfreie Kommunikation zur Prävention von Aggression und Gewalt",
+                                        "file": "/bin/resources/unterlagen/25.pdf",
+                                        "text": "Flipchartprotokoll"
+                                    }
+                                },
+                                {
+                                    "type": "filecallout",
+                                    "data": {
+                                        "datum": "18.10.2016",
+                                        "name": "LKH Uniklinikum Graz, Modul 22 - Achtsame und Gewaltfreie Kommunikation zur Prävention von Aggression und Gewalt",
+                                        "file": "/bin/resources/unterlagen/24.pdf",
+                                        "text": "Flipchartprotokoll"
+                                    }
+                                },
+                                {
+                                    "type": "filecallout",
+                                    "data": {
+                                        "datum": "6.9.2016/7.9.2016/8.9.2016",
+                                        "name": "Fachtagung für elementare Bildung 2016/Referat A6, Workshop - Bei sich zu Hause sein - Möglichkeiten für ein achtsames Miteinander",
+                                        "file": "/bin/resources/unterlagen/23.pdf",
+                                        "text": "Protokoll der Flipcharts, Geschichte etc...."
+                                    }
+                                },
+                                {
+                                    "type": "filecallout",
+                                    "data": {
+                                        "datum": "24.5./25.5/2.6.2016",
+                                        "name": "Schule für psychiatrische Gesundheits- und Krankenpflege, Prävention von Aggression und Gewalt",
+                                        "file": "/bin/resources/unterlagen/22.pdf",
+                                        "text": "Seminarunterlagen"
+                                    }
+                                },
+                                {
+                                    "type": "filecallout",
+                                    "data": {
+                                        "datum": "Gruppe B - 24.5.2016/ 2.6.2016",
+                                        "name": "Schule für psychiatrische Gesundheits- und Krankenpflege, Prävention von Aggression und Gewalt",
+                                        "file": "/bin/resources/unterlagen/21.pdf",
+                                        "text": "Flipchartprotokoll"
+                                    }
+                                },
+                                {
+                                    "type": "filecallout",
+                                    "data": {
+                                        "datum": "Gruppe A - 25.5.2016/ 6.6.2016",
+                                        "name": "Schule für psychiatrische Gesundheits- und Krankenpflege, Prävention von Aggression und Gewalt",
+                                        "file": "/bin/resources/unterlagen/20.pdf",
+                                        "text": "Flipchartprotokoll"
+                                    }
+                                },
+                                {
+                                    "type": "filecallout",
+                                    "data": {
+                                        "datum": "26./27.4.2016",
+                                        "name": "LKH Graz Süd-West, Standort Süd: Achtsame und Gewaltfreie Kommunikation zur Prävention von Aggression und Gewalt",
+                                        "file": "/bin/resources/unterlagen/19.pdf",
+                                        "text": "Flipchartprotokoll"
+                                    }
+                                },
+                                {
+                                    "type": "filecallout",
+                                    "data": {
+                                        "datum": "19./20.4.2016",
+                                        "name": "LAND STMK. REFERAT Kinderbildung und-betreuung - Selbst-Stärkung mit Selbst-Mitgefühl und Achtsamkeit",
+                                        "file": "/bin/resources/unterlagen/18.pdf",
+                                        "text": "Seminarunterlagen"
+                                    }
+                                },
+                                {
+                                    "type": "filecallout",
+                                    "data": {
+                                        "datum": "19./20.4.2016",
+                                        "name": "LAND STMK. REFERAT Kinderbildung und-betreuung - Selbst-Stärkung mit Selbst-Mitgefühl und Achtsamkeit",
+                                        "file": "/bin/resources/unterlagen/17.pdf",
+                                        "text": "Seminarunterlagen"
+                                    }
+                                },
+                                {
+                                    "type": "filecallout",
+                                    "data": {
+                                        "datum": "19./20.4.2016",
+                                        "name": "LAND STMK. REFERAT Kinderbildung und-betreuung - Selbst-Stärkung mit Selbst-Mitgefühl und Achtsamkeit",
+                                        "file": "/bin/resources/unterlagen/16.pdf",
+                                        "text": "Flipchartprotokoll"
+                                    }
+                                },
+                                {
+                                    "type": "filecallout",
+                                    "data": {
+                                        "datum": "19./20.4.2016",
+                                        "name": "LAND STMK. REFERAT Kinderbildung und-betreuung - Selbst-Stärkung mit Selbst-Mitgefühl und Achtsamkeit",
+                                        "file": "/bin/resources/unterlagen/15.pdf",
+                                        "text": "Bodenanker-Grundhaltungen der Achtsamkeit"
+                                    }
+                                },
+                                {
+                                    "type": "filecallout",
+                                    "data": {
+                                        "datum": "20.5.2016",
+                                        "name": "LAND STMK. REFERAT Kinderbildung und-betreuung - Selbst-Stärkung mit Selbst-Mitgefühl und Achtsamkeit",
+                                        "file": "/bin/resources/unterlagen/14.pdf",
+                                        "text": "Protokoll"
+                                    }
+                                },
+                                {
+                                    "type": "filecallout",
+                                    "data": {
+                                        "datum": "05.04.2016",
+                                        "name": "LKH Uniklinikum Graz, Modul 21 - Achtsame und Gewaltfreie Kommunikation zur Prävention von Aggression und Gewalt",
+                                        "file": "/bin/resources/unterlagen/13.pdf",
+                                        "text": "Flipchartprotokoll"
+                                    }
+                                },
+                                {
+                                    "type": "filecallout",
+                                    "data": {
+                                        "datum": "12.5.2016",
+                                        "name": "LKH Uniklinikum Graz, Modul 21 - Achtsame und Gewaltfreie Kommunikation zur Prävention von Aggression und Gewalt",
+                                        "file": "/bin/resources/unterlagen/12.pdf",
+                                        "text": "Flipchartprotokoll"
+                                    }
+                                },
+                                {
+                                    "type": "filecallout",
+                                    "data": {
+                                        "datum": "18.03.2016",
+                                        "name": "CARITAS AKADEMIE - Seminar für Freiwillige, Achtsam und gewaltfrei kommunizieren in konfliktgeladenen Situationen",
+                                        "file": "/bin/resources/unterlagen/11.pdf",
+                                        "text": "Flipchartprotokoll"
+                                    }
+                                },
+                                {
+                                    "type": "filecallout",
+                                    "data": {
+                                        "datum": "15. und 16.3.2016",
+                                        "name": "LKH Graz Süd-West, Standort Süd: Achtsame und Gewaltfreie Kommunikation zur Prävention von Aggression und Gewalt",
+                                        "file": "/bin/resources/unterlagen/10.pdf",
+                                        "text": "Flipchartprotokoll"
+                                    }
+                                },
+                                {
+                                    "type": "filecallout",
+                                    "data": {
+                                        "datum": "8.3.2016",
+                                        "name": "LKH Uniklinikum Graz - Modul 20 - Achtsame und Gewaltfreie Kommunikation zur Prävention von Aggression und Gewalt",
+                                        "file": "/bin/resources/unterlagen/9.pdf",
+                                        "text": "Flipchartprotokoll"
+                                    }
+                                },
+                                {
+                                    "type": "filecallout",
+                                    "data": {
+                                        "datum": "3.3.2016",
+                                        "name": "CARITAS Senioren- und Pflegeheim Leoben, wertschätzend kommunizieren in herausfordernden Situationen",
+                                        "file": "/bin/resources/unterlagen/8.pdf",
+                                        "text": "Flipchartprotokoll"
+                                    }
+                                },
+                                {
+                                    "type": "filecallout",
+                                    "data": {
+                                        "datum": "14.04.2016",
+                                        "name": "CARITAS Senioren- und Pflegeheim Leoben, wertschätzend kommunizieren in herausfordernden Situationen",
+                                        "file": "/bin/resources/unterlagen/7.pdf",
+                                        "text": "Flipchartprotokoll"
+                                    }
+                                },
+                                {
+                                    "type": "filecallout",
+                                    "data": {
+                                        "datum": "14.04.2016",
+                                        "name": "CARITAS Senioren- und Pflegeheim Leoben, wertschätzend kommunizieren in herausfordernden Situationen",
+                                        "file": "/bin/resources/unterlagen/6.pdf",
+                                        "text": "Seminarunterlagen"
+                                    }
+                                },
+                                {
+                                    "type": "filecallout",
+                                    "data": {
+                                        "datum": "1.3.2016",
+                                        "name": "LKH Uniklinikum Graz - Modul 19 - Achtsame und Gewaltfreie Kommunikation zur Prävention von Aggression und Gewalt",
+                                        "file": "/bin/resources/unterlagen/5.pdf",
+                                        "text": "Flipchartprotokoll"
+                                    }
+                                },
+                                {
+                                    "type": "filecallout",
+                                    "data": {
+                                        "datum": "7.4.2016",
+                                        "name": "LKH Uniklinikum Graz - Modul 19 - Achtsame und Gewaltfreie Kommunikation zur Prävention von Aggression und Gewalt",
+                                        "file": "/bin/resources/unterlagen/4.pdf",
+                                        "text": "Flipchartprotokoll"
+                                    }
+                                },
+                                {
+                                    "type": "filecallout",
+                                    "data": {
+                                        "datum": "3. Feburar 2016",
+                                        "name": "Geriatrische Gesundheitszentren der Stadt Graz - Achtsame und Gewaltfreie Kommunikation zur Prävention von Aggression und Gewalt",
+                                        "file": "/bin/resources/unterlagen/3.pdf",
+                                        "text": "Flipchartprotokoll"
+                                    }
+                                },
+                                {
+                                    "type": "filecallout",
+                                    "data": {
+                                        "datum": "25.2.2016",
+                                        "name": "Geriatrische Gesundheitszentren der Stadt Graz - Achtsame und Gewaltfreie Kommunikation zur Prävention von Aggression und Gewalt",
+                                        "file": "/bin/resources/unterlagen/2.pdf",
+                                        "text": "Flipchartprotokoll"
+                                    }
+                                },
+                                {
+                                    "type": "filecallout",
+                                    "data": {
+                                        "datum": "19. und 20. 1.2016",
+                                        "name": "LKH Weiz - Achtsame und Gewaltfreie Kommunikation zur Prävention von Aggression und Gewalt",
+                                        "file": "/bin/resources/unterlagen/1.pdf",
+                                        "text": "Flipchartprotokoll"
+                                    }
+                                },
+                                {
+                                    "type": "passwordcallout",
+                                    "data": {
+                                        "id": "",
+                                        "platzhalter": "",
+                                        "name": "",
+                                        "description": ""
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        }
+    ],
+    "foot": {
+        "modules": [
+            {
+                "type": "twolines",
+                "data": {
+                    "firstline": "+43 699 88 46 75 44",
+                    "secondline": "christine.minixhofer@dialogus.at"
+                }
+            },
+            {
+                "type": "socialtitle",
+                "data": {
+                    "heading": "Christine Minixhofer, MSc",
+                    "socials": [
                         {
-                           "type":"filecallout",
-                           "data":{
-                              "datum":"22.3./23.3.2017",
-                              "name":"LAND STMK. REFERAT Kinderbildung und-betreuung - Gewaltfreie und achtsame Kommunikation in herausfordernden Situationen - 2017",
-                              "file":"/bin/resources/unterlagen/69.pdf",
-                              "text":"Seminarunterlagen"
-                           }
+                            "type": "urlicon",
+                            "data": {
+                                "url": "https://www.facebook.com/christineminixhofer",
+                                "title": "Facebook"
+                            }
                         },
                         {
-                           "type":"filecallout",
-                           "data":{
-                              "datum":"22.3./23.3.2017",
-                              "name":"LAND STMK. REFERAT Kinderbildung und-betreuung - Gewaltfreie und achtsame Kommunikation in herausfordernden Situationen - 2017",
-                              "file":"/bin/resources/unterlagen/68.pdf",
-                              "text":"Protokoll"
-                           }
+                            "type": "urlicon",
+                            "data": {
+                                "url": "http://www.arbor-seminare.de/christine-minixhofer",
+                                "title": "Arbor Seminare"
+                            }
                         },
                         {
-                           "type":"filecallout",
-                           "data":{
-                              "datum":"22.3./23.3.2017",
-                              "name":"LAND STMK. REFERAT Kinderbildung und-betreuung - Gewaltfreie und achtsame Kommunikation in herausfordernden Situationen - 2017",
-                              "file":"/bin/resources/unterlagen/67.pdf",
-                              "text":"Bilder Haltungen der Achtsamkeit"
-                           }
+                            "type": "urlicon",
+                            "data": {
+                                "url": "http://centerformsc.org/msc-teacher/christine-minixhofer",
+                                "title": "Center for Mindful Self-Compassion"
+                            }
                         },
                         {
-                           "type":"filecallout",
-                           "data":{
-                              "datum":"22.3./23.3.2017",
-                              "name":"LAND STMK. REFERAT Kinderbildung und-betreuung - Gewaltfreie und achtsame Kommunikation in herausfordernden Situationen - 2017",
-                              "file":"/bin/resources/unterlagen/66.pdf",
-                              "text":"Selbsteinfühlungstanz"
-                           }
+                            "type": "urlicon",
+                            "data": {
+                                "url": "http://www.gewaltfrei.at/profile/christineminixhofer",
+                                "title": "Gewaltfreie Kommunikation Austria"
+                            }
                         },
                         {
-                           "type":"filecallout",
-                           "data":{
-                              "datum":"20.4.2017",
-                              "name":"LAND STMK. REFERAT Kinderbildung und-betreuung - Gewaltfreie und achtsame Kommunikation in herausfordernden Situationen - 2017",
-                              "file":"/bin/resources/unterlagen/65.pdf",
-                              "text":"Protokoll"
-                           }
+                            "type": "urlicon",
+                            "data": {
+                                "url": "http://www.gewaltfrei-dach.eu/wissenschaftliche-arbeiten",
+                                "title": "DACH e.V. - Gewaltfreie Kommunikation"
+                            }
                         },
                         {
-                           "type":"filecallout",
-                           "data":{
-                              "datum":"20.4.2017",
-                              "name":"LAND STMK. REFERAT Kinderbildung und-betreuung - Gewaltfreie und achtsame Kommunikation in herausfordernden Situationen - 2017",
-                              "file":"/bin/resources/unterlagen/64.pdf",
-                              "text":"Innen-Aussentanz"
-                           }
+                            "type": "urlicon",
+                            "data": {
+                                "url": "http://www.steigls.org/index.php?id=praxisadresse_detail&lebensberater=163",
+                                "title": "Steirische Gesellschaft für Lebens- und Sozialberatung"
+                            }
                         },
                         {
-                           "type":"filecallout",
-                           "data":{
-                              "datum":"7.3.2017",
-                              "name":"LKH Uniklinikum Graz, Modul 24 - Achtsame und Gewaltfreie Kommunikation zur Prävention von Aggression und Gewalt",
-                              "file":"/bin/resources/unterlagen/63.pdf",
-                              "text":"Protokoll"
-                           }
+                            "type": "urlicon",
+                            "data": {
+                                "url": "https://www.xing.com/profile/Christine_Minixhofer/web_profiles",
+                                "title": "Xing"
+                            }
                         },
                         {
-                           "type":"filecallout",
-                           "data":{
-                              "datum":"21.4.2017",
-                              "name":"LKH Uniklinikum Graz, Modul 24 - Achtsame und Gewaltfreie Kommunikation zur Prävention von Aggression und Gewalt",
-                              "file":"/bin/resources/unterlagen/62.pdf",
-                              "text":"Protokoll"
-                           }
+                            "type": "urlicon",
+                            "data": {
+                                "url": "http://www.bestnet.com/go.asp?personen_id=144740&sektion=personen&rkarte=infodet",
+                                "title": "bestNET"
+                            }
                         },
                         {
-                           "type":"filecallout",
-                           "data":{
-                              "datum":"9.3.2017",
-                              "name":"LKH Uniklinikum Graz, Modul 23 - Achtsame und Gewaltfreie Kommunikation zur Prävention von Aggression und Gewalt",
-                              "file":"/bin/resources/unterlagen/61.pdf",
-                              "text":"Protokoll"
-                           }
-                        },
-                        {
-                           "type":"filecallout",
-                           "data":{
-                              "datum":"24.3.2017",
-                              "name":"STMK GKK - Workshopreihe für die Abteilung Physiotherapie Gruppe 2",
-                              "file":"/bin/resources/unterlagen/60.pdf",
-                              "text":"Protokoll"
-                           }
-                        },
-                        {
-                           "type":"filecallout",
-                           "data":{
-                              "datum":"3.3.2017",
-                              "name":"STMK GKK - Workshopreihe für die Abteilung Physiotherapie Gruppe 2",
-                              "file":"/bin/resources/unterlagen/59.pdf",
-                              "text":"Protokoll"
-                           }
-                        },
-                      {
-                        "type":"filecallout",
-                        "data":{
-                           "datum":"7.2.2017",
-                           "name":"LKH Uniklinikum Graz, Modul 23 - Achtsame und Gewaltfreie Kommunikation zur Prävention von Aggression und Gewalt",
-                           "file":"/bin/resources/unterlagen/58.pdf",
-                           "text":"Protokoll"
+                            "type": "urlicon",
+                            "data": {
+                                "url": "http://christine-minixhofer.stadtausstellung.at",
+                                "title": "Stadtausstellung"
+                            }
                         }
-                      },
-                      {
-                        "type":"filecallout",
-                        "data":{
-                           "datum":"6.2.2017",
-                           "name":"STMK GKK - Workshopreihe für die Abteilung Physiotherapie Gruppe 2",
-                           "file":"/bin/resources/unterlagen/57.pdf",
-                           "text":"Protokoll"
-                        }
-                      },
-                      {
-                        "type":"filecallout",
-                        "data":{
-                           "datum":"12.1.2017",
-                           "name":"GFSG - Workshopreihe - Mit Achtsamkeit ins Neue Jahr",
-                           "file":"/bin/resources/unterlagen/56.pdf",
-                           "text":"Protokoll"
-                        }
-                      },
-                      {
-                        "type":"filecallout",
-                        "data":{
-                           "datum":"19.1.2017",
-                           "name":"GFSG - Workshopreihe - Mit Achtsamkeit ins Neue Jahr",
-                           "file":"/bin/resources/unterlagen/55.pdf",
-                           "text":"Protokoll"
-                        }
-                      },
-                      {
-                        "type":"filecallout",
-                        "data":{
-                           "datum":"29. und 30.11.2016",
-                           "name":"LKH Graz Süd-West, Standort Süd: Auftanken statt Ausbrennen",
-                           "file":"/bin/resources/unterlagen/54.pdf",
-                           "text":"Protokoll"
-                        }
-                      },
-                      {
-                        "type":"filecallout",
-                        "data":{
-                           "datum":"29. und 30.11.2016",
-                           "name":"LKH Graz Süd-West, Standort Süd: Auftanken statt Ausbrennen",
-                           "file":"/bin/resources/unterlagen/53.pdf",
-                           "text":"Seminarunterlagen"
-                        }
-                      },
-                      {
-                        "type":"filecallout",
-                        "data":{
-                           "datum":"29. und 30.11.2016",
-                           "name":"LKH Graz Süd-West, Standort Süd: Auftanken statt Ausbrennen",
-                           "file":"/bin/resources/unterlagen/52.pdf",
-                           "text":"4 Minuten Test"
-                        }
-                      },
-                      {
-                        "type":"filecallout",
-                        "data":{
-                           "datum":"31.5.2016",
-                           "name":"Hilfswerk Steiermark, Gewaltfreie und achtsame Kommunikation in herausfordernden Situationen",
-                           "file":"/bin/resources/unterlagen/51.pdf",
-                           "text":"Seminarunterlagen"
-                        }
-                      },
-                      {
-                        "type":"filecallout",
-                        "data":{
-                           "datum":"31.5.2016",
-                           "name":"Hilfswerk Steiermark, Gewaltfreie und achtsame Kommunikation in herausfordernden Situationen",
-                           "file":"/bin/resources/unterlagen/50.pdf",
-                           "text":"Flipchartprotokoll"
-                        }
-                      },
-                      {
-                        "type":"filecallout",
-                        "data":{
-                           "datum":"25.10.2016",
-                           "name":"Hilfswerk Steiermark, Gewaltfreie und achtsame Kommunikation in herausfordernden Situationen",
-                           "file":"/bin/resources/unterlagen/49.pdf",
-                           "text":"Flipchartprotokoll"
-                        }
-                      },
-                      {
-                        "type":"filecallout",
-                        "data":{
-                           "datum":"17.10.2016",
-                           "name":"a:sk Akademie der Stmk. Krankenanstaltenges.m.b.H. - Was tun wenn`s in Gesprächen schwierig wird?",
-                           "file":"/bin/resources/unterlagen/48.pdf",
-                           "text":"Flipchartprotokoll"
-                        }
-                      },
-                      {
-                        "type":"filecallout",
-                        "data":{
-                           "datum":"15.11.2016",
-                           "name":"a:sk Akademie der Stmk. Krankenanstaltenges.m.b.H. - Was tun wenn`s in Gesprächen schwierig wird?",
-                           "file":"/bin/resources/unterlagen/47.pdf",
-                           "text":"Flipchartprotokoll"
-                        }
-                      },
-                      {
-                        "type":"filecallout",
-                        "data":{
-                           "datum":"15.11.2016",
-                           "name":"a:sk Akademie der Stmk. Krankenanstaltenges.m.b.H. - Was tun wenn`s in Gesprächen schwierig wird?",
-                           "file":"/bin/resources/unterlagen/46.pdf",
-                           "text":"Selbsteinfühlungstanz"
-                        }
-                      },
-                      {
-                        "type":"filecallout",
-                        "data":{
-                           "datum":"15.11.2016",
-                           "name":"a:sk Akademie der Stmk. Krankenanstaltenges.m.b.H. - Was tun wenn`s in Gesprächen schwierig wird?",
-                           "file":"/bin/resources/unterlagen/45.pdf",
-                           "text":"Innen-Aussentanz"
-                        }
-                      },
-                      {
-                        "type":"filecallout",
-                        "data":{
-                           "datum":"15.11.2016",
-                           "name":"a:sk Akademie der Stmk. Krankenanstaltenges.m.b.H. - Was tun wenn`s in Gesprächen schwierig wird?",
-                           "file":"/bin/resources/unterlagen/44.pdf",
-                           "text":"Teilnehmerliste"
-                        }
-                      },
-                      {
-                        "type":"filecallout",
-                        "data":{
-                           "datum":"13.10./14.10./18.11.2016",
-                           "name":"LAND STMK. REFERAT Kinderbildung und-betreuung - Gewaltfreie und achtsame Kommunikation in herausfordernden Situationen",
-                           "file":"/bin/resources/unterlagen/43.pdf",
-                           "text":"Seminarunterlagen"
-                        }
-                      },
-                      {
-                        "type":"filecallout",
-                        "data":{
-                           "datum":"13.10./14.10./18.11.2016",
-                           "name":"LAND STMK. REFERAT Kinderbildung und-betreuung - Gewaltfreie und achtsame Kommunikation in herausfordernden Situationen",
-                           "file":"/bin/resources/unterlagen/42.pdf",
-                           "text":"Bilder Haltungen der Achtsamkeit"
-                        }
-                      },
-                      {
-                        "type":"filecallout",
-                        "data":{
-                           "datum":"13.10./14.10./18.11.2016",
-                           "name":"LAND STMK. REFERAT Kinderbildung und-betreuung - Gewaltfreie und achtsame Kommunikation in herausfordernden Situationen",
-                           "file":"/bin/resources/unterlagen/41.pdf",
-                           "text":"Selbsteinfühlungstanz"
-                        }
-                      },
-                      {
-                        "type":"filecallout",
-                        "data":{
-                           "datum":"13.10./14.10.2016",
-                           "name":"LAND STMK. REFERAT Kinderbildung und-betreuung - Gewaltfreie und achtsame Kommunikation in herausfordernden Situationen",
-                           "file":"/bin/resources/unterlagen/40.pdf",
-                           "text":"Protokoll"
-                        }
-                      },
-                      {
-                        "type":"filecallout",
-                        "data":{
-                           "datum":"13.10./14.10./18.11.2016",
-                           "name":"LAND STMK. REFERAT Kinderbildung und-betreuung - Gewaltfreie und achtsame Kommunikation in herausfordernden Situationen",
-                           "file":"/bin/resources/unterlagen/39.pdf",
-                           "text":"Protokoll vom 18.11."
-                        }
-                      },
-                      {
-                        "type":"filecallout",
-                        "data":{
-                           "datum":"13.10./14.10./18.11.2016",
-                           "name":"LAND STMK. REFERAT Kinderbildung und-betreuung - Gewaltfreie und achtsame Kommunikation in herausfordernden Situationen",
-                           "file":"/bin/resources/unterlagen/38.pdf",
-                           "text":"Workshopunterlagen Bei sich zu Hause sein"
-                        }
-                      },
-                      {
-                        "type":"filecallout",
-                        "data":{
-                           "datum":"11.10.2016",
-                           "name":"STMK GKK - Workshopreihe für die Abteilung Physiotherapie, Gruppe 1",
-                           "file":"/bin/resources/unterlagen/37.pdf",
-                           "text":"Protokoll"
-                        }
-                      },
-                      {
-                        "type":"filecallout",
-                        "data":{
-                           "datum":"11.11.2016",
-                           "name":"STMK GKK - Workshopreihe für die Abteilung Physiotherapie, Gruppe 1",
-                           "file":"/bin/resources/unterlagen/36.pdf",
-                           "text":"Protokoll"
-                        }
-                      },
-                      {
-                        "type":"filecallout",
-                        "data":{
-                           "datum":"02.12.1016",
-                           "name":"STMK GKK - Workshopreihe für die Abteilung Physiotherapie, Gruppe 1",
-                           "file":"/bin/resources/unterlagen/35.pdf",
-                           "text":"Protokoll"
-                        }
-                      },
-                      {
-                        "type":"filecallout",
-                        "data":{
-                           "datum":"20.01.2017",
-                           "name":"STMK GKK - Workshopreihe für die Abteilung Physiotherapie, Gruppe 1",
-                           "file":"/bin/resources/unterlagen/34.pdf",
-                           "text":"Protokoll"
-                        }
-                      },
-                      {
-                        "type":"filecallout",
-                        "data":{
-                           "datum":"3. und 4.10.2016",
-                           "name":"a:sk Akademie der Stmk. Krankenanstaltenges.m.b.H. - Gewaltfreie und achtsame Kommunikation zur Prävention von Aggression und Gewalt",
-                           "file":"/bin/resources/unterlagen/33.pdf",
-                           "text":"Flipchartprotokoll"
-                        }
-                      },
-                      {
-                        "type":"filecallout",
-                        "data":{
-                           "datum":"3. und 4.10.2016",
-                           "name":"a:sk Akademie der Stmk. Krankenanstaltenges.m.b.H. - Gewaltfreie und achtsame Kommunikation zur Prävention von Aggression und Gewalt",
-                           "file":"/bin/resources/unterlagen/32.pdf",
-                           "text":"Seminarunterlagen"
-                        }
-                      },
-                      {
-                        "type":"filecallout",
-                        "data":{
-                           "datum":"15.9./19.9./6.10.2016",
-                           "name":"GFSG - Workshopreihe Achtsames Selbstmitgefühl",
-                           "file":"/bin/resources/unterlagen/31.pdf",
-                           "text":"Protokoll der gesamten Workshopreihe"
-                        }
-                      },
-                      {
-                        "type":"filecallout",
-                        "data":{
-                           "datum":"15.9./19.9./6.10.2016",
-                           "name":"GFSG - Workshopreihe Achtsames Selbstmitgefühl",
-                           "file":"/bin/resources/unterlagen/30.pdf",
-                           "text":"Anleitung Selbstmitgefühlspause"
-                        }
-                      },
-                      {
-                        "type":"filecallout",
-                        "data":{
-                           "datum":"26.9.2016",
-                           "name":"CARITAS, wertschätzend kommunizieren in herausfordernden Situationen",
-                           "file":"/bin/resources/unterlagen/29.pdf",
-                           "text":"Flipchartprotokoll"
-                        }
-                      },
-                      {
-                        "type":"filecallout",
-                        "data":{
-                           "datum":"24.10.2016",
-                           "name":"CARITAS, wertschätzend kommunizieren in herausfordernden Situationen",
-                           "file":"/bin/resources/unterlagen/28.pdf",
-                           "text":"Protokoll"
-                        }
-                      },
-                      {
-                        "type":"filecallout",
-                        "data":{
-                           "datum":"24.10.2016",
-                           "name":"CARITAS, wertschätzend kommunizieren in herausfordernden Situationen",
-                           "file":"/bin/resources/unterlagen/27.pdf",
-                           "text":"Meditation Liebende Güte"
-                        }
-                      },
-                      {
-                        "type":"filecallout",
-                        "data":{
-                           "datum":"24.10.2016",
-                           "name":"CARITAS, wertschätzend kommunizieren in herausfordernden Situationen",
-                           "file":"/bin/resources/unterlagen/26.pdf",
-                           "text":"Schritte Selbsteinfühlungstanz"
-                        }
-                      },
-                      {
-                        "type":"filecallout",
-                        "data":{
-                           "datum":"20.9.2016",
-                           "name":"LKH Uniklinikum Graz, Modul 22 - Achtsame und Gewaltfreie Kommunikation zur Prävention von Aggression und Gewalt",
-                           "file":"/bin/resources/unterlagen/25.pdf",
-                           "text":"Flipchartprotokoll"
-                        }
-                      },
-                      {
-                        "type":"filecallout",
-                        "data":{
-                           "datum":"18.10.2016",
-                           "name":"LKH Uniklinikum Graz, Modul 22 - Achtsame und Gewaltfreie Kommunikation zur Prävention von Aggression und Gewalt",
-                           "file":"/bin/resources/unterlagen/24.pdf",
-                           "text":"Flipchartprotokoll"
-                        }
-                      },
-                      {
-                        "type":"filecallout",
-                        "data":{
-                           "datum":"6.9.2016/7.9.2016/8.9.2016",
-                           "name":"Fachtagung für elementare Bildung 2016/Referat A6, Workshop - Bei sich zu Hause sein - Möglichkeiten für ein achtsames Miteinander",
-                           "file":"/bin/resources/unterlagen/23.pdf",
-                           "text":"Protokoll der Flipcharts, Geschichte etc...."
-                        }
-                      },
-                      {
-                        "type":"filecallout",
-                        "data":{
-                           "datum":"24.5./25.5/2.6.2016",
-                           "name":"Schule für psychiatrische Gesundheits- und Krankenpflege, Prävention von Aggression und Gewalt",
-                           "file":"/bin/resources/unterlagen/22.pdf",
-                           "text":"Seminarunterlagen"
-                        }
-                      },
-                      {
-                        "type":"filecallout",
-                        "data":{
-                           "datum":"Gruppe B - 24.5.2016/ 2.6.2016",
-                           "name":"Schule für psychiatrische Gesundheits- und Krankenpflege, Prävention von Aggression und Gewalt",
-                           "file":"/bin/resources/unterlagen/21.pdf",
-                           "text":"Flipchartprotokoll"
-                        }
-                      },
-                      {
-                        "type":"filecallout",
-                        "data":{
-                           "datum":"Gruppe A - 25.5.2016/ 6.6.2016",
-                           "name":"Schule für psychiatrische Gesundheits- und Krankenpflege, Prävention von Aggression und Gewalt",
-                           "file":"/bin/resources/unterlagen/20.pdf",
-                           "text":"Flipchartprotokoll"
-                        }
-                      },
-                      {
-                        "type":"filecallout",
-                        "data":{
-                           "datum":"26./27.4.2016",
-                           "name":"LKH Graz Süd-West, Standort Süd: Achtsame und Gewaltfreie Kommunikation zur Prävention von Aggression und Gewalt",
-                           "file":"/bin/resources/unterlagen/19.pdf",
-                           "text":"Flipchartprotokoll"
-                        }
-                      },
-                      {
-                        "type":"filecallout",
-                        "data":{
-                           "datum":"19./20.4.2016",
-                           "name":"LAND STMK. REFERAT Kinderbildung und-betreuung - Selbst-Stärkung mit Selbst-Mitgefühl und Achtsamkeit",
-                           "file":"/bin/resources/unterlagen/18.pdf",
-                           "text":"Seminarunterlagen"
-                        }
-                      },
-                      {
-                        "type":"filecallout",
-                        "data":{
-                           "datum":"19./20.4.2016",
-                           "name":"LAND STMK. REFERAT Kinderbildung und-betreuung - Selbst-Stärkung mit Selbst-Mitgefühl und Achtsamkeit",
-                           "file":"/bin/resources/unterlagen/17.pdf",
-                           "text":"Seminarunterlagen"
-                        }
-                      },
-                      {
-                        "type":"filecallout",
-                        "data":{
-                           "datum":"19./20.4.2016",
-                           "name":"LAND STMK. REFERAT Kinderbildung und-betreuung - Selbst-Stärkung mit Selbst-Mitgefühl und Achtsamkeit",
-                           "file":"/bin/resources/unterlagen/16.pdf",
-                           "text":"Flipchartprotokoll"
-                        }
-                      },
-                      {
-                        "type":"filecallout",
-                        "data":{
-                           "datum":"19./20.4.2016",
-                           "name":"LAND STMK. REFERAT Kinderbildung und-betreuung - Selbst-Stärkung mit Selbst-Mitgefühl und Achtsamkeit",
-                           "file":"/bin/resources/unterlagen/15.pdf",
-                           "text":"Bodenanker-Grundhaltungen der Achtsamkeit"
-                        }
-                      },
-                      {
-                        "type":"filecallout",
-                        "data":{
-                           "datum":"20.5.2016",
-                           "name":"LAND STMK. REFERAT Kinderbildung und-betreuung - Selbst-Stärkung mit Selbst-Mitgefühl und Achtsamkeit",
-                           "file":"/bin/resources/unterlagen/14.pdf",
-                           "text":"Protokoll"
-                        }
-                      },
-                      {
-                        "type":"filecallout",
-                        "data":{
-                           "datum":"05.04.2016",
-                           "name":"LKH Uniklinikum Graz, Modul 21 - Achtsame und Gewaltfreie Kommunikation zur Prävention von Aggression und Gewalt",
-                           "file":"/bin/resources/unterlagen/13.pdf",
-                           "text":"Flipchartprotokoll"
-                        }
-                      },
-                      {
-                        "type":"filecallout",
-                        "data":{
-                           "datum":"12.5.2016",
-                           "name":"LKH Uniklinikum Graz, Modul 21 - Achtsame und Gewaltfreie Kommunikation zur Prävention von Aggression und Gewalt",
-                           "file":"/bin/resources/unterlagen/12.pdf",
-                           "text":"Flipchartprotokoll"
-                        }
-                      },
-                      {
-                        "type":"filecallout",
-                        "data":{
-                           "datum":"18.03.2016",
-                           "name":"CARITAS AKADEMIE - Seminar für Freiwillige, Achtsam und gewaltfrei kommunizieren in konfliktgeladenen Situationen",
-                           "file":"/bin/resources/unterlagen/11.pdf",
-                           "text":"Flipchartprotokoll"
-                        }
-                      },
-                      {
-                        "type":"filecallout",
-                        "data":{
-                           "datum":"15. und 16.3.2016",
-                           "name":"LKH Graz Süd-West, Standort Süd: Achtsame und Gewaltfreie Kommunikation zur Prävention von Aggression und Gewalt",
-                           "file":"/bin/resources/unterlagen/10.pdf",
-                           "text":"Flipchartprotokoll"
-                        }
-                      },
-                      {
-                        "type":"filecallout",
-                        "data":{
-                           "datum":"8.3.2016",
-                           "name":"LKH Uniklinikum Graz - Modul 20 - Achtsame und Gewaltfreie Kommunikation zur Prävention von Aggression und Gewalt",
-                           "file":"/bin/resources/unterlagen/9.pdf",
-                           "text":"Flipchartprotokoll"
-                        }
-                      },
-                      {
-                        "type":"filecallout",
-                        "data":{
-                           "datum":"3.3.2016",
-                           "name":"CARITAS Senioren- und Pflegeheim Leoben, wertschätzend kommunizieren in herausfordernden Situationen",
-                           "file":"/bin/resources/unterlagen/8.pdf",
-                           "text":"Flipchartprotokoll"
-                        }
-                      },
-                      {
-                        "type":"filecallout",
-                        "data":{
-                           "datum":"14.04.2016",
-                           "name":"CARITAS Senioren- und Pflegeheim Leoben, wertschätzend kommunizieren in herausfordernden Situationen",
-                           "file":"/bin/resources/unterlagen/7.pdf",
-                           "text":"Flipchartprotokoll"
-                        }
-                      },
-                      {
-                        "type":"filecallout",
-                        "data":{
-                           "datum":"14.04.2016",
-                           "name":"CARITAS Senioren- und Pflegeheim Leoben, wertschätzend kommunizieren in herausfordernden Situationen",
-                           "file":"/bin/resources/unterlagen/6.pdf",
-                           "text":"Seminarunterlagen"
-                        }
-                      },
-                      {
-                        "type":"filecallout",
-                        "data":{
-                           "datum":"1.3.2016",
-                           "name":"LKH Uniklinikum Graz - Modul 19 - Achtsame und Gewaltfreie Kommunikation zur Prävention von Aggression und Gewalt",
-                           "file":"/bin/resources/unterlagen/5.pdf",
-                           "text":"Flipchartprotokoll"
-                        }
-                      },
-                      {
-                        "type":"filecallout",
-                        "data":{
-                           "datum":"7.4.2016",
-                           "name":"LKH Uniklinikum Graz - Modul 19 - Achtsame und Gewaltfreie Kommunikation zur Prävention von Aggression und Gewalt",
-                           "file":"/bin/resources/unterlagen/4.pdf",
-                           "text":"Flipchartprotokoll"
-                        }
-                      },
-                      {
-                        "type":"filecallout",
-                        "data":{
-                           "datum":"3. Feburar 2016",
-                           "name":"Geriatrische Gesundheitszentren der Stadt Graz - Achtsame und Gewaltfreie Kommunikation zur Prävention von Aggression und Gewalt",
-                           "file":"/bin/resources/unterlagen/3.pdf",
-                           "text":"Flipchartprotokoll"
-                        }
-                      },
-                      {
-                        "type":"filecallout",
-                        "data":{
-                           "datum":"25.2.2016",
-                           "name":"Geriatrische Gesundheitszentren der Stadt Graz - Achtsame und Gewaltfreie Kommunikation zur Prävention von Aggression und Gewalt",
-                           "file":"/bin/resources/unterlagen/2.pdf",
-                           "text":"Flipchartprotokoll"
-                        }
-                      },
-                      {
-                        "type":"filecallout",
-                        "data":{
-                           "datum":"19. und 20. 1.2016",
-                           "name":"LKH Weiz - Achtsame und Gewaltfreie Kommunikation zur Prävention von Aggression und Gewalt",
-                           "file":"/bin/resources/unterlagen/1.pdf",
-                           "text":"Flipchartprotokoll"
-                        }
-                      }
                     ]
-                 }
-              }
-            ]
-         }
-      }
-   ],
-   "foot":{
-      "modules":[
-         {
-            "type":"twolines",
-            "data":{
-               "firstline":"+43 699 88 46 75 44",
-               "secondline":"christine.minixhofer@dialogus.at"
+                }
+            },
+            {
+                "type": "twolines",
+                "data": {
+                    "firstline": "Mitterstraße 128/11",
+                    "secondline": "8055 Seiersberg bei Graz"
+                }
             }
-         },
-         {
-            "type":"socialtitle",
-            "data":{
-               "heading":"Christine Minixhofer, MSc",
-               "socials":[
-                  {
-                     "type":"urlicon",
-                     "data":{
-                        "url":"https://www.facebook.com/christineminixhofer",
-                        "title":"Facebook"
-                     }
-                  },
-                  {
-                     "type":"urlicon",
-                     "data":{
-                        "url":"http://www.arbor-seminare.de/christine-minixhofer",
-                        "title":"Arbor Seminare"
-                     }
-                  },
-                  {
-                     "type":"urlicon",
-                     "data":{
-                        "url":"http://centerformsc.org/msc-teacher/christine-minixhofer",
-                        "title":"Center for Mindful Self-Compassion"
-                     }
-                  },
-                  {
-                     "type":"urlicon",
-                     "data":{
-                        "url":"http://www.gewaltfrei.at/profile/christineminixhofer",
-                        "title":"Gewaltfreie Kommunikation Austria"
-                     }
-                  },
-                  {
-                     "type":"urlicon",
-                     "data":{
-                        "url":"http://www.gewaltfrei-dach.eu/wissenschaftliche-arbeiten",
-                        "title":"DACH e.V. - Gewaltfreie Kommunikation"
-                     }
-                  },
-                  {
-                     "type":"urlicon",
-                     "data":{
-                        "url":"http://www.steigls.org/index.php?id=praxisadresse_detail&lebensberater=163",
-                        "title":"Steirische Gesellschaft für Lebens- und Sozialberatung"
-                     }
-                  },
-                  {
-                     "type":"urlicon",
-                     "data":{
-                        "url":"https://www.xing.com/profile/Christine_Minixhofer/web_profiles",
-                        "title":"Xing"
-                     }
-                  },
-                  {
-                     "type":"urlicon",
-                     "data":{
-                        "url":"http://www.bestnet.com/go.asp?personen_id=144740&sektion=personen&rkarte=infodet",
-                        "title":"bestNET"
-                     }
-                  },
-                  {
-                     "type":"urlicon",
-                     "data":{
-                        "url":"http://christine-minixhofer.stadtausstellung.at",
-                        "title":"Stadtausstellung"
-                     }
-                  }
-               ]
-            }
-         },
-         {
-            "type":"twolines",
-            "data":{
-               "firstline":"Mitterstraße 128/11",
-               "secondline":"8055 Seiersberg bei Graz"
-            }
-         }
-      ]
-   }
+        ]
+    }
 }
