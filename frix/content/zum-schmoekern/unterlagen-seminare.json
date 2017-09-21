@@ -878,15 +878,6 @@
                                         "file": "/bin/resources/unterlagen/1.pdf",
                                         "text": "Flipchartprotokoll"
                                     }
-                                },
-                                {
-                                    "type": "passwordcallout",
-                                    "data": {
-                                        "datum": "",
-                                        "name": "",
-                                        "file": "/bin/resources/unterlagen/78.pdf",
-                                        "text": ""
-                                    }
                                 }
                             ]
                         }
