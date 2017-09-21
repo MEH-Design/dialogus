@@ -216,8 +216,8 @@
                                 {
                                     "type": "filecallout",
                                     "data": {
-                                        "datum": "5.5.2017",
                                         "name": "STMK GKK - Workshopreihe für die Abteilung Physiotherapie Gruppe 3",
+                                        "datum": "5.5.2017",
                                         "file": "/bin/resources/unterlagen/74.pdf",
                                         "text": "Protokoll"
                                     }
@@ -877,15 +877,6 @@
                                         "datum": "19. und 20. 1.2016",
                                         "file": "/bin/resources/unterlagen/1.pdf",
                                         "text": "Flipchartprotokoll"
-                                    }
-                                },
-                                {
-                                    "type": "passwordcallout",
-                                    "data": {
-                                        "name": "LKH Uniklinikum Graz - Modul 25 - Achtsame und Gewaltfreie Kommunikation zur Prävention von Aggression und Gewalt",
-                                        "datum": "",
-                                        "file": "",
-                                        "text": ""
                                     }
                                 }
                             ]
