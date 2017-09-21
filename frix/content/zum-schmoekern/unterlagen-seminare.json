@@ -369,18 +369,18 @@
                                 {
                                     "type": "filecallout",
                                     "data": {
-                                        "name": "STMK GKK - Workshopreihe für die Abteilung Physiotherapie Gruppe 2",
-                                        "datum": "6.2.2017",
-                                        "file": "/bin/resources/unterlagen/57.pdf",
+                                        "name": "LKH Uniklinikum Graz - Modul 25 - Achtsame und Gewaltfreie Kommunikation zur Prävention von Aggression und Gewalt",
+                                        "datum": "19.9.2017",
+                                        "file": "/bin/resources/unterlagen/78.pdf",
                                         "text": "Protokoll"
                                     }
                                 },
                                 {
                                     "type": "filecallout",
                                     "data": {
-                                        "name": "LKH Uniklinikum Graz - Modul 25 - Achtsame und Gewaltfreie Kommunikation zur Prävention von Aggression und Gewalt",
-                                        "datum": "19.9.2017",
-                                        "file": "/bin/resources/unterlagen/78.pdf",
+                                        "name": "STMK GKK - Workshopreihe für die Abteilung Physiotherapie Gruppe 2",
+                                        "datum": "6.2.2017",
+                                        "file": "/bin/resources/unterlagen/57.pdf",
                                         "text": "Protokoll"
                                     }
                                 },
