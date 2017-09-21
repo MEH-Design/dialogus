@@ -198,19 +198,19 @@
                                 {
                                     "type": "filecallout",
                                     "data": {
-                                        "name": "Schule für psychiatrische Gesundheits- und Krankenpflege - Graz",
-                                        "datum": "12./13./19./20.6.2017",
-                                        "file": "/bin/resources/unterlagen/76.pdf",
-                                        "text": "Seminarunterlagen"
+                                        "name": "LKH Uniklinikum Graz - Modul 25 - Achtsame und Gewaltfreie Kommunikation zur Prävention von Aggression und Gewalt",
+                                        "datum": "19.9.2017",
+                                        "file": "/bin/resources/unterlagen/78.pdf",
+                                        "text": "Protokoll"
                                     }
                                 },
                                 {
                                     "type": "filecallout",
                                     "data": {
-                                        "name": "LKH Uniklinikum Graz - Modul 25 - Achtsame und Gewaltfreie Kommunikation zur Prävention von Aggression und Gewalt",
-                                        "datum": "19.9.2017",
-                                        "file": "/bin/resources/unterlagen/78.pdf",
-                                        "text": "Protokoll"
+                                        "name": "Schule für psychiatrische Gesundheits- und Krankenpflege - Graz",
+                                        "datum": "12./13./19./20.6.2017",
+                                        "file": "/bin/resources/unterlagen/76.pdf",
+                                        "text": "Seminarunterlagen"
                                     }
                                 },
                                 {
