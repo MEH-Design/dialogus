@@ -603,19 +603,19 @@
                                 {
                                     "type": "filecallout",
                                     "data": {
-                                        "name": "GFSG - Workshopreihe Achtsames Selbstmitgefühl",
-                                        "datum": "15.9./19.9./6.10.2016",
-                                        "file": "/bin/resources/unterlagen/31.pdf",
-                                        "text": "Protokoll der gesamten Workshopreihe"
+                                        "name": "LKH Uniklinikum Graz - Modul 25 - Achtsame und Gewaltfreie Kommunikation zur Prävention von Aggression und Gewalt",
+                                        "datum": "19.9.2017",
+                                        "file": "/bin/resources/unterlagen/78.pdf",
+                                        "text": "Protokoll"
                                     }
                                 },
                                 {
                                     "type": "filecallout",
                                     "data": {
-                                        "name": "LKH Uniklinikum Graz - Modul 25 - Achtsame und Gewaltfreie Kommunikation zur Prävention von Aggression und Gewalt",
-                                        "datum": "19.9.2017",
-                                        "file": "/bin/resources/unterlagen/78.pdf",
-                                        "text": "Protokoll"
+                                        "name": "GFSG - Workshopreihe Achtsames Selbstmitgefühl",
+                                        "datum": "15.9./19.9./6.10.2016",
+                                        "file": "/bin/resources/unterlagen/31.pdf",
+                                        "text": "Protokoll der gesamten Workshopreihe"
                                     }
                                 },
                                 {
