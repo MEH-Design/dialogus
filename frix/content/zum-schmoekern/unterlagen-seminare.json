@@ -873,8 +873,8 @@
                                 {
                                     "type": "filecallout",
                                     "data": {
-                                        "datum": "19. und 20. 1.2016",
                                         "name": "LKH Weiz - Achtsame und Gewaltfreie Kommunikation zur Prävention von Aggression und Gewalt",
+                                        "datum": "19. und 20. 1.2016",
                                         "file": "/bin/resources/unterlagen/1.pdf",
                                         "text": "Flipchartprotokoll"
                                     }
