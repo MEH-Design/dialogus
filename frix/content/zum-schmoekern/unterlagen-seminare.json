@@ -243,18 +243,18 @@
                                 {
                                     "type": "filecallout",
                                     "data": {
-                                        "name": "LKH Uniklinikum Graz, Modul 1 für Ärzte/Achtsame und Gewaltfreie Kommunikation zur Prävention von Aggression und Gewalt",
-                                        "datum": "31.3.2017",
-                                        "file": "/bin/resources/unterlagen/71.pdf",
+                                        "name": "LKH Uniklinikum Graz - Modul 25 - Achtsame und Gewaltfreie Kommunikation zur Prävention von Aggression und Gewalt",
+                                        "datum": "19.9.2017",
+                                        "file": "/bin/resources/unterlagen/78.pdf",
                                         "text": "Protokoll"
                                     }
                                 },
                                 {
                                     "type": "filecallout",
                                     "data": {
-                                        "name": "LKH Uniklinikum Graz - Modul 25 - Achtsame und Gewaltfreie Kommunikation zur Prävention von Aggression und Gewalt",
-                                        "datum": "19.9.2017",
-                                        "file": "/bin/resources/unterlagen/78.pdf",
+                                        "name": "LKH Uniklinikum Graz, Modul 1 für Ärzte/Achtsame und Gewaltfreie Kommunikation zur Prävention von Aggression und Gewalt",
+                                        "datum": "31.3.2017",
+                                        "file": "/bin/resources/unterlagen/71.pdf",
                                         "text": "Protokoll"
                                     }
                                 },
