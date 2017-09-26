@@ -1,297 +1,306 @@
 {
-  "title": "Supervision | Christine Minixhofer, MSc",
-  "header": {
-    "headline": {
-      "heading": "Christine Minixhofer, Msc",
-      "subheading": "Training | Coaching | Supervision | Psychologische Beratung"
-    },
-    "hero": {
-      "items": [
-        {
-          "type": "quote",
-          "data": {
-            "quote": "Denn Zeit ist Leben.<br/>Und das Leben wohnt im Herzen.",
-            "author": "Michael Ende, Momo"
-          }
+    "title": "Supervision | Christine Minixhofer, MSc",
+    "header": {
+        "headline": {
+            "heading": "Christine Minixhofer, Msc",
+            "subheading": "Training | Coaching | Supervision | Psychologische Beratung"
         },
-        {
-          "type": "image",
-          "data": "/bin/resources/igel.png"
-        }
-      ]
-    },
-    "navigation": {
-      "links": [{
-        "type": "link",
-        "data": {
-          "text": "Home",
-          "link": "/bin/home.html#nav"
-        }
-      }, {
-        "type": "link",
-        "data": {
-          "text": "Über mich",
-          "link": "/bin/ueber-mich.html#nav"
-        }
-      }, {
-        "type": "link",
-        "data": {
-          "text": "Methoden",
-          "link": "/bin/methoden.html#nav"
-        }
-      }, {
-        "type": "link",
-        "data": {
-          "text": "Angebote",
-          "selected": "true"
-        }
-      }, {
-        "type": "link",
-        "data": {
-          "text": "Zum Schmökern",
-          "link": "/bin/zum-schmoekern.html#nav"
-        }
-      }, {
-        "type": "link",
-        "data": {
-          "text": "Kontakt",
-          "link": "/bin/kontakt.html#nav"
-        }
-      }, {
-        "type": "link",
-        "data": {
-          "text": "Newsletter",
-          "link": "/bin/newsletter.html#nav"
-        }
-      }, {
-        "type": "link",
-        "data": {
-          "text": "Impressum",
-          "link": "/bin/Impressum.html#nav"
-        }
-      }]
-    }
-  },
-  "lines": [
-    {
-      "type": "contentline",
-      "data": {
-        "nopadding": "true",
-        "modules": [
-          {
-            "type": "buttongroup",
-            "data": {
-              "buttons": [
+        "hero": {
+            "items": [
                 {
-                  "type": "button",
-                  "data": {
-                    "link": "/bin/angebote/seminar-workshop-vortrag.html#nav",
-                    "text": "Seminar - Workshop - Vortrag"
-                  }
+                    "type": "quote",
+                    "data": {
+                        "quote": "Denn Zeit ist Leben.<br/>Und das Leben wohnt im Herzen.",
+                        "author": "Michael Ende, Momo"
+                    }
                 },
                 {
-                  "type": "button",
-                  "data": {
-                    "link": "/bin/angebote/coaching.html#nav",
-                    "text": "Psychologische Beratung -  Coaching"
-                  }
-                },
-                {
-                  "type": "button",
-                  "data": {
-                    "link": "/bin/angebote/supervision.html#nav",
-                    "text": "Supervision",
-                    "selected": "true"
-                  }
-                },
-                {
-                  "type": "button",
-                  "data": {
-                    "link": "/bin/angebote/msc-kurs.html#nav",
-                    "text": "Achtsames Selbstmitgefühl (MSC) - Kurs"
-                  }
-                },
-                {
-                  "type": "button",
-                  "data": {
-                    "link": "/bin/angebote/elternbildung-coaching-beratung.html#nav",
-                    "text": "Elternbildung - Coaching - Beratung"
-                  }
+                    "type": "image",
+                    "data": "/bin/resources/igel.png"
                 }
-              ]
-            }
-          }
-        ]
-      }
-    },
-    {
-      "type": "contentline",
-      "data": {
-        "nopadding": "true",
-        "modules": [
-          {
-            "type": "imagetitle",
-            "data": {
-              "image": "/bin/resources/dandelion.jpg",
-              "id": "seminare",
-              "heading": "Supervision"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "type": "contentline",
-      "data": {
-        "modules": [
-          {
-            "type": "calltoaction",
-            "data": {
-              "borderimage": "/bin/resources/supervision.png",
-              "heading": "Supervision",
-              "text": "Supervision ist die Reflexion der beruflichen Tätigkeit, das Betrachten der Vorgänge in Arbeitsprozessen aus der Meta-Ebene. Je nach Kontext kann der Inhalt dieser Reflexion – die letztendlich immer ein Beratungsprozess ist – unterschiedlich sein: von Entscheidungs- und Arbeitsprozessen mit unterschiedlichsten Inhalten, Prozessen in Teams, dem Zusammenspiel hierarchischer Ebenen bis zum Beratungs- oder Coachinggespräch selbst.<br/><br/>Supervision ist Mittel zum Zweck: die Verbesserung der Arbeitsfähigkeit, der Effizienz, der Arbeitsfreude und damit auch des Ergebnisses von Arbeitsprozessen. Sie verbessert die Kommunikation in Teams und zwischen hierarchischen Ebenen, sie erhöht die Fähigkeit im Umgang mit Konflikten, sie fördert die Resilienz des Einzelnen und von Teams. Somit ist Supervision ein fundamentaler Bestandteil betrieblicher Gesundheitsförderung und ein wichtiger Aspekt für die Prävention von Mobbing und Burnout, was sich auch unmittelbar auf die Wirtschaftlichkeit von Unternehmen auswirkt.",
-              "button": {
-                "text": "WKO Expertenpool",
-                "link": "http://www.lebensberater.at/supervision?combine_1=Christine+Minixhofer&combine=Steiermark"
-              }
-            }
-          }
-        ]
-      }
-    },
-    {
-      "type": "contentline",
-      "data": {
-        "modules": [
-          {
-            "type": "title",
-            "data": {
-              "heading": "Mein Angebot umfasst..."
-            }
-          },
-          {
-            "type": "borderimagebuttons",
-            "data": {
-              "borderimage": "/bin/resources/alpine.jpg",
-              "buttons": [
-                {
-                  "type": "button",
-                  "data": {
-                    "text": "Supervision und Coaching für berufiche Themen im Einzelsetting"
-                  }
-                },
-                {
-                  "type": "button",
-                  "data": {
-                    "text": "Fallsupervision im Einzel- oder Gruppensetting"
-                  }
-                },
-                {
-                  "type": "button",
-                  "data": {
-                    "text": "Teamsupervision"
-                  }
-                },
-                {
-                  "type": "button",
-                  "data": {
-                    "text": "Einzelsupervision, Gruppensupervision für AusbildungskanditatInnen der LSB Ausbildung"
-                  }
-                }
-              ]
-            }
-          }
-        ]
-      }
-    }
-  ],
-  "foot": {
-      "modules": [
-        {
-          "type": "twolines",
-          "data": {
-            "firstline": "+43 699 88 46 75 44",
-            "secondline": "christine.minixhofer@dialogus.at"
-          }
-        },
-        {
-          "type": "socialtitle",
-          "data": {
-            "heading": "Christine Minixhofer, MSc",
-            "socials": [
-              {
-                "type": "urlicon",
-                "data": {
-                  "url": "https://www.facebook.com/christineminixhofer",
-                  "title": "Facebook"
-                }
-              },
-              {
-                "type": "urlicon",
-                "data": {
-                  "url": "http://www.arbor-seminare.de/christine-minixhofer",
-                  "title": "Arbor Seminare"
-                }
-              },
-              {
-                "type": "urlicon",
-                "data": {
-                  "url": "http://centerformsc.org/msc-teacher/christine-minixhofer",
-                  "title": "Center for Mindful Self-Compassion"
-                }
-              },
-              {
-                "type": "urlicon",
-                "data": {
-                  "url": "http://www.gewaltfrei.at/profile/christineminixhofer",
-                  "title": "Gewaltfreie Kommunikation Austria"
-                }
-              },
-              {
-                "type": "urlicon",
-                "data": {
-                  "url": "http://www.gewaltfrei-dach.eu/wissenschaftliche-arbeiten",
-                  "title": "DACH e.V. - Gewaltfreie Kommunikation"
-                }
-              },
-              {
-                "type": "urlicon",
-                "data": {
-                  "url": "http://www.steigls.org/index.php?id=praxisadresse_detail&lebensberater=163",
-                  "title": "Steirische Gesellschaft für Lebens- und Sozialberatung"
-                }
-              },
-              {
-                "type": "urlicon",
-                "data": {
-                  "url": "https://www.xing.com/profile/Christine_Minixhofer/web_profiles",
-                  "title": "Xing"
-                }
-              },
-              {
-                "type": "urlicon",
-                "data": {
-                  "url": "http://www.bestnet.com/go.asp?personen_id=144740&sektion=personen&rkarte=infodet",
-                  "title": "bestNET"
-                }
-              },
-              {
-                "type": "urlicon",
-                "data": {
-                  "url": "http://christine-minixhofer.stadtausstellung.at",
-                  "title": "Stadtausstellung"
-                }
-              }
             ]
-          }
+        },
+        "navigation": {
+            "links": [
+                {
+                    "type": "link",
+                    "data": {
+                        "text": "Home",
+                        "link": "/bin/home.html#nav"
+                    }
+                },
+                {
+                    "type": "link",
+                    "data": {
+                        "text": "Über mich",
+                        "link": "/bin/ueber-mich.html#nav"
+                    }
+                },
+                {
+                    "type": "link",
+                    "data": {
+                        "text": "Methoden",
+                        "link": "/bin/methoden.html#nav"
+                    }
+                },
+                {
+                    "type": "link",
+                    "data": {
+                        "text": "Angebote",
+                        "selected": "true"
+                    }
+                },
+                {
+                    "type": "link",
+                    "data": {
+                        "text": "Zum Schmökern",
+                        "link": "/bin/zum-schmoekern.html#nav"
+                    }
+                },
+                {
+                    "type": "link",
+                    "data": {
+                        "text": "Kontakt",
+                        "link": "/bin/kontakt.html#nav"
+                    }
+                },
+                {
+                    "type": "link",
+                    "data": {
+                        "text": "Newsletter",
+                        "link": "/bin/newsletter.html#nav"
+                    }
+                },
+                {
+                    "type": "link",
+                    "data": {
+                        "text": "Impressum",
+                        "link": "/bin/Impressum.html#nav"
+                    }
+                }
+            ]
+        }
+    },
+    "lines": [
+        {
+            "type": "contentline",
+            "data": {
+                "nopadding": "true",
+                "modules": [
+                    {
+                        "type": "buttongroup",
+                        "data": {
+                            "buttons": [
+                                {
+                                    "type": "button",
+                                    "data": {
+                                        "link": "/bin/angebote/seminar-workshop-vortrag.html#nav",
+                                        "text": "Seminar - Workshop - Vortrag"
+                                    }
+                                },
+                                {
+                                    "type": "button",
+                                    "data": {
+                                        "link": "/bin/angebote/coaching.html#nav",
+                                        "text": "Psychologische Beratung -  Coaching"
+                                    }
+                                },
+                                {
+                                    "type": "button",
+                                    "data": {
+                                        "link": "/bin/angebote/supervision.html#nav",
+                                        "text": "Supervision",
+                                        "selected": "true"
+                                    }
+                                },
+                                {
+                                    "type": "button",
+                                    "data": {
+                                        "link": "/bin/angebote/msc-kurs.html#nav",
+                                        "text": "Achtsames Selbstmitgefühl (MSC) - Kurs"
+                                    }
+                                },
+                                {
+                                    "type": "button",
+                                    "data": {
+                                        "link": "/bin/angebote/elternbildung-coaching-beratung.html#nav",
+                                        "text": "Elternbildung - Coaching - Beratung"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
         },
         {
-          "type": "twolines",
-          "data": {
-            "firstline": "Mitterstraße 128/11",
-            "secondline": "8055 Seiersberg bei Graz"
-          }
+            "type": "contentline",
+            "data": {
+                "nopadding": "true",
+                "modules": [
+                    {
+                        "type": "imagetitle",
+                        "data": {
+                            "image": "/bin/resources/dandelion.jpg",
+                            "id": "seminare",
+                            "heading": "Supervision"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "type": "contentline",
+            "data": {
+                "modules": [
+                    {
+                        "type": "calltoaction",
+                        "data": {
+                            "borderimage": "/bin/resources/supervision.png",
+                            "heading": "Supervision",
+                            "text": "Supervision ist die Reflexion der beruflichen Tätigkeit, das Betrachten der Vorgänge in Arbeitsprozessen aus der Meta-Ebene. Der Inhalt dieser Reflexion kann kontextabhängig ganz unterschiedlich sein:  Entscheidungs- und Arbeitsprozesse, Prozesse in Teams, das Zusammenspiel hierarchischer Ebenen, die interdisziplinäre Kommunikation, um nur einige zu nennen. Supervision ist immer ein Beratungsprozess. <br/><br/>Supervision ermöglicht durch den \"Blick von oben\" neue Einsichten, eine neues Verständnis in das Denken und Handeln, das Rollenverhalten und der Beziehungsgestaltung im Arbeitskontext und schafft damit die Basis für nachhaltige Veränderungen.  <br/><br/>Supervision ist Mittel zum Zweck: die Verbesserung der Arbeitsfähigkeit, der Effizienz, der Arbeitsfreude und damit auch des Ergebnisses von Arbeitsprozessen. Sie verbessert die Kommunikation in Teams und zwischen hierarchischen Ebenen, sie erhöht die Fähigkeit im Umgang mit Konflikten, sie fördert die Resilienz des Einzelnen und von Teams.  <br/><br/>Supervision ist ein fundamentaler Bestandteil betrieblicher Gesundheitsförderung und ein wichtiger Aspekt für die Prävention von Mobbing und Burnout, was sich auch unmittelbar auf die Wirtschaftlichkeit von Unternehmen auswirkt.",
+                            "button": {
+                                "text": "ich bin eingetragen im WKO Expertenpool für Supervision",
+                                "link": "http://www.lebensberater.at/supervision?combine_1=Christine+Minixhofer&combine=Steiermark"
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "type": "contentline",
+            "data": {
+                "modules": [
+                    {
+                        "type": "title",
+                        "data": {
+                            "heading": "Mein Angebot umfasst..."
+                        }
+                    },
+                    {
+                        "type": "borderimagebuttons",
+                        "data": {
+                            "borderimage": "/bin/resources/alpine.jpg",
+                            "buttons": [
+                                {
+                                    "type": "button",
+                                    "data": {
+                                        "text": "Supervision und Coaching für berufliche Themen im Einzelsetting"
+                                    }
+                                },
+                                {
+                                    "type": "button",
+                                    "data": {
+                                        "text": "Fallsupervision im Einzel- oder Gruppensetting"
+                                    }
+                                },
+                                {
+                                    "type": "button",
+                                    "data": {
+                                        "text": "Teamsupervision"
+                                    }
+                                },
+                                {
+                                    "type": "button",
+                                    "data": {
+                                        "text": "Einzelsupervision, Gruppensupervision für AusbildungskanditatInnen der LSB Ausbildung"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
         }
-      ]
-  }
+    ],
+    "foot": {
+        "modules": [
+            {
+                "type": "twolines",
+                "data": {
+                    "firstline": "+43 699 88 46 75 44",
+                    "secondline": "christine.minixhofer@dialogus.at"
+                }
+            },
+            {
+                "type": "socialtitle",
+                "data": {
+                    "heading": "Christine Minixhofer, MSc",
+                    "socials": [
+                        {
+                            "type": "urlicon",
+                            "data": {
+                                "url": "https://www.facebook.com/christineminixhofer",
+                                "title": "Facebook"
+                            }
+                        },
+                        {
+                            "type": "urlicon",
+                            "data": {
+                                "url": "http://www.arbor-seminare.de/christine-minixhofer",
+                                "title": "Arbor Seminare"
+                            }
+                        },
+                        {
+                            "type": "urlicon",
+                            "data": {
+                                "url": "http://centerformsc.org/msc-teacher/christine-minixhofer",
+                                "title": "Center for Mindful Self-Compassion"
+                            }
+                        },
+                        {
+                            "type": "urlicon",
+                            "data": {
+                                "url": "http://www.gewaltfrei.at/profile/christineminixhofer",
+                                "title": "Gewaltfreie Kommunikation Austria"
+                            }
+                        },
+                        {
+                            "type": "urlicon",
+                            "data": {
+                                "url": "http://www.gewaltfrei-dach.eu/wissenschaftliche-arbeiten",
+                                "title": "DACH e.V. - Gewaltfreie Kommunikation"
+                            }
+                        },
+                        {
+                            "type": "urlicon",
+                            "data": {
+                                "url": "http://www.steigls.org/index.php?id=praxisadresse_detail&lebensberater=163",
+                                "title": "Steirische Gesellschaft für Lebens- und Sozialberatung"
+                            }
+                        },
+                        {
+                            "type": "urlicon",
+                            "data": {
+                                "url": "https://www.xing.com/profile/Christine_Minixhofer/web_profiles",
+                                "title": "Xing"
+                            }
+                        },
+                        {
+                            "type": "urlicon",
+                            "data": {
+                                "url": "http://www.bestnet.com/go.asp?personen_id=144740&sektion=personen&rkarte=infodet",
+                                "title": "bestNET"
+                            }
+                        },
+                        {
+                            "type": "urlicon",
+                            "data": {
+                                "url": "http://christine-minixhofer.stadtausstellung.at",
+                                "title": "Stadtausstellung"
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "twolines",
+                "data": {
+                    "firstline": "Mitterstraße 128/11",
+                    "secondline": "8055 Seiersberg bei Graz"
+                }
+            }
+        ]
+    }
 }

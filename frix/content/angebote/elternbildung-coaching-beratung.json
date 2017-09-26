@@ -1,393 +1,402 @@
 {
-  "title": "Elternbildung - Coaching - Beratung | Christine Minixhofer, MSc",
-  "header": {
-    "headline": {
-      "heading": "Christine Minixhofer, Msc",
-      "subheading": "Training | Coaching | Supervision | Psychologische Beratung"
-    },
-    "hero": {
-      "items": [
-        {
-          "type": "quote",
-          "data": {
-            "quote": "Denn Zeit ist Leben.<br/>Und das Leben wohnt im Herzen.",
-            "author": "Michael Ende, Momo"
-          }
+    "title": "Elternbildung - Coaching - Beratung | Christine Minixhofer, MSc",
+    "header": {
+        "headline": {
+            "heading": "Christine Minixhofer, Msc",
+            "subheading": "Training | Coaching | Supervision | Psychologische Beratung"
         },
-        {
-          "type": "image",
-          "data": "/bin/resources/igel.png"
-        }
-      ]
-    },
-    "navigation": {
-      "links": [{
-        "type": "link",
-        "data": {
-          "text": "Home",
-          "link": "/bin/home.html#nav"
-        }
-      }, {
-        "type": "link",
-        "data": {
-          "text": "Über mich",
-          "link": "/bin/ueber-mich.html#nav"
-        }
-      }, {
-        "type": "link",
-        "data": {
-          "text": "Methoden",
-          "link": "/bin/methoden.html#nav"
-        }
-      }, {
-        "type": "link",
-        "data": {
-          "text": "Angebote",
-          "selected": "true"
-        }
-      }, {
-        "type": "link",
-        "data": {
-          "text": "Zum Schmökern",
-          "link": "/bin/zum-schmoekern.html#nav"
-        }
-      }, {
-        "type": "link",
-        "data": {
-          "text": "Kontakt",
-          "link": "/bin/kontakt.html#nav"
-        }
-      }, {
-        "type": "link",
-        "data": {
-          "text": "Newsletter",
-          "link": "/bin/newsletter.html#nav"
-        }
-      }, {
-        "type": "link",
-        "data": {
-          "text": "Impressum",
-          "link": "/bin/Impressum.html#nav"
-        }
-      }]
-    }
-  },
-  "lines": [
-    {
-      "type": "contentline",
-      "data": {
-        "nopadding": "true",
-        "modules": [
-          {
-            "type": "buttongroup",
-            "data": {
-              "buttons": [
+        "hero": {
+            "items": [
                 {
-                  "type": "button",
-                  "data": {
-                    "link": "/bin/angebote/seminar-workshop-vortrag.html#nav",
-                    "text": "Seminar - Workshop - Vortrag"
-                  }
+                    "type": "quote",
+                    "data": {
+                        "quote": "Denn Zeit ist Leben.<br/>Und das Leben wohnt im Herzen.",
+                        "author": "Michael Ende, Momo"
+                    }
                 },
                 {
-                  "type": "button",
-                  "data": {
-                    "link": "/bin/angebote/coaching.html#nav",
-                    "text": "Psychologische Beratung -  Coaching"
-                  }
-                },
-                {
-                  "type": "button",
-                  "data": {
-                    "link": "/bin/angebote/supervision.html#nav",
-                    "text": "Supervision"
-                  }
-                },
-                {
-                  "type": "button",
-                  "data": {
-                    "link": "/bin/angebote/msc-kurs.html#nav",
-                    "text": "Achtsames Selbstmitgefühl (MSC) - Kurs"
-                  }
-                },
-                {
-                  "type": "button",
-                  "data": {
-                    "link": "/bin/angebote/elternbildung-coaching-beratung.html#nav",
-                    "text": "Elternbildung - Coaching - Beratung",
-                    "selected": "true"
-                  }
+                    "type": "image",
+                    "data": "/bin/resources/igel.png"
                 }
-              ]
-            }
-          }
-        ]
-      }
-    },
-    {
-      "type": "contentline",
-      "data": {
-        "nopadding": "true",
-        "modules": [
-          {
-            "type": "imagetitle",
-            "data": {
-              "image": "/bin/resources/mikiwa.jpg",
-              "id": "seminare",
-              "heading": "Elternbildung - Coaching - Beratung"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "type": "contentline",
-      "data": {
-        "modules": [
-          {
-            "type": "title",
-            "data": {
-              "heading": "Coaching und Beratung für eine achtsame und haltgebende Erziehung"
-            }
-          },
-          {
-            "type": "textblock",
-            "data": "Als Mutter oder Vater führen und begleiten Sie Ihr Kind in das große Abenteuer Leben. Sie tragen Führungsverantwortung. So erfüllend es sein kann Kinder in ihrer Entwicklung zu begleiten, so  gibt es auch immer wieder Zeiten, in denen sich Fragen und Zweifel auftun. Kleine und auch große Kinder fordern uns heraus, in vielfältiger Weise. Erziehung bedeutet Selbsterfahrung. Erziehung gelingt, wenn Erziehung eine vertrauensvolle Beziehung zulässt. Dazu ist es hilfreich sich mit der eigenen Persönlichkeit auseinanderzusetzen. Wer bin ich als Mutter/Vater? Wie will ich als Mutter/Vater sein? Wer bin ich als Tochter oder Sohn? Fragen über Fragen... Das Stellen von Fragen und die Suche nach Antworten kann Ihnen helfen Ihre Erziehung bewusster und achtsamer zu gestalten. So kann Ihr Elternsein sowohl zum Wachstum Ihres Kindes als auch zu Ihrem persönlichen Wachstum beitragen.<br/><br/>Mit meinem Seminar- und Beratungsangebot unterstütze ich Sie gerne in Ihren Fragen und Anliegen rundum bewusste, achtsame und haltgebende Erziehung Ihrer Kinder und der Beziehungsgestaltung zu Ihren Kindern."
-          }
-        ]
-      }
-    },
-    {
-      "type": "contentline",
-      "data": {
-        "modules": [
-          {
-            "type": "title",
-            "data": {
-              "heading": "Elterncoaching und Beratung"
-            }
-          },
-          {
-            "type": "textblock",
-            "data": "Als Coach und Beraterin sehe ich mich als WEG-Begleiterin. Mein Anliegen ist es Sie zu unterstützen Ihren eigenen Erziehungs-Weg zu finden und zu gehen. Im ersten Schritt des Weges geht es darum vorhandene Schwierigkeiten oder Probleme zu erkennen und zu benennen. Ebenso wichtig ist es auch das was gut läuft zu erkennen und zu benennen, um es zu würdigen und zu bestärken. In einem weiteren Schritt geht es darum sich damit auseinanderzusetzen, was Sie verändern und was Sie erreichen möchten. Auf diesem Weg begleite ich Sie gerne.<br/><br/>Wie viele Sitzungen Sie in Anspruch nehmen wollen, entscheiden Sie.<br/><br/>Im Rahmen des Beratungsprozesses sind auch Hausbesuche möglich. Bei einem Hausbesuch geht es darum Alltagssituationen und Interaktionen zwischen den Familienmitgliedern zu beobachten, um sich „vor Ort“ ein Bild machen zu können. Während des Hausbesuchs geht es nur um Wahrnehmung und Beobachtung. Es findet keine Beratung oder Problembeschreibung vor/neben den Kindern statt. Die subjektiven Wahrnehmungen und gemachten Beobachtungen werden in einer weiteren Sitzung in meiner Beratungspraxis offengelegt, nachbesprochen und gemeinsam bearbeitet. Die Nachbesprechung erfolgt ohne Beisein der Kinder."
-          }
-        ]
-      }
-    },
-    {
-      "type": "contentline",
-      "data": {
-        "modules": [
-          {
-            "type": "title",
-            "data": {
-              "heading": "Mögliche Gründe für Elterncoaching und Beratung"
-            }
-          },
-          {
-            "type": "borderimagebuttons",
-            "data": {
-              "borderimage": "/bin/resources/paperboat.jpg",
-              "buttons": [
-                {
-                  "type": "button",
-                  "data": {
-                    "text": "Sie fühlen sich zunehmend unsicher im Umgang mit Ihrem Kind."
-                  }
-                },
-                {
-                  "type": "button",
-                  "data": {
-                    "text": "Sie fühlen sich gestresst und/oder überfordert in Ihrer Rolle als Mutter/Vater."
-                  }
-                },
-                {
-                  "type": "button",
-                  "data": {
-                    "text": "Sie möchten etwas an Ihrem Erziehungsstil bzw. in Ihrem Familienalltag verändern."
-                  }
-                }
-              ]
-            }
-          },
-          {
-            "type": "textblock",
-            "data": "Als Lebensberaterin bin ich zu Verschwiegenheit verpflichtet.<br/>Hausbesuche sind ausschließlich im Raum Graz oder Graz Umgebung möglich."
-          }
-        ]
-      }
-    },
-    {
-      "type": "contentline",
-      "data": {
-        "modules": [
-          {
-            "type": "verticaltitle",
-            "data": {
-              "heading": "Mit Kindern wachsen - Seminarreihe",
-              "callouts": [
-                {
-                  "type": "eventcallout",
-                  "data": {
-                    "name": "Kurs 2/2017",
-                    "detail": "Bildungshaus Mariatrost in Graz",
-                    "wochentag": "Donnerstag",
-                    "zeit": "18:00 - 21:15",
-                    "termine": "23.11|7.12|14.12|11.1|18.1",
-                    "retreat": "16. November 2017<br>Anmeldung NUR über das <a href='http://www.mariatrost.at'>Bildungshaus</a>",
-                    "kosten-normal": "€ 160,-",
-                    "kosten-früh": " ",
-                    "retreat-text": "Anmeldung bis",
-                    "kosten-früh-text": " ",
-                    "kein-frühbucher": "true",
-                    "mwst": " "
-                  }
-                }
-              ]
-            }
-          }
-        ]
-      }
-    },
-    {
-      "type": "contentline",
-      "data": {
-        "modules": [
-          {
-            "type": "textblock",
-            "data": "In der Seminarreihe <strong>Mit Kindern wachsen – MIKIWA - Erziehung als Persönlichkeitsbildung für Eltern und Kinder</strong> wird besonderer Wert auf aktuelle Anliegen und Fragen der Teilnehmer/innen gelegt. Eingeladen sind alle Menschen, die Kinder ein Stück ihres Lebens begleiten: Eltern, Pädagoginnen, Großeltern.... Die älteste Seminateilnehmerin war bis dato 75 Jahre jung.<br/><br/>\"Rechte Erziehung beginnt mit dem Erzieher, der sich selbst verstehen und von schematischem Denken befreien muss – denn was er ist, überträgt er auf andere. Wenn wir selbst nicht verstehen, wenn wir unsere Beziehung zu unserem Kinde nicht erfassen – wie können wir dann überhaupt eine neue Art von Erziehung einführen?\" <br> - Jiddu Krishnamurti"
-          }
-        ]
-      }
-    },
-    {
-      "type": "contentline",
-      "data": {
-        "modules": [
-          {
-            "type": "title",
-            "data": {
-              "heading": "Stimmen von Teilnehmer/innen des MIKIWA Seminars"
-            }
-          },
-          {
-            "type": "textblock",
-            "data": "Wenn es Sie interessiert, was Teilnehmer/innen über das MIKIWA Seminar sagen, finden sie hier eine Sammlung von persönlichen <a href='/bin/resources/download/rueckmeldungen.pdf'>Rückmeldungen</a>.<br/><br/>Im Folgenden können Sie zwei Interviews hören, die Frau Dr. Doris Rudlof Garreis mit Teilnehmer/innen des MIKIWA Seminars führte. Die Hörbeiträge wurden im Rahmen der Initiative ZWEI UND MEHR Elternbildung des Landes Steiermark 2009 aufgezeichnet.<br/><br/><strong>Aus der Sicht eines Vaters</strong> - Rückblick auf ein MIKIWA - Elternbildungsseminar,  das durch die Familienakademie der Kinderfreunde Steiermark mit Kooperation der Gemeinde Pirka im Jahr 2007 stattfand. Zum Zeitpunkt des Interviews lag die Teilnahme am Seminar bereits 2 Jahre zurück.<br/><br/><strong>Aus der Sicht von Müttern</strong> - MIKIWA- Seminarreihe veranstaltet durch die Familienakademie der Kinderfreunde Steiermark mit der Marktgemeinde Hausmannstätten durch das Projekt ZUSLWUSL Generationen Treff im Jahr 2009. Das Interview fand am letzten Seminarabend statt."
-          },
-          {
-            "type": "verticaltitle",
-            "data": {
-              "heading": " ",
-              "align": "center",
-              "callouts": [
-                {
-                  "type": "audiocallout",
-                  "data": {
-                    "name": "Aus der Sicht eines Vaters",
-                    "audio": "http://www.elternbildung.steiermark.at/cms/dokumente/11540239_68581809/33285dff/Aus%20der%20Sicht%20eines%20Vaters.MP3"
-                  }
-                },
-                {
-                  "type": "audiocallout",
-                  "data": {
-                    "name": "Aus der Sicht von Müttern",
-                    "audio": "http://www.elternbildung.steiermark.at/cms/dokumente/11540239_68581809/32802519/Mit%20Kindern%20wachsen.MP3"
-                  }
-                }
-              ]
-            }
-          }
-        ]
-      }
-    }
-  ],
-  "foot": {
-      "modules": [
-        {
-          "type": "twolines",
-          "data": {
-            "firstline": "+43 699 88 46 75 44",
-            "secondline": "christine.minixhofer@dialogus.at"
-          }
-        },
-        {
-          "type": "socialtitle",
-          "data": {
-            "heading": "Christine Minixhofer, MSc",
-            "socials": [
-              {
-                "type": "urlicon",
-                "data": {
-                  "url": "https://www.facebook.com/christineminixhofer",
-                  "title": "Facebook"
-                }
-              },
-              {
-                "type": "urlicon",
-                "data": {
-                  "url": "http://www.arbor-seminare.de/christine-minixhofer",
-                  "title": "Arbor Seminare"
-                }
-              },
-              {
-                "type": "urlicon",
-                "data": {
-                  "url": "http://centerformsc.org/msc-teacher/christine-minixhofer",
-                  "title": "Center for Mindful Self-Compassion"
-                }
-              },
-              {
-                "type": "urlicon",
-                "data": {
-                  "url": "http://www.gewaltfrei.at/profile/christineminixhofer",
-                  "title": "Gewaltfreie Kommunikation Austria"
-                }
-              },
-              {
-                "type": "urlicon",
-                "data": {
-                  "url": "http://www.gewaltfrei-dach.eu/wissenschaftliche-arbeiten",
-                  "title": "DACH e.V. - Gewaltfreie Kommunikation"
-                }
-              },
-              {
-                "type": "urlicon",
-                "data": {
-                  "url": "http://www.steigls.org/index.php?id=praxisadresse_detail&lebensberater=163",
-                  "title": "Steirische Gesellschaft für Lebens- und Sozialberatung"
-                }
-              },
-              {
-                "type": "urlicon",
-                "data": {
-                  "url": "https://www.xing.com/profile/Christine_Minixhofer/web_profiles",
-                  "title": "Xing"
-                }
-              },
-              {
-                "type": "urlicon",
-                "data": {
-                  "url": "http://www.bestnet.com/go.asp?personen_id=144740&sektion=personen&rkarte=infodet",
-                  "title": "bestNET"
-                }
-              },
-              {
-                "type": "urlicon",
-                "data": {
-                  "url": "http://christine-minixhofer.stadtausstellung.at",
-                  "title": "Stadtausstellung"
-                }
-              }
             ]
-          }
+        },
+        "navigation": {
+            "links": [
+                {
+                    "type": "link",
+                    "data": {
+                        "text": "Home",
+                        "link": "/bin/home.html#nav"
+                    }
+                },
+                {
+                    "type": "link",
+                    "data": {
+                        "text": "Über mich",
+                        "link": "/bin/ueber-mich.html#nav"
+                    }
+                },
+                {
+                    "type": "link",
+                    "data": {
+                        "text": "Methoden",
+                        "link": "/bin/methoden.html#nav"
+                    }
+                },
+                {
+                    "type": "link",
+                    "data": {
+                        "text": "Angebote",
+                        "selected": "true"
+                    }
+                },
+                {
+                    "type": "link",
+                    "data": {
+                        "text": "Zum Schmökern",
+                        "link": "/bin/zum-schmoekern.html#nav"
+                    }
+                },
+                {
+                    "type": "link",
+                    "data": {
+                        "text": "Kontakt",
+                        "link": "/bin/kontakt.html#nav"
+                    }
+                },
+                {
+                    "type": "link",
+                    "data": {
+                        "text": "Newsletter",
+                        "link": "/bin/newsletter.html#nav"
+                    }
+                },
+                {
+                    "type": "link",
+                    "data": {
+                        "text": "Impressum",
+                        "link": "/bin/Impressum.html#nav"
+                    }
+                }
+            ]
+        }
+    },
+    "lines": [
+        {
+            "type": "contentline",
+            "data": {
+                "nopadding": "true",
+                "modules": [
+                    {
+                        "type": "buttongroup",
+                        "data": {
+                            "buttons": [
+                                {
+                                    "type": "button",
+                                    "data": {
+                                        "link": "/bin/angebote/seminar-workshop-vortrag.html#nav",
+                                        "text": "Seminar - Workshop - Vortrag"
+                                    }
+                                },
+                                {
+                                    "type": "button",
+                                    "data": {
+                                        "link": "/bin/angebote/coaching.html#nav",
+                                        "text": "Psychologische Beratung -  Coaching"
+                                    }
+                                },
+                                {
+                                    "type": "button",
+                                    "data": {
+                                        "link": "/bin/angebote/supervision.html#nav",
+                                        "text": "Supervision"
+                                    }
+                                },
+                                {
+                                    "type": "button",
+                                    "data": {
+                                        "link": "/bin/angebote/msc-kurs.html#nav",
+                                        "text": "Achtsames Selbstmitgefühl (MSC) - Kurs"
+                                    }
+                                },
+                                {
+                                    "type": "button",
+                                    "data": {
+                                        "link": "/bin/angebote/elternbildung-coaching-beratung.html#nav",
+                                        "text": "Elternbildung - Coaching - Beratung",
+                                        "selected": "true"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
         },
         {
-          "type": "twolines",
-          "data": {
-            "firstline": "Mitterstraße 128/11",
-            "secondline": "8055 Seiersberg bei Graz"
-          }
+            "type": "contentline",
+            "data": {
+                "nopadding": "true",
+                "modules": [
+                    {
+                        "type": "imagetitle",
+                        "data": {
+                            "image": "/bin/resources/mikiwa.jpg",
+                            "id": "seminare",
+                            "heading": "Elternbildung - Coaching - Beratung"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "type": "contentline",
+            "data": {
+                "modules": [
+                    {
+                        "type": "title",
+                        "data": {
+                            "heading": "Achtsame und haltgebende Erziehung"
+                        }
+                    },
+                    {
+                        "type": "textblock",
+                        "data": "Als Mutter oder Vater führen und begleiten Sie Ihr Kind in das große Abenteuer Leben. Sie tragen Führungsverantwortung. So erfüllend es sein kann Kinder in ihrer Entwicklung zu begleiten, so  gibt es auch immer wieder Zeiten, in denen sich Fragen und Zweifel auftun. Kleine und auch große Kinder fordern uns heraus, in vielfältiger Weise. Erziehung bedeutet Selbsterfahrung. Erziehung gelingt, wenn Erziehung eine vertrauensvolle Beziehung zulässt. Dazu ist es hilfreich sich mit der eigenen Persönlichkeit auseinanderzusetzen. Wer bin ich als Mutter/Vater? Wie will ich als Mutter/Vater sein? Wer bin ich als Tochter oder Sohn? Fragen über Fragen... Das Stellen von Fragen und die Suche nach Antworten kann Ihnen helfen Ihre Erziehung bewusster und achtsamer zu gestalten. So kann Ihr Elternsein sowohl zum Wachstum Ihres Kindes als auch zu Ihrem persönlichen Wachstum beitragen.<br/><br/>Mit meinem Seminar- und Beratungsangebot unterstütze ich Sie gerne in Ihren Fragen und Anliegen rundum bewusste, achtsame und haltgebende Erziehung Ihrer Kinder und der Beziehungsgestaltung zu Ihren Kindern."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "contentline",
+            "data": {
+                "modules": [
+                    {
+                        "type": "title",
+                        "data": {
+                            "heading": "Elterncoaching und Beratung"
+                        }
+                    },
+                    {
+                        "type": "textblock",
+                        "data": "Als Coach und Beraterin sehe ich mich als WEG-Begleiterin. Mein Anliegen ist es Sie zu unterstützen Ihren eigenen Erziehungs-Weg zu finden und zu gehen. Im ersten Schritt des Weges geht es darum vorhandene Schwierigkeiten oder Probleme zu erkennen und zu benennen. Ebenso wichtig ist es auch das was gut läuft zu erkennen und zu benennen, um es zu würdigen und zu bestärken. In einem weiteren Schritt geht es darum sich damit auseinanderzusetzen, was Sie verändern und was Sie erreichen möchten. Auf diesem Weg begleite ich Sie gerne.<br/><br/>Wie viele Sitzungen Sie in Anspruch nehmen wollen, entscheiden Sie.<br/><br/>Im Rahmen des Beratungsprozesses sind auch Hausbesuche möglich. Bei einem Hausbesuch geht es darum Alltagssituationen und Interaktionen zwischen den Familienmitgliedern zu beobachten, um sich „vor Ort“ ein Bild machen zu können. Während des Hausbesuchs geht es nur um Wahrnehmung und Beobachtung. Es findet keine Beratung oder Problembeschreibung vor/neben den Kindern statt. Die subjektiven Wahrnehmungen und gemachten Beobachtungen werden in einer weiteren Sitzung in meiner Beratungspraxis offengelegt, nachbesprochen und gemeinsam bearbeitet. Die Nachbesprechung erfolgt ohne Beisein der Kinder."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "contentline",
+            "data": {
+                "modules": [
+                    {
+                        "type": "title",
+                        "data": {
+                            "heading": "mögliche Gründe für Elterncoaching und Beratung"
+                        }
+                    },
+                    {
+                        "type": "borderimagebuttons",
+                        "data": {
+                            "borderimage": "/bin/resources/paperboat.jpg",
+                            "buttons": [
+                                {
+                                    "type": "button",
+                                    "data": {
+                                        "text": "Sie fühlen sich zunehmend unsicher im Umgang mit Ihrem Kind."
+                                    }
+                                },
+                                {
+                                    "type": "button",
+                                    "data": {
+                                        "text": "Sie fühlen sich gestresst und/oder überfordert in Ihrer Rolle als Mutter/Vater."
+                                    }
+                                },
+                                {
+                                    "type": "button",
+                                    "data": {
+                                        "text": "Sie möchten etwas an Ihrem Erziehungsstil bzw. in Ihrem Familienalltag verändern."
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "type": "textblock",
+                        "data": "Als Lebensberaterin bin ich zu Verschwiegenheit verpflichtet.<br/>Hausbesuche sind ausschließlich im Raum Graz oder Graz Umgebung möglich."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "contentline",
+            "data": {
+                "modules": [
+                    {
+                        "type": "verticaltitle",
+                        "data": {
+                            "heading": "Mit Kindern wachsen - Seminarreihe",
+                            "callouts": [
+                                {
+                                    "type": "eventcallout",
+                                    "data": {
+                                        "name": "Kurs 2/2017",
+                                        "detail": "Bildungshaus Mariatrost in Graz",
+                                        "wochentag": "Donnerstag",
+                                        "zeit": "18:00 - 21:15",
+                                        "termine": "23.11|7.12|14.12|11.1|18.1",
+                                        "retreat": "16. November 2017<br>Anmeldung NUR über das <a href='http://www.mariatrost.at'>Bildungshaus</a>",
+                                        "kosten-normal": "€ 160,-",
+                                        "kosten-früh": " ",
+                                        "retreat-text": "Anmeldung bis",
+                                        "kosten-früh-text": " ",
+                                        "kein-frühbucher": "true",
+                                        "mwst": " "
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "type": "contentline",
+            "data": {
+                "modules": [
+                    {
+                        "type": "textblock",
+                        "data": "In der Seminarreihe <strong>Mit Kindern wachsen – MIKIWA - Erziehung als Persönlichkeitsbildung für Eltern und Kinder</strong> wird besonderer Wert auf aktuelle Anliegen und Fragen der Teilnehmer/innen gelegt. Eingeladen sind alle Menschen, die Kinder ein Stück ihres Lebens begleiten: Eltern, Pädagoginnen, Großeltern.... Die älteste Seminateilnehmerin war bis dato 75 Jahre jung.<br/><br/>\"Rechte Erziehung beginnt mit dem Erzieher, der sich selbst verstehen und von schematischem Denken befreien muss – denn was er ist, überträgt er auf andere. Wenn wir selbst nicht verstehen, wenn wir unsere Beziehung zu unserem Kinde nicht erfassen – wie können wir dann überhaupt eine neue Art von Erziehung einführen?\" <br> - Jiddu Krishnamurti"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "contentline",
+            "data": {
+                "modules": [
+                    {
+                        "type": "title",
+                        "data": {
+                            "heading": "Stimmen von Teilnehmer/innen des MIKIWA Seminars"
+                        }
+                    },
+                    {
+                        "type": "textblock",
+                        "data": "Wenn es Sie interessiert, was Teilnehmer/innen über das MIKIWA Seminar sagen, finden sie hier eine Sammlung von persönlichen <a href='/bin/resources/download/rueckmeldungen.pdf'>Rückmeldungen</a>.<br/><br/>Im Folgenden können Sie zwei Interviews hören, die Frau Dr. Doris Rudlof Garreis mit Teilnehmer/innen des MIKIWA Seminars führte. Die Hörbeiträge wurden im Rahmen der Initiative ZWEI UND MEHR Elternbildung des Landes Steiermark 2009 aufgezeichnet.<br/><br/><strong>Aus der Sicht eines Vaters</strong> - Rückblick auf ein MIKIWA - Elternbildungsseminar,  das durch die Familienakademie der Kinderfreunde Steiermark mit Kooperation der Gemeinde Pirka im Jahr 2007 stattfand. Zum Zeitpunkt des Interviews lag die Teilnahme am Seminar bereits 2 Jahre zurück.<br/><br/><strong>Aus der Sicht von Müttern</strong> - MIKIWA- Seminarreihe veranstaltet durch die Familienakademie der Kinderfreunde Steiermark mit der Marktgemeinde Hausmannstätten durch das Projekt ZUSLWUSL Generationen Treff im Jahr 2009. Das Interview fand am letzten Seminarabend statt."
+                    },
+                    {
+                        "type": "verticaltitle",
+                        "data": {
+                            "heading": " ",
+                            "callouts": [
+                                {
+                                    "type": "audiocallout",
+                                    "data": {
+                                        "name": "Aus der Sicht eines Vaters",
+                                        "audio": "http://www.elternbildung.steiermark.at/cms/dokumente/11540239_68581809/33285dff/Aus%20der%20Sicht%20eines%20Vaters.MP3"
+                                    }
+                                },
+                                {
+                                    "type": "audiocallout",
+                                    "data": {
+                                        "name": "Aus der Sicht von Müttern",
+                                        "audio": "http://www.elternbildung.steiermark.at/cms/dokumente/11540239_68581809/32802519/Mit%20Kindern%20wachsen.MP3"
+                                    }
+                                }
+                            ],
+                            "align": "center"
+                        }
+                    }
+                ]
+            }
         }
-      ]
-  }
+    ],
+    "foot": {
+        "modules": [
+            {
+                "type": "twolines",
+                "data": {
+                    "firstline": "+43 699 88 46 75 44",
+                    "secondline": "christine.minixhofer@dialogus.at"
+                }
+            },
+            {
+                "type": "socialtitle",
+                "data": {
+                    "heading": "Christine Minixhofer, MSc",
+                    "socials": [
+                        {
+                            "type": "urlicon",
+                            "data": {
+                                "url": "https://www.facebook.com/christineminixhofer",
+                                "title": "Facebook"
+                            }
+                        },
+                        {
+                            "type": "urlicon",
+                            "data": {
+                                "url": "http://www.arbor-seminare.de/christine-minixhofer",
+                                "title": "Arbor Seminare"
+                            }
+                        },
+                        {
+                            "type": "urlicon",
+                            "data": {
+                                "url": "http://centerformsc.org/msc-teacher/christine-minixhofer",
+                                "title": "Center for Mindful Self-Compassion"
+                            }
+                        },
+                        {
+                            "type": "urlicon",
+                            "data": {
+                                "url": "http://www.gewaltfrei.at/profile/christineminixhofer",
+                                "title": "Gewaltfreie Kommunikation Austria"
+                            }
+                        },
+                        {
+                            "type": "urlicon",
+                            "data": {
+                                "url": "http://www.gewaltfrei-dach.eu/wissenschaftliche-arbeiten",
+                                "title": "DACH e.V. - Gewaltfreie Kommunikation"
+                            }
+                        },
+                        {
+                            "type": "urlicon",
+                            "data": {
+                                "url": "http://www.steigls.org/index.php?id=praxisadresse_detail&lebensberater=163",
+                                "title": "Steirische Gesellschaft für Lebens- und Sozialberatung"
+                            }
+                        },
+                        {
+                            "type": "urlicon",
+                            "data": {
+                                "url": "https://www.xing.com/profile/Christine_Minixhofer/web_profiles",
+                                "title": "Xing"
+                            }
+                        },
+                        {
+                            "type": "urlicon",
+                            "data": {
+                                "url": "http://www.bestnet.com/go.asp?personen_id=144740&sektion=personen&rkarte=infodet",
+                                "title": "bestNET"
+                            }
+                        },
+                        {
+                            "type": "urlicon",
+                            "data": {
+                                "url": "http://christine-minixhofer.stadtausstellung.at",
+                                "title": "Stadtausstellung"
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "twolines",
+                "data": {
+                    "firstline": "Mitterstraße 128/11",
+                    "secondline": "8055 Seiersberg bei Graz"
+                }
+            }
+        ]
+    }
 }

@@ -101,7 +101,7 @@
                 "modules": [
                     {
                         "type": "textblock",
-                        "data": "Im Vordergrund stehen für mich immer die individuellen Anliegen der Teilnehmer/innen, Klientinnen und Klienten. Den theoretischen Hintergrund meiner Arbeit bilden wissenschaftliche anerkannte Methoden.<br/><br/>Ich bin in der Methode der integrativen Gestaltberatung ausgebildet. <br/><br/>Durch zusätzliche Aus- und Weiterbildungen integriere ich in meine Arbeit als Trainerin, Beraterin und Supervisorin insbesondere die <strong>Gewaltfreie Kommunikation</strong>, die <strong>personzentrierte Gesprächsführung</strong>, die <strong>positive Psychologie</strong>, <strong>hypnosystemisch, lösungsorientierte Interventionen</strong> und <strong>achtsamkeitsbasierte Interventionen</strong>, insbesondere <strong>Achtsames Selbstmitgefühl</strong>."
+                        "data": "Im Vordergrund stehen für mich immer die individuellen Anliegen der Teilnehmer/innen, Klientinnen und Klienten. Den theoretischen Hintergrund meiner Arbeit bilden wissenschaftlich anerkannte Methoden.<br/><br/>Ich bin in der Methode der integrativen Gestaltberatung ausgebildet. <br/><br/>Durch zusätzliche Aus- und Weiterbildungen integriere ich in meine Arbeit als Trainerin, Beraterin und Supervisorin insbesondere die <strong>Gewaltfreie Kommunikation</strong>, die <strong>personzentrierte Gesprächsführung</strong>, die <strong>positive Psychologie</strong>, <strong>hypnosystemisch, lösungsorientierte Interventionen</strong> und <strong>achtsamkeitsbasierte Interventionen</strong>, insbesondere <strong>Achtsames Selbstmitgefühl</strong>."
                     },
                     {
                         "type": "buttongroup",
@@ -212,7 +212,7 @@
                             "simplecallout": {
                                 "id": "gestalt",
                                 "name": "Gestalt",
-                                "description": "Die Gestalttherapie beschreibt in Anlehnung an die Gestaltpsychologie die Wahrnehmung als einen ganzheitlichen Prozess, mit dem ein Mensch seine Umwelt für sich strukturiert. Gestalten formen sich im Vordergrund vor einem Hintergrund. Ein wichtiges Bedürfnis tritt aus dem Hintergrund in den Vordergrund und wird so zur offenen Gestalt. Diese kann durch bewusste Wahrnehmung und Aktivierung von persönlichen Ressourcen geschlossen werden und so  wieder in den Hintergrund treten. Der Mensch trägt zahlreiche Fähigkeiten zur Selbstregulation in sich."
+                                "description": "Die Gestalttherapie beschreibt in Anlehnung an die Gestaltpsychologie die Wahrnehmung als einen ganzheitlichen Prozess, mit dem ein Mensch seine Umwelt für sich strukturiert. Gestalten formen sich im Vordergrund vor einem Hintergrund. Ein wichtiges Bedürfnis tritt aus dem Hintergrund in den Vordergrund und wird so zur offenen Gestalt. Diese kann durch <strong> bewusste Wahrnehmung</strong> und <strong>Aktivierung von persönlichen Ressourcen</strong> geschlossen werden und so  wieder in den Hintergrund treten. Der Mensch trägt zahlreiche Fähigkeiten zur Selbstregulation in sich."
                             }
                         }
                     },
@@ -252,7 +252,7 @@
                             "simplecallout": {
                                 "id": "integrativegestaltberatung",
                                 "name": "Integrative Gestaltberatung",
-                                "description": "Hilarion Petzolds Anliegen und Verdienst war und ist es in Beratung und Therapie zu methodenübergreifenden Ansätzen zu finden. Keine Methode ist alleine für sich die einzig wahre und hilfreiche. Verbindung und Integration statt Abgrenzung und Trennung scheinen hilfreicher zu sein, um Menschen mit ihrer komplexen Wirklichkeit zu verstehen, sie in ihren vielschichtigen Aufgabenstellungen und Herausforderungen und in ihrem individuellem Lernprozess adäquat zu begleiten.<br/><br/>Integriert werden unter anderem Erkenntnisse aus der Kommunikationspsychologie, allgemeinen Psychologie, Gestalttherapie, systemischen Therapie, der personzentrierten  Gesprächstherapie, der Positiven Psychologie, der Achtsamkeitslehre  und der Neurobiologie."
+                                "description": "Hilarion Petzolds Anliegen und Verdienst war und ist es in Beratung und Therapie zu methodenübergreifenden Ansätzen zu finden. <strong>Keine Methode ist alleine für sich die einzig wahre und hilfreiche. </strong>Verbindung und Integration statt Abgrenzung und Trennung scheinen hilfreicher zu sein, um <strong> Menschen mit ihrer komplexen Wirklichkeit zu verstehen,</strong> sie in ihren vielschichtigen Aufgabenstellungen und Herausforderungen und in ihrem individuellem Lernprozess adäquat zu begleiten.<br/><br/>Integriert werden unter anderem Erkenntnisse aus der Kommunikationspsychologie, allgemeinen Psychologie, Gestalttherapie, systemischen Therapie, der personzentrierten  Gesprächstherapie, der Positiven Psychologie, der Achtsamkeitslehre  und der Neurobiologie."
                             }
                         }
                     }
@@ -302,7 +302,7 @@
                     {
                         "type": "title",
                         "data": {
-                            "heading": "Achtsames Selbstmitgefühl - Mindful Self Compassion (MSC)",
+                            "heading": "Achtsames Selbstmitgefühl - Mindful Self Compassion /MSC",
                             "id": "achtsamesselbstmitgefuehl"
                         }
                     },

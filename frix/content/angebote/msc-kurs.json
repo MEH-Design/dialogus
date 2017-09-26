@@ -190,13 +190,6 @@
                                         "link": "/bin/resources/download/uebungsabende.pdf",
                                         "text": "MSC Übungstermine"
                                     }
-                                },
-                                {
-                                    "type": "button",
-                                    "data": {
-                                        "link": "/bin/resources/download/retreat.pdf",
-                                        "text": "MSC Retreat"
-                                    }
                                 }
                             ]
                         }
@@ -260,7 +253,41 @@
                                         "kosten-früh": "€ 370,-",
                                         "retreat-text": "Halbtagesretreat",
                                         "kosten-normal-text": "Kurskosten",
-                                        "kosten-früh-text": "Frühbucherbonus bei Anmeldung bis zum 18. Februar 2017",
+                                        "kosten-früh-text": "Frühbucherbonus bei Anmeldung bis zum 18. Februar 2018",
+                                        "sva": "SVA Versicherte können den Gesundheitshunderter einlösen!"
+                                    }
+                                },
+                                {
+                                    "type": "eventcallout",
+                                    "data": {
+                                        "name": "Kurs 3/2018",
+                                        "detail": "Bildungshaus Mariatrost in Graz",
+                                        "wochentag": "Samstag",
+                                        "zeit": "09:00 - 12:00",
+                                        "termine": "22.9|29.9|6.10|13.10|20.10|17.11|24.11|1.12",
+                                        "retreat": "Samstag, 10.11.2018 | 9.00 - 13.00 Uhr",
+                                        "kosten-normal": "€ 390,-",
+                                        "kosten-früh": "€ 370,-",
+                                        "retreat-text": "Halbtagesretreat",
+                                        "kosten-normal-text": "Kurskosten",
+                                        "kosten-früh-text": "Frühbucherbonus bei Anmeldung bis zum 22. Juli 2018",
+                                        "sva": "SVA Versicherte können den Gesundheitshunderter einlösen!"
+                                    }
+                                },
+                                {
+                                    "type": "eventcallout",
+                                    "data": {
+                                        "name": "Kurs 4/2018",
+                                        "detail": "Bildungshaus Mariatrost in Graz",
+                                        "wochentag": "Donnerstag",
+                                        "zeit": "18:00 - 21:00",
+                                        "termine": "27.9|4.10|11.10|18.10|25.10|8.11|15.11|22.11",
+                                        "retreat": "Samstag, 10.11.2018 | 9.00 - 13.00 Uhr",
+                                        "kosten-normal": "€ 390,-",
+                                        "kosten-früh": "€ 370,-",
+                                        "retreat-text": "Halbtagesretreat",
+                                        "kosten-normal-text": "Kurskosten",
+                                        "kosten-früh-text": "Frühbucherbonus bei Anmeldung bis zum 22. Juli 2018",
                                         "sva": "SVA Versicherte können den Gesundheitshunderter einlösen!"
                                     }
                                 }
