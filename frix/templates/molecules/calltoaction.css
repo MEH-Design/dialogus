@@ -28,6 +28,10 @@ molecule > img {
   opacity: .8;
 }
 
+molecule .textblock {
+  max-width: 100%
+}
+
 @media (max-width: 530px) {
   .calltoaction img {
     display: none;
