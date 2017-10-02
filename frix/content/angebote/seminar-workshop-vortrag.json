@@ -1,407 +1,416 @@
 {
-  "title": "Seminar - Workshop - Vortrag | Christine Minixhofer, MSc",
-  "header": {
-    "headline": {
-      "heading": "Christine Minixhofer, Msc",
-      "subheading": "Training | Coaching | Supervision | Psychologische Beratung"
-    },
-    "hero": {
-      "items": [
-        {
-          "type": "quote",
-          "data": {
-            "quote": "Denn Zeit ist Leben.<br/>Und das Leben wohnt im Herzen.",
-            "author": "Michael Ende, Momo"
-          }
-        },
-        {
-          "type": "image",
-          "data": "/bin/resources/igel.png"
-        }
-      ]
-    },
-    "navigation": {
-      "links": [{
-        "type": "link",
-        "data": {
-          "text": "Home",
-          "link": "/bin/home.html#nav"
-        }
-      }, {
-        "type": "link",
-        "data": {
-          "text": "Über mich",
-          "link": "/bin/ueber-mich.html#nav"
-        }
-      }, {
-        "type": "link",
-        "data": {
-          "text": "Methoden",
-          "link": "/bin/methoden.html#nav"
-        }
-      }, {
-        "type": "link",
-        "data": {
-          "text": "Angebote",
-          "selected": "true"
-        }
-      }, {
-        "type": "link",
-        "data": {
-          "text": "Zum Schmökern",
-          "link": "/bin/zum-schmoekern.html#nav"
-        }
-      }, {
-        "type": "link",
-        "data": {
-          "text": "Kontakt",
-          "link": "/bin/kontakt.html#nav"
-        }
-      }, {
-        "type": "link",
-        "data": {
-          "text": "Newsletter",
-          "link": "/bin/newsletter.html#nav"
-        }
-      }, {
-        "type": "link",
-        "data": {
-          "text": "Impressum",
-          "link": "/bin/Impressum.html#nav"
-        }
-      }]
-    }
-  },
-  "lines": [
-    {
-      "type": "contentline",
-      "data": {
-        "nopadding": "true",
-        "modules": [
-          {
-            "type": "buttongroup",
-            "data": {
-              "buttons": [
-                {
-                  "type": "button",
-                  "data": {
-                    "link": "/bin/angebote/seminar-workshop-vortrag.html#nav",
-                    "text": "Seminar - Workshop - Vortrag",
-                    "selected": "true"
-                  }
-                },
-                {
-                  "type": "button",
-                  "data": {
-                    "link": "/bin/angebote/coaching.html#nav",
-                    "text": "Psychologische Beratung -  Coaching"
-                  }
-                },
-                {
-                  "type": "button",
-                  "data": {
-                    "link": "/bin/angebote/supervision.html#nav",
-                    "text": "Supervision"
-                  }
-                },
-                {
-                  "type": "button",
-                  "data": {
-                    "link": "/bin/angebote/msc-kurs.html#nav",
-                    "text": "Achtsames Selbstmitgefühl (MSC) - Kurs"
-                  }
-                },
-                {
-                  "type": "button",
-                  "data": {
-                    "link": "/bin/angebote/elternbildung-coaching-beratung.html#nav",
-                    "text": "Elternbildung - Coaching - Beratung"
-                  }
-                }
-              ]
-            }
-          }
-        ]
-      }
-    },
-    {
-      "type": "contentline",
-      "data": {
-        "nopadding": "true",
-        "modules": [
-          {
-            "type": "imagetitle",
-            "data": {
-              "image": "/bin/resources/seminar.jpg",
-              "id": "seminare",
-              "heading": "Seminar - Workshop - Vortrag"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "type": "contentline",
-      "data": {
-        "modules": [
-          {
-            "type": "title",
-            "data": {
-              "heading": "Themenschwerpunkte"
-            }
-          },
-          {
-            "type": "textblock",
-            "data": "Maßgeschneidert für Ihr Unternehmen, Ihre Institution, Ihren Verein oder Ihre Akademie entwickle ich gerne eine prozess- und transferorientierte Fortbildung oder Lehrveranstaltung abgestimmt auf Ihre Situation, Bedürfnisse, Wünsche und Lernziele.<br/><br/>Im Auftragsgespräch werden Titel, Inhalte, Methoden und Lernziele festgelegt.<br/><br/>Der individuelle Lernprozess sowie die individuellen Anliegen der Teilnehmer/innen werden in der Planung und Gestaltung berücksichtigt. So gleicht kein Seminar/Workshop/Vortrag dem anderen. Jede Fortbildung entsteht nach intensiver Vorarbeit letztlich vor Ort durch das Miteinander zwischen Trainerin und Teilnehmer/innen."
-          }
-        ]
-      }
-    },
-    {
-      "type": "contentline",
-      "data": {
-        "modules": [
-          {
-            "type": "bigquote",
-            "data": {
-              "heading": "maßgeschneidert für Sie entwickle ich gerne eine Fortbildung oder Lehrveranstaltung"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "type": "contentline",
-      "data": {
-        "modules": [
-          {
-            "type": "title",
-            "data": {
-              "heading": "Kommunikation und Gesprächsführung"
-            }
-          },
-          {
-            "type": "borderimagebuttons",
-            "data": {
-              "borderimage": "/bin/resources/ocean.jpg",
-              "buttons": [
-                {
-                  "type": "button",
-                  "data": {
-                    "text": "Grundlagen der Kommunikation"
-                  }
-                },
-                {
-                  "type": "button",
-                  "data": {
-                    "text": "Gesprächsführung"
-                  }
-                },
-                {
-                  "type": "button",
-                  "data": {
-                    "text": "Achtsame und Gewaltfreie Kommunikation in herausfordernden Situationen"
-                  }
-                },
-                {
-                  "type": "button",
-                  "data": {
-                    "text": "Deeskalierende Kommunikation"
-                  }
-                }
-              ]
-            }
-          },
-          {
-            "type": "title",
-            "data": {
-              "heading": "Stärkung der psychosozialen Gesundheit und Resilienz"
-            }
-          },
-          {
-            "type": "borderimagebuttons",
-            "data": {
-              "borderimage": "/bin/resources/lighthouse.jpg",
-              "buttons": [
-                {
-                  "type": "button",
-                  "data": {
-                    "text": "Selbststärkung mit Achtsamkeit und Selbstmitgefühl"
-                  }
-                },
-                {
-                  "type": "button",
-                  "data": {
-                    "text": "Auftanken statt Ausbrennen"
-                  }
-                },
-                {
-                  "type": "button",
-                  "data": {
-                    "text": "Achtwochenkurs MSC (Mindful Self-Compassion)"
-                  }
-                }
-              ]
-            }
-          },
-          {
-            "type": "title",
-            "data": {
-              "heading": "Kompetenzen der Beratung"
-            }
-          },
-          {
-            "type": "borderimagebuttons",
-            "data": {
-              "borderimage": "/bin/resources/play-stone.jpg",
-              "buttons": [
-                {
-                  "type": "button",
-                  "data": {
-                    "text": "Basics"
-                  }
-                },
-                {
-                  "type": "button",
-                  "data": {
-                    "text": "Weiterführende Vertiefung"
-                  }
-                }
-              ]
-            }
-          }
-        ]
-      }
-    },
-    {
-      "type": "contentline",
-      "data": {
-        "modules": [
-          {
-            "type": "threecircles",
-            "data": {
-              "headings": [
-                {
-                  "type": "heading",
-                  "data": "Vorträge und Vortragsreihen"
-                }
-              ],
-              "circles": [
-                {
-                  "type": "simplecircle",
-                  "data": {
-                    "heading": "Achtsamkeit und Selbstmitgefühl",
-                    "image": "/bin/resources/lotus.jpg"
-                  }
-                },
-                {
-                  "type": "simplecircle",
-                  "data": {
-                    "heading": "Gewaltfreie Kommunikation",
-                    "image": "/bin/resources/leaf.jpg"
-                  }
-                },
-                {
-                  "type": "simplecircle",
-                  "data": {
-                    "heading": "Erkenntnisse der Glücksforschung",
-                    "image": "/bin/resources/rose.jpg"
-                  }
-                }
-              ]
-            }
-          }
-        ]
-      }
-    }
-  ],
-  "foot": {
-      "modules": [
-        {
-          "type": "twolines",
-          "data": {
-            "firstline": "+43 699 88 46 75 44",
-            "secondline": "christine.minixhofer@dialogus.at"
-          }
-        },
-        {
-          "type": "socialtitle",
-          "data": {
+    "title": "Seminar - Workshop - Vortrag | Christine Minixhofer, MSc",
+    "header": {
+        "headline": {
             "heading": "Christine Minixhofer, MSc",
-            "socials": [
-              {
-                "type": "urlicon",
-                "data": {
-                  "url": "https://www.facebook.com/christineminixhofer",
-                  "title": "Facebook"
+            "subheading": "Training | Coaching | Supervision | Psychologische Beratung"
+        },
+        "hero": {
+            "items": [
+                {
+                    "type": "quote",
+                    "data": {
+                        "quote": "Denn Zeit ist Leben.<br/>Und das Leben wohnt im Herzen.",
+                        "author": "Michael Ende, Momo"
+                    }
+                },
+                {
+                    "type": "image",
+                    "data": "/bin/resources/igel.png"
                 }
-              },
-              {
-                "type": "urlicon",
-                "data": {
-                  "url": "http://www.arbor-seminare.de/christine-minixhofer",
-                  "title": "Arbor Seminare"
-                }
-              },
-              {
-                "type": "urlicon",
-                "data": {
-                  "url": "http://centerformsc.org/msc-teacher/christine-minixhofer",
-                  "title": "Center for Mindful Self-Compassion"
-                }
-              },
-              {
-                "type": "urlicon",
-                "data": {
-                  "url": "http://www.gewaltfrei.at/profile/christineminixhofer",
-                  "title": "Gewaltfreie Kommunikation Austria"
-                }
-              },
-              {
-                "type": "urlicon",
-                "data": {
-                  "url": "http://www.gewaltfrei-dach.eu/wissenschaftliche-arbeiten",
-                  "title": "DACH e.V. - Gewaltfreie Kommunikation"
-                }
-              },
-              {
-                "type": "urlicon",
-                "data": {
-                  "url": "http://www.steigls.org/index.php?id=praxisadresse_detail&lebensberater=163",
-                  "title": "Steirische Gesellschaft für Lebens- und Sozialberatung"
-                }
-              },
-              {
-                "type": "urlicon",
-                "data": {
-                  "url": "https://www.xing.com/profile/Christine_Minixhofer/web_profiles",
-                  "title": "Xing"
-                }
-              },
-              {
-                "type": "urlicon",
-                "data": {
-                  "url": "http://www.bestnet.com/go.asp?personen_id=144740&sektion=personen&rkarte=infodet",
-                  "title": "bestNET"
-                }
-              },
-              {
-                "type": "urlicon",
-                "data": {
-                  "url": "http://christine-minixhofer.stadtausstellung.at",
-                  "title": "Stadtausstellung"
-                }
-              }
             ]
-          }
+        },
+        "navigation": {
+            "links": [
+                {
+                    "type": "link",
+                    "data": {
+                        "text": "Home",
+                        "link": "/bin/home.html#nav"
+                    }
+                },
+                {
+                    "type": "link",
+                    "data": {
+                        "text": "Über mich",
+                        "link": "/bin/ueber-mich.html#nav"
+                    }
+                },
+                {
+                    "type": "link",
+                    "data": {
+                        "text": "Methoden",
+                        "link": "/bin/methoden.html#nav"
+                    }
+                },
+                {
+                    "type": "link",
+                    "data": {
+                        "text": "Angebote",
+                        "selected": "true"
+                    }
+                },
+                {
+                    "type": "link",
+                    "data": {
+                        "text": "Zum Schmökern",
+                        "link": "/bin/zum-schmoekern.html#nav"
+                    }
+                },
+                {
+                    "type": "link",
+                    "data": {
+                        "text": "Kontakt",
+                        "link": "/bin/kontakt.html#nav"
+                    }
+                },
+                {
+                    "type": "link",
+                    "data": {
+                        "text": "Newsletter",
+                        "link": "/bin/newsletter.html#nav"
+                    }
+                },
+                {
+                    "type": "link",
+                    "data": {
+                        "text": "Impressum",
+                        "link": "/bin/Impressum.html#nav"
+                    }
+                }
+            ]
+        }
+    },
+    "lines": [
+        {
+            "type": "contentline",
+            "data": {
+                "nopadding": "true",
+                "modules": [
+                    {
+                        "type": "buttongroup",
+                        "data": {
+                            "buttons": [
+                                {
+                                    "type": "button",
+                                    "data": {
+                                        "link": "/bin/angebote/seminar-workshop-vortrag.html#nav",
+                                        "text": "Seminar - Workshop - Vortrag",
+                                        "selected": "true"
+                                    }
+                                },
+                                {
+                                    "type": "button",
+                                    "data": {
+                                        "link": "/bin/angebote/coaching.html#nav",
+                                        "text": "Psychologische Beratung -  Coaching"
+                                    }
+                                },
+                                {
+                                    "type": "button",
+                                    "data": {
+                                        "link": "/bin/angebote/supervision.html#nav",
+                                        "text": "Supervision"
+                                    }
+                                },
+                                {
+                                    "type": "button",
+                                    "data": {
+                                        "link": "/bin/angebote/msc-kurs.html#nav",
+                                        "text": "Achtsames Selbstmitgefühl (MSC) - Kurs"
+                                    }
+                                },
+                                {
+                                    "type": "button",
+                                    "data": {
+                                        "link": "/bin/angebote/elternbildung-coaching-beratung.html#nav",
+                                        "text": "Elternbildung - Coaching - Beratung"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
         },
         {
-          "type": "twolines",
-          "data": {
-            "firstline": "Mitterstraße 128/11",
-            "secondline": "8055 Seiersberg bei Graz"
-          }
+            "type": "contentline",
+            "data": {
+                "nopadding": "true",
+                "modules": [
+                    {
+                        "type": "imagetitle",
+                        "data": {
+                            "image": "/bin/resources/seminar.jpg",
+                            "id": "seminare",
+                            "heading": "Seminar - Workshop - Vortrag"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "type": "contentline",
+            "data": {
+                "modules": [
+                    {
+                        "type": "title",
+                        "data": {
+                            "heading": "Themenschwerpunkte"
+                        }
+                    },
+                    {
+                        "type": "textblock",
+                        "data": "Maßgeschneidert für Ihr Unternehmen, Ihre Institution, Ihren Verein oder Ihre Akademie entwickle ich gerne eine prozess- und transferorientierte Fortbildung oder Lehrveranstaltung abgestimmt auf Ihre Situation, Bedürfnisse, Wünsche und Lernziele.<br/><br/>Im Auftragsgespräch werden Titel, Inhalte, Methoden und Lernziele festgelegt.<br/><br/>Der individuelle Lernprozess sowie die individuellen Anliegen der Teilnehmer/innen werden in der Planung und Gestaltung berücksichtigt. So gleicht kein Seminar/Workshop/Vortrag dem anderen. Jede Fortbildung entsteht nach intensiver Vorarbeit letztlich vor Ort durch das Miteinander zwischen Trainerin und Teilnehmer/innen."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "contentline",
+            "data": {
+                "modules": [
+                    {
+                        "type": "bigquote",
+                        "data": {
+                            "heading": "maßgeschneidert für Sie entwickle ich gerne eine Fortbildung oder Lehrveranstaltung"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "type": "contentline",
+            "data": {
+                "modules": [
+                    {
+                        "type": "title",
+                        "data": {
+                            "heading": "Kommunikation und Gesprächsführung"
+                        }
+                    },
+                    {
+                        "type": "borderimagebuttons",
+                        "data": {
+                            "borderimage": "/bin/resources/ocean.jpg",
+                            "buttons": [
+                                {
+                                    "type": "button",
+                                    "data": {
+                                        "text": "Grundlagen der Kommunikation"
+                                    }
+                                },
+                                {
+                                    "type": "button",
+                                    "data": {
+                                        "text": "Gesprächsführung"
+                                    }
+                                },
+                                {
+                                    "type": "button",
+                                    "data": {
+                                        "text": "Achtsame und Gewaltfreie Kommunikation in herausfordernden Situationen"
+                                    }
+                                },
+                                {
+                                    "type": "button",
+                                    "data": {
+                                        "text": "Deeskalierende Kommunikation"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "type": "title",
+                        "data": {
+                            "heading": "Stärkung der psychosozialen Gesundheit und Resilienz"
+                        }
+                    },
+                    {
+                        "type": "borderimagebuttons",
+                        "data": {
+                            "borderimage": "/bin/resources/lighthouse.jpg",
+                            "buttons": [
+                                {
+                                    "type": "button",
+                                    "data": {
+                                        "text": "Selbststärkung mit Achtsamkeit und Selbstmitgefühl"
+                                    }
+                                },
+                                {
+                                    "type": "button",
+                                    "data": {
+                                        "text": "Auftanken statt Ausbrennen"
+                                    }
+                                },
+                                {
+                                    "type": "button",
+                                    "data": {
+                                        "text": "Achtwochenkurs MSC (Mindful Self-Compassion)"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "type": "title",
+                        "data": {
+                            "heading": "Kompetenzen der Beratung"
+                        }
+                    },
+                    {
+                        "type": "borderimagebuttons",
+                        "data": {
+                            "borderimage": "/bin/resources/play-stone.jpg",
+                            "buttons": [
+                                {
+                                    "type": "button",
+                                    "data": {
+                                        "text": "Basics"
+                                    }
+                                },
+                                {
+                                    "type": "button",
+                                    "data": {
+                                        "text": "Weiterführende Vertiefung"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "type": "contentline",
+            "data": {
+                "modules": [
+                    {
+                        "type": "threecircles",
+                        "data": {
+                            "headings": [
+                                {
+                                    "type": "heading",
+                                    "data": "Vorträge und Vortragsreihen"
+                                }
+                            ],
+                            "circles": [
+                                {
+                                    "type": "simplecircle",
+                                    "data": {
+                                        "heading": "Achtsamkeit und Selbstmitgefühl",
+                                        "image": "/bin/resources/lotus.jpg"
+                                    }
+                                },
+                                {
+                                    "type": "simplecircle",
+                                    "data": {
+                                        "heading": "Gewaltfreie Kommunikation",
+                                        "image": "/bin/resources/leaf.jpg"
+                                    }
+                                },
+                                {
+                                    "type": "simplecircle",
+                                    "data": {
+                                        "heading": "Erkenntnisse der Glücksforschung",
+                                        "image": "/bin/resources/rose.jpg"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
         }
-      ]
-  }
+    ],
+    "foot": {
+        "modules": [
+            {
+                "type": "twolines",
+                "data": {
+                    "firstline": "+43 699 88 46 75 44",
+                    "secondline": "christine.minixhofer@dialogus.at"
+                }
+            },
+            {
+                "type": "socialtitle",
+                "data": {
+                    "heading": "Christine Minixhofer, MSc",
+                    "socials": [
+                        {
+                            "type": "urlicon",
+                            "data": {
+                                "url": "https://www.facebook.com/christineminixhofer",
+                                "title": "Facebook"
+                            }
+                        },
+                        {
+                            "type": "urlicon",
+                            "data": {
+                                "url": "http://www.arbor-seminare.de/christine-minixhofer",
+                                "title": "Arbor Seminare"
+                            }
+                        },
+                        {
+                            "type": "urlicon",
+                            "data": {
+                                "url": "http://centerformsc.org/msc-teacher/christine-minixhofer",
+                                "title": "Center for Mindful Self-Compassion"
+                            }
+                        },
+                        {
+                            "type": "urlicon",
+                            "data": {
+                                "url": "http://www.gewaltfrei.at/profile/christineminixhofer",
+                                "title": "Gewaltfreie Kommunikation Austria"
+                            }
+                        },
+                        {
+                            "type": "urlicon",
+                            "data": {
+                                "url": "http://www.gewaltfrei-dach.eu/wissenschaftliche-arbeiten",
+                                "title": "DACH e.V. - Gewaltfreie Kommunikation"
+                            }
+                        },
+                        {
+                            "type": "urlicon",
+                            "data": {
+                                "url": "http://www.steigls.org/index.php?id=praxisadresse_detail&lebensberater=163",
+                                "title": "Steirische Gesellschaft für Lebens- und Sozialberatung"
+                            }
+                        },
+                        {
+                            "type": "urlicon",
+                            "data": {
+                                "url": "https://www.xing.com/profile/Christine_Minixhofer/web_profiles",
+                                "title": "Xing"
+                            }
+                        },
+                        {
+                            "type": "urlicon",
+                            "data": {
+                                "url": "http://www.bestnet.com/go.asp?personen_id=144740&sektion=personen&rkarte=infodet",
+                                "title": "bestNET"
+                            }
+                        },
+                        {
+                            "type": "urlicon",
+                            "data": {
+                                "url": "http://christine-minixhofer.stadtausstellung.at",
+                                "title": "Stadtausstellung"
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "twolines",
+                "data": {
+                    "firstline": "Mitterstraße 128/11",
+                    "secondline": "8055 Seiersberg bei Graz"
+                }
+            }
+        ]
+    }
 }
