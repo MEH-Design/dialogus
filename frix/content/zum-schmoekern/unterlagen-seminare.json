@@ -189,6 +189,15 @@
                                 {
                                     "type": "filecallout",
                                     "data": {
+                                        "name": "a:sk Akademie der Stmk. Krankenanstaltenges.m.b.H. - Gewaltfreie und achtsame Kommunikation zur Prävention von Aggression und Gewalt",
+                                        "datum": "2. und 3.10.2017",
+                                        "file": "/bin/resources/unterlagen/80.pdf",
+                                        "text": "Protokoll"
+                                    }
+                                },
+                                {
+                                    "type": "filecallout",
+                                    "data": {
                                         "name": "CARITAS, wertschätzend kommunizieren in herausfordernden Situationen",
                                         "datum": "26.9.2017",
                                         "file": "/bin/resources/unterlagen/79.pdf",
@@ -597,15 +606,6 @@
                                         "name": "STMK GKK - Workshopreihe für die Abteilung Physiotherapie, Gruppe 1",
                                         "datum": "20.01.2017",
                                         "file": "/bin/resources/unterlagen/34.pdf",
-                                        "text": "Protokoll"
-                                    }
-                                },
-                                {
-                                    "type": "filecallout",
-                                    "data": {
-                                        "name": "a:sk Akademie der Stmk. Krankenanstaltenges.m.b.H. - Gewaltfreie und achtsame Kommunikation zur Prävention von Aggression und Gewalt",
-                                        "datum": "2. und 3.10.2017",
-                                        "file": "/bin/resources/unterlagen/32.pdf",
                                         "text": "Protokoll"
                                     }
                                 },
