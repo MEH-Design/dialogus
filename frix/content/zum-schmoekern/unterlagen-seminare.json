@@ -189,6 +189,15 @@
                                 {
                                     "type": "filecallout",
                                     "data": {
+                                        "name": "CARITAS, wertschätzend kommunizieren in herausfordernden Situationen",
+                                        "datum": "26.9.2017",
+                                        "file": "/bin/resources/unterlagen/79.pdf",
+                                        "text": "Protokoll"
+                                    }
+                                },
+                                {
+                                    "type": "filecallout",
+                                    "data": {
                                         "name": "LKH Uniklinikum Graz - Modul 25 - Achtsame und Gewaltfreie Kommunikation zur Prävention von Aggression und Gewalt",
                                         "datum": "19.9.2017",
                                         "file": "/bin/resources/unterlagen/78.pdf",
@@ -595,18 +604,9 @@
                                     "type": "filecallout",
                                     "data": {
                                         "name": "a:sk Akademie der Stmk. Krankenanstaltenges.m.b.H. - Gewaltfreie und achtsame Kommunikation zur Prävention von Aggression und Gewalt",
-                                        "datum": "3. und 4.10.2016",
-                                        "file": "/bin/resources/unterlagen/33.pdf",
-                                        "text": "Flipchartprotokoll"
-                                    }
-                                },
-                                {
-                                    "type": "filecallout",
-                                    "data": {
-                                        "name": "a:sk Akademie der Stmk. Krankenanstaltenges.m.b.H. - Gewaltfreie und achtsame Kommunikation zur Prävention von Aggression und Gewalt",
-                                        "datum": "3. und 4.10.2016",
+                                        "datum": "2. und 3.10.2017",
                                         "file": "/bin/resources/unterlagen/32.pdf",
-                                        "text": "Seminarunterlagen"
+                                        "text": "Protokoll"
                                     }
                                 },
                                 {
@@ -631,36 +631,9 @@
                                     "type": "filecallout",
                                     "data": {
                                         "name": "CARITAS, wertschätzend kommunizieren in herausfordernden Situationen",
-                                        "datum": "26.9.2016",
-                                        "file": "/bin/resources/unterlagen/29.pdf",
-                                        "text": "Flipchartprotokoll"
-                                    }
-                                },
-                                {
-                                    "type": "filecallout",
-                                    "data": {
-                                        "name": "CARITAS, wertschätzend kommunizieren in herausfordernden Situationen",
-                                        "datum": "24.10.2016",
-                                        "file": "/bin/resources/unterlagen/28.pdf",
-                                        "text": "Protokoll"
-                                    }
-                                },
-                                {
-                                    "type": "filecallout",
-                                    "data": {
-                                        "name": "CARITAS, wertschätzend kommunizieren in herausfordernden Situationen",
-                                        "datum": "24.10.2016",
-                                        "file": "/bin/resources/unterlagen/27.pdf",
-                                        "text": "Meditation Liebende Güte"
-                                    }
-                                },
-                                {
-                                    "type": "filecallout",
-                                    "data": {
-                                        "name": "CARITAS, wertschätzend kommunizieren in herausfordernden Situationen",
-                                        "datum": "24.10.2016",
-                                        "file": "/bin/resources/unterlagen/26.pdf",
-                                        "text": "Schritte Selbsteinfühlungstanz"
+                                        "datum": "14.11.2017",
+                                        "file": "",
+                                        "text": "Protokoll "
                                     }
                                 },
                                 {
