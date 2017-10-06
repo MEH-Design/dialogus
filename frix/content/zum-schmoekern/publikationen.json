@@ -1,327 +1,336 @@
 {
-  "title": "Publikationen | Christine Minixhofer, MSc",
-  "header": {
-    "headline": {
-      "heading": "Christine Minixhofer, Msc",
-      "subheading": "Training | Coaching | Supervision | Psychologische Beratung"
-    },
-    "hero": {
-      "items": [
-        {
-          "type": "quote",
-          "data": {
-            "quote": "Denn Zeit ist Leben.<br/>Und das Leben wohnt im Herzen.",
-            "author": "Michael Ende, Momo"
-          }
+    "title": "Publikationen | Christine Minixhofer, MSc",
+    "header": {
+        "headline": {
+            "heading": "Christine Minixhofer, Msc",
+            "subheading": "Training | Coaching | Supervision | Psychologische Beratung"
         },
-        {
-          "type": "image",
-          "data": "/bin/resources/igel.png"
-        }
-      ]
-    },
-    "navigation": {
-      "links": [{
-        "type": "link",
-        "data": {
-          "text": "Home",
-          "link": "/bin/home.html#nav"
-        }
-      }, {
-        "type": "link",
-        "data": {
-          "text": "Über mich",
-          "link": "/bin/ueber-mich.html#nav"
-        }
-      }, {
-        "type": "link",
-        "data": {
-          "text": "Methoden",
-          "link": "/bin/methoden.html#nav"
-        }
-      }, {
-        "type": "link",
-        "data": {
-          "text": "Angebote",
-          "link": "/bin/angebote.html#nav"
-        }
-      }, {
-        "type": "link",
-        "data": {
-          "text": "Zum Schmökern",
-          "selected": "true"
-        }
-      }, {
-        "type": "link",
-        "data": {
-          "text": "Kontakt",
-          "link": "/bin/kontakt.html#nav"
-        }
-      }, {
-        "type": "link",
-        "data": {
-          "text": "Newsletter",
-          "link": "/bin/newsletter.html#nav"
-        }
-      }, {
-        "type": "link",
-        "data": {
-          "text": "Impressum",
-          "link": "/bin/Impressum.html#nav"
-        }
-      }]
-    }
-  },
-  "lines": [
-    {
-      "type": "contentline",
-      "data": {
-        "nopadding": "true",
-        "modules": [
-          {
-            "type": "buttongroup",
-            "data": {
-              "buttons": [
+        "hero": {
+            "items": [
                 {
-                  "type": "button",
-                  "data": {
-                    "link": "/bin/zum-schmoekern/unterlagen-seminare.html#nav",
-                    "text": "Unterlagen Seminare"
-                  }
+                    "type": "quote",
+                    "data": {
+                        "quote": "Denn Zeit ist Leben.<br/>Und das Leben wohnt im Herzen.",
+                        "author": "Michael Ende, Momo"
+                    }
                 },
                 {
-                  "type": "button",
-                  "data": {
-                    "link": "/bin/zum-schmoekern/meditationen.html#nav",
-                    "text": "Meditationen"
-                  }
-                },
-                {
-                  "type": "button",
-                  "data": {
-                    "link": "/bin/zum-schmoekern/publikationen.html#nav",
-                    "text": "Publikationen",
-                    "selected": "true"
-                  }
-                },
-                {
-                  "type": "button",
-                  "data": {
-                    "link": "/bin/zum-schmoekern/links.html#nav",
-                    "text": "Links"
-                  }
-                },
-                {
-                  "type": "button",
-                  "data": {
-                    "link": "/bin/zum-schmoekern/referenzen.html#nav",
-                    "text": "Referenzen"
-                  }
-                },
-                {
-                  "type": "button",
-                  "data": {
-                    "link": "/bin/zum-schmoekern/literaturtipps.html#nav",
-                    "text": "Literaturtipps"
-                  }
+                    "type": "image",
+                    "data": "/bin/resources/igel.png"
                 }
-              ]
-            }
-          }
-        ]
-      }
-    },
-    {
-      "type": "contentline",
-      "data": {
-        "modules": [
-          {
-            "type": "bullets",
-            "data": {
-              "align": "center",
-              "heading": "Artikel",
-              "callouts": [
-                {
-                  "type": "cover",
-                  "data": {
-                    "author": "weiterbildung-zeitschrift.de",
-                    "bild": "/bin/resources/publikationen/weiterbildung.jpg",
-                    "titel": "Mit dem ganzen Wesen zuhören",
-                    "link": "/bin/resources/publikationen/empathie.pdf"
-                  }
-                },
-                {
-                  "type": "cover",
-                  "data": {
-                    "author": "verwaltung.steiermark.at",
-                    "bild": "/bin/resources/publikationen/kiste12.jpg",
-                    "titel": "Das seelische Wohl aller im Auge",
-                    "link": "/bin/resources/publikationen/kiste12.pdf"
-                  }
-                }
-              ]
-            }
-          }
-        ]
-      }
-    },
-    {
-      "type": "contentline",
-      "data": {
-        "modules": [
-          {
-            "type": "title",
-            "data": {
-              "heading": "Hörbeiträge zur Seminarereihe 'Mit Kindern wachsen'"
-            }
-          },
-          {
-            "type": "verticaltitle",
-            "data": {
-              "heading": " ",
-              "callouts": [
-                {
-                  "type": "audiocallout",
-                  "data": {
-                    "name": "Aus der Sicht eines Vaters",
-                    "audio": "http://www.elternbildung.steiermark.at/cms/dokumente/11540239_68581809/33285dff/Aus%20der%20Sicht%20eines%20Vaters.MP3"
-                  }
-                },
-                {
-                  "type": "audiocallout",
-                  "data": {
-                    "name": "Aus der Sicht von Müttern",
-                    "audio": "http://www.elternbildung.steiermark.at/cms/dokumente/11540239_68581809/32802519/Mit%20Kindern%20wachsen.MP3"
-                  }
-                }
-              ]
-            }
-          }
-        ]
-      }
-    },
-    {
-      "type": "contentline",
-      "data": {
-        "modules": [
-          {
-            "type": "bullets",
-            "data": {
-              "align": "center",
-              "heading": "Wissenschaftliche Arbeiten",
-              "callouts": [
-                {
-                  "type": "cover",
-                  "data": {
-                    "titel": "Masterthesis für psychosoziale Beratung an der Universität Krems",
-                    "bild": "/bin/resources/publikationen/master.jpg",
-                    "author": "<a href='http://www.amazon.de/Gewaltfreie-Kommunikation-Personalf%C3%B6rderung-Evaluationsstudie-innerbetrieblicher/dp/3639389379/ref=as_li_wdgt_ex?&linkCode=wey&tag=dialogus-21'>auch auf Amazon erhältlich</a>",
-                    "link": "http://www.gewaltfrei-dach.eu/wissensch.php"
-                  }
-                },
-                {
-                  "type": "cover",
-                  "data": {
-                    "titel": "Diplomarbeit zur Lebensberaterin",
-                    "bild": "/bin/resources/publikationen/diplomarbeit.jpg",
-                    "author": "Erhältlich auf Anfrage",
-                    "link": "mailto:office@steigls.org"
-                  }
-                }
-              ]
-            }
-          }
-        ]
-      }
-    }
-  ],
-  "foot": {
-      "modules": [
-        {
-          "type": "twolines",
-          "data": {
-            "firstline": "+43 699 88 46 75 44",
-            "secondline": "christine.minixhofer@dialogus.at"
-          }
-        },
-        {
-          "type": "socialtitle",
-          "data": {
-            "heading": "Christine Minixhofer, MSc",
-            "socials": [
-              {
-                "type": "urlicon",
-                "data": {
-                  "url": "https://www.facebook.com/christineminixhofer",
-                  "title": "Facebook"
-                }
-              },
-              {
-                "type": "urlicon",
-                "data": {
-                  "url": "http://www.arbor-seminare.de/christine-minixhofer",
-                  "title": "Arbor Seminare"
-                }
-              },
-              {
-                "type": "urlicon",
-                "data": {
-                  "url": "http://centerformsc.org/msc-teacher/christine-minixhofer",
-                  "title": "Center for Mindful Self-Compassion"
-                }
-              },
-              {
-                "type": "urlicon",
-                "data": {
-                  "url": "http://www.gewaltfrei.at/profile/christineminixhofer",
-                  "title": "Gewaltfreie Kommunikation Austria"
-                }
-              },
-              {
-                "type": "urlicon",
-                "data": {
-                  "url": "http://www.gewaltfrei-dach.eu/wissenschaftliche-arbeiten",
-                  "title": "DACH e.V. - Gewaltfreie Kommunikation"
-                }
-              },
-              {
-                "type": "urlicon",
-                "data": {
-                  "url": "http://www.steigls.org/index.php?id=praxisadresse_detail&lebensberater=163",
-                  "title": "Steirische Gesellschaft für Lebens- und Sozialberatung"
-                }
-              },
-              {
-                "type": "urlicon",
-                "data": {
-                  "url": "https://www.xing.com/profile/Christine_Minixhofer/web_profiles",
-                  "title": "Xing"
-                }
-              },
-              {
-                "type": "urlicon",
-                "data": {
-                  "url": "http://www.bestnet.com/go.asp?personen_id=144740&sektion=personen&rkarte=infodet",
-                  "title": "bestNET"
-                }
-              },
-              {
-                "type": "urlicon",
-                "data": {
-                  "url": "http://christine-minixhofer.stadtausstellung.at",
-                  "title": "Stadtausstellung"
-                }
-              }
             ]
-          }
+        },
+        "navigation": {
+            "links": [
+                {
+                    "type": "link",
+                    "data": {
+                        "text": "Home",
+                        "link": "/bin/home.html#nav"
+                    }
+                },
+                {
+                    "type": "link",
+                    "data": {
+                        "text": "Über mich",
+                        "link": "/bin/ueber-mich.html#nav"
+                    }
+                },
+                {
+                    "type": "link",
+                    "data": {
+                        "text": "Methoden",
+                        "link": "/bin/methoden.html#nav"
+                    }
+                },
+                {
+                    "type": "link",
+                    "data": {
+                        "text": "Angebote",
+                        "link": "/bin/angebote.html#nav"
+                    }
+                },
+                {
+                    "type": "link",
+                    "data": {
+                        "text": "Zum Schmökern",
+                        "selected": "true"
+                    }
+                },
+                {
+                    "type": "link",
+                    "data": {
+                        "text": "Kontakt",
+                        "link": "/bin/kontakt.html#nav"
+                    }
+                },
+                {
+                    "type": "link",
+                    "data": {
+                        "text": "Newsletter",
+                        "link": "/bin/newsletter.html#nav"
+                    }
+                },
+                {
+                    "type": "link",
+                    "data": {
+                        "text": "Impressum",
+                        "link": "/bin/Impressum.html#nav"
+                    }
+                }
+            ]
+        }
+    },
+    "lines": [
+        {
+            "type": "contentline",
+            "data": {
+                "nopadding": "true",
+                "modules": [
+                    {
+                        "type": "buttongroup",
+                        "data": {
+                            "buttons": [
+                                {
+                                    "type": "button",
+                                    "data": {
+                                        "link": "/bin/zum-schmoekern/unterlagen-seminare.html#nav",
+                                        "text": "Unterlagen Seminare"
+                                    }
+                                },
+                                {
+                                    "type": "button",
+                                    "data": {
+                                        "link": "/bin/zum-schmoekern/meditationen.html#nav",
+                                        "text": "Meditationen"
+                                    }
+                                },
+                                {
+                                    "type": "button",
+                                    "data": {
+                                        "link": "/bin/zum-schmoekern/publikationen.html#nav",
+                                        "text": "Publikationen",
+                                        "selected": "true"
+                                    }
+                                },
+                                {
+                                    "type": "button",
+                                    "data": {
+                                        "link": "/bin/zum-schmoekern/links.html#nav",
+                                        "text": "Links"
+                                    }
+                                },
+                                {
+                                    "type": "button",
+                                    "data": {
+                                        "link": "/bin/zum-schmoekern/referenzen.html#nav",
+                                        "text": "Referenzen"
+                                    }
+                                },
+                                {
+                                    "type": "button",
+                                    "data": {
+                                        "link": "/bin/zum-schmoekern/literaturtipps.html#nav",
+                                        "text": "Literaturtipps"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
         },
         {
-          "type": "twolines",
-          "data": {
-            "firstline": "Mitterstraße 128/11",
-            "secondline": "8055 Seiersberg bei Graz"
-          }
+            "type": "contentline",
+            "data": {
+                "modules": [
+                    {
+                        "type": "bullets",
+                        "data": {
+                            "align": "center",
+                            "heading": "Artikel",
+                            "callouts": [
+                                {
+                                    "type": "cover",
+                                    "data": {
+                                        "author": "weiterbildung-zeitschrift.de",
+                                        "bild": "/bin/resources/publikationen/weiterbildung.jpg",
+                                        "titel": "Mit dem ganzen Wesen zuhören",
+                                        "link": "/bin/resources/publikationen/empathie.pdf"
+                                    }
+                                },
+                                {
+                                    "type": "cover",
+                                    "data": {
+                                        "author": "verwaltung.steiermark.at",
+                                        "bild": "/bin/resources/publikationen/kiste12.jpg",
+                                        "titel": "Das seelische Wohl aller im Auge / Seite 22",
+                                        "link": "/bin/resources/publikationen/kiste12.pdf"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "type": "contentline",
+            "data": {
+                "modules": [
+                    {
+                        "type": "title",
+                        "data": {
+                            "heading": "Hörbeiträge zur Seminarreihe 'Mit Kindern wachsen'"
+                        }
+                    },
+                    {
+                        "type": "verticaltitle",
+                        "data": {
+                            "heading": " ",
+                            "callouts": [
+                                {
+                                    "type": "audiocallout",
+                                    "data": {
+                                        "name": "aus der Sicht eines Vaters",
+                                        "audio": "http://www.elternbildung.steiermark.at/cms/dokumente/11540239_68581809/33285dff/Aus%20der%20Sicht%20eines%20Vaters.MP3"
+                                    }
+                                },
+                                {
+                                    "type": "audiocallout",
+                                    "data": {
+                                        "name": "aus der Sicht von Müttern",
+                                        "audio": "http://www.elternbildung.steiermark.at/cms/dokumente/11540239_68581809/32802519/Mit%20Kindern%20wachsen.MP3"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "type": "contentline",
+            "data": {
+                "modules": [
+                    {
+                        "type": "bullets",
+                        "data": {
+                            "align": "center",
+                            "heading": "wissenschaftliche Arbeiten",
+                            "callouts": [
+                                {
+                                    "type": "cover",
+                                    "data": {
+                                        "author": "<a href='http://www.amazon.de/Gewaltfreie-Kommunikation-Personalf%C3%B6rderung-Evaluationsstudie-innerbetrieblicher/dp/3639389379/ref=as_li_wdgt_ex?&linkCode=wey&tag=dialogus-21'>auch auf Amazon erhältlich</a>",
+                                        "bild": "/bin/resources/publikationen/master.jpg",
+                                        "titel": "Masterthesis für psychosoziale Beratung an der Universität Krems",
+                                        "link": "http://www.gewaltfrei-dach.eu/wissensch.php"
+                                    }
+                                },
+                                {
+                                    "type": "cover",
+                                    "data": {
+                                        "author": "Erhältlich auf Anfrage",
+                                        "bild": "/bin/resources/publikationen/diplomarbeit.jpg",
+                                        "titel": "Diplomarbeit zur Lebensberaterin",
+                                        "link": "mailto:office@steigls.org"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
         }
-      ]
-  }
+    ],
+    "foot": {
+        "modules": [
+            {
+                "type": "twolines",
+                "data": {
+                    "firstline": "+43 699 88 46 75 44",
+                    "secondline": "christine.minixhofer@dialogus.at"
+                }
+            },
+            {
+                "type": "socialtitle",
+                "data": {
+                    "heading": "Christine Minixhofer, MSc",
+                    "socials": [
+                        {
+                            "type": "urlicon",
+                            "data": {
+                                "url": "https://www.facebook.com/christineminixhofer",
+                                "title": "Facebook"
+                            }
+                        },
+                        {
+                            "type": "urlicon",
+                            "data": {
+                                "url": "http://www.arbor-seminare.de/christine-minixhofer",
+                                "title": "Arbor Seminare"
+                            }
+                        },
+                        {
+                            "type": "urlicon",
+                            "data": {
+                                "url": "http://centerformsc.org/msc-teacher/christine-minixhofer",
+                                "title": "Center for Mindful Self-Compassion"
+                            }
+                        },
+                        {
+                            "type": "urlicon",
+                            "data": {
+                                "url": "http://www.gewaltfrei.at/profile/christineminixhofer",
+                                "title": "Gewaltfreie Kommunikation Austria"
+                            }
+                        },
+                        {
+                            "type": "urlicon",
+                            "data": {
+                                "url": "http://www.gewaltfrei-dach.eu/wissenschaftliche-arbeiten",
+                                "title": "DACH e.V. - Gewaltfreie Kommunikation"
+                            }
+                        },
+                        {
+                            "type": "urlicon",
+                            "data": {
+                                "url": "http://www.steigls.org/index.php?id=praxisadresse_detail&lebensberater=163",
+                                "title": "Steirische Gesellschaft für Lebens- und Sozialberatung"
+                            }
+                        },
+                        {
+                            "type": "urlicon",
+                            "data": {
+                                "url": "https://www.xing.com/profile/Christine_Minixhofer/web_profiles",
+                                "title": "Xing"
+                            }
+                        },
+                        {
+                            "type": "urlicon",
+                            "data": {
+                                "url": "http://www.bestnet.com/go.asp?personen_id=144740&sektion=personen&rkarte=infodet",
+                                "title": "bestNET"
+                            }
+                        },
+                        {
+                            "type": "urlicon",
+                            "data": {
+                                "url": "http://christine-minixhofer.stadtausstellung.at",
+                                "title": "Stadtausstellung"
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "twolines",
+                "data": {
+                    "firstline": "Mitterstraße 128/11",
+                    "secondline": "8055 Seiersberg bei Graz"
+                }
+            }
+        ]
+    }
 }
