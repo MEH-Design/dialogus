@@ -97,13 +97,6 @@
                         "data": {
                             "buttons": [
                                 {
-				    "type": "button",
-				    "data": {
-					"text": "Oktober 2017",
-					"link": "http://archive.newsletter2go.com/?n2g=kj3dt0wn-qn2qth42-6ll"
-				    }
-				},
-				{
                                     "type": "button",
                                     "data": {
                                         "text": "Februar 2017",
@@ -136,6 +129,13 @@
                                     "data": {
                                         "text": "September 2017",
                                         "link": "http://archive.newsletter2go.com/?n2g=kj3dt0wn-dyjt2qoz-6ff"
+                                    }
+                                },
+                                {
+                                    "type": "button",
+                                    "data": {
+                                        "text": "Oktober 2017",
+                                        "link": "http://archive.newsletter2go.com/?n2g=kj3dt0wn-qn2qth42-6ll"
                                     }
                                 }
                             ]
