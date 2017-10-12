@@ -1,338 +1,347 @@
 {
-  "title": "Meditationen | Christine Minixhofer, MSc",
-  "header": {
-    "headline": {
-      "heading": "Christine Minixhofer, Msc",
-      "subheading": "Training | Coaching | Supervision | Psychologische Beratung"
-    },
-    "hero": {
-      "items": [
-        {
-          "type": "quote",
-          "data": {
-            "quote": "Denn Zeit ist Leben.<br/>Und das Leben wohnt im Herzen.",
-            "author": "Michael Ende, Momo"
-          }
+    "title": "Meditationen | Christine Minixhofer, MSc",
+    "header": {
+        "headline": {
+            "heading": "Christine Minixhofer, Msc",
+            "subheading": "Training | Coaching | Supervision | Psychologische Beratung"
         },
-        {
-          "type": "image",
-          "data": "/bin/resources/igel.png"
-        }
-      ]
-    },
-    "navigation": {
-      "links": [{
-        "type": "link",
-        "data": {
-          "text": "Home",
-          "link": "/bin/home.html#nav"
-        }
-      }, {
-        "type": "link",
-        "data": {
-          "text": "Über mich",
-          "link": "/bin/ueber-mich.html#nav"
-        }
-      }, {
-        "type": "link",
-        "data": {
-          "text": "Methoden",
-          "link": "/bin/methoden.html#nav"
-        }
-      }, {
-        "type": "link",
-        "data": {
-          "text": "Angebote",
-          "link": "/bin/angebote.html#nav"
-        }
-      }, {
-        "type": "link",
-        "data": {
-          "text": "Zum Schmökern",
-          "selected": "true"
-        }
-      }, {
-        "type": "link",
-        "data": {
-          "text": "Kontakt",
-          "link": "/bin/kontakt.html#nav"
-        }
-      }, {
-        "type": "link",
-        "data": {
-          "text": "Newsletter",
-          "link": "/bin/newsletter.html#nav"
-        }
-      }, {
-        "type": "link",
-        "data": {
-          "text": "Impressum",
-          "link": "/bin/Impressum.html#nav"
-        }
-      }]
-    }
-  },
-  "lines": [
-    {
-      "type": "contentline",
-      "data": {
-        "nopadding": "true",
-        "modules": [
-          {
-            "type": "buttongroup",
-            "data": {
-              "buttons": [
+        "hero": {
+            "items": [
                 {
-                  "type": "button",
-                  "data": {
-                    "link": "/bin/zum-schmoekern/unterlagen-seminare.html#nav",
-                    "text": "Unterlagen Seminare"
-                  }
+                    "type": "quote",
+                    "data": {
+                        "quote": "Denn Zeit ist Leben.<br/>Und das Leben wohnt im Herzen.",
+                        "author": "Michael Ende, Momo"
+                    }
                 },
                 {
-                  "type": "button",
-                  "data": {
-                    "link": "/bin/zum-schmoekern/meditationen.html#nav",
-                    "text": "Meditationen",
-                    "selected": "true"
-                  }
-                },
-                {
-                  "type": "button",
-                  "data": {
-                    "link": "/bin/zum-schmoekern/publikationen.html#nav",
-                    "text": "Publikationen"
-                  }
-                },
-                {
-                  "type": "button",
-                  "data": {
-                    "link": "/bin/zum-schmoekern/links.html#nav",
-                    "text": "Links"
-                  }
-                },
-                {
-                  "type": "button",
-                  "data": {
-                    "link": "/bin/zum-schmoekern/referenzen.html#nav",
-                    "text": "Referenzen"
-                  }
-                },
-                {
-                  "type": "button",
-                  "data": {
-                    "link": "/bin/zum-schmoekern/literaturtipps.html#nav",
-                    "text": "Literaturtipps"
-                  }
+                    "type": "image",
+                    "data": "/bin/resources/igel.png"
                 }
-              ]
-            }
-          }
-        ]
-      }
-    },
-    {
-      "type": "contentline",
-      "data": {
-        "modules": [
-          {
-            "type": "title",
-            "data": {
-              "heading": "Meditationen"
-            }
-          },
-          {
-            "type": "textblock",
-            "data": "Die hier angeführten Meditationen wurden von Dr. Christopher Germer und Dr. Kristin Neff als Teil des Kursprogrammes Mindful Self-Compassion (MSC)/ Achtsames Selbstmitgefühl entwickelt.<br/><br/>Die Meditationen - gesprochen von Christine Minixhofer - stehen zum Anhören und zum Download gratis zur Verfügung, allerdings ausschließlich für die persönliche Verwendung und nicht für eine kommerzielle Nutzung."
-          }
-        ]
-      }
-    },
-    {
-      "type": "contentline",
-      "data": {
-        "modules": [
-          {
-            "type": "verticaltitle",
-            "data": {
-              "heading": "Kernmeditationen",
-              "align": "left",
-              "callouts": [
-                {
-                  "type": "audiocallout",
-                  "data": {
-                    "name": "1. Kernmeditation | Liebevolles Atmen (ca. 17 min)",
-                    "audio": "/bin/resources/meditationen/a-la-1.mp3"
-                  }
-                },
-                {
-                  "type": "audiocallout",
-                  "data": {
-                    "name": "1. Kernmeditation | Liebevolles Atmen (ca. 21 min)",
-                    "audio": "/bin/resources/meditationen/a-la-2.mp3"
-                  }
-                },
-                {
-                  "type": "audiocallout",
-                  "data": {
-                    "name": "2. Kernmeditation | Liebevolle Güte für uns selbst (Kurzform - ca. 11 min)",
-                    "audio": "/bin/resources/meditationen/f-lg-1.mp3"
-                  }
-                },
-                {
-                  "type": "audiocallout",
-                  "data": {
-                    "name": "2. Kernmeditation | Liebevolle Güte und Selbstmitgefühl für uns selbst (ca. 26 min)",
-                    "audio": "/bin/resources/meditationen/f-lg-2.mp3"
-                  }
-                },
-                {
-                  "type": "audiocallout",
-                  "data": {
-                    "name": "3. Kernmeditation | Mitgefühl geben und empfangen (ca. 14 min)",
-                    "audio": "/bin/resources/meditationen/f-mg-1.mp3"
-                  }
-                }
-              ]
-            }
-          }
-        ]
-      }
-    },
-    {
-      "type": "contentline",
-      "data": {
-        "modules": [
-          {
-            "type": "verticaltitle",
-            "data": {
-              "heading": "Weitere Meditationen",
-              "align":"left",
-              "callouts": [
-                {
-                  "type": "audiocallout",
-                  "data": {
-                    "name": "Meditation | Liebevolle Güte für Anfänger (ca. 13 min)",
-                    "audio": "/bin/resources/meditationen/a-lg-1.mp3"
-                  }
-                }
-              ]
-            }
-          }
-        ]
-      }
-    },
-    {
-      "type": "contentline",
-      "data": {
-        "modules": [
-          {
-            "type": "verticaltitle",
-            "data": {
-              "heading": "Ergänzende Meditationen",
-              "align":"left",
-              "callouts": [
-                {
-                  "type": "audiocallout",
-                  "data": {
-                    "name": "Metta Meditation in vier Schritten (ca. 26 min)",
-                    "audio": "/bin/resources/meditationen/w-mt-1.mp3"
-                  }
-                }
-              ]
-            }
-          }
-        ]
-      }
-    }
-  ],
-  "foot": {
-      "modules": [
-        {
-          "type": "twolines",
-          "data": {
-            "firstline": "+43 699 88 46 75 44",
-            "secondline": "christine.minixhofer@dialogus.at"
-          }
-        },
-        {
-          "type": "socialtitle",
-          "data": {
-            "heading": "Christine Minixhofer, MSc",
-            "socials": [
-              {
-                "type": "urlicon",
-                "data": {
-                  "url": "https://www.facebook.com/christineminixhofer",
-                  "title": "Facebook"
-                }
-              },
-              {
-                "type": "urlicon",
-                "data": {
-                  "url": "http://www.arbor-seminare.de/christine-minixhofer",
-                  "title": "Arbor Seminare"
-                }
-              },
-              {
-                "type": "urlicon",
-                "data": {
-                  "url": "http://centerformsc.org/msc-teacher/christine-minixhofer",
-                  "title": "Center for Mindful Self-Compassion"
-                }
-              },
-              {
-                "type": "urlicon",
-                "data": {
-                  "url": "http://www.gewaltfrei.at/profile/christineminixhofer",
-                  "title": "Gewaltfreie Kommunikation Austria"
-                }
-              },
-              {
-                "type": "urlicon",
-                "data": {
-                  "url": "http://www.gewaltfrei-dach.eu/wissenschaftliche-arbeiten",
-                  "title": "DACH e.V. - Gewaltfreie Kommunikation"
-                }
-              },
-              {
-                "type": "urlicon",
-                "data": {
-                  "url": "http://www.steigls.org/index.php?id=praxisadresse_detail&lebensberater=163",
-                  "title": "Steirische Gesellschaft für Lebens- und Sozialberatung"
-                }
-              },
-              {
-                "type": "urlicon",
-                "data": {
-                  "url": "https://www.xing.com/profile/Christine_Minixhofer/web_profiles",
-                  "title": "Xing"
-                }
-              },
-              {
-                "type": "urlicon",
-                "data": {
-                  "url": "http://www.bestnet.com/go.asp?personen_id=144740&sektion=personen&rkarte=infodet",
-                  "title": "bestNET"
-                }
-              },
-              {
-                "type": "urlicon",
-                "data": {
-                  "url": "http://christine-minixhofer.stadtausstellung.at",
-                  "title": "Stadtausstellung"
-                }
-              }
             ]
-          }
+        },
+        "navigation": {
+            "links": [
+                {
+                    "type": "link",
+                    "data": {
+                        "text": "Home",
+                        "link": "/bin/home.html#nav"
+                    }
+                },
+                {
+                    "type": "link",
+                    "data": {
+                        "text": "Über mich",
+                        "link": "/bin/ueber-mich.html#nav"
+                    }
+                },
+                {
+                    "type": "link",
+                    "data": {
+                        "text": "Methoden",
+                        "link": "/bin/methoden.html#nav"
+                    }
+                },
+                {
+                    "type": "link",
+                    "data": {
+                        "text": "Angebote",
+                        "link": "/bin/angebote.html#nav"
+                    }
+                },
+                {
+                    "type": "link",
+                    "data": {
+                        "text": "Zum Schmökern",
+                        "selected": "true"
+                    }
+                },
+                {
+                    "type": "link",
+                    "data": {
+                        "text": "Kontakt",
+                        "link": "/bin/kontakt.html#nav"
+                    }
+                },
+                {
+                    "type": "link",
+                    "data": {
+                        "text": "Newsletter",
+                        "link": "/bin/newsletter.html#nav"
+                    }
+                },
+                {
+                    "type": "link",
+                    "data": {
+                        "text": "Impressum",
+                        "link": "/bin/Impressum.html#nav"
+                    }
+                }
+            ]
+        }
+    },
+    "lines": [
+        {
+            "type": "contentline",
+            "data": {
+                "nopadding": "true",
+                "modules": [
+                    {
+                        "type": "buttongroup",
+                        "data": {
+                            "buttons": [
+                                {
+                                    "type": "button",
+                                    "data": {
+                                        "link": "/bin/zum-schmoekern/unterlagen-seminare.html#nav",
+                                        "text": "Unterlagen Seminare"
+                                    }
+                                },
+                                {
+                                    "type": "button",
+                                    "data": {
+                                        "link": "/bin/zum-schmoekern/meditationen.html#nav",
+                                        "text": "Meditationen",
+                                        "selected": "true"
+                                    }
+                                },
+                                {
+                                    "type": "button",
+                                    "data": {
+                                        "link": "/bin/zum-schmoekern/publikationen.html#nav",
+                                        "text": "Publikationen"
+                                    }
+                                },
+                                {
+                                    "type": "button",
+                                    "data": {
+                                        "link": "/bin/zum-schmoekern/links.html#nav",
+                                        "text": "Links"
+                                    }
+                                },
+                                {
+                                    "type": "button",
+                                    "data": {
+                                        "link": "/bin/zum-schmoekern/referenzen.html#nav",
+                                        "text": "Referenzen"
+                                    }
+                                },
+                                {
+                                    "type": "button",
+                                    "data": {
+                                        "link": "/bin/zum-schmoekern/literaturtipps.html#nav",
+                                        "text": "Literaturtipps"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
         },
         {
-          "type": "twolines",
-          "data": {
-            "firstline": "Mitterstraße 128/11",
-            "secondline": "8055 Seiersberg bei Graz"
-          }
+            "type": "contentline",
+            "data": {
+                "modules": [
+                    {
+                        "type": "title",
+                        "data": {
+                            "heading": "Meditationen"
+                        }
+                    },
+                    {
+                        "type": "textblock",
+                        "data": "Die hier angeführten Meditationen wurden von Dr. Christopher Germer und Dr. Kristin Neff als Teil des Kursprogrammes Mindful Self-Compassion (MSC) / Achtsames Selbstmitgefühl entwickelt.<br/><br/>Die Meditationen - gesprochen von Christine Minixhofer - stehen zum Anhören und zum Download gratis zur Verfügung, allerdings ausschließlich für die persönliche Verwendung und nicht für eine kommerzielle Nutzung."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "contentline",
+            "data": {
+                "modules": [
+                    {
+                        "type": "verticaltitle",
+                        "data": {
+                            "heading": "Kernmeditationen ",
+                            "align": "left",
+                            "callouts": [
+                                {
+                                    "type": "audiocallout",
+                                    "data": {
+                                        "name": "1. Kernmeditation | Liebevolles Atmen (ca. 17 min)",
+                                        "audio": "/bin/resources/meditationen/a-la-1.mp3"
+                                    }
+                                },
+                                {
+                                    "type": "audiocallout",
+                                    "data": {
+                                        "name": "1. Kernmeditation | Liebevolles Atmen (ca. 21 min)",
+                                        "audio": "/bin/resources/meditationen/a-la-2.mp3"
+                                    }
+                                },
+                                {
+                                    "type": "audiocallout",
+                                    "data": {
+                                        "name": "2. Kernmeditation | Liebevolle Güte für uns selbst (Kurzform - ca. 11 min)",
+                                        "audio": "/bin/resources/meditationen/f-lg-1.mp3"
+                                    }
+                                },
+                                {
+                                    "type": "audiocallout",
+                                    "data": {
+                                        "name": "2. Kernmeditation | Liebevolle Güte und Selbstmitgefühl für uns selbst (ca. 26 min)",
+                                        "audio": "/bin/resources/meditationen/f-lg-2.mp3"
+                                    }
+                                },
+                                {
+                                    "type": "audiocallout",
+                                    "data": {
+                                        "name": "3. Kernmeditation | Mitgefühl geben und empfangen (ca. 14 min)",
+                                        "audio": "/bin/resources/meditationen/f-mg-1.mp3"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "type": "contentline",
+            "data": {
+                "modules": [
+                    {
+                        "type": "verticaltitle",
+                        "data": {
+                            "heading": "weitere Meditationen",
+                            "align": "left",
+                            "callouts": [
+                                {
+                                    "type": "audiocallout",
+                                    "data": {
+                                        "name": "Meditation | Liebevolle Güte für ein geliebtes Wesen (ca. 13 min)",
+                                        "audio": "/bin/resources/meditationen/a-lg-1.mp3"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "type": "contentline",
+            "data": {
+                "modules": [
+                    {
+                        "type": "verticaltitle",
+                        "data": {
+                            "heading": "ergänzende Meditationen",
+                            "align": "left",
+                            "callouts": [
+                                {
+                                    "type": "audiocallout",
+                                    "data": {
+                                        "name": "Metta Meditation in vier Schritten (ca. 26 min)",
+                                        "audio": "/bin/resources/meditationen/w-mt-1.mp3"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
         }
-      ]
-  }
+    ],
+    "foot": {
+        "modules": [
+            {
+                "type": "twolines",
+                "data": {
+                    "firstline": "+43 699 88 46 75 44",
+                    "secondline": "christine.minixhofer@dialogus.at"
+                }
+            },
+            {
+                "type": "socialtitle",
+                "data": {
+                    "heading": "Christine Minixhofer, MSc",
+                    "socials": [
+                        {
+                            "type": "urlicon",
+                            "data": {
+                                "url": "https://www.facebook.com/christineminixhofer",
+                                "title": "Facebook"
+                            }
+                        },
+                        {
+                            "type": "urlicon",
+                            "data": {
+                                "url": "http://www.arbor-seminare.de/christine-minixhofer",
+                                "title": "Arbor Seminare"
+                            }
+                        },
+                        {
+                            "type": "urlicon",
+                            "data": {
+                                "url": "http://centerformsc.org/msc-teacher/christine-minixhofer",
+                                "title": "Center for Mindful Self-Compassion"
+                            }
+                        },
+                        {
+                            "type": "urlicon",
+                            "data": {
+                                "url": "http://www.gewaltfrei.at/profile/christineminixhofer",
+                                "title": "Gewaltfreie Kommunikation Austria"
+                            }
+                        },
+                        {
+                            "type": "urlicon",
+                            "data": {
+                                "url": "http://www.gewaltfrei-dach.eu/wissenschaftliche-arbeiten",
+                                "title": "DACH e.V. - Gewaltfreie Kommunikation"
+                            }
+                        },
+                        {
+                            "type": "urlicon",
+                            "data": {
+                                "url": "http://www.steigls.org/index.php?id=praxisadresse_detail&lebensberater=163",
+                                "title": "Steirische Gesellschaft für Lebens- und Sozialberatung"
+                            }
+                        },
+                        {
+                            "type": "urlicon",
+                            "data": {
+                                "url": "https://www.xing.com/profile/Christine_Minixhofer/web_profiles",
+                                "title": "Xing"
+                            }
+                        },
+                        {
+                            "type": "urlicon",
+                            "data": {
+                                "url": "http://www.bestnet.com/go.asp?personen_id=144740&sektion=personen&rkarte=infodet",
+                                "title": "bestNET"
+                            }
+                        },
+                        {
+                            "type": "urlicon",
+                            "data": {
+                                "url": "http://christine-minixhofer.stadtausstellung.at",
+                                "title": "Stadtausstellung"
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "twolines",
+                "data": {
+                    "firstline": "Mitterstraße 128/11",
+                    "secondline": "8055 Seiersberg bei Graz"
+                }
+            }
+        ]
+    }
 }
