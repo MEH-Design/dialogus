@@ -189,6 +189,15 @@
                                 {
                                     "type": "filecallout",
                                     "data": {
+                                        "name": "LKH Uniklinikum Graz - Modul 26 - Achtsame und Gewaltfreie Kommunikation zur Prävention von Aggression und Gewalt",
+                                        "datum": "10.10.2017",
+                                        "file": "/bin/resources/unterlagen/81.pdf",
+                                        "text": "Protokoll"
+                                    }
+                                },
+                                {
+                                    "type": "filecallout",
+                                    "data": {
                                         "name": "a:sk Akademie der Stmk. Krankenanstaltenges.m.b.H. - Gewaltfreie und achtsame Kommunikation zur Prävention von Aggression und Gewalt",
                                         "datum": "2. und 3.10.2017",
                                         "file": "/bin/resources/unterlagen/80.pdf",
@@ -633,7 +642,7 @@
                                         "name": "CARITAS, wertschätzend kommunizieren in herausfordernden Situationen",
                                         "datum": "14.11.2017",
                                         "file": "",
-                                        "text": "Protokoll "
+                                        "text": "Protokoll"
                                     }
                                 },
                                 {
@@ -823,15 +832,6 @@
                                         "datum": "1.3.2016",
                                         "file": "/bin/resources/unterlagen/5.pdf",
                                         "text": "Flipchartprotokoll"
-                                    }
-                                },
-                                {
-                                    "type": "filecallout",
-                                    "data": {
-                                        "name": "LKH Uniklinikum Graz - Modul 26 - Achtsame und Gewaltfreie Kommunikation zur Prävention von Aggression und Gewalt",
-                                        "datum": "10.10.2017",
-                                        "file": "",
-                                        "text": "Protokoll ist demnächst online"
                                     }
                                 },
                                 {
